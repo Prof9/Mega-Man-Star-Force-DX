@@ -1,0 +1,30 @@
+﻿###TextArchive:mess_0220
+###Script:0
+Meanwhile, at school...
+###--------
+###Script:1
+###Mugshot:MitchShepar
+Man, I should get home early
+today and see my kids.<wait>
+###Command:wait frames=90
+###--------
+###Script:2
+###Mugshot:Principal
+Mr. Shepar...
+###--------
+###Script:3
+###Mugshot:MitchShepar
+Principal Loude.
+###--------
+###Script:4
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+I would like to have a
+word with you.
+Please follow me.
+###--------
+###Script:5
+###Mugshot:MitchShepar
+Yes, sir.
+###--------

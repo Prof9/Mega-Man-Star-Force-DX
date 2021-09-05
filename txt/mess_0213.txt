@@ -1,0 +1,48 @@
+﻿###TextArchive:mess_0213
+###Script:0
+###Mugshot:1
+Alright, that's all of them!
+###--------
+###Script:1
+###Mugshot:PegasusMagicShadow
+Geo.
+###--------
+###Script:2
+###Mugshot:DragonSkyShadow
+Geo.
+###--------
+###Script:3
+###Mugshot:LeoKingdomShadow
+Geo.
+###--------
+###Script:4
+###Mugshot:PegasusMagicShadow
+You have passed the
+first trial.
+###--------
+###Script:5
+###Mugshot:DragonSkyShadow
+However, this is where
+the real trial begins.
+###--------
+###Script:6
+###Mugshot:LeoKingdomShadow
+We will now hold the
+second trial.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Bring the Star Lights
+you have gathered, and
+come here before us.
+###--------
+###Script:7
+###Mugshot:OmegaXis
+This is it, Geo.
+Let's go.
+###--------
+###Script:8
+###Mugshot:1
+OK!
+###--------

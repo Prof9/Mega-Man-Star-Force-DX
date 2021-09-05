@@ -1,0 +1,3592 @@
+﻿###TextArchive:mess_1263
+###Script:0
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Mettenna
+LV. 1[-]4<spacePx>50z
+LV. 4[-]5<spacePx>100z
+LV. 5[-]7<spacePx>150z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>200z
+LV. 5[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+100
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=31
+###Command:spacePx count=24
+###--------
+###Script:1
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Mettenna2
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 5[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+300
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=32
+###Command:spacePx count=24
+###--------
+###Script:2
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Mettenna3
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 5[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=33
+###Command:spacePx count=24
+###--------
+###Script:3
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## CannonBase
+LV. 1[-]4<spacePx>70z
+LV. 4[-]5<spacePx>120z
+LV. 5[-]7<spacePx>170z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+100
+###Command:spacePx count=32
+###Command:printCard card=37
+###Command:spacePx count=32
+###--------
+###Script:4
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## MegaBase
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+400
+###Command:spacePx count=32
+###Command:printCard card=38
+###Command:spacePx count=32
+###--------
+###Script:5
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## GigaBase
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=39
+###Command:spacePx count=32
+###--------
+###Script:6
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Melamander
+LV. 1[-]4<spacePx>80z
+LV. 4[-]5<spacePx>130z
+LV. 5[-]7<spacePx>180z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>230z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+100
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=52
+###Command:spacePx count=24
+###--------
+###Script:7
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Melalizard
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+300
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=53
+###Command:spacePx count=24
+###--------
+###Script:8
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Melaleon
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=54
+###Command:spacePx count=24
+###--------
+###Script:9
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## HotRoader
+LV. 1[-]4<spacePx>50z
+LV. 4[-]5<spacePx>100z
+LV. 5[-]7<spacePx>150z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+100
+###Command:spacePx count=32
+###Command:printCard card=43
+###Command:spacePx count=32
+###--------
+###Script:10
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## HotMotor
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+400
+###Command:spacePx count=32
+###Command:printCard card=44
+###Command:spacePx count=32
+###--------
+###Script:11
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## HotBiker
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=45
+###Command:spacePx count=32
+###--------
+###Script:12
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Peekaboo
+LV. 1[-]4<spacePx>100z
+LV. 4[-]5<spacePx>150z
+LV. 5[-]7<spacePx>200z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+150
+###Command:spacePx count=32
+###Command:printCard card=40
+###Command:spacePx count=32
+###--------
+###Script:13
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Wavyboo
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+300
+###Command:spacePx count=32
+###Command:printCard card=41
+###Command:spacePx count=32
+###--------
+###Script:14
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Shakyboo
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=42
+###Command:spacePx count=32
+###--------
+###Script:15
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## ZapAce
+LV. 1[-]4<spacePx>100z
+LV. 4[-]5<spacePx>150z
+LV. 5[-]7<spacePx>200z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>250z
+LV. 9[-]S<spacePx>300z
+LV. 5[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=70
+###--------
+LV. 5[-]S<spacePx>HP+150
+###Command:spacePx count=32
+###--------
+###Script:16
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## ZapKing
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 9[-]S<spacePx>400z
+LV. 5[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=71
+###--------
+LV. 5[-]S<spacePx>HP+300
+###Command:spacePx count=32
+###--------
+###Script:17
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## ZapJoker
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx>500z
+LV. 5[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=72
+###--------
+LV. 5[-]S<spacePx>HP+600
+###Command:spacePx count=32
+###--------
+###Script:18
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Wibbledee
+LV. 1[-]4<spacePx>100z
+LV. 4[-]5<spacePx>150z
+LV. 5[-]7<spacePx>200z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+100
+###Command:spacePx count=32
+###Command:printCard card=55
+###Command:spacePx count=32
+###--------
+###Script:19
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Wibbledoo
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+300
+###Command:spacePx count=32
+###Command:printCard card=56
+###Command:spacePx count=32
+###--------
+###Script:20
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Wibbledum
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=57
+###Command:spacePx count=32
+###--------
+###Script:21
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Crowcar
+LV. 1[-]4<spacePx>150z
+LV. 4[-]5<spacePx>200z
+LV. 5[-]7<spacePx>250z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>300z
+LV. 9[-]S<spacePx>350z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=34
+###--------
+LV. 1[-]S<spacePx>HP+150
+###Command:spacePx count=32
+###--------
+###Script:22
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Crowket
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>400z
+LV. 9[-]S<spacePx>450z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=35
+###--------
+LV. 5[-]S<spacePx>HP+400
+###Command:spacePx count=32
+###--------
+###Script:23
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Crowbus
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx>550z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=36
+###--------
+LV. 5[-]S<spacePx>HP+600
+###Command:spacePx count=32
+###--------
+###Script:24
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## MonoSword
+LV. 1[-]4<spacePx>150z
+LV. 4[-]5<spacePx>200z
+LV. 5[-]7<spacePx>250z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>300z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+200
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=91
+###Command:spacePx count=24
+###--------
+###Script:25
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## MonoSwordin
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>400z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+400
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=92
+###Command:spacePx count=24
+###--------
+###Script:26
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## MonoSwordil
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=93
+###Command:spacePx count=24
+###--------
+###Script:27
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## LuPelvis
+LV. 1[-]4<spacePx>150z
+LV. 4[-]5<spacePx>200z
+LV. 5[-]7<spacePx>250z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>300z
+LV. 9[-]S<spacePx>350z
+LV. 5[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=100
+###--------
+LV. 5[-]S<spacePx>HP+200
+###Command:spacePx count=32
+###--------
+###Script:28
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## LupiNatra
+LV. 1[-]4<spacePx>150z
+LV. 4[-]5<spacePx>200z
+LV. 5[-]7<spacePx>250z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>300z
+LV. 9[-]S<spacePx>350z
+LV. 5[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=101
+###--------
+LV. 5[-]S<spacePx>HP+200
+###Command:spacePx count=32
+###--------
+###Script:29
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## LupaDonna
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 9[-]S<spacePx>400z
+LV. 5[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=102
+###--------
+LV. 5[-]S<spacePx>HP+200
+###Command:spacePx count=32
+###--------
+###Script:30
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## LuPavarot
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>400z
+LV. 9[-]S<spacePx>450z
+LV. 5[-]7<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=100
+###--------
+LV. 7[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]S<spacePx>HP+400
+###Command:spacePx count=24
+###Command:printCard card=101
+###Command:spacePx count=32
+###Command:printCard card=102
+###Command:spacePx count=32
+###--------
+###Script:31
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## LupBach
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx>600z
+LV. 5[-]7<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=100
+###--------
+LV. 7[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]S<spacePx>HP+600
+###Command:spacePx count=24
+###Command:printCard card=101
+###Command:spacePx count=32
+###Command:printCard card=102
+###Command:spacePx count=32
+###--------
+###Script:32
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## DoomCount
+LV. 1[-]4<spacePx>150z
+LV. 4[-]5<spacePx>200z
+LV. 5[-]7<spacePx>250z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+200
+###Command:spacePx count=32
+###Command:printCard card=46
+###Command:spacePx count=32
+###--------
+###Script:33
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## DoomBomber
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+500
+###Command:spacePx count=32
+###Command:printCard card=47
+###Command:spacePx count=32
+###--------
+###Script:34
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## DoomPlosion
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=48
+###Command:spacePx count=32
+###--------
+###Script:35
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## BellGong
+LV. 1[-]4<spacePx>150z
+LV. 4[-]5<spacePx>200z
+LV. 5[-]7<spacePx>250z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>300z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+200
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=97
+###Command:spacePx count=24
+###--------
+###Script:36
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## BellRef
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+300
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=98
+###Command:spacePx count=24
+###--------
+###Script:37
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## BellBoxer
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+700
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=99
+###Command:spacePx count=24
+###--------
+###Script:38
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## OctoNinja
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 5[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+300
+###Command:spacePx count=32
+###Command:printCard card=61
+###Command:spacePx count=32
+###--------
+###Script:39
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## OctoIcer
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 5[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+500
+###Command:spacePx count=32
+###Command:printCard card=62
+###Command:spacePx count=32
+###--------
+###Script:40
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## OctoPoison
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 5[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=63
+###Command:spacePx count=32
+###--------
+###Script:41
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## BoomBolt
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+300
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=67
+###Command:spacePx count=24
+###--------
+###Script:42
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## BoomSpark
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+500
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=68
+###Command:spacePx count=24
+###--------
+###Script:43
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## BoomThunder
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=69
+###Command:spacePx count=24
+###--------
+###Script:44
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Rocky
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+300
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=49
+###Command:spacePx count=24
+###--------
+###Script:45
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Craggy
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+500
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=50
+###Command:spacePx count=24
+###--------
+###Script:46
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Cliffy
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=51
+###Command:spacePx count=24
+###--------
+###Script:47
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## StreamCancro
+LV. 1[-]4<spacePx>200z
+LV. 4[-]5<spacePx>250z
+LV. 5[-]7<spacePx>300z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>350z
+LV. 9[-]S<spacePx>400z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=58
+###--------
+LV. 5[-]S<spacePx>HP+300
+###Command:spacePx count=32
+###--------
+###Script:48
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## RiverCancro
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 9[-]S<spacePx>450z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=59
+###--------
+LV. 5[-]S<spacePx>HP+500
+###Command:spacePx count=32
+###--------
+###Script:49
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## SeaCancro
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx>550z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=60
+###--------
+LV. 5[-]S<spacePx>HP+600
+###Command:spacePx count=32
+###--------
+###Script:50
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Moaian
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>400z
+LV. 9[-]S<spacePx>450z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=103
+###--------
+LV. 5[-]S<spacePx>HP+400
+###Command:spacePx count=32
+###--------
+###Script:51
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Stonehead
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 9[-]S<spacePx>500z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=104
+###--------
+LV. 5[-]S<spacePx>HP+500
+###Command:spacePx count=32
+###--------
+###Script:52
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## GiantFace
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx>550z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=105
+###--------
+LV. 5[-]S<spacePx>HP+600
+###Command:spacePx count=32
+###--------
+###Script:53
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Gooey
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>400z
+LV. 9[-]S<spacePx>450z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=64
+###--------
+LV. 5[-]S<spacePx>HP+400
+###Command:spacePx count=32
+###--------
+###Script:54
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Goopy
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 9[-]S<spacePx>500z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=65
+###--------
+LV. 5[-]S<spacePx>HP+600
+###Command:spacePx count=32
+###--------
+###Script:55
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Gloppy
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx>550z
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=66
+###--------
+LV. 5[-]S<spacePx>HP+700
+###Command:spacePx count=32
+###--------
+###Script:56
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Lampis
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>400z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+400
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=76
+###Command:spacePx count=24
+###--------
+###Script:57
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Lucis
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+500
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=77
+###Command:spacePx count=24
+###--------
+###Script:58
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Lumis
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=78
+###Command:spacePx count=24
+###--------
+###Script:59
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## PrivateMop
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+400
+###Command:spacePx count=32
+###Command:printCard card=82
+###Command:spacePx count=32
+###--------
+###Script:60
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## ColonelMop
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+500
+###Command:spacePx count=32
+###Command:printCard card=83
+###Command:spacePx count=32
+###--------
+###Script:61
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## GeneralMop
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=84
+###Command:spacePx count=32
+###--------
+###Script:62
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## RhinoHorn
+LV. 1[-]4<spacePx>250z
+LV. 4[-]5<spacePx>300z
+LV. 5[-]7<spacePx>350z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>400z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+400
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=79
+###Command:spacePx count=24
+###--------
+###Script:63
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## RhinoHammer
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=80
+###Command:spacePx count=24
+###--------
+###Script:64
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## RhinoDrill
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+700
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=81
+###Command:spacePx count=24
+###--------
+###Script:65
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## TropiConga
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+500
+###Command:spacePx count=32
+###Command:printCard card=88
+###Command:spacePx count=32
+###--------
+###Script:66
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## TropiCoppa
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=89
+###Command:spacePx count=32
+###--------
+###Script:67
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## TropiCoola
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+700
+###Command:spacePx count=32
+###Command:printCard card=90
+###Command:spacePx count=32
+###--------
+###Script:68
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Junk-O
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP Max
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=94
+###Command:spacePx count=24
+###--------
+###Script:69
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Junk-O2
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP Max
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=95
+###Command:spacePx count=24
+###--------
+###Script:70
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Junk-O3
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP Max
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=96
+###Command:spacePx count=24
+###--------
+###Script:71
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Fokx
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+500
+###Command:spacePx count=32
+###Command:printCard card=85
+###Command:spacePx count=32
+###--------
+###Script:72
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## CopyFokx
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+600
+###Command:spacePx count=32
+###Command:printCard card=86
+###Command:spacePx count=32
+###--------
+###Script:73
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## GuiseFokx
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+LV. 5[-]7<spacePx>HP+700
+###Command:spacePx count=32
+###Command:printCard card=87
+###Command:spacePx count=32
+###--------
+###Script:74
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## GreatAx
+LV. 1[-]4<spacePx>300z
+LV. 4[-]5<spacePx>350z
+LV. 5[-]7<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>450z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+500
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=106
+###Command:spacePx count=24
+###--------
+###Script:75
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## MagnaAx
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+600
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=107
+###Command:spacePx count=24
+###--------
+###Script:76
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## KaiserAx
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx><printCard>
+LV. 5[-]10<spacePx>HP+800
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=108
+###Command:spacePx count=24
+###--------
+###Script:77
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Eyez
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=73
+###--------
+###Script:78
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## GuardEyez
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=74
+###--------
+###Script:79
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## ProtectEyez
+LV. 1[-]4<spacePx>450z
+LV. 4[-]5<spacePx>500z
+LV. 5[-]7<spacePx>550z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=75
+###--------
+###Script:80
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Magera
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=109
+###--------
+###Script:81
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Mageri
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=110
+###--------
+###Script:82
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Magero
+LV. 1[-]4<spacePx>450z
+LV. 4[-]5<spacePx>500z
+LV. 5[-]7<spacePx>550z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>600z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=111
+###--------
+###Script:83
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## McCleaver
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=115
+###--------
+###Script:84
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## McDicer
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=116
+###--------
+###Script:85
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## McLopper
+LV. 1[-]4<spacePx>450z
+LV. 4[-]5<spacePx>500z
+LV. 5[-]7<spacePx>550z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>600z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=117
+###--------
+###Script:86
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Grabity
+LV. 1[-]4<spacePx>350z
+LV. 4[-]5<spacePx>400z
+LV. 5[-]7<spacePx>450z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>500z
+LV. 9[-]S<spacePx>550z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=112
+###--------
+LV. 5[-]S<spacePx>HP Max
+###Command:spacePx count=32
+###--------
+###Script:87
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Grabotron
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx>600z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=113
+###--------
+LV. 5[-]S<spacePx>HP Max
+###Command:spacePx count=32
+###--------
+###Script:88
+Which version?
+<positionOptionFromCenter><optionText>  Normal  <optionText>  G
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+## Grabaklone
+LV. 1[-]4<spacePx>450z
+LV. 4[-]5<spacePx>500z
+LV. 5[-]7<spacePx>550z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>600z
+LV. 9[-]S<spacePx>650z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=114
+###--------
+LV. 5[-]S<spacePx>HP Max
+###Command:spacePx count=32
+###--------
+###Script:103
+## Hollow
+LV. 1[-]S<spacePx>7500z
+###Command:spacePx count=32
+###--------
+###Script:104
+## Jammer
+LV. 1[-]4<spacePx>400z
+LV. 4[-]5<spacePx>450z
+LV. 5[-]7<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>550z
+LV. 9[-]S<spacePx>600z
+LV. 5[-]S<spacePx>HP Max
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+###Script:105
+## Jammer2
+LV. 1[-]4<spacePx>600z
+LV. 4[-]5<spacePx>650z
+LV. 5[-]7<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>750z
+LV. 9[-]S<spacePx>800z
+LV. 5[-]S<spacePx>HP Max
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+###Script:106
+## Jammer3
+LV. 1[-]4<spacePx>800z
+LV. 4[-]5<spacePx>850z
+LV. 5[-]7<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+LV. 7[-]10<spacePx>950z
+LV. 9[-]S<spacePx>1000z
+LV. 5[-]S<spacePx>HP Max
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:spacePx count=32
+###--------
+###Script:107
+## JammerG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:108
+## Jammer2G
+LV. 1[-]5<spacePx>1200z
+LV. 5[-]7<spacePx>1400z
+LV. 7[-]10<spacePx>1500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1700z
+###Command:spacePx count=32
+###--------
+###Script:109
+## Jammer3G
+LV. 1[-]5<spacePx>1600z
+LV. 5[-]7<spacePx>1800z
+LV. 7[-]10<spacePx>1900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>2100z
+###Command:spacePx count=32
+###--------
+###Script:110
+## Taurus Fire
+LV. 1[-]10<spacePx>1000z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=181
+###--------
+###Script:111
+## Taurus Fire EX
+LV. 1[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:printCard card=181
+###Command:spacePx count=32
+###Command:printCard card=182
+###--------
+###Script:112
+## Taurus Fire SP
+LV. 1[-]5<spacePx>1000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=181
+###Command:spacePx count=24
+###Command:printCard card=182
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=183
+###--------
+###Script:113
+## Cygnus Wing
+LV. 1[-]10<spacePx>2000z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=184
+###--------
+###Script:114
+## Cygnus Wing EX
+LV. 1[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:printCard card=184
+###Command:spacePx count=32
+###Command:printCard card=185
+###--------
+###Script:115
+## Cygnus Wing SP
+LV. 1[-]5<spacePx>2000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=184
+###Command:spacePx count=24
+###Command:printCard card=185
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=186
+###--------
+###Script:116
+## Harp Note
+LV. 1[-]10<spacePx>3000z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=187
+###--------
+###Script:117
+## Harp Note EX
+LV. 1[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:printCard card=187
+###Command:spacePx count=32
+###Command:printCard card=188
+###--------
+###Script:118
+## Harp Note SP
+LV. 1[-]5<spacePx>3000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=187
+###Command:spacePx count=24
+###Command:printCard card=188
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=189
+###--------
+###Script:119
+## Libra Scales
+LV. 1[-]10<spacePx>4000z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=190
+###--------
+###Script:120
+## Libra Scales EX
+LV. 1[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:printCard card=190
+###Command:spacePx count=32
+###Command:printCard card=191
+###--------
+###Script:121
+## Libra Scales SP
+LV. 1[-]5<spacePx>4000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=190
+###Command:spacePx count=24
+###Command:printCard card=191
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=192
+###--------
+###Script:122
+## Queen Ophiuca
+LV. 1[-]10<spacePx>5000z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=193
+###--------
+###Script:123
+## Queen Ophiuca EX
+LV. 1[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:printCard card=193
+###Command:spacePx count=32
+###Command:printCard card=194
+###--------
+###Script:124
+## Queen Ophiuca SP
+LV. 1[-]S<spacePx>5000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=193
+###Command:spacePx count=24
+###Command:printCard card=194
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=195
+###--------
+###Script:125
+## Gemini Spark
+LV. 1[-]10<spacePx>6000z
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:spacePx count=32
+###Command:printCard card=196
+###--------
+###Script:126
+## Gemini Spark EX
+LV. 1[-]10<spacePx><printCard>
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=24
+###Command:printCard card=196
+###Command:spacePx count=32
+###Command:printCard card=197
+###--------
+###Script:127
+## Gemini Spark SP
+LV. 1[-]S<spacePx>6000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=196
+###Command:spacePx count=24
+###Command:printCard card=197
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=198
+###--------
+###Script:128
+## Cancer Bubble
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=199
+###--------
+###Script:129
+## Cancer Bubble EX
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=200
+###--------
+###Script:130
+## Cancer Bubble SP
+LV. 1[-]S<spacePx>3500z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=199
+###Command:spacePx count=24
+###Command:printCard card=200
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=201
+###--------
+###Script:131
+## Wolf Woods
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=202
+###--------
+###Script:132
+## Wolf Woods EX
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=203
+###--------
+###Script:133
+## Wolf Woods SP
+LV. 1[-]S<spacePx>5500z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=202
+###Command:spacePx count=24
+###Command:printCard card=203
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=204
+###--------
+###Script:134
+## Crown Thunder
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=205
+###--------
+###Script:135
+## Crown Thunder EX
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=206
+###--------
+###Script:136
+## Crown Thunder SP
+LV. 1[-]S<spacePx>6500z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=205
+###Command:spacePx count=24
+###Command:printCard card=206
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=207
+###--------
+###Script:137
+## Andromeda
+LV. 1[-]S<spacePx>NO DATA
+###Command:spacePx count=32
+###--------
+###Script:138
+## Andromeda ∞
+LV. 1[-]S<spacePx>NO DATA
+###Command:spacePx count=32
+###--------
+###Script:139
+## Pegasus Magic
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=208
+###--------
+###Script:140
+## Pegasus Magic EX
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=209
+###--------
+###Script:141
+## Pegasus Magic SP
+LV. 1[-]S<spacePx>8000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=208
+###Command:spacePx count=24
+###Command:printCard card=209
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=210
+###--------
+###Script:142
+## Leo Kingdom
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=211
+###--------
+###Script:143
+## Leo Kingdom EX
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=212
+###--------
+###Script:144
+## Leo Kingdom SP
+LV. 1[-]S<spacePx>8000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=211
+###Command:spacePx count=24
+###Command:printCard card=212
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=213
+###--------
+###Script:145
+## Dragon Sky
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=214
+###--------
+###Script:146
+## Dragon Sky EX
+LV. 1[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=215
+###--------
+###Script:147
+## Dragon Sky SP
+LV. 1[-]S<spacePx>8000z
+LV. 5[-]7<spacePx><printCard>
+LV. 7[-]10<spacePx><printCard>
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:printCard card=214
+###Command:spacePx count=24
+###Command:printCard card=215
+###--------
+LV. 9[-]S<spacePx><printCard>
+###Command:spacePx count=32
+###Command:printCard card=216
+###--------
+###Script:148
+## Pegasus Shadow
+LV. 1[-]S<spacePx>3500z
+###Command:spacePx count=32
+###--------
+###Script:149
+## Leo Shadow
+LV. 1[-]S<spacePx>6500z
+###Command:spacePx count=32
+###--------
+###Script:150
+## Dragon Shadow
+LV. 1[-]S<spacePx>5500z
+###Command:spacePx count=32
+###--------
+###Script:151
+## MettennaG
+LV. 1[-]5<spacePx>100z
+LV. 5[-]7<spacePx>300z
+LV. 7[-]10<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>600z
+###Command:spacePx count=32
+###--------
+###Script:152
+## Mettenna2G
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:153
+## Mettenna3G
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:154
+## CannonBaseG
+LV. 1[-]5<spacePx>140z
+LV. 5[-]7<spacePx>340z
+LV. 7[-]10<spacePx>440z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>640z
+###Command:spacePx count=32
+###--------
+###Script:155
+## MegaBaseG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:156
+## GigaBaseG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:157
+## MelamanderG
+LV. 1[-]5<spacePx>160z
+LV. 5[-]7<spacePx>360z
+LV. 7[-]10<spacePx>460z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>660z
+###Command:spacePx count=32
+###--------
+###Script:158
+## MelalizardG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:159
+## MelaleonG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:160
+## HotRoaderG
+LV. 1[-]5<spacePx>100z
+LV. 5[-]7<spacePx>300z
+LV. 7[-]10<spacePx>400z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>600z
+###Command:spacePx count=32
+###--------
+###Script:161
+## HotMotorG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:162
+## HotBikerG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:163
+## PeekabooG
+LV. 1[-]5<spacePx>200z
+LV. 5[-]7<spacePx>400z
+LV. 7[-]10<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>700z
+###Command:spacePx count=32
+###--------
+###Script:164
+## WavybooG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:165
+## ShakybooG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:166
+## ZapAceG
+LV. 1[-]5<spacePx>200z
+LV. 5[-]7<spacePx>400z
+LV. 7[-]10<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>700z
+###Command:spacePx count=32
+###--------
+###Script:167
+## ZapKingG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:168
+## ZapJokerG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:169
+## WibbledeeG
+LV. 1[-]5<spacePx>200z
+LV. 5[-]7<spacePx>400z
+LV. 7[-]10<spacePx>500z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>700z
+###Command:spacePx count=32
+###--------
+###Script:170
+## WibbledooG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:171
+## WibbledumG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:172
+## CrowcarG
+LV. 1[-]5<spacePx>300z
+LV. 5[-]7<spacePx>500z
+LV. 7[-]10<spacePx>600z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>800z
+###Command:spacePx count=32
+###--------
+###Script:173
+## CrowketG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:174
+## CrowbusG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:175
+## MonoSwordG
+LV. 1[-]5<spacePx>300z
+LV. 5[-]7<spacePx>500z
+LV. 7[-]10<spacePx>600z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>800z
+###Command:spacePx count=32
+###--------
+###Script:176
+## MonoSwordinG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:177
+## MonoSwordilG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:178
+## LuPelvisG
+LV. 1[-]5<spacePx>300z
+LV. 5[-]7<spacePx>500z
+LV. 7[-]10<spacePx>600z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>800z
+###Command:spacePx count=32
+###--------
+###Script:179
+## LupiNatraG
+LV. 1[-]5<spacePx>300z
+LV. 5[-]7<spacePx>500z
+LV. 7[-]10<spacePx>600z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>800z
+###Command:spacePx count=32
+###--------
+###Script:180
+## LupaDonnaG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:181
+## LuPavarotG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:182
+## LupBachG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:183
+## DoomCountG
+LV. 1[-]5<spacePx>300z
+LV. 5[-]7<spacePx>500z
+LV. 7[-]10<spacePx>600z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>800z
+###Command:spacePx count=32
+###--------
+###Script:184
+## DoomBomberG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:185
+## DoomPlosionG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:186
+## BellGongG
+LV. 1[-]5<spacePx>300z
+LV. 5[-]7<spacePx>500z
+LV. 7[-]10<spacePx>600z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>800z
+###Command:spacePx count=32
+###--------
+###Script:187
+## BellRefG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:188
+## BellBoxerG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:189
+## OctoNinjaG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:190
+## OctoIcerG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:191
+## OctoPoisonG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:192
+## BoomBoltG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:193
+## BoomSparkG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:194
+## BoomThunderG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:195
+## RockyG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:196
+## CraggyG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:197
+## CliffyG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:198
+## StreamCancrG
+LV. 1[-]5<spacePx>400z
+LV. 5[-]7<spacePx>600z
+LV. 7[-]10<spacePx>700z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>900z
+###Command:spacePx count=32
+###--------
+###Script:199
+## RiverCancroG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:200
+## SeaCancroG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:201
+## MoaianG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:202
+## StoneheadG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:203
+## GiantFaceG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:204
+## GooeyG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:205
+## GoopyG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:206
+## GloppyG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:207
+## LampisG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:208
+## LucisG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:209
+## LumisG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:210
+## PrivateMopG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:211
+## ColonelMopG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:212
+## GeneralMopG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:213
+## RhinoHornG
+LV. 1[-]5<spacePx>500z
+LV. 5[-]7<spacePx>700z
+LV. 7[-]10<spacePx>800z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1000z
+###Command:spacePx count=32
+###--------
+###Script:214
+## RhinoHammerG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:215
+## RhinoDrillG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:216
+## TropiCongaG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:217
+## TropiCoppaG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:218
+## TropiCoolaG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:219
+## Junk-OG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:220
+## Junk-O2G
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:221
+## Junk-O3G
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:222
+## FokxG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:223
+## CopyFokxG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:224
+## GuiseFokxG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:225
+## GreatAxG
+LV. 1[-]5<spacePx>600z
+LV. 5[-]7<spacePx>800z
+LV. 7[-]10<spacePx>900z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1100z
+###Command:spacePx count=32
+###--------
+###Script:226
+## MagnaAxG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:227
+## KaiserAxG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:228
+## EyezG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:229
+## GuardEyezG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:230
+## ProtectEyezG
+LV. 1[-]5<spacePx>900z
+LV. 5[-]7<spacePx>1100z
+LV. 7[-]10<spacePx>1200z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1400z
+###Command:spacePx count=32
+###--------
+###Script:231
+## MageraG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:232
+## MageriG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:233
+## MageroG
+LV. 1[-]5<spacePx>900z
+LV. 5[-]7<spacePx>1100z
+LV. 7[-]10<spacePx>1200z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1400z
+###Command:spacePx count=32
+###--------
+###Script:234
+## McCleaverG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:235
+## McDicerG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:236
+## McLopperG
+LV. 1[-]5<spacePx>900z
+LV. 5[-]7<spacePx>1100z
+LV. 7[-]10<spacePx>1200z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1400z
+###Command:spacePx count=32
+###--------
+###Script:237
+## GrabityG
+LV. 1[-]5<spacePx>700z
+LV. 5[-]7<spacePx>900z
+LV. 7[-]10<spacePx>1000z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1200z
+###Command:spacePx count=32
+###--------
+###Script:238
+## GrabotronG
+LV. 1[-]5<spacePx>800z
+LV. 5[-]7<spacePx>1000z
+LV. 7[-]10<spacePx>1100z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1300z
+###Command:spacePx count=32
+###--------
+###Script:239
+## GrabakloneG
+LV. 1[-]5<spacePx>900z
+LV. 5[-]7<spacePx>1100z
+LV. 7[-]10<spacePx>1200z
+###Command:spacePx count=32
+###Command:spacePx count=32
+###Command:spacePx count=24
+###--------
+LV. 9[-]S<spacePx>1400z
+###Command:spacePx count=32
+###--------
+###Script:254
+###Mugshot:Geo
+Seems we don't have
+that data yet...
+###--------

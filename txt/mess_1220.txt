@@ -1,0 +1,633 @@
+﻿###TextArchive:mess_1220
+###Script:0
+Geo's Transer which
+stores all his info.
+###--------
+###Script:1
+Special glasses Kelvin
+used to use...
+###--------
+###Script:2
+Red key for doors
+in Truck Comp.
+###--------
+###Script:3
+Blue key for doors
+in Truck Comp.
+###--------
+###Script:4
+Yellow key for doors
+in Truck Comp.
+###--------
+###Script:5
+One key in a set for
+Truck Comp doors.
+###--------
+###Script:6
+One key in a set for
+Truck Comp doors.
+###--------
+###Script:7
+One key in a set for
+Truck Comp doors.
+###--------
+###Script:8
+One key in a set for
+Truck Comp doors.
+###--------
+###Script:9
+Ultra tasty and refreshing
+to the last drop!
+###--------
+###Script:10
+An RC helicopter. Use
+PropellerMan Card to fly.
+###--------
+###Script:11
+Entry pass for the
+Science Museum.
+###--------
+###Script:12
+Pass for AMAKEN staff
+members.
+###--------
+###Script:13
+Spacesuit for use in
+the SpaceSim.
+###--------
+###Script:14
+###--------
+KeyMan's Navi Card.
+Use this card to have
+KeyMan open doors for you.
+###--------
+###Script:36
+Proof you beat a
+Star Guardian.
+Twinkles softly.
+###--------
+###Script:37
+Proof you beat a
+Star Guardian.
+Twinkles softly.
+###--------
+###Script:38
+Proof you beat a
+Star Guardian.
+Twinkles softly.
+###--------
+###Script:39
+Proof you beat a
+Star Guardian.
+Twinkles softly.
+###--------
+###Script:40
+Proof you beat a
+Star Guardian.
+Twinkles softly.
+###--------
+###Script:41
+Antidote to neutralize
+snake venom.
+###--------
+###Script:42
+###--------
+ShovelMan's Navi Card.
+Call ShovelMan to
+drive backhoes.
+###--------
+###Script:43
+Use to find things
+buried underground.
+###--------
+###Script:44
+Fizzy drink loaded with
+tons of Sour Power!
+###--------
+###Script:45
+The school snack shop
+special: hot ham sandwich!
+###--------
+Its delicious aroma
+can travel for miles!
+###--------
+###Script:46
+A new light bulb for a
+burnt out one, I suppose.
+###--------
+###Script:47
+A lost ring...
+It sparkles beautifully.
+###--------
+###Script:48
+A floor guide to Nacys
+department store.
+###--------
+###Script:49
+A baseball card.
+A player's picture
+is on it.
+###--------
+###Script:50
+Shooting Star Cake -
+a special AMAKEN treat!
+###--------
+###Script:51
+A really heavy Mowa Mowa
+action figure.
+###--------
+###Script:52
+A handwritten recipe
+of mom's.
+###--------
+###Script:53
+A snake that escaped
+from the exhibit.
+###--------
+###Script:54
+A snake that escaped
+from the exhibit.
+###--------
+###Script:55
+A snake that escaped
+from the exhibit.
+###--------
+###Script:56
+Mr. Boreal's photo album.
+###--------
+###Script:57
+A Coby Burger made
+from real Coby Beef!
+###--------
+###Script:58
+Mysterious data.
+Very mysterious indeed...
+###--------
+###Script:59
+Mr. Suther's tropical
+tea is totally calming.
+###--------
+###Script:60
+"I've buried it underneath
+Dream Island..."
+###--------
+###--------
+"The entrance to it is hidden
+under rubbish, but remove the
+trash and you can get to it."
+###--------
+###Script:61
+The note reads:
+"The password is
+my birthday!"
+###--------
+###Script:62
+###--------
+PitcherMan's Navi Card.
+Use this to have PitcherMan
+throw a mean ball!
+###--------
+###Script:63
+###--------
+ThermoMan's Navi Card.
+Control the temperature
+with ThermoMan.
+###--------
+###Script:64
+RC magazine from
+the foyer.
+###--------
+###--------
+This is written on
+one of the pages:
+"NROSIMAMSTU"
+###--------
+###Script:65
+A protection charm...
+###--------
+###--------
+There's something written
+on the back:
+"OSLEGRATE"
+###--------
+###Script:66
+An invitation from AMAKEN.
+###--------
+###--------
+This is written on it:
+"AURIEFRUTS"
+###--------
+###Script:67
+It's a science notebook...
+###--------
+###--------
+This is written inside:
+"LAREBARAON"
+###--------
+###Script:68
+A Nacys Membership Card.
+###--------
+###--------
+This is written on
+the back side:
+"KNIGSPIAREM"
+###--------
+###Script:69
+An album full of songs
+performed by Sonia.
+###--------
+###--------
+This is written on a
+leaflet inside the case:
+"DWOWOOLFS"
+###--------
+###Script:70
+The Echo Elementary
+Student Handbook.
+###--------
+###--------
+Something is written
+next to the school pic:
+"SIXGAME-O"
+###--------
+###Script:71
+It's a scrapbook of
+RC toys.
+###--------
+###--------
+Something is written in
+among all the pictures:
+"ILABCLERSAS"
+###--------
+###Script:72
+In between the quiz
+questions, this is written:
+###--------
+"PREOBCOPB"
+###--------
+###Script:73
+An eraser you can buy
+from the school store.
+###--------
+###--------
+In tiny letters, this
+is written on it:
+"ALPTUNZLA"
+###--------
+###Script:74
+The title reads,
+"How to be Romantic".
+###--------
+###--------
+This is written on
+the inside cover:
+"ROHNATPE"
+###--------
+###Script:75
+A Nacys flyer.
+###--------
+###--------
+Something is written
+on the back.
+"ISNBDUBO"
+###--------
+###Script:76
+A snake ornament.
+###--------
+###--------
+Looking closely, there's
+something written:
+"IPHAUEOEUNQC"
+###--------
+###Script:77
+A gourmet magazine.
+###--------
+###--------
+###--------
+Next to an article about a
+gourmet restaurant, this
+is written: "ALIVURISZE"
+###--------
+###Script:78
+A blueprint Mr. Dubius
+drew up.
+###--------
+###--------
+Something is written
+along the edge:
+"NGYNGIWCUS"
+###--------
+###Script:79
+The pained memories
+of a lonely being...
+###--------
+###Script:80
+###--------
+There is some text data
+in this Transer's memory...
+###--------
+"My dear Geo,"
+###--------
+"If you're reading this
+data, then I'm probably
+lost in space somewhere."
+###--------
+###--------
+"I met this alien named Mega,
+borrowed his power and
+changed into this EM body."
+###--------
+###--------
+"I don't know if I'll ever see
+you again, and I'll probably
+wander the stars forever,"
+###--------
+###--------
+"but I don't want you to be
+sad, because we'll always be
+connected in our hearts."
+###--------
+"Whenever you're down or
+having a hard time,"
+###--------
+"I hope you'll look up at the
+stars and think of me."
+###--------
+"I'll always be watching
+over you, Geo."
+###--------
+"Take care of your
+mom, OK?"
+###--------
+"Oh! And if the alien,
+Mega, should show up,"
+###--------
+"please give him the
+attached Mega weapon."
+###--------
+###Script:81
+Equip and the Buster will...
+###--------
+###Script:82
+###--------
+PropellerMan's Navi Card.
+Use this card to have
+PropellerMan fly RC choppers.
+###--------
+###Script:83
+Turn Legend Mode ON/OFF.
+Enemies power up and...
+###--------
+###Script:84
+A chip that holds Navi data.
+Needed to operate robots.
+###--------
+###Script:85
+Mystery data full of
+wisdom from a bygone era.
+###--------
+###Script:86
+###--------
+Rare star pieces. Maybe
+someone collects them?
+(You have: <printBuffer>)
+###Command:printBuffer buffer=4 minLength=6 padMode=noPad
+###--------
+###Script:87
+Equip for a look that is
+somehow familiar...
+###--------
+###Script:88
+A brilliant golden
+Card Force that
+powers up bosses.
+###--------
+###Script:89
+Equip for a look that is
+sure to dazzle everyone.
+###--------
+###Script:92
+###Mugshot:Geo
+Increases chance of
+meeting Fire Elemental
+enemies.
+###--------
+###Script:93
+###Mugshot:Geo
+Increases chance of
+meeting Aqua Elemental
+enemies.
+###--------
+###Script:94
+###Mugshot:Geo
+Increases chance of
+meeting Elec Elemental
+enemies.
+###--------
+###Script:95
+###Mugshot:Geo
+Increases chance of
+meeting Wood Elemental
+enemies.
+###--------
+###Script:96
+###Mugshot:Geo
+A small energy boost
+that restores 50 HP.
+###--------
+###Script:97
+###Mugshot:Geo
+A large energy boost
+that restores 200 HP.
+###--------
+###Script:98
+###Mugshot:Geo
+A deluxe energy boost
+that restores all HP.
+###--------
+###Script:99
+###Mugshot:Geo
+Item that auto-unlocks
+purple Mystery Waves.
+###--------
+###Script:100
+###Mugshot:Geo
+Makes your body invisible
+for a little while.
+###--------
+###Script:101
+###Mugshot:Geo
+Increases chance of
+meeting the previous
+enemies.
+###--------
+###Script:102
+###Mugshot:Geo
+Item that auto-unlocks
+red Mystery Waves.
+###--------
+###Script:103
+###Mugshot:Geo
+For use with Lunar Knights.
+Equip on your head.
+###--------
+###Script:104
+###Mugshot:Geo
+For use with Lunar Knights.
+Equip on your torso.
+###--------
+###Script:105
+###Mugshot:Geo
+For use with Lunar Knights.
+Equip on your legs.
+###--------
+###Script:106
+###Mugshot:Geo
+For use with Lunar Knights.
+Rare item that enhances
+shields.
+###--------
+###Script:107
+###Mugshot:Geo
+For use with Lunar Knights.
+Fully revives an ally.
+###--------
+###Script:108
+###Mugshot:Geo
+For use with Lunar Knights.
+Grants temporary invincibility.
+###--------
+###Script:109
+###Mugshot:Geo
+For use with Lunar Knights.
+Dark Sword Junk Parts.
+###--------
+###Script:110
+###Mugshot:Geo
+For use with Lunar Knights.
+Solar Gun Junk Parts.
+###--------
+###Script:112
+###Mugshot:Geo
+Item that makes your
+max HP go up by 10.
+###--------
+###Script:113
+###Mugshot:Geo
+Item that makes your
+max HP go up by 20.
+###--------
+###Script:120
+"I've buried it underneath
+Dream Island..."
+###--------
+###--------
+"The entrance to it is hidden
+under rubbish, but remove the
+trash and you can get to it."
+###--------
+###Script:220
+Fangs attached
+to Mega's armor.
+AT 1   RA 2   CH 1
+###--------
+###Script:221
+Claws that can slice
+foes in two.
+AT 2   RA 1   CH 1
+###--------
+###Script:222
+Rapid-fire porcupine
+needles.
+AT 1   RA 3   CH 1
+###--------
+###Script:223
+A well-balanced,
+powerful ring.
+AT 2   RA 2   CH 2
+###--------
+###Script:224
+A Charged Shot that
+may give foes HP bugs.
+AT 1   RA 2   CH 3
+###--------
+###Script:225
+A Charged Shot that
+may blind foes.
+AT 3   RA 1   CH 2
+###--------
+###Script:226
+Charge up faster
+with this armband.
+AT 2   RA 1   CH 5
+###--------
+###Script:227
+A ring that boosts
+attack and charge speed.
+AT 3   RA 2   CH 3
+###--------
+###Script:228
+A Charged Shot that may
+give foes severe HP bugs.
+AT 1   RA 1   CH 2
+###--------
+###Script:229
+Claws that slice at
+super speed.
+AT 2   RA 4   CH 1
+###--------
+###Script:230
+A Charged Shot that
+may paralyze foes.
+AT 2   RA 2   CH 1
+###--------
+###Script:231
+A Charged Shot that may
+trap foes in a bubble.
+AT 1   RA 3   CH 2
+###--------
+###Script:232
+A glove with superb
+striking power.
+AT 4   RA 1   CH 2
+###--------
+###Script:233
+Get only Zennys
+from battles.
+AT 2   RA 3   CH 4
+###--------
+###Script:234
+Get only Battle Cards
+from battles.
+AT 1   RA 2   CH 3
+###--------
+###Script:235
+A Charged Shot that
+confuses foes.
+AT 2   RA 3   CH 2
+###--------
+###Script:236
+A top-grade weapon with
+extreme striking power.
+AT 4   RA 3   CH 4
+###--------
+###Script:237
+A Charged Shot that may
+freeze or bubble foes.
+AT 1   RA 2   CH 1
+###--------
+###Script:238
+Bracelet of FM-ian legend
+that may paralyze foes.
+AT 3   RA 4   CH 2
+###--------
+###Script:239
+A top-grade weapon with
+the power of the stars.
+AT 5   RA 2   CH 4
+###--------
+###Script:240
+Legendary hero's
+rapid-fire weapon.
+AT 1   RA 5   CH 1
+###--------

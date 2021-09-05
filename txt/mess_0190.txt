@@ -1,0 +1,323 @@
+﻿###TextArchive:mess_0190
+###Script:0
+###Mugshot:0
+Um, is it OK for her to
+stay here for a bit...?
+###--------
+###Script:1
+###Mugshot:AaronBoreal
+Well, this is a surprising
+request for you to
+make, Geo.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+...Did something happen
+at home?
+###--------
+###Script:2
+###Mugshot:Sonia
+Um, something like that...
+###--------
+###Mugshot:Sonia
+So can I stay?
+###--------
+###Script:3
+###Mugshot:AaronBoreal
+Hmm, you look like you've
+got some troubles.
+###--------
+###Script:4
+###Mugshot:Sonia
+Y-Yes... I do.
+###--------
+###Script:5
+###Mugshot:AaronBoreal
+Ah, you don't have to tell
+me or anything.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+We all have something
+troubling us. There isn't a
+person alive who doesn't.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+When I was your age,
+I had things happen in
+my family all the time.
+###--------
+###Mugshot:AaronBoreal
+So it's OK for you to
+stay here today.
+###--------
+###Script:6
+###Mugshot:Sonia
+Really?
+Thank you very much!!
+###--------
+###Script:7
+###Mugshot:AaronBoreal
+But make sure you go
+home tomorrow. Deal?
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+Your parents are probably
+more worried about you
+than you think.
+###--------
+###Script:8
+###Mugshot:Sonia
+......
+###--------
+###Mugshot:Sonia
+Yes, sir.
+###--------
+###Script:9
+###Mugshot:AaronBoreal
+Well, Geo, do you want
+to stay overnight too?
+###--------
+###Script:10
+###Mugshot:0
+Ah, that's OK.
+I've gotta go home...
+###--------
+###Script:11
+###Mugshot:Sonia
+So your name is Geo...
+###--------
+###Mugshot:Sonia
+You've helped me so much,
+and I didn't even ask.
+###--------
+###Mugshot:Sonia
+I'm sorry...
+and...
+###--------
+###Mugshot:Sonia
+Thank you...
+###--------
+###Script:12
+###Mugshot:0
+Y-You're welcome.
+###--------
+###Script:13
+###Mugshot:AaronBoreal
+Hey, now here's an
+
+###--------
+###Mugshot:AaronBoreal
+opportunity!
+###--------
+###Mugshot:AaronBoreal
+Why don't you two form
+a Brother Band!?
+###--------
+###Mugshot:AaronBoreal
+You know, Geo, your
+dad always said,
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+"Anything you can't solve on
+your own, can be overcome
+with the help of a friend.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+"Other people can make us
+stronger, and we can give
+other people strength, too.
+###--------
+###Mugshot:AaronBoreal
+"If every person on this
+planet were connected by
+Brother Bands,
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+"we'd all live in a wonderful
+world where we could
+support each other."
+###--------
+###Script:14
+###Mugshot:0
+But I... can't.
+Not this soon...
+###--------
+###Mugshot:2
+Ha ha ha.
+Well, give it some thought.
+###--------
+###Mugshot:0
+O-OK, I'll think about it...
+a little...
+###--------
+###Mugshot:2
+We'll be waiting!
+###--------
+###Script:15
+###Mugshot:AaronBoreal
+Don't take it the wrong way.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+That kid has his reasons for
+why he's not keen on getting
+close to other people...
+###--------
+###Script:16
+###Mugshot:Sonia
+......
+###--------
+###Script:17
+###Mugshot:0
+Brother Band, huh?
+###--------
+###Mugshot:OmegaXis
+Heh heh!
+###--------
+###Mugshot:OmegaXis
+Admit it. You want to
+become Brothers!
+###--------
+###Mugshot:0
+Wh-What are you talking
+about? I can't...
+###--------
+###Mugshot:0
+You have to trade secrets
+when you form a Brother
+Band, right? I can't tell
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+even a Brother that I've
+got a weird freeloading
+alien living in my Transer!
+###--------
+###Mugshot:OmegaXis
+WHAT!? Who's a weird
+freeloading alien!?
+###--------
+###Mugshot:0
+As if there's anyone else...?
+###--------
+###Script:18
+###Mugshot:0
+A blackout!?
+###--------
+###Script:19
+###Mugshot:AaronBoreal
+What happened!?
+###--------
+###Mugshot:AaronBoreal
+What happened to the
+emergency backup power!?
+###--------
+###Script:20
+###Mugshot:OmegaXis
+Hmm, this isn't any
+ordinary blackout...
+###--------
+###Script:21
+###Mugshot:0
+What do you mean by that?
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Put on your Visualizer, kid.
+###--------
+###Script:23
+###Mugshot:0
+Oh, yeah...
+###--------
+###Script:24
+###Mugshot:0
+What's that circular thing?
+###--------
+###Script:25
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That's the Z wave old man
+Copper was talking about!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That's what it looks like when
+a bunch of Z waves collect
+and create EM viruses.
+###--------
+###Mugshot:OmegaXis
+If we leave it alone, it
+might call an FM-ian.
+###--------
+###Mugshot:OmegaXis
+And it's not gonna go
+away by itself.
+###--------
+###Mugshot:OmegaXis
+But whatever. It's got
+nothing to do with us.
+###--------
+###Script:26
+###Mugshot:0
+But we can't just leave
+it alone!!
+###--------
+###Script:27
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Give it up, kid. There's
+a whole bunch of these
+wave balls all over the lab.
+###--------
+###Script:28
+###Mugshot:0
+But we have to do
+something!
+###--------
+###Mugshot:0
+Humans can't break
+wave balls, right?
+###--------
+###Script:29
+###Mugshot:OmegaXis
+OK, I'll help you so I can
+waste some time.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+By the way...
+There are 5 wave balls
+in this lab.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you don't get them all,
+the power won't come
+back on. Got that, kid?
+###--------
+###Script:30
+###Mugshot:0
+Yeah, I got it.
+###--------

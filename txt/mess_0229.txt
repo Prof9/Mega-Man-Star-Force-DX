@@ -1,0 +1,151 @@
+﻿###TextArchive:mess_0229
+###Script:0
+###Mugshot:2
+And who might you be...?
+###--------
+###Script:1
+###Mugshot:0
+I'm... uh...
+###--------
+###Mugshot:0
+Mega Man!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Hey, Libra!
+###--------
+###Script:3
+###Mugshot:Libra
+Well if it isn't the traitor,
+Omega-Xis.
+###--------
+###Mugshot:Libra
+You couldn't balance loyalty
+with treachery.
+###--------
+###Mugshot:OmegaXis
+Heh, so it's no wonder I
+turned traitor, right?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well, seeing you balance water
+with fire isn't exactly bringing
+a smile to my face either.
+###--------
+###Mugshot:Libra
+I think you know why
+I'm here.
+###--------
+###Mugshot:Libra
+I came to find and destroy
+only you.
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Don't underestimate us.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We just got a new power,
+so bring it on.
+Right, Geo!?
+###--------
+###Script:5
+###Mugshot:0
+We're going to put a stop
+to the Study Wave.
+###--------
+###Script:6
+###Mugshot:2
+Sorry, but I can't let you.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+If the kids' grades don't
+get better, I'm gonna
+get fired.
+###--------
+###Script:7
+###Mugshot:0
+F-Fired!?
+###--------
+###Mugshot:0
+I didn't know.
+So that's why you did this...
+###--------
+###Mugshot:0
+But that's not good enough
+of a reason to make your
+students suffer!
+###--------
+###Mugshot:0
+That's just cruel!
+###--------
+###Script:8
+###Mugshot:2
+Th-That's...
+###--------
+###Script:9
+###Mugshot:Libra
+Hey! How many times do I
+have to tell you?
+###--------
+###Mugshot:Libra
+###--------
+###Mugshot:Libra
+To protect something, you've
+gotta sacrifice something else
+in return. That's reality!
+###--------
+###Script:10
+###Mugshot:2
+Oh, yeah. Sorry.
+###--------
+###Mugshot:2
+I can't get fired.
+###--------
+###Mugshot:2
+And I...
+###--------
+###Mugshot:2
+As a father, I must
+protect my own kids!
+###--------
+###Script:11
+###Mugshot:0
+###--------
+###Mugshot:0
+You must protect them?
+Well, that's...
+###--------
+###Mugshot:0
+That's the same as me!
+###--------
+###Mugshot:0
+I have someone I must
+protect too!
+###--------
+###Mugshot:0
+That's why I will stop you!
+I must!!
+###--------
+###Script:12
+###Mugshot:2
+I see...
+I don't want to fight,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+but in this situation,
+I must. Let's do this!!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Here he comes!
+Brace yourself, Geo!!
+###--------

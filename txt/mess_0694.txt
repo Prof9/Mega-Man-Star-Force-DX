@@ -1,0 +1,226 @@
+﻿###TextArchive:mess_0694
+###Script:0
+###Mugshot:1
+OH ME, OH MY!
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+THE COMP SPACE IS
+FALLING APART BECAUSE
+OF THE STRANGE INVADER!
+###--------
+###Mugshot:0
+Falling apart?
+###--------
+###Mugshot:1
+THAT'S RIGHT!!
+###--------
+###Mugshot:1
+THE BULLDOZER PROGRAMS
+HAVE ALL SUDDENLY
+GONE HAYWIRE!
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+THEY WON'T RESPOND TO
+A SINGLE COMMAND
+I GIVE THEM!!
+###--------
+###Mugshot:1
+*BEEEEEEEP*
+###--------
+###Mugshot:0
+So how do we get them
+to go back to normal?
+###--------
+###Mugshot:1
+THE COMBINED POWER
+OF ME AND MY FRIENDS
+MIGHT BE ENOUGH
+###--------
+###Mugshot:1
+TO RETURN THEM TO
+NORMAL, BUT...
+###--------
+###Mugshot:0
+But...?
+###--------
+###Mugshot:1
+WELL, WHEN THE
+BULLDOZERS WENT CRAZY...
+###--------
+###Mugshot:1
+MY FRIENDS KINDA GOT
+BURIED UNDER THE TRASH...
+###--------
+###Mugshot:0
+B-Buried!?
+###--------
+###Mugshot:1
+YOU CAN'T FIND THEM BY
+JUST LOOKING,
+###--------
+###Mugshot:1
+BUT YOU MIGHT BE ABLE
+TO FIND THEM WITH THIS.
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=43
+###--------
+###Mugshot:1
+THE SONAR PROGRAM
+WILL AUTOMATICALLY SCAN
+AROUND YOUR POSITION.
+###++++++++
+###Mugshot:1
+YOU CAN ALSO SCAN
+A SPECIFIC SPOT
+###++++++++
+###Mugshot:1
+BY HOLDING DOWN THE
+STYLUS ON THE SCREEN.
+###--------
+###Mugshot:1
+IF THE SONAR FLASHES
+BLUE, THERE'S NOTHING
+IN THAT AREA.
+###--------
+###Mugshot:1
+YELLOW MEANS YOU'RE
+GETTING WARMER,
+###--------
+###Mugshot:1
+AND RED MEANS THAT
+SOMETHING IS BURIED
+UNDER THAT SPOT.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+ONCE YOU FIGURE
+OUT WHERE SOMETHING
+IS BURIED,
+###--------
+###Mugshot:1
+GO STAND NEAR THERE
+AND PRESS THE A BUTTON
+TO UNEARTH IT.
+###--------
+###Mugshot:0
+Gotcha!
+Now to give it a try!
+###--------
+###Mugshot:1
+I DON'T KNOW HOW
+HELPFUL THIS IS,
+###--------
+###Mugshot:1
+BUT ONE OF MY FRIENDS
+WAS WORKING ON
+DISMANTLING A CAR,
+###--------
+###Mugshot:1
+ANOTHER WAS GETTING
+RID OF AN OLD TV...
+###--------
+###Mugshot:1
+PLEASE HELP ME AND
+FIND THEM!
+###--------
+###Script:1
+###Mugshot:1
+THE SONAR PROGRAM
+WILL AUTOMATICALLY SCAN
+AROUND YOUR POSITION.
+###++++++++
+###Mugshot:1
+YOU CAN ALSO SCAN
+A SPECIFIC SPOT
+###++++++++
+###Mugshot:1
+BY HOLDING DOWN THE
+STYLUS ON THE SCREEN.
+###--------
+###Mugshot:1
+IF THE SONAR FLASHES
+BLUE, THERE'S NOTHING
+IN THAT AREA.
+###--------
+###Mugshot:1
+YELLOW MEANS YOU'RE
+GETTING WARMER,
+###--------
+###Mugshot:1
+AND RED MEANS THAT
+SOMETHING IS BURIED
+UNDER THAT SPOT.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+ONCE YOU FIGURE
+OUT WHERE SOMETHING
+IS BURIED,
+###--------
+###Mugshot:1
+GO STAND NEAR THERE
+AND PRESS THE A BUTTON
+TO UNEARTH IT.
+###--------
+###Mugshot:0
+Gotcha!
+Now to give it a try!
+###--------
+###Mugshot:1
+I DON'T KNOW HOW
+HELPFUL THIS IS,
+###--------
+###Mugshot:1
+BUT ONE OF MY FRIENDS
+WAS WORKING ON
+DISMANTLING A CAR,
+###--------
+###Mugshot:1
+ANOTHER WAS GETTING
+RID OF AN OLD TV...
+###--------
+###Mugshot:1
+PLEASE HELP ME AND
+FIND THEM!
+###--------
+###Script:2
+###Mugshot:1
+THE STRANGE WAVE JUST
+BEYOND HERE IS THE
+CAUSE OF THIS MESS!
+###--------
+###Mugshot:1
+GO GET HIM FOR US!
+...PLEASE!
+###--------
+###Script:3
+###Mugshot:1
+THIS COMP SPACE IS
+BACK TO NORMAL!
+###--------
+###Mugshot:1
+THANK YOU SO MUCH!!
+###--------
+###Script:4
+###Mugshot:1
+I THINK SOMETHING'S STILL
+UNDER THE TRASH.
+###--------
+###Mugshot:1
+WHY DON'T YOU TRY
+LOOKING FOR IT WITH
+SONAR?
+###--------
+###Script:5
+###Mugshot:1
+LOOKS LIKE YOU
+UNEARTHED EVERYTHING!
+###--------

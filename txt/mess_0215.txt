@@ -1,0 +1,374 @@
+﻿###TextArchive:mess_0215
+###Script:0
+###Mugshot:1
+*huff huff*
+###--------
+###Mugshot:1
+W-We did it...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+......
+###--------
+###Script:2
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Very good.
+You are stronger than
+I expected.
+###--------
+###Script:3
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Very good.
+You are stronger than
+I expected.
+###--------
+###Script:4
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Very good.
+You are stronger than
+I expected.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, don't treat me like
+a kid! Why did you go
+easy on us!?
+###--------
+###Script:6
+###Mugshot:1
+He was going "easy" on us??
+###--------
+###Script:7
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Yeah, I can tell.
+That wasn't his full power.
+###--------
+###Script:8
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+It is not our goal to fight
+you. That bout was merely
+to assess your potential.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+As we thought, you possess
+enough want within you to
+protect those of this planet.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Receive this, Geo!
+My Star Force!!
+###--------
+###Script:9
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+It is not our goal to fight
+you. That bout was merely
+to assess your potential.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+As we thought, you possess
+enough want within you to
+protect those of this planet.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Receive this, Geo!
+My Star Force!!
+###--------
+###Script:10
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+It is not our goal to fight
+you. That bout was merely
+to assess your potential.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+As we thought, you possess
+enough want within you to
+protect those of this planet.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Receive this, Geo!
+My Star Force!!
+###--------
+###Script:11
+###Mugshot:1
+Aah!
+###--------
+###Mugshot:1
+My body's glowing!!
+###--------
+###Script:12
+###Mugshot:1
+Aaaaaaaaaaaaah!!
+###--------
+###Script:13
+###Mugshot:1
+Huh? That's it?
+###--------
+###Mugshot:1
+Nothing feels different...
+###--------
+###Script:14
+###Mugshot:OmegaXis
+Where the heck is this
+"Star Force"!?
+###--------
+###Mugshot:OmegaXis
+Were you just playing
+with us!?
+###--------
+###Script:15
+###Mugshot:PegasusMagicShadow
+The Star Force is within you.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+However, whether you can
+call upon that power, is up
+to you.
+###--------
+###Script:16
+###Mugshot:DragonSkyShadow
+The Star Force is within you.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+However, whether you can
+call upon that power, is up
+to you.
+###--------
+###Script:17
+###Mugshot:LeoKingdomShadow
+The Star Force is within you.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+However, whether you can
+call upon that power, is up
+to you.
+###--------
+###Script:18
+###Mugshot:1
+What does that mean?
+###--------
+###Script:19
+###Mugshot:PegasusMagicShadow
+I never stated that the
+trial was over.
+###--------
+###Mugshot:PegasusMagicShadow
+The Star Force is a power
+of protection.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+It can only be called upon
+when the will to protect
+someone is very strong.
+###--------
+###Mugshot:PegasusMagicShadow
+You have not found that
+will as of yet.
+###--------
+###Script:20
+###Mugshot:DragonSkyShadow
+I never stated that the
+trial was over.
+###--------
+###Mugshot:DragonSkyShadow
+The Star Force is a power
+of protection.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+It can only be called upon
+when the will to protect
+someone is very strong.
+###--------
+###Mugshot:DragonSkyShadow
+You have not found that
+will as of yet.
+###--------
+###Script:21
+###Mugshot:LeoKingdomShadow
+I never stated that the
+trial was over.
+###--------
+###Mugshot:LeoKingdomShadow
+The Star Force is a power
+of protection.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+It can only be called upon
+when the will to protect
+someone is very strong.
+###--------
+###Mugshot:LeoKingdomShadow
+You have not found that
+will as of yet.
+###--------
+###Script:22
+###Mugshot:1
+......
+###--------
+###Script:23
+###Mugshot:PegasusMagicShadow
+The next step is up to you.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+We will continue to watch
+you... and your growth.
+###--------
+###Mugshot:PegasusMagicShadow
+Son of Kelvin Stelar!
+We believe in you.
+###--------
+###Mugshot:PegasusMagicShadow
+You will make the
+Star Force your own.
+###--------
+###Script:24
+###Mugshot:DragonSkyShadow
+The next step is up to you.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+We will continue to watch
+you... and your growth.
+###--------
+###Mugshot:DragonSkyShadow
+Son of Kelvin Stelar!
+We believe in you.
+###--------
+###Mugshot:DragonSkyShadow
+You will make the
+Star Force your own.
+###--------
+###Script:25
+###Mugshot:LeoKingdomShadow
+The next step is up to you.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+We will continue to watch
+you... and your growth.
+###--------
+###Mugshot:LeoKingdomShadow
+Son of Kelvin Stelar!
+We believe in you.
+###--------
+###Mugshot:LeoKingdomShadow
+You will make the
+Star Force your own.
+###--------
+###Script:26
+###Mugshot:1
+They're gone...
+###--------
+###Script:27
+###Mugshot:OmegaXis
+.<waitSkip>.<waitSkip>.<waitSkip>Oh, dang.
+I remembered something.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:OmegaXis
+Pegasus Magic, Leo Kingdom,
+Dragon Sky...
+###--------
+###Mugshot:OmegaXis
+Those guys were known
+as the 3 Sages of AM.
+###--------
+###Mugshot:OmegaXis
+They had a ton of
+wisdom and strength,
+###--------
+###Mugshot:OmegaXis
+and were very influential
+AM-ians on Planet AM.
+###--------
+###Mugshot:OmegaXis
+I had heard that they
+left Planet AM before
+it was destroyed,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+but who would've thought
+they'd end up here on Earth?
+###--------
+###Script:28
+###Mugshot:1
+I feel like this is all some
+crazy dream.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+The Satellite admins are
+aliens, and they worked
+with my dad...
+###--------
+###Mugshot:1
+and getting the
+Star Force...
+###--------
+###Script:29
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well, we don't know that yet!
+I'll believe it when I see
+it in action!
+###--------
+###Mugshot:OmegaXis
+Whew... Boy am I tired, kid.
+###--------
+###Script:30
+###Mugshot:1
+Yeah. So much happened,
+all in one day.
+###--------
+###Mugshot:1
+Come on, let's go home.
+###--------

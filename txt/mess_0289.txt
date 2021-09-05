@@ -1,0 +1,55 @@
+﻿###TextArchive:mess_0289
+###Script:0
+###Mugshot:0
+Oh, shoot!
+###--------
+###Mugshot:0
+What happened to Pat!?
+###--------
+###Script:1
+###Mugshot:Pat
+Hey, Geo!
+###--------
+###Script:2
+###Mugshot:0
+Pat!
+###--------
+###Script:3
+###Mugshot:Pat
+Geo! Are you alright?
+###--------
+###Mugshot:Pat
+That was awful!
+###--------
+###Mugshot:Pat
+The SorterBots suddenly
+started going haywire...
+###--------
+###Script:4
+###Mugshot:0
+I'm fine. What about you?
+###--------
+###Script:5
+###Mugshot:Pat
+......I'm OK.
+###--------
+###Mugshot:Pat
+I'm sorry for bringing
+you here...
+###--------
+###Script:6
+###Mugshot:0
+Aww, don't blame
+yourself, Pat.
+###--------
+###Script:7
+###Mugshot:Pat
+Thanks.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Today really wore me out.
+I think it's about time
+to head home.
+###--------

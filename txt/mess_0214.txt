@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0214
+###Script:0
+###Mugshot:1
+We got all the Star Lights.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Now what?
+###--------
+###Script:2
+###Mugshot:PegasusMagicShadow
+Patience...
+###--------
+###Mugshot:PegasusMagicShadow
+Next...
+###--------
+###Script:3
+###Mugshot:PegasusMagicShadow
+I will be your opponent.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+If you can defeat me,
+then the power of the
+stars is yours.
+###--------
+###Script:4
+###Mugshot:DragonSkyShadow
+Patience...
+###--------
+###Mugshot:DragonSkyShadow
+Next...
+###--------
+###Script:5
+###Mugshot:DragonSkyShadow
+I will be your opponent.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+If you can defeat me,
+then the power of the
+stars is yours.
+###--------
+###Script:6
+###Mugshot:LeoKingdomShadow
+Patience...
+###--------
+###Mugshot:LeoKingdomShadow
+Next...
+###--------
+###Script:7
+###Mugshot:LeoKingdomShadow
+I will be your opponent.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+If you can defeat me,
+then the power of the
+stars is yours.
+###--------
+###Script:8
+###Mugshot:OmegaXis
+We're no weaklings.
+###--------
+###Mugshot:OmegaXis
+We'll win. And then you'll see
+what we're really made of.
+###--------
+###Script:9
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Do not assume me to be the
+same as the Star Guardians.
+###--------
+###Script:10
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Do not assume me to be the
+same as the Star Guardians.
+###--------
+###Script:11
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Do not assume me to be the
+same as the Star Guardians.
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Here he comes, Geo!!
+###--------
+###Script:13
+###Mugshot:1
+Roger!
+###--------

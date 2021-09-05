@@ -1,0 +1,23 @@
+﻿###TextArchive:mess_1029
+###Script:50
+###Mugshot:4
+LOOK LEFT,
+LOOK RIGHT...
+###--------
+###Mugshot:4
+LOOK LEFT,
+LOOK RIGHT...
+###--------
+###Mugshot:4
+AAAAALL CLEAR!
+###--------
+###Script:55
+###Mugshot:4
+MRS. STELAR'S SAFETY...
+NO... I MEAN THE SAFETY
+OF THIS HOUSE
+###--------
+###Mugshot:4
+IS MY PRIMARY
+RESPONSIBILITY!
+###--------

@@ -1,0 +1,79 @@
+﻿###TextArchive:mess_0458
+###Script:0
+###Mugshot:0
+I'd better tell Mom I'm home...
+###--------
+###Script:1
+###Mugshot:0
+I'd better go say hi to Mom...
+###--------
+###Script:10
+###Mugshot:Hope
+Oh, what's wrong?
+###--------
+###Mugshot:Hope
+The fridge? Oh, that's right.
+It's been acting really funny.
+###--------
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+I wonder what could be
+the matter...
+###--------
+###Script:11
+###Mugshot:Hope
+The fridge has been
+acting really funny...
+###--------
+###Mugshot:Hope
+I wonder what could be
+the matter...
+###--------
+###Script:12
+###Mugshot:Hope
+Oh! The fridge is fixed?
+###--------
+###Mugshot:Hope
+That's wonderful!
+Thank you, Geo!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=65
+###--------
+###Mugshot:Hope
+I hope you're hungry for
+dinner tonight!
+###--------
+###Script:13
+###Mugshot:Hope
+I hope you're hungry for
+dinner tonight!
+###--------
+###Script:20
+###Mugshot:Hope
+Oh, Geo!
+What's the matter?
+###--------
+###Mugshot:Hope
+The secret of what?
+Cooking?
+###--------
+###Mugshot:Hope
+OK, take this.
+It might come in handy.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=52
+###--------
+###Mugshot:Hope
+It's one of a kind!
+*giggle*
+###--------
+###Script:21
+###Mugshot:Hope
+It's one of a kind!
+*giggle*
+###--------

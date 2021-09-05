@@ -1,0 +1,1281 @@
+###TextArchive:mess_0013
+###Script:0
+MegaBuster  
+MegaBuster  
+MegaBuster  
+###--------
+###Script:1
+Cannon atk  
+1 emy.      
+            
+###--------
+###Script:2
+Cannon atk  
+1 emy. Knock
+bck 1 sqr.  
+###--------
+###Script:3
+Cannon atk  
+1 emy. Knock
+bck 2 sqrs. 
+###--------
+###Script:4
+Atk and     
+paralyze    
+1 enemy.    
+###--------
+###Script:5
+If atk hits,
+splt into V,
+paralyze.   
+###--------
+###Script:6
+If atk hits,
+splt into X,
+paralyze.   
+###--------
+###Script:7
+4-shot atk. 
+Knocks emy  
+way back.   
+###--------
+###Script:8
+5-shot atk. 
+Knocks emy  
+way back.   
+###--------
+###Script:9
+6-shot atk. 
+Knocks emy  
+way back.   
+###--------
+###Script:10
+3-shot atk. 
+Spreads dmg 
+to adj pnls.
+###--------
+###Script:11
+Missile atk.
+Targts None 
+elm. enmies.
+###--------
+###Script:12
+Missl atk if
+emy HP tens 
+dgt is even.
+###--------
+###Script:13
+Missl atk if
+emy has a   
+status.     
+###--------
+###Script:14
+Lob a fire  
+bomb at your
+enemy!      
+###--------
+###Script:15
+Lob a fire  
+bomb at your
+enemy!      
+###--------
+###Script:16
+Lob a fire  
+bomb at your
+enemy!      
+###--------
+###Script:17
+Shower near-
+est emy's   
+row w/ ice! 
+###--------
+###Script:18
+Shower near-
+est emy's   
+row w/ ice! 
+###--------
+###Script:19
+Shower near-
+est emy's   
+row w/ ice! 
+###--------
+###Script:20
+Punch and   
+paralyze emy
+in front!   
+###--------
+###Script:21
+Punch and HP
+bug emy in  
+frnt of you!
+###--------
+###Script:22
+Punch and   
+freez emy in
+frnt of you!
+###--------
+###Script:23
+Cuts emy in 
+frnt of you!
+            
+###--------
+###Script:24
+Cuts enmies 
+in row in   
+frnt of you!
+###--------
+###Script:25
+Cuts emy in 
+frnt of you.
+Rnge:2 sqrs.
+###--------
+###Script:26
+Fire swrd   
+cuts emy in 
+row in frnt.
+###--------
+###Script:27
+Aqua swrd   
+cuts emy in 
+row in frnt.
+###--------
+###Script:28
+Elec swrd   
+cut 'n prlyz
+emy in row. 
+###--------
+###Script:29
+Wood swrd   
+cuts emy in 
+row in frnt.
+###--------
+###Script:30
+Diag. saber 
+atk. Cuts   
+thru shield.
+###--------
+###Script:31
+Piercing atk
+can change  
+direc. once.
+###--------
+###Script:32
+Piercing atk
+can change  
+direc. once.
+###--------
+###Script:33
+Piercing atk
+can change  
+direc. once.
+###--------
+###Script:34
+Piercing    
+strght line 
+rush atk.   
+###--------
+###Script:35
+Piercing    
+strght line 
+rush atk.   
+###--------
+###Script:36
+Piercing    
+strght line 
+rush atk.   
+###--------
+###Script:37
+If hits,sprd
+dmg to pnls 
+in + shape. 
+###--------
+###Script:38
+If hits,sprd
+dmg to pnls 
+in X shape. 
+###--------
+###Script:39
+If hits,sprd
+dmg to all  
+adj. pnls.  
+###--------
+###Script:40
+Radiating   
+sound atk.  
+Confuse emy.
+###--------
+###Script:41
+Radiating   
+sound atk.  
+Paralyzes.  
+###--------
+###Script:42
+Radiating   
+sound atk.  
+Make HP bug.
+###--------
+###Script:43
+Far-reaching
+fire ring   
+boomerang.  
+###--------
+###Script:44
+Far-reaching
+fire ring   
+boomerang.  
+###--------
+###Script:45
+Far-reaching
+fire ring   
+boomerang.  
+###--------
+###Script:46
+Set bomb 2  
+pnls ahead. 
+3 sec timer.
+###--------
+###Script:47
+Set bomb 2  
+pnls ahead. 
+3 sec timer.
+###--------
+###Script:48
+Set bomb 2  
+pnls ahead. 
+3 sec timer.
+###--------
+###Script:49
+Hit emy or  
+edg of scrn,
+dmg to row. 
+###--------
+###Script:50
+Hit emy or  
+edg of scrn,
+dmg to row. 
+###--------
+###Script:51
+Hit emy or  
+edg of scrn,
+dmg to row. 
+###--------
+###Script:52
+Atk 3 sqrs  
+ahead with  
+flamethrowr.
+###--------
+###Script:53
+Atk 3 sqrs  
+ahead with  
+flamethrowr.
+###--------
+###Script:54
+Atk 3 sqrs  
+ahead with  
+flamethrowr.
+###--------
+###Script:55
+Send out a  
+wave a row  
+wide!       
+###--------
+###Script:56
+Send out a  
+wave a row  
+wide!       
+###--------
+###Script:57
+Send out a  
+wave a row  
+wide!       
+###--------
+###Script:58
+Encase 3    
+rows of emy 
+in bubbles. 
+###--------
+###Script:59
+Encase 3    
+rows of emy 
+in bubbles. 
+###--------
+###Script:60
+Encase 3    
+rows of emy 
+in bubbles. 
+###--------
+###Script:61
+If hit emy, 
+adj pnls trn
+into grass. 
+###--------
+###Script:62
+If hit emy, 
+adj pnls trn
+into ice.   
+###--------
+###Script:63
+If hit emy, 
+adj pnls trn
+into poison.
+###--------
+###Script:64
+Rain dmg    
+where emy   
+is standing.
+###--------
+###Script:65
+Rain dmg    
+where emy   
+is standing.
+###--------
+###Script:66
+Rain dmg    
+where emy   
+is standing.
+###--------
+###Script:67
+Reach emy or
+edg of scrn,
+shock adj.  
+###--------
+###Script:68
+Reach emy or
+edg of scrn,
+shock adj.  
+###--------
+###Script:69
+Reach emy or
+edg of scrn,
+shock adj.  
+###--------
+###Script:70
+Slow,targtng
+Elec atk.   
+Paralyzes.  
+###--------
+###Script:71
+Slow,targtng
+Elec atk.   
+Paralyzes.  
+###--------
+###Script:72
+Slow,targtng
+Elec atk.   
+Paralyzes.  
+###--------
+###Script:73
+A Button to 
+stop cursor.
+3-shot Elec.
+###--------
+###Script:74
+A Button to 
+stop cursor.
+3-shot Elec.
+###--------
+###Script:75
+A Button to 
+stop cursor.
+3-shot Elec.
+###--------
+###Script:76
+Kck 3 times.
+Near enmies.
+Cause blind.
+###--------
+###Script:77
+Kck 3 times.
+Near enmies.
+Cause blind.
+###--------
+###Script:78
+Kck 3 times.
+Near enmies.
+Cause blind.
+###--------
+###Script:79
+Giant hammer
+hits for 2  
+rows ahead. 
+###--------
+###Script:80
+Giant hammer
+hits for 2  
+rows ahead. 
+###--------
+###Script:81
+Giant hammer
+hits for 2  
+rows ahead. 
+###--------
+###Script:82
+Spear attack
+3 squares in
+front.      
+###--------
+###Script:83
+Spear attack
+3 squares in
+front.      
+###--------
+###Script:84
+Spear attack
+3 squares in
+front.      
+###--------
+###Script:85
+Counter w/  
+WideSword   
+when a Fokx.
+###--------
+###Script:86
+Counter w/  
+WideSword   
+when a Fokx.
+###--------
+###Script:87
+Counter w/  
+WideSword   
+when a Fokx.
+###--------
+###Script:88
+9-shot atk  
+across 3    
+columns!    
+###--------
+###Script:89
+9-shot atk  
+across 3    
+columns!    
+###--------
+###Script:90
+9-shot atk  
+across 3    
+columns!    
+###--------
+###Script:91
+Cut 2 sqrs  
+forward and 
+knock back! 
+###--------
+###Script:92
+Cut 2 sqrs  
+forward and 
+knock back! 
+###--------
+###Script:93
+Cut 2 sqrs  
+forward and 
+knock back! 
+###--------
+###Script:94
+Put jnk cube
+2 sqrs ahed.
+Atk row/col.
+###--------
+###Script:95
+Put jnk cube
+2 sqrs ahed.
+Atk row/col.
+###--------
+###Script:96
+Put jnk cube
+2 sqrs ahed.
+Atk row/col.
+###--------
+###Script:97
+Lft hook all
+of the same 
+type of emy.
+###--------
+###Script:98
+Lft hook all
+of the same 
+type of emy.
+###--------
+###Script:99
+Lft hook all
+of the same 
+type of emy.
+###--------
+###Script:100
+While Lu-   
+Pelvis sings
+take no dmg.
+###--------
+###Script:101
+While Lupi- 
+Natra sings 
+emy no move.
+###--------
+###Script:102
+While Lupa- 
+Donna sings 
+emy confu.  
+###--------
+###Script:103
+Moai fall   
+randmly onto
+enemy heads!
+###--------
+###Script:104
+Moai fall   
+randmly onto
+enemy heads!
+###--------
+###Script:105
+Moai fall   
+randmly onto
+enemy heads!
+###--------
+###Script:106
+Swing ax    
+thru 3x2    
+squares.    
+###--------
+###Script:107
+Swing ax    
+thru 3x2    
+squares.    
+###--------
+###Script:108
+Swing ax    
+thru 3x2    
+squares.    
+###--------
+###Script:109
+Mgc crystal 
+shoots fire 
+at enemies. 
+###--------
+###Script:110
+Mgc crystal 
+shoots water
+at enemies. 
+###--------
+###Script:111
+Mgc crystal 
+shoots elec.
+at enemies. 
+###--------
+###Script:112
+Emy w/ less 
+than 100 HP 
+are deleted.
+###--------
+###Script:113
+Emy w/ less 
+than 130 HP 
+are deleted.
+###--------
+###Script:114
+Emy w/ less 
+than 160 HP 
+are deleted.
+###--------
+###Script:115
+Wild 3-slash
+sword       
+attack.     
+###--------
+###Script:116
+Wild 3-slash
+sword       
+attack.     
+###--------
+###Script:117
+Wild 3-slash
+sword       
+attack.     
+###--------
+###Script:118
+Atk using   
+grass pnls  
+on field.   
+###--------
+###Script:119
+Atk using   
+ice pnls    
+on field.   
+###--------
+###Script:120
+Atk using   
+poison pnls 
+on field.   
+###--------
+###Script:121
+Spin twice, 
+hit adj pnls
+with wind!  
+###--------
+###Script:122
+Jammer come 
+1 sqr ahd of
+you to pnch!
+###--------
+###Script:123
+2 Jammers,5-
+shots where 
+you aren't! 
+###--------
+###Script:124
+Call all    
+enemies     
+to you.     
+###--------
+###Script:125
+Blow up all 
+obstcls,dmg 
+adj pnls.   
+###--------
+###Script:126
+Matchs only.
+Use swrd crd
+trap sprngs!
+###--------
+###Script:127
+Recover     
+10 HP.      
+            
+###--------
+###Script:128
+Recover     
+30 HP.      
+            
+###--------
+###Script:129
+Recover     
+50 HP.      
+            
+###--------
+###Script:130
+Recover     
+80 HP.      
+            
+###--------
+###Script:131
+Recover     
+120 HP.     
+            
+###--------
+###Script:132
+Recover     
+150 HP.     
+            
+###--------
+###Script:133
+Recover     
+200 HP.     
+            
+###--------
+###Script:134
+Recover     
+300 HP.     
+            
+###--------
+###Script:135
+Barrier     
+absorbs     
+10 HP dmg.  
+###--------
+###Script:136
+Barrier     
+absorbs     
+100 HP dmg. 
+###--------
+###Script:137
+Barrier     
+absorbs     
+200 HP dmg. 
+###--------
+###Script:138
+Absorbs all 
+dmg less    
+than 100.   
+###--------
+###Script:139
+Temp invis. 
+Most atks   
+ineffective.
+###--------
+###Script:140
+Matchs only.
+Use elem crd
+trap sprngs!
+###--------
+###Script:141
+Matchs only.
+Use recv crd
+trap sprngs!
+###--------
+###Script:142
+Matchs only.
+Summon card,
+trap sprngs!
+###--------
+###Script:143
+Matchs only.
+Use Giga crd
+trap sprngs!
+###--------
+###Script:144
+Farthest 3x3
+pnls change 
+into grass. 
+###--------
+###Script:145
+Farthest 3x3
+pnls change 
+into ice.   
+###--------
+###Script:146
+Farthest 3x3
+pnls Gravi; 
+emy no move.
+###--------
+###Script:147
+Enemy can't 
+guard on far
+3x3 panels. 
+###--------
+###Script:148
+Current pnl 
+becomes 1/2 
+dmg HolyPnl!
+###--------
+###Script:149
+If previous 
+is atk card,
+add paralyz.
+###--------
+###Script:150
+If previous 
+is atk card,
++10 to atk. 
+###--------
+###Script:151
+LunarKnights
+Light shots 
+splt into V.
+###--------
+###Script:152
+LunarKnights
+Light shots 
+splt into V.
+###--------
+###Script:153
+LunarKnights
+Light shots 
+splt into V.
+###--------
+###Script:154
+LunarKnights
+Cuts row in 
+frnt & side.
+###--------
+###Script:155
+LunarKnights
+Cuts row in 
+frnt & side.
+###--------
+###Script:156
+LunarKnights
+Cuts row in 
+frnt & side.
+###--------
+###Script:157
+Terrennial! 
+Flame atk on
+emy in frnt.
+###--------
+###Script:158
+Terrennial! 
+Flame atk on
+emy in frnt.
+###--------
+###Script:159
+Terrennial! 
+Flame atk on
+emy in frnt.
+###--------
+###Script:160
+Terrennial! 
+Rain rcks on
+far 9 panls.
+###--------
+###Script:161
+Terrennial! 
+Rain rcks on
+far 9 panls.
+###--------
+###Script:162
+Terrennial! 
+Rain rcks on
+far 9 panls.
+###--------
+###Script:163
+Terrennial! 
+Tornado from
+nearest emy.
+###--------
+###Script:164
+Terrennial! 
+Tornado from
+nearest emy.
+###--------
+###Script:165
+Terrennial! 
+Tornado from
+nearest emy.
+###--------
+###Script:166
+Terrennial! 
+3 icicles   
+frz enmies. 
+###--------
+###Script:167
+Terrennial! 
+3 icicles   
+frz enmies. 
+###--------
+###Script:168
+Terrennial! 
+3 icicles   
+frz enmies. 
+###--------
+###Script:169
+Speeds up   
+Custm Gauge.
+            
+###--------
+###Script:170
+Slows down  
+Custm Gauge.
+            
+###--------
+###Script:171
+
+
+
+###--------
+###Script:172
+
+
+
+###--------
+###Script:173
+
+
+
+###--------
+###Script:174
+
+
+
+###--------
+###Script:175
+
+
+
+###--------
+###Script:176
+
+
+
+###--------
+###Script:177
+
+
+
+###--------
+###Script:178
+
+
+
+###--------
+###Script:179
+
+
+
+###--------
+###Script:180
+
+
+
+###--------
+###Script:181
+TaurusFire  
+covers field
+in flames!  
+###--------
+###Script:182
+TaurusFire  
+covers field
+in flames!  
+###--------
+###Script:183
+TaurusFire  
+covers field
+in flames!  
+###--------
+###Script:184
+CygnusWing  
+dances round
+field edge! 
+###--------
+###Script:185
+CygnusWing  
+dances round
+field edge! 
+###--------
+###Script:186
+CygnusWing  
+dances round
+field edge! 
+###--------
+###Script:187
+5-shot if in
+frnt of emy.
+3 if not.   
+###--------
+###Script:188
+5-shot if in
+frnt of emy.
+3 if not.   
+###--------
+###Script:189
+5-shot if in
+frnt of emy.
+3 if not.   
+###--------
+###Script:190
+2-hit Fire, 
+Aqua on last
+and 1st row.
+###--------
+###Script:191
+2-hit Fire, 
+Aqua on last
+and 1st row.
+###--------
+###Script:192
+2-hit Fire, 
+Aqua on last
+and 1st row.
+###--------
+###Script:193
+2 columns   
+atk. Left 2 
+if frm cntr.
+###--------
+###Script:194
+2 columns   
+atk. Left 2 
+if frm cntr.
+###--------
+###Script:195
+2 columns   
+atk. Left 2 
+if frm cntr.
+###--------
+###Script:196
+GeminiSpark 
+tagteam pnch
+and slice!  
+###--------
+###Script:197
+GeminiSpark 
+tagteam pnch
+and slice!  
+###--------
+###Script:198
+GeminiSpark 
+tagteam pnch
+and slice!  
+###--------
+###Script:199
+From nearest
+enemy,3x2   
+tidal wave! 
+###--------
+###Script:200
+From nearest
+enemy,3x2   
+tidal wave! 
+###--------
+###Script:201
+From nearest
+enemy,3x2   
+tidal wave! 
+###--------
+###Script:202
+Dart to emy,
+slice row,  
+then upper! 
+###--------
+###Script:203
+Dart to emy,
+slice row,  
+then upper! 
+###--------
+###Script:204
+Dart to emy,
+slice row,  
+then upper! 
+###--------
+###Script:205
+2nd to last 
+row center,X
+lightng atk.
+###--------
+###Script:206
+2nd to last 
+row center,X
+lightng atk.
+###--------
+###Script:207
+2nd to last 
+row center,X
+lightng atk.
+###--------
+###Script:208
+Shoots Frost
+Missiles dwn
+all columns.
+###--------
+###Script:209
+Shoots Frost
+Missiles dwn
+all columns.
+###--------
+###Script:210
+Shoots Frost
+Missiles dwn
+all columns.
+###--------
+###Script:211
+Set the far 
+3x2 panels  
+on fire!    
+###--------
+###Script:212
+Set the far 
+3x2 panels  
+on fire!    
+###--------
+###Script:213
+Set the far 
+3x2 panels  
+on fire!    
+###--------
+###Script:214
+Flowring atk
+on centr col
+and bck row.
+###--------
+###Script:215
+Flowring atk
+on centr col
+and bck row.
+###--------
+###Script:216
+Flowring atk
+on centr col
+and bck row.
+###--------
+###Script:217
+
+
+
+###--------
+###Script:218
+
+
+
+###--------
+###Script:219
+
+
+
+###--------
+###Script:220
+
+
+
+###--------
+###Script:221
+
+
+
+###--------
+###Script:222
+
+
+
+###--------
+###Script:223
+
+
+
+###--------
+###Script:224
+
+
+
+###--------
+###Script:225
+
+
+
+###--------
+###Script:226
+
+
+
+###--------
+###Script:227
+
+
+
+###--------
+###Script:228
+
+
+
+###--------
+###Script:229
+
+
+
+###--------
+###Script:230
+
+
+
+###--------
+###Script:231
+Pegasus     
+Freeze far  
+3x3 panels! 
+###--------
+###Script:232
++50 atk pwr 
+to Aqua elm 
+cards.      
+###--------
+###Script:233
+OxTackle    
+all enemies 
+in 1 column.
+###--------
+###Script:234
+Set unblock-
+able bmb atk
+2 pnls ahd. 
+###--------
+###Script:235
+Cut frnt 3x2
+pnls,become 
+poisn pnls. 
+###--------
+###Script:236
+Leo Blazer  
+far 3x3     
+panels!     
+###--------
+###Script:237
++50 atk pwr 
+to Fire elm 
+cards.      
+###--------
+###Script:238
+Gemini      
+Thunder     
+centr colmn!
+###--------
+###Script:239
+Del if below
+250HP:virus,
+500HP:boss. 
+###--------
+###Script:240
+Absorbs all 
+dmg less    
+than 200.   
+###--------
+###Script:241
+Dragon      
+Cyclone far 
+3x3 panels! 
+###--------
+###Script:242
++50 atk pwr 
+to Wood elm 
+cards.      
+###--------
+###Script:243
+Shoot a     
+laser beam  
+dwn a colmn.
+###--------
+###Script:244
+Hit all     
+enemies on  
+normal pnls.
+###--------
+###Script:245
+Put Phar 2  
+pnls ahd and
+poison all! 
+###--------
+###Script:246
+
+
+
+###--------
+###Script:247
+3 missl atk,
+laser down  
+center row. 
+###--------
+###Script:248
+
+
+
+###--------
+###Script:249
+
+
+
+###--------
+###Script:250
+
+
+
+###--------
+###Script:251
+Substitutes 
+1 StdCard in
+CardTrader★.
+###--------
+###Script:252
+Become Ice  
+Pegasus w/  
+Pegsus' pwr!
+###--------
+###Script:253
+Become Fire 
+Leo w/ Leo's
+power!      
+###--------
+###Script:254
+Become Green
+Dragon w/   
+Dragn's pwr!
+###--------
+###Script:255
+
+
+
+###--------

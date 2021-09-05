@@ -1,0 +1,78 @@
+﻿###TextArchive:mess_0555
+###Script:0
+The desks all have built-in
+computers.
+###--------
+Just about every school
+has these.
+###--------
+###Script:1
+The teacher's podium.
+It looks like an ordinary
+podium.
+###--------
+###--------
+But it has a secret that
+only the homeroom teacher
+knows.
+###--------
+###Script:2
+A speaker control panel.
+###--------
+###Script:3
+A chalkboard.
+###--------
+They call it that, but no
+one uses chalk...
+###--------
+###Script:4
+A very large speaker.
+###--------
+###Script:5
+An aloe plant.
+###--------
+These are also known as
+medicine plants.
+###--------
+###Script:6
+A soccer ball.
+###++++++++
+Yup, it's a soccer ball.
+###--------
+###Script:7
+The control panel for the
+display.
+###--------
+Right now the display is
+showing a graph.
+###--------
+###Script:8
+A copy of
+Newsmonth Magazine.
+###--------
+###--------
+There was a feature story
+written about Echo Ridge!
+I wonder who left it here.
+###--------
+###Script:9
+Fish on Creature Vision:
+###--------
+The fish on this monitor
+are not real.
+###--------
+###Script:10
+Creature Vision control panel.
+###--------
+###Script:11
+This links all the school
+computers together.
+###--------
+###Script:12
+This is part of the stage
+set for the play.
+###--------
+###Script:13
+These boxes contain props
+for the play.
+###--------

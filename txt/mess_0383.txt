@@ -1,0 +1,194 @@
+﻿###TextArchive:mess_0383
+###Script:0
+Temp message
+###--------
+###Script:5
+###Mugshot:0
+Guess I'll head on up to
+Vista Point.
+###--------
+###Script:6
+###Mugshot:0
+The stars should be coming
+out pretty soon...
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Hurry! Go to the wavehole
+and push the R Button!
+###--------
+###Script:8
+###Mugshot:OmegaXis
+Stop stalling! Get in there
+and kick some virus!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+C'mon. Let's talk to some
+humans already!
+###--------
+###Script:11
+###Mugshot:OmegaXis
+I wanna look at some
+Transers. Find a wavehole!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Let's go back to the
+Wave World and lookit
+Transers!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Something reeks of an
+alien around here...
+###--------
+###Script:14
+###Mugshot:OmegaXis
+Let's go back home for now!
+###--------
+###Script:15
+###Mugshot:OmegaXis
+You got a lot to learn.
+But for now, get some sleep.
+###--------
+###Script:16
+###Mugshot:OmegaXis
+C'mon, let's go meet
+some humans!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+Today too? You sure love
+Vista Point, don't you?
+###--------
+###Script:21
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If something doesn't feel
+right, then you shouldn't
+go up to Vista Point!
+###--------
+###Script:22
+###Mugshot:OmegaXis
+That girl sure is annoying!
+Not my type one bit!
+###--------
+###Mugshot:OmegaXis
+Let's go home and get
+some rest.
+###--------
+###Script:23
+###Mugshot:OmegaXis
+You wanna stop that
+truck, right?
+###--------
+###Mugshot:OmegaXis
+Well, you can't do that
+here in the Real World!
+###--------
+###Script:24
+###Mugshot:OmegaXis
+The FM-ian is inside the
+Truck Comp!
+###--------
+###Mugshot:OmegaXis
+You're not turning chicken
+on me, are you?
+###--------
+###Script:25
+###Mugshot:OmegaXis
+Back to the Truck Comp!
+###--------
+###Script:27
+###Mugshot:OmegaXis
+You're gonna stargaze
+again, are you?
+###--------
+###Mugshot:OmegaXis
+Don't you ever tire of
+looking at the stars?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+Whaddaya say we call
+it a day?
+###--------
+###Script:31
+###Mugshot:OmegaXis
+Let's go look for that
+help signal!
+###--------
+###Script:32
+###Mugshot:OmegaXis
+That guy with the wings?
+###--------
+###Mugshot:OmegaXis
+He didn't look like the
+type of guy to lend a
+helping hand...
+###--------
+###Script:33
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You need something to reach
+high places, right? How about
+asking someone else?
+###--------
+###Script:34
+###Mugshot:OmegaXis
+C'mon, let's buy that drink!
+###--------
+###Script:35
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's check out the
+vending machine's Comp!
+Pulse in, Geo!
+###--------
+###Script:36
+###Mugshot:OmegaXis
+The vending machine should
+be fixed now!
+###--------
+###Script:37
+###Mugshot:OmegaXis
+Let's trade this for that
+RC chopper!
+###--------
+###Script:38
+###Mugshot:OmegaXis
+Let's go get that ball down!
+###--------
+###Script:39
+###Mugshot:OmegaXis
+Let's get back to the house!
+###--------
+###Script:40
+###Mugshot:OmegaXis
+C'mon, let's get on
+back home.
+###--------
+###Mugshot:OmegaXis
+Let's get some rest!
+###--------
+###Script:41
+###Mugshot:OmegaXis
+Let's get some rest!
+###--------
+###Script:42
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The guy who fell from the
+sky back there...
+I bet he's still there.
+###--------
+###Script:45
+###Mugshot:OmegaXis
+You're supposed to take
+a bus to AMAKEN, right?
+###--------

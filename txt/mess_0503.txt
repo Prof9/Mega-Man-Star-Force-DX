@@ -1,0 +1,87 @@
+﻿###TextArchive:mess_0503
+###Script:0
+###Mugshot:12
+Phew. A quiet AMAKEN once
+in a while isn't bad.
+###--------
+###Script:5
+###Mugshot:12
+Hmm, what should I do
+today...?
+###--------
+###Script:10
+###Mugshot:12
+Eeek...
+###--------
+###Script:11
+###Mugshot:12
+I have a strong fear of
+the dark...
+###--------
+###Script:15
+###Mugshot:12
+###--------
+###Mugshot:12
+Owwwww!!
+My head!!
+###--------
+###Script:100
+###Mugshot:FighterNavi
+I deliver info to the
+registration Comp,
+###--------
+###Mugshot:FighterNavi
+and have I got some great
+info for it today!
+###--------
+###Script:105
+###Mugshot:FighterNavi
+You've got to know how to
+read the currents if you're
+gonna get good info
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+from fishing in the sea of
+information!
+###--------
+###Script:110
+###Mugshot:FighterNavi
+I don't so... feel... well... very...
+###--------
+###Mugshot:FighterNavi
+Playing with waves messed
+with me...
+###--------
+###Script:115
+###Mugshot:FighterNavi
+Oof... I'm so dizzy...
+###--------
+###Script:120
+###Mugshot:FighterNavi
+I'm delivering data from the
+lab right now!
+###--------
+###Mugshot:FighterNavi
+Please don't get in my way!
+###--------
+###Script:125
+###Mugshot:FighterNavi
+I'm delivering really sensitive
+data right now.
+###--------
+###Mugshot:FighterNavi
+There'd be big trouble if this
+got deleted!
+###--------
+###Script:130
+###Mugshot:FighterNavi
+The data I'm delivering...
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+It's pretty top secret stuff.
+I've gotta be real careful.
+###--------

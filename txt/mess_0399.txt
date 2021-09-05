@@ -1,0 +1,25 @@
+﻿###TextArchive:mess_0399
+###Script:0
+Temp message
+###--------
+###Script:20
+Temp message
+###--------
+###Script:25
+###Mugshot:0
+That FM-ian is somewhere
+in here, right...?
+###--------
+###Script:26
+###Mugshot:0
+I-I wonder if I can really
+beat an FM-ian.
+###--------
+###Script:30
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Things seem to be pretty
+unaffected by that
+Taurus Fire incident.
+###--------

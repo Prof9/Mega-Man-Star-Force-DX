@@ -1,0 +1,22 @@
+﻿###TextArchive:mess_0479
+###Script:0
+###Mugshot:2
+Sonia! Sonia!
+You're the best!
+###--------
+###Mugshot:2
+I love you more than
+all the rest!
+###--------
+###Mugshot:2
+Alright, I got my cheer
+for Sonia down pat!
+###--------
+###Script:5
+###Mugshot:2
+The concert is finally here!!
+###--------
+###Mugshot:2
+Oh, I can't wait!
+I'm so looking forward to it!
+###--------

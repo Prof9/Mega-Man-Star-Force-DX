@@ -1,0 +1,123 @@
+﻿###TextArchive:mess_0702
+###Script:0
+###Mugshot:1
+I REALLY HOPE
+EVERYONE'S OK!!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Don't worry! Give me a few
+clues about what they're like
+and leave the rest to me!
+###--------
+###Mugshot:1
+LET'S SEE...
+THE ONES ON THIS SIDE...
+###--------
+###Mugshot:1
+I THINK ONE LIKES STARS...
+###--------
+###Mugshot:1
+THE OTHER WAS...
+DISMANTLING THE NEWEST
+ELECTRONIC GADGETS.
+###--------
+###Script:1
+###Mugshot:1
+LET'S SEE...
+THE ONES ON THIS SIDE...
+###--------
+###Mugshot:1
+I THINK ONE LIKES STARS...
+###--------
+###Mugshot:1
+THE OTHER WAS...
+DISMANTLING THE NEWEST
+ELECTRONIC GADGETS.
+###--------
+###Script:2
+###Mugshot:1
+###--------
+###Mugshot:1
+THE STRANGE WAVE IN
+THE BACK ISN'T YOUR
+AVERAGE WAVE, IS HE?
+###--------
+###Script:3
+###Mugshot:1
+I THINK THERE'S STILL
+SOMETHING BURIED...
+###--------
+###Mugshot:1
+WHY DON'T YOU TRY TO
+FIND IT WITH SONAR?
+###--------
+###Script:4
+###Mugshot:1
+I THINK YOU'VE
+UNEARTHED EVERYTHING.
+###--------
+###Script:5
+###Mugshot:1
+AAH! MY FRIENDS!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Don't worry! I'll find them!
+What should I look out for?
+###--------
+###Mugshot:1
+LET'S SEE...
+THE ONES ON THIS SIDE...
+###--------
+###Mugshot:1
+THERE WAS ONE GUY
+WORKING BY THE HOLES...
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+AND THE OTHER...
+I WANT TO SAY... SOMETHING
+ABOUT METTENNAS??
+###--------
+###Script:6
+###Mugshot:1
+LET'S SEE...
+THE ONES ON THIS SIDE...
+###--------
+###Mugshot:1
+THERE WAS ONE GUY
+WORKING BY THE HOLES...
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+AND THE OTHER...
+I WANT TO SAY... SOMETHING
+ABOUT METTENNAS??
+###--------
+###Script:7
+###Mugshot:1
+THE STRANGE WAVE IS
+BACK THERE.
+###--------
+###Mugshot:1
+GO GET HIM!
+###--------
+###Script:8
+###Mugshot:1
+I THINK THERE'S STILL
+SOMETHING BURIED...
+###--------
+###Mugshot:1
+WHY DON'T YOU TRY TO
+FIND IT WITH SONAR?
+###--------
+###Script:9
+###Mugshot:1
+I THINK YOU'VE
+UNEARTHED EVERYTHING.
+###--------

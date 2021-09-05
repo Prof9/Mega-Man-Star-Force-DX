@@ -1,0 +1,163 @@
+﻿###TextArchive:mess_0495
+###Script:0
+A train is blocking the road!
+###--------
+###Script:2
+It's a cute flowerbed
+in bloom.
+###--------
+The little fence keeps
+people out.
+###--------
+###Script:4
+###--------
+It's a beautiful monument
+dedicated to the harmony
+between science and nature.
+###--------
+###Script:5
+I can see Echo Elementary
+from here...
+###--------
+###Script:6
+This lights up even the
+darkest nights.
+###--------
+###Script:8
+Gotta be really careful...
+It's a long way down.
+###--------
+###Script:11
+###Mugshot:0
+###--------
+###Mugshot:0
+I think Joe said in his
+Transer message that he hid
+something near this bench...
+###--------
+###Mugshot:0
+Hmm, what's this sparkling
+under here?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=62
+###--------
+###Mugshot:0
+Now I can use the pitching
+machine, I think.
+###--------
+###Script:12
+A bench...
+###--------
+Yup, it's a bench alright...
+###--------
+###Script:14
+It's a train.
+###--------
+I heard people long ago
+used to ride these.
+###--------
+###Script:20
+###Mugshot:0
+I'd be able to bean the old
+man with a ball from the
+shadows
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+with this pitching machine...
+If I could get it to work...
+###--------
+###Mugshot:0
+But it's locked down tight.
+###--------
+###Mugshot:0
+Hmm?
+What's this?
+###--------
+###Mugshot:0
+"Echo Elementary School Joe"
+###--------
+###Mugshot:0
+Sounds like the owner of
+this thing!
+###--------
+###Mugshot:0
+If I can find him, maybe
+he'll let me use this!
+###--------
+###Script:21
+###Mugshot:0
+OK, let's try the pitching
+card out...
+###--------
+Geo used:
+"<printItem>"!
+###Command:printItem item=62
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Well, the power is on...
+but it's not responding
+to me at all.
+###--------
+###Mugshot:OmegaXis
+Probably EM viruses.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You're gonna have to go
+into the Wave World and
+check it out, kid.
+###--------
+###Mugshot:0
+...I'm so not looking forward
+to that...
+###--------
+###Script:22
+It's a pitching machine.
+###--------
+As long as it's locked,
+I can't use it.
+###--------
+###Script:23
+It's got power, but it's
+not responding...
+###--------
+###Script:24
+It's a pitching machine.
+###--------
+###--------
+If I can get this to work,
+I could serve up a real
+fastball.
+###--------
+###Script:25
+It's a pitching machine with
+a wicked fastball.
+###--------
+###Script:30
+It's Vista Point's very own
+telescope.
+###--------
+People say it can see
+real far out into space.
+###--------
+###Script:31
+It's Vista Point's very own
+telescope.
+###--------
+There's something next
+to it on the ground.
+###--------
+Geo got
+"500 Zennys"!!
+###--------
+###Mugshot:0
+I wonder if this is the
+old man's money...
+###--------

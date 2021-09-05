@@ -1,0 +1,15 @@
+﻿###TextArchive:mess_0008
+###Script:0
+Edit    
+###--------
+###Script:1
+Equip   
+###--------
+###Script:2
+Chg Name
+###--------
+###Script:3
+###Mugshot:Geo
+Can't equip. Re-edit
+and then try again.
+###--------

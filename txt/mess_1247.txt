@@ -1,0 +1,326 @@
+﻿###TextArchive:mess_1247
+###Script:0
+Transer
+###--------
+###Script:1
+Visualizer
+###--------
+###Script:2
+Red Key
+###--------
+###Script:3
+Blue Key
+###--------
+###Script:4
+Yellow Key
+###--------
+###Script:5
+TetraKeyA
+###--------
+###Script:6
+TetraKeyB
+###--------
+###Script:7
+TetraKeyC
+###--------
+###Script:8
+TetraKeyD
+###--------
+###Script:9
+Juice
+###--------
+###Script:10
+RC Chopper
+###--------
+###Script:11
+Entry Pass
+###--------
+###Script:12
+Staff Pass
+###--------
+###Script:13
+Spacesuit
+###--------
+###Script:14
+Key Card
+###--------
+###Script:15
+PointedFangs
+###--------
+###Script:16
+SlashinClaws
+###--------
+###Script:17
+PorcuNeedle
+###--------
+###Script:18
+Bear Ring
+###--------
+###Script:19
+Cobra Fangs
+###--------
+###Script:20
+Blinding Eye
+###--------
+###Script:21
+ThiefsArmbnd
+###--------
+###Script:22
+Power Ring
+###--------
+###Script:23
+Demon's Eye
+###--------
+###Script:24
+Rapd-FireClw
+###--------
+###Script:25
+Paralyzer
+###--------
+###Script:26
+Bubble Fist
+###--------
+###Script:27
+Hammer Glove
+###--------
+###Script:28
+Zenny Finder
+###--------
+###Script:29
+Card Finder
+###--------
+###Script:30
+Sweet Mirage
+###--------
+###Script:31
+KaiserKnuckl
+###--------
+###Script:32
+Magic Breath
+###--------
+###Script:33
+FM Bracelet
+###--------
+###Script:34
+SF Power
+###--------
+###Script:35
+BN Blaster
+###--------
+###Script:36
+Starlight1
+###--------
+###Script:37
+Starlight2
+###--------
+###Script:38
+Starlight3
+###--------
+###Script:39
+Starlight4
+###--------
+###Script:40
+Starlight5
+###--------
+###Script:41
+Antidote
+###--------
+###Script:42
+Shovel Card
+###--------
+###Script:43
+Rescue Sonar
+###--------
+###Script:44
+Sour Soda
+###--------
+###Script:45
+Ham Sandwich
+###--------
+###Script:46
+Lightbulb
+###--------
+###Script:47
+Ring
+###--------
+###Script:48
+Floor Guide
+###--------
+###Script:49
+BaseballCard
+###--------
+###Script:50
+ShotStarCake
+###--------
+###Script:51
+ActionFigure
+###--------
+###Script:52
+Recipe
+###--------
+###Script:53
+Python
+###--------
+###Script:54
+King Snake
+###--------
+###Script:55
+Corn Snake
+###--------
+###Script:56
+Album
+###--------
+###Script:57
+Coby Burger
+###--------
+###Script:58
+Mystery Data
+###--------
+###Script:59
+Tropical Tea
+###--------
+###Script:60
+NAZA Data
+###--------
+###Script:61
+Note
+###--------
+###Script:62
+Pitcher Card
+###--------
+###Script:63
+Thermo Card
+###--------
+###Script:64
+RC Magazine
+###--------
+###Script:65
+ProtectCharm
+###--------
+###Script:66
+Invitation
+###--------
+###Script:67
+ScienceNotes
+###--------
+###Script:68
+Member Card
+###--------
+###Script:69
+Debut Album
+###--------
+###Script:70
+Handbook
+###--------
+###Script:71
+RC Scrapbook
+###--------
+###Script:72
+Quiz Book
+###--------
+###Script:73
+Eraser
+###--------
+###Script:74
+Love Book
+###--------
+###Script:75
+Dept. Flyer
+###--------
+###Script:76
+SnakeOrnamnt
+###--------
+###Script:77
+Gourmet Mag
+###--------
+###Script:78
+Blueprint
+###--------
+###Script:79
+Lonely Heart
+###--------
+###Script:80
+KelvinTransr
+###--------
+###Script:81
+Humor Buster
+###--------
+###Script:82
+PropelerCard
+###--------
+###Script:83
+Legend Proof
+###--------
+###Script:84
+Navi Chip
+###--------
+###Script:85
+Old Data
+###--------
+###Script:86
+Star Frag
+###--------
+###Script:87
+ColorChnge R
+###--------
+###Script:88
+DX Card
+###--------
+###Script:89
+ColorChnge G
+###--------
+###Script:96
+SmEnrgy
+###--------
+###Script:97
+LrgEnrgy
+###--------
+###Script:98
+D.Enrgy
+###--------
+###Script:99
+Unlocker
+###--------
+###Script:100
+Cloaker
+###--------
+###Script:101
+SrchEye
+###--------
+###Script:102
+SunKey
+###--------
+###Script:103
+PMegaHd
+###--------
+###Script:104
+DMegaBod
+###--------
+###Script:105
+LMegaLeg
+###--------
+###Script:106
+LEmblem
+###--------
+###Script:107
+## HPRecov
+Resurctv
+###--------
+###Script:108
+## PwrDrnk
+EndurFrt
+###--------
+###Script:109
+## StarFrag
+Meteorit
+###--------
+###Script:110
+## Alloy
+Lunastel
+###--------
+###Script:112
+HPMem10
+###--------
+###Script:113
+HPMem20
+###--------

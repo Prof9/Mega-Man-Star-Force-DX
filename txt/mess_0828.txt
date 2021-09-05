@@ -1,0 +1,5 @@
+﻿###TextArchive:mess_0828
+###Script:0
+This is the Comp Space's
+control panel.
+###--------

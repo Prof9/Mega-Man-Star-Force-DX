@@ -1,0 +1,80 @@
+﻿###TextArchive:mess_1142
+###Script:1
+###Mugshot:MegaMan
+There's an EM wave ball!
+###--------
+###Mugshot:OmegaXis
+Let's smash it!
+###--------
+###Script:2
+###Mugshot:MegaMan
+Ah! An EM wave ball!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+That's gotta be the
+source of the noise
+in the broadcast!
+###--------
+###Mugshot:OmegaXis
+Let's smash it!
+###--------
+###Script:4
+###Mugshot:MegaMan
+There's an EM wave ball!
+###--------
+###Mugshot:OmegaXis
+Let's smash it!
+###--------
+###Script:5
+###Mugshot:MegaMan
+Ah! An EM wave ball!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+That's gotta be the
+source of the noise
+in the broadcast!
+###--------
+###Mugshot:OmegaXis
+Let's smash it!
+###--------
+###Script:7
+###Mugshot:MegaMan
+There's an EM wave ball!
+###--------
+###Mugshot:OmegaXis
+Let's smash it!
+###--------
+###Script:8
+###Mugshot:MegaMan
+Ah! An EM wave ball!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+That's gotta be the
+source of the noise
+in the broadcast!
+###--------
+###Mugshot:OmegaXis
+Let's smash it!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+There's at least one more
+EM wave ball still out there!
+We've got to find it!!
+###--------
+###Script:14
+###Mugshot:OmegaXis
+OK... That's all of 'em.
+###--------
+###Mugshot:MegaMan
+Let's go let the studio
+guy know.
+###--------

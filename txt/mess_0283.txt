@@ -1,0 +1,24 @@
+﻿###TextArchive:mess_0283
+###Script:0
+###Mugshot:0
+There's so much garbage...
+###--------
+###Script:1
+###Mugshot:Pat
+This is where they dump
+all of the garbage from
+this area.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+All the garbage sorting is
+done by the SorterBots.
+###--------
+###Mugshot:Pat
+The place I want to show
+you is just up ahead.
+###--------
+###Mugshot:Pat
+Let's go...
+###--------

@@ -1,0 +1,128 @@
+﻿###TextArchive:mess_0293
+###Script:0
+The next day...
+###--------
+*riiiiiiing!*<wait>
+###Command:wait frames=40
+###--------
+###Script:1
+###Mugshot:0
+Hello?
+###--------
+###Script:2
+###Mugshot:0
+...Oh, hi Pat!
+###--------
+###Script:3
+###Mugshot:Pat
+Hi Geo.
+###--------
+###Mugshot:Pat
+Um... About what we were
+talking about yesterday,
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I want to ask you if...
+###--------
+###Mugshot:Pat
+um...
+###--------
+###Mugshot:Pat
+Will you be Brothers
+with me?
+###--------
+###Mugshot:0
+W-Wow! Really?
+###--------
+###Mugshot:Pat
+Yeah...
+###--------
+###Script:4
+###Mugshot:0
+I'd love to, Pat!
+###--------
+###Script:5
+###Mugshot:Pat
+Thank you, Geo.
+###--------
+###Script:6
+###Mugshot:0
+We should meet up and
+form our Brother Band!
+###--------
+###Mugshot:0
+Where do you want
+to meet?
+###--------
+###Script:7
+###Mugshot:Pat
+Um, how about Time Square?
+###--------
+###Script:8
+###Mugshot:0
+###--------
+###Mugshot:0
+OK.
+I'll see you there!
+###--------
+###Script:9
+###Mugshot:Pat
+Thank you, Geo. Truly.
+###--------
+###Mugshot:Pat
+I'll see you later then.
+###--------
+###Script:10
+*beep beep beep*
+###--------
+###Script:11
+###Mugshot:0
+Sweet! I'm going to be
+Brothers with Pat.
+###--------
+###Mugshot:OmegaXis
+Hey, Geo.
+###--------
+###Mugshot:OmegaXis
+I noticed you're much
+more positive
+###--------
+###Mugshot:OmegaXis
+about being Brothers with
+someone now than before.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Yeah, I guess I feel like I
+can move forward now
+more than I used to...
+###--------
+###Mugshot:0
+And I have more friends
+now...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I wonder if my dad's
+watching me.
+I hope he's proud.
+###--------
+###Mugshot:OmegaXis
+(Somehow, I still can't
+shake the feeling though.)
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(That Pat guy's got some
+strange waves coming
+off of him...)
+###--------
+###Mugshot:OmegaXis
+(I hope it's just my
+imagination...)
+###--------

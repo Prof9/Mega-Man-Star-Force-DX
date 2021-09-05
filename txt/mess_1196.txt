@@ -1,0 +1,19 @@
+﻿###TextArchive:mess_1196
+###Script:0
+###Mugshot:2
+*BEEP BEEP*
+###--------
+###Mugshot:2
+IF YOU HAPPEN TO SEE A
+VIRUS THAT LOOKS LIKE A
+DARK VORTEX, BE CAREFUL!
+###--------
+###Mugshot:2
+IT WILL ONLY TAKE A
+SMALL AMOUNT OF DAMAGE
+###--------
+###Mugshot:2
+UNLESS YOU ATTACK IT
+WITH SWORD-TYPE WEAPONS.
+*BEEP BEEP*
+###--------

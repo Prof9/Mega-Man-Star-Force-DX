@@ -1,0 +1,255 @@
+﻿###TextArchive:mess_1021
+###Script:0
+###Mugshot:7
+*BEEP*
+HELLO!
+###--------
+###Mugshot:7
+THIS IS THE WAVE WORLD
+OF ECHO RIDGE! *BEEP*
+###--------
+###Script:1
+###Mugshot:21
+We're the ones who help
+humans run their lives,
+###--------
+###Mugshot:21
+but the humans have no
+idea how busy we are...
+###--------
+###Mugshot:21
+They only call for us
+with the cards when
+they need us,
+###--------
+###Mugshot:21
+but we waves work hard
+all day long.
+###--------
+###Mugshot:21
+If only they'd be a bit
+more appreciative...
+###--------
+###Script:2
+###Mugshot:7
+MOST ELECTRONIC DEVICES
+ARE RUN BY US, YOU KNOW!
+###--------
+###Mugshot:7
+AH, BUSY BUSY!
+*BEEP BEEP*
+###--------
+###Script:3
+###Mugshot:7
+A SUSPICIOUS WAVE JUST
+WENT INTO THAT CAR.
+###--------
+###Mugshot:7
+*BEEP BEEP*
+###--------
+###Script:4
+###Mugshot:21
+*beep whoo*
+Time for the morning news!
+###--------
+###Mugshot:21
+###--------
+###Mugshot:21
+Late last night in Echo Ridge,
+the train at Vista Point
+moved all on its own!
+###--------
+###Mugshot:21
+###--------
+###Mugshot:21
+No one knows why or how,
+but thankfully there was
+no major damage!
+###--------
+###Script:5
+###Mugshot:7
+DO YOU KNOW ABOUT
+THAT THING HUMANS
+CALL A "TRANSER"?
+###--------
+###Mugshot:7
+WELL, I SOMETIMES TAKE
+PEEKS INSIDE...
+###--------
+###Mugshot:7
+RECENTLY, IT SEEMS TO
+BE POPULAR FOR HUMANS
+###--------
+###Mugshot:7
+TO WRITE ABOUT THEIR
+WORRIES.
+###--------
+###Mugshot:7
+"I LIKE SO-AND-SO!"
+###--------
+###Mugshot:7
+OR...
+###--------
+###Mugshot:7
+"I'M COLLECTING THIS
+KIND OF CARD!"
+###--------
+###Mugshot:7
+INTERESTING, HUH?
+###--------
+###Mugshot:7
+PEOPLE MAY SMILE ON
+THE OUTSIDE,
+###--------
+###Mugshot:7
+BUT THEY WORRY ABOUT
+SO MUCH ON THE INSIDE.
+###--------
+###Script:6
+###Mugshot:7
+I FELT A SUPER EVIL
+WAVE LAST NIGHT.
+###--------
+###Mugshot:7
+WHAT IN THE WORLD
+WAS THAT?
+###--------
+###Script:7
+###Mugshot:21
+Looks like something's going
+on in the Real World.
+###--------
+###Mugshot:21
+###--------
+###Mugshot:21
+But then, there's been some
+odd wavelengths even here
+in the Wave World.
+###--------
+###Script:8
+###Mugshot:21
+###--------
+###Mugshot:21
+There's been a rash of red
+things being broken recently
+in Echo Ridge. Be careful, OK?
+###--------
+###Script:10
+###Mugshot:7
+SOUNDS LIKE IT'S BECOME
+QUITE A MESS...
+###--------
+###Mugshot:7
+BUT THERE'S NOTHING I
+CAN DO TO HELP...
+###--------
+###Script:11
+###Mugshot:7
+I CAN'T STOP A MOVING
+TRUCK!
+###--------
+###Mugshot:7
+ISN'T THERE ANYTHING YOU
+CAN USE TO BLOCK IT?
+###--------
+###Script:12
+###Mugshot:21
+I... I saw it...
+###--------
+###Mugshot:21
+A bull-shaped evil creature...
+###--------
+###Mugshot:21
+It was the first time
+I've ever seen that...
+###--------
+###Mugshot:21
+What kind of Navi was that?
+###--------
+###Script:13
+###Mugshot:21
+###--------
+###Mugshot:21
+The truck is going haywire!
+The truck is going haywire!
+###--------
+###Mugshot:21
+Oh no!!
+Oh no!!
+###--------
+###Script:15
+###Mugshot:7
+SOMETHING'S HAPPENING
+IN THE REAL WORLD, HUH?
+###--------
+###Script:16
+###Mugshot:7
+ARE YOU THE ONE WHO
+STOPPED THE TRUCK IN
+THE REAL WORLD?
+###--------
+###Mugshot:7
+###--------
+###Mugshot:7
+YOU DID REAL WELL...
+YOU'RE NO ORDINARY
+WAVE, ARE YOU?
+###--------
+###Script:17
+###Mugshot:21
+The truck stopped!
+###--------
+###Mugshot:21
+There's no one riding
+inside now!
+###--------
+###Script:150
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+YOU KNOW ABOUT
+OUTER SPACE?
+###--------
+###Mugshot:MrHertz
+I HEARD THERE'S A BIT
+OF THAT OVER AT AMAKEN!
+###--------
+###Mugshot:MrHertz
+THEY MADE A SIMULATION
+OF OUTER SPACE.
+###--------
+###Mugshot:MrHertz
+HUMANS ARE REALLY
+SOMETHING!
+###--------
+###Script:151
+###Mugshot:MrHertz
+DID THEY CATCH THE
+CULPRIT?
+###--------
+###Mugshot:MrHertz
+LOOKS LIKE ALL THE
+DESTRUCTION HAS STOPPED.
+###--------
+###Mugshot:MrHertz
+AH, IT'S NICE TO HAVE
+PEACE AND QUIET AGAIN!
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Script:152
+###Mugshot:MrHertz
+*BEEP BEEP*
+OUTER SPACE!
+HOW ROMANTIC!
+###--------
+###Mugshot:MrHertz
+SPACE IS THE NEW FAD
+OF THE WAVE WORLD.
+###--------
+###Mugshot:MrHertz
+DON'T BE LATE TO THE
+PARTY. HOP ONBOARD!
+###--------

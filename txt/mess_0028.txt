@@ -1,0 +1,128 @@
+﻿###TextArchive:mess_0028
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:2
+###Mugshot:BobCopper
+Investigation notes...
+###--------
+###Mugshot:BobCopper
+Z waves are EM
+radiation given off by
+extraterrestrial beings
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+whose bodies are
+composed of waves
+in the RF spectrum.
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+Locations where incidents
+have occurred thought to be
+related to Z waves are
+###--------
+###Mugshot:BobCopper
+A point @1785kHz
+B point @2317kHz
+C point @2109kHz
+###--------
+###Mugshot:BobCopper
+Observed from coordinates
+19283.87347.1349.
+###--------
+###Mugshot:BobCopper
+Geo Stelar is a
+primary suspect.
+###--------
+###Script:3
+###Mugshot:BobCopper
+This is the Transer of
+Satella Police Detective
+Bob Copper,
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+charged with the task
+of totally eradicating
+Z wave radiation.
+###--------
+###Script:5
+###Mugshot:BobCopper
+I've given up on writing
+investigation notes.
+###--------
+###Script:6
+###Mugshot:BobCopper
+I've given up on writing
+investigation notes.
+###--------
+###Script:10
+###Mugshot:BobCopper
+Investigation notes...
+###--------
+###Mugshot:BobCopper
+High Z wave levels
+confirmed in the vicinity,
+###--------
+###Mugshot:BobCopper
+however, no other actionable
+clues have been found.
+###--------
+###Mugshot:BobCopper
+An immediate investigation
+is necessary.
+###--------
+###Mugshot:MegaMan
+Should we check this out?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+It's worth taking a look!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:BobCopper
+Investigation notes...
+###--------
+###Mugshot:BobCopper
+High Z wave levels
+confirmed in the vicinity,
+###--------
+###Mugshot:BobCopper
+however, no other actionable
+clues have been found.
+###--------
+###Mugshot:BobCopper
+An immediate investigation
+is necessary.
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Oh well...
+Let's just forget it.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

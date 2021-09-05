@@ -1,0 +1,107 @@
+﻿###TextArchive:mess_0532
+###Script:0
+###Mugshot:Principal
+Good morning!
+###--------
+###Mugshot:Principal
+You're Geo in class 5-A,
+correct?
+###--------
+###Mugshot:Principal
+Ah, that's great! Keep up
+the good work, alright?
+###--------
+###Script:1
+###Mugshot:6
+What should I do?
+I forgot my homework...
+###--------
+###Mugshot:6
+###--------
+###Mugshot:6
+At this rate, people will
+think that I'll forget anything
+they ask me to do...
+###--------
+###Script:2
+###Mugshot:Principal
+Ah, time for me to go home.
+###--------
+###Script:3
+###Mugshot:6
+Bye bye!
+###--------
+###Script:5
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+I heard the alarm go off.
+Did something happen?
+###--------
+###Script:10
+###Mugshot:Principal
+Self-study?
+Ah, that's great!
+###--------
+###Script:11
+###Mugshot:6
+I didn't come back here
+for more studying.
+###--------
+###Mugshot:6
+...Just getting my homework
+which I forgot.
+###--------
+###Script:15
+###Mugshot:Luna
+L-Let's get out of here!
+Fast!
+###--------
+###Script:16
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Today's a special case,
+but don't think you can
+boss me around, OK!?
+###--------
+###Script:20
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Extracurricular studying?
+Ah, that's great!
+###--------
+###Script:21
+###Mugshot:6
+###--------
+###Mugshot:6
+I'm being called to the
+teachers' room... all because
+I forgot my homework.
+###--------
+###Mugshot:6
+*sniffle*
+###--------
+###Script:22
+###Mugshot:Principal
+I heard there was a fight
+in Time Square.
+###--------
+###Mugshot:Principal
+Remember, there is no
+fighting at this school.
+###--------
+###Mugshot:Principal
+Our reputation would go down
+if there was any.
+###--------
+###Script:23
+###Mugshot:6
+I'm gonna go home early
+today.
+###--------
+###Mugshot:6
+There's a TV show I really
+want to see!
+###--------

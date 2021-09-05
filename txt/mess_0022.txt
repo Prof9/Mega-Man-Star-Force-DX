@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0022
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Hope
+Welcome to Hope Stelar's
+Transer.
+###--------
+###Script:2
+###Mugshot:Hope
+Kelvin honey, Geo and I
+are doing OK.
+###--------
+###Mugshot:Hope
+We'll always be waiting
+for you.
+###--------
+###Script:3
+###Mugshot:Hope
+Kelvin honey, Geo and I
+are doing OK.
+###--------
+###Mugshot:Hope
+We'll always be waiting
+for you.
+###--------
+###Script:10
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+Oh, dear...
+The fridge is acting funny.
+###--------
+###Mugshot:Hope
+If I don't get it fixed,
+all the food inside will
+go bad.
+###--------
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+At times like these,
+I wish you were here, Geo!
+###--------
+###Mugshot:MegaMan
+Should I go and help mom?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK!
+Let's go and help
+your mom!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+Oh, dear...
+The fridge is acting funny.
+###--------
+###Mugshot:Hope
+If I don't get it fixed,
+all the food inside will
+go bad.
+###--------
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+At times like these,
+I wish you were here, Geo!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+...
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

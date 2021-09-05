@@ -1,0 +1,755 @@
+MEGA MAN STAR FORCE DX - ALL CHANGES
+
+This file documents every change in Mega Man Star Force DX, compared to the base
+game Mega Man Star Force Pegasus (US version).
+
+
+
+                    !!!!!!!!!!  SPOILER  WARNING  !!!!!!!!!!
+
+Beware, this list contains spoilers! Do not read this list if you prefer to
+discover the new additions for yourself.
+
+                    !!!!!!!!!!  SPOILER  WARNING  !!!!!!!!!!
+
+
+
+STORY:
+
+ *  The tutorial can now be skipped. If you do, you will fight the viruses with
+    your regular Folder, just like in MMSF2.
+ *  Restored some text boxes which were cut off in the English story due to
+    script errors.
+ *  When you go to sleep and the game asks to save, the cursor now defaults to
+    "No".
+ *  Skippable cutscenes can now by automatically skipped by holding START.
+ *  The bull minigames in Truck Comp have been made a little easier in the later
+    sections.
+ *  During the Libra Scales chapter, the EM humans now have their unused
+    mugshot.
+ *  As in the original game, Pegasus Magic's shadow form is fought during the
+    Libra Scales chapter.
+ *  Harp Note and the Satellite admins now have a skull panel warning you of the
+    upcoming boss fight.
+ *  Geo's happy mugshot is now also used in cutscenes and menus to match his
+    mood in the story.
+ *  Cutscenes from the second half of the game have been adjusted to use Geo's
+    happy and moody mugshots where appropriate.
+ *  After the Libra Scales scenario, a new side quest now becomes available in
+    BIG WAVE.
+ *  You will now fight Dragon Sky's shadow form during the Gemini Spark chapter.
+ *  You will now fight Leo Kingdom's shadow form during the final chapter.
+ *  During the final chapter, added a hint as to where Mr. Boreal's old boss is.
+ *  During the final chapter, when you need to get the Tropical Tea for Mr.
+    Gatte, you can now buy it over the counter rather than having to go behind
+    the counter.
+ *  During the final chapter, the Gemini Spark rematch is now at EX level.
+    (However, their HP and Attack Power have been reduced.)
+ *  During the final chapter, when you reach the last wavehole, Omega-Xis will
+    now prompt you (once) to save if you haven't yet. This is because you need
+    to save at that point in order to unlock some postgame content.
+ *  In Deep Space 3 EM-Road, you will now be able to fight all three Satellite
+    admins. The admin that appears is based on what Satellite you're in.
+ *  After viewing the credits and saving at the last wavehole, the next time you
+    enter Vista Point EM-Road, Omega-Xis will give a hint pointing you towards
+    Deep Space EM-Road.
+ *  After viewing the credits and saving at the last wavehole, you can now fight
+    a special boss in Vista Point EM-Road.
+ *  After beating Andromeda Infinity, you will now receive the Andromeda card.
+    (Previously, this was limited to special events.)
+ *  After beating Andromeda Infinity, you can now form a BrotherBand with
+    Legendary Master Shin. (Previously, this was limited to special events.)
+ *  A number of story cutscenes which were previously unskippable can now be
+    skipped.
+ *  Adjusted some cutscenes so that when Geo transforms into Mega Man or vice
+    versa, it now updates the portrait on the top screen.
+ *  Tweaked some cutscenes so that Geo now has the Visualizer (not) active, for
+    story consistency.
+
+
+TITLE SCREEN:
+
+ *  There are now two save slots, just like in MMSF2/MMSF3.
+ *  The Game Clear star is now yellow to match the other stars.
+ *  The Satellite Admin star is replaced with the Satellite Admins star, and is
+    now obtained when all three Satellite admins are defeated in Deep Space 3
+    EM-Road.
+ *  Even though the Andromeda card has been added to the Library, it is not
+    required to obtain the Giga Complete star.
+ *  The Title Screen logo has been replaced with the Mega Man Star Force DX
+    logo.
+ *  The Mega Man Star Force DX version number is now shown on the Title Screen.
+ *  Soft-resetting the game (L + R + START + SELECT) now takes you straight to
+    the Title Screen, just like in MMSF2.
+ *  Removed the ESRB notice, just like in the EU versions.
+
+
+TEXT:
+
+ *  The font has been replaced with that from MMSF2/MMSF3. All text boxes in the
+    game have been adjusted to make use of the new font spacing.
+ *  Mega Man is now spelled with a space, just like in MMSF3.
+ *  The main character is now always named Geo Stelar during the story, and your
+    custom name will only be shown to Brothers.
+ *  Changed Big Wave to BIG WAVE, just like in MMSF2/MMSF3.
+ *  Changed Brother Force to Brother Card, just like in MMSF2/MMSF3.
+ *  Changed Legend Force to Legend Card, just like in MMSF2.
+ *  You can now hold START to skip text at the maximum speed.
+ *  For characters whose mugshots have secondary animations (e.g. EM beings),
+    their animation is no longer constantly reset while talking.
+ *  Adjusted the talking animation to be similar to MMSF2/MMSF3.
+ *  Adjusted the description of the PowerSong Battle Card to more accurately
+    describe its effect.
+ *  Adjusted the description of the BraveSwrd Battle Cards to more accurately
+    describe their effects. (The breaking attribute is now shown as an icon.)
+ *  Added a description for the FlapPack at the start of the Cygnus Wing
+    chapter.
+ *  Added a description for the wave ball in the Mega Man Battle Network side
+    quest.
+ *  Fixed one of the snakes in the Queen Ophiuca chapter not having a text box.
+ *  After viewing the credits and saving at the last wavehole, pressing the
+    L Button will show a hint for certain side quests. Once these are finished,
+    L Button messages are replaced with Humor Word. This applies everywhere
+    except in Deep Space EM-Road.
+ *  When you receive an item from Cipher Mail as Mega Man, the text now prints
+    "Mega Man got:" instead of "Geo got:".
+
+
+FIELD:
+
+ *  Overworld music now resumes after each battle, rather than restarting from
+    the beginning, just like MMSF2/MMSF3.
+ *  You can now walk through NPCs if you keep running into them, just like in
+    MMSF2/MMSF3. This replaces the feature in MMSF1 where if you were stuck
+    inside an NPC, you could spin the +Control Pad to get out.
+ *  The encounter rate has been adjusted to make it a bit more consistent. In
+    small miscellaneous Comp Spaces, the encounter rate is slightly raised, but
+    in all other areas, it is slightly lowered.
+ *  In School Comp, destroying all of the Study Waves in the area will now show
+    a cutscene of the door to the next area opening automatically.
+ *  In Station Comps, the arrow panels now make a "swoosh" sound effect when you
+    travel over them.
+ *  EX boss ghost waves now appear visibly on the overworld and will battle you
+    when talked to, just like in MMSF2.
+ *  SP bosses will now appear immediately after deleting an EX boss ghost wave
+    without needing to pulse out first.
+ *  When using a Card Trader, you can now press SELECT to move all cards in the
+    Trader back to the Card Box, just like in MMSF2/MMSF3.
+ *  After viewing the credits and saving at the last wavehole, you can now
+    change your Satellite in Deep Space 1 EM-Road.
+ *  A Star Frag Trader appears in Deep Space 2 EM-Road. This Trader has similar
+    odds to the AMAKEN Foyer Card Trader SP, but drops Lunar Knights cards
+    instead of Mega Class cards. In addition, it has a 1-in-12 chance to drop
+    Star Cards.
+ *  The EX boss ghost waves as well as SP boss encounters for Pegasus Magic, Leo
+    Kingdom and Dragon Sky appear in Deep Space 1 EM-Road, Deep Space 2 EM-Road
+    and Deep Space 3 EM-Road respectively.
+ *  After beating at least one of the Satellite admins, you can now attempt Time
+    Trials in Deep Space 3 EM-Road.
+ *  You can now obtain 6 additional Extra Folders by beating the Satellite
+    admins, leveling up Lunar Knights Brothers, and showing a Jammer in Deep
+    Space 2 EM-Road a Best Combo with high enough Attack Power.
+ *  Mystery Waves now respawn when you change from Mega Man back to Geo, rather
+    than the other way around, just like in MMSF2/MMSF3.
+ *  As a result, Gold Mystery Waves are now visible as Geo, and when you see
+    one, you can pulse in and collect it.
+ *  Drastically increased the spawn rate of Gold Mystery Waves: they now have a
+    1-in-2 chance to spawn on any Wave Road. Originally, the chance was 1-in-64
+    to spawn on the Wave Road of the area where you Wave Changed.
+ *  Increased the visibility of Gold Mystery Waves: they now spin
+    counterclockwise and emit a soft glow.
+ *  All shops have been rebalanced and have reduced prices, just like in MMSF3.
+    In addition, the Sword and WideSword Battle Cards can now be bought from a
+    shop - previously, the only way to get duplicates was from a Card Trader.
+ *  Card shops no longer include your Extra Folder when showing you how many of
+    a card you have.
+ *  When you open a Battle Card preview in a shop, it now shows the price of the
+    card underneath, just like in MMSF2.
+ *  After completing Zack's Transer quest, you can return to Piano Comp to
+    freely re-attempt the 10 virus battle gauntlet.
+ *  After defeating Andromeda Infinity, the Final Boss Rush becomes available in
+    Deep Space 3 EM-Road, in which you fight every boss in the game at their
+    highest level in a row. (Note: this challenge is completely optional and
+    only awards Star Frags.)
+ *  Fixed fights now also reset your encounter rate, rather than only random
+    encounters, just like in the other games.
+ *  Reorganized the Personal view on the top screen.
+ *  Viruses now appear in the Real World in certain locations, just like in
+    MMSF3. These Real World viruses drop specific Star Cards when defeated, as
+    well as Star Frags when you achieve a high enough Busting Level.
+ *  After deleting all viruses in the Real World, you can challenge a Jammer in
+    the Real World at Time Square for a Giga Class card.
+ *  Fixed an overlapping sprite for an Info Hertz at AMAKEN Grounds (Real World)
+    during the Harp Note incident.
+ *  Cygnus and Libra now have southwest and southeast facing sprites. (Previously,
+    they were always looking northwest or northeast.)
+ *  Gemini's southwest facing sprites now have the colors on his heads flipped
+    so they match his design.
+ *  When you buy a Legend Card, it now plays the "item get" sound effect.
+ *  Adjusted Mega Man's sprite so that Omega-Xis now always appears on the
+    correct arm while walking and running, just like in MMSF2/MMSF3.
+ *  Fixed a sprite error on Zack's foot.
+ *  The yellow Satellite in Science Museum has been changed to blue to match
+    the Pegasus Satellite color.
+ *  Wave Roads now have a pulsing semi-transparency effect when seen as Geo,
+    just like in MMSF2. This should make it easier to see characters and Transer
+    icons which are obscured by the Wave Road.
+ *  Fixed certain sprites on the overworld disappearing when standing in
+    specific spots during some parts of the story, when there are too many
+    sprites on the screen at once.
+ *  When you delete a Study Wave in School Comps, the step counter is now
+    reset to what it was when you stepped on the arrow panel, similar to other
+    Comp gimmicks that temporarily disable encounters.
+ *  In Robo Snake Comps, make it so that your step counter is now reset
+    correctly after helping a Mr. Hertz.
+
+
+STAR FRAGS:
+
+ *  A new currency, Star Frags, has been added to the game, similar to the
+    BugFrags from MMBN and Noise Frags from MMSF3.
+ *  You can view how many Star Frags you have from the Key Items menu.
+ *  You can obtain Star Frags by Counter Hitting bosses. The number of Star
+    Frags obtained depends on the strength of the boss and the number of Counter
+    Hits (up to 3).
+ *  When you fight G-sized viruses and don't get a high enough Busting Level to
+    obtain their Star Card, you may receive some Star Frags instead.
+ *  You will also obtain Star Frags from fighting viruses that appear in the
+    Real World.
+ *  You will also obtain Star Frags from clearing the 10 virus battle gauntlet
+    in Piano Comp (from Zack's Transer quest).
+ *  You will also obtain Star Frags from clearing the Final Boss Rush.
+ *  After the Harp Note chapter, you can play the note minigame again in Vista
+    Point EM-Road to win Star Frags.
+ *  After the Harp Note chapter, a merchant Hertz appears in Vista Point EM-Road
+    which will trade Star Frags for certain Star Cards. You can also buy Star
+    Tickets - these can be used in the Card Trader * as substitutes for
+    duplicate cards.
+ *  A Star Frag Trader appears in Deep Space 2 EM-Road, which allows you to
+    trade 10 Star Frags for a random Battle Card.
+ *  In Deep Space 3 EM-Road, you can trade Star Frags for a random duplicate of
+    a Giga Class card that you already own. This trade can be done once per day,
+    and the Giga Class card which you can trade for changes every day.
+
+
+TRANSER QUESTS:
+
+ *  You can now take on multiple Transer quests at once. When you take on a
+    quest that requires speaking with or checking the Transer of another
+    character who also has their own Transer quest, the latter quest is put on
+    hold until the former is completed.
+ *  Adjusted some Transer text to account for being able to take on multiple
+    quests at once.
+ *  Characters' Transers now have an icon on them indicating whether a side
+    quest is available or in progress.
+ *  Meale DeVour's Transer quest now rewards the Gourmet Mag key item (a
+    previously unused item) instead of 5000 Zennys.
+ *  Restored the unused Transer quests for Sonia, Luna and Bud. Sonia's rewards
+    a new item with a Cipher Mail code.
+ *  For consistency, Zack's side quest has also been changed (back) into a
+    Transer quest, and can now be done before viewing the credits, if you've
+    saved at the last wavehole.
+ *  Since Bud's Transer quest awards an HPMem10, the forced HPMem10 obtained
+    during the story at the start of the Cygnus Wing chapter has been replaced
+    with something else.
+ *  Quizzes now have satisfying OK and error sound effects, just like in MMBN.
+ *  Transer Memos now have the character's location at the end, similar to
+    MMSF2.
+ *  Fixed Swill Waters not having a Transer popup during the AMAKEN blackout
+    segment.
+ *  Fixed Mitch Shepar's Transer message changing for Barry Square's Transer
+    quest too early.
+ *  Fixed Teresa Tudor's Transer quest becoming available before you have the
+    Navi Card needed to complete it.
+ *  When you finish all Transer quests, you will now get the e-mail from Shin
+    upon the next area transition. (Previously, you only got it if you went back
+    to Echo Ridge.)
+
+
+TOUCH SCREEN:
+
+ *  All Touch Screen mechanics can now also be performed with button controls:
+ *  When on a Wave Road, you can now hold down the Y Button to use the "pulse
+    beam". Move the cursor with the +Control Pad and release the Y Button in
+    order to pulse into the selected wavehole or Transer.
+ *  When using PropellerMan's Navi Card, you can now control the RC chopper with
+    the +Control Pad.
+ *  When using KeyMan's Navi Card, you can now navigate the keypad with the
+    +Control Pad, the A Button and START.
+ *  When using PitcherMan's Navi Card, you can now throw a pitch with the A
+    Button.
+ *  When using ThermoMan's Navi Card, you can now choose an option with the
+    +Control Pad and the A Button.
+ *  When using ThermoMan's Navi Card, his artwork on the top screen has been
+    flipped so that it matches all his other sprites and illustrations.
+ *  When using ShovelMan's Navi Card, you can now control the lever with the
+    +Control Pad.
+ *  In Truck Comp, you can now play the bull minigame by pressing the right
+    direction on the +Control Pad to regain your balance.
+ *  In SpaceSim Comp, you can now play the Quacky Lackies minigame by holding
+    the A Button, then pressing Up on the +Control Pad to launch the rocket.
+ *  During the Harp Note scenario, you can now also play the note minigame by
+    pressing the right direction on the +Control Pad to shoot the notes.
+    Additionally, the rate of fire when using the ABXY Buttons is increased.
+ *  In Scrap Comp, when you are not touching the Touch Screen, the Rescue Sonar
+    will automatically scan on Mega Man's position. Once all items in the area
+    are dug up, it will stop scanning.
+ *  In Scrap Comp, you can now press the A Button to dig even while the Rescue
+    Sonar is scanning.
+ *  Fixed a glitch in the base game where in Scrap Comp, using the Rescue Sonar
+    also flashes your active Sub Card icons.
+ *  In Station Comp, you can now control the constellation drawing minigame with
+    the +Control Pad, A Button, B Button and START. Hold the +Control Pad to
+    move the cursor (hold the B Button to move it faster), and hold the
+    A Button while the cursor is on a star to start drawing a line. Then move
+    the cursor to another star and release the A Button to confirm the line.
+ *  In the Transer screen, you can now touch the "EQUIP" button with the stylus
+    to switch to that page.
+
+
+SUB CARDS:
+
+ *  Cloakers now last 3.25x as long (same length as MMSF3).
+ *  Cloakers will no longer immediately expire when you pulse in/out of Comp
+    Spaces and sub-areas.
+ *  Cloakers now negate any virus encounters that you have a high enough Level
+    to 100% run away from.
+ *  Search Eye now expires from walking a certain distance instead of expiring
+    after just 1 battle, like in the other games. The duration is the same as
+    Cloaker.
+ *  To go with the above, Search Eye now has a 75% success rate (down from
+    100%).
+ *  You can now buy the Fire Search, Aqua Search, Elec Search and Wood Search
+    Sub Cards from MMSF2. If there are viruses in the current area matching the
+    element of the Sub Card, this will negate all virus encounters that do not
+    have a virus with that element.
+ *  Search Eye and the elemental Search Sub Cards now increase the encounter
+    rate while active.
+ *  Cloaker now increases the encounter rate for SP bosses (just like in MMSF3).
+    You can combine this with a Search Sub Card to increase the encounter rate
+    even further. The searched element does not need to match the boss's
+    element.
+ *  When a Sub Card expires, you will now get the option to immediately use
+    another one.
+
+
+BATTLE:
+
+ *  Certain bosses and viruses no longer randomly "snap back" to a different
+    panel when they are interrupted during certain attacks, in most cases. (For
+    instance, interrupting Gemini Spark's attacks would cause him to instantly
+    warp to the panel he was on before the attack rather than staying in place.)
+ *  Bosses with Super Armor now play their recoiling animation when paralyzed,
+    frozen or bubbled, rather than staying in their idle animation; just like in
+    MMSF3.
+ *  Updated the hair on Mega Man's 3D model with his better-looking hair mesh
+    from MMSF3.
+ *  Mega Man now has Side Select as an innate ability, just like in MMSF3.
+ *  Using a Battle Card no longer resets your Buster charge, just like in
+    MMSF2/MMSF3. (However, using the Mega Attack does still reset your Buster
+    charge, just like in MMSF2/MMSF3.)
+ *  Bosses now always have their special camera intro, rather than only during
+    the initial fights.
+ *  Mega Man now animates during special camera intros.
+ *  In the Custom Screen, you can now use the Y Button to check a Battle Card's
+    description in addition to the R Button, just like in MMSF2/MMSF3.
+ *  Story battles now (almost) always have a Results screen with reward data.
+ *  The spawn rate for G-sized viruses in random encounters has been increased
+    to 1-in-14 up from 1-in-16, just like in MMSF3.
+ *  When in a Star Force form, you will no longer take double damage when you're
+    hit by an attack of the element that you're weak to, just like in
+    MMSF2/MMSF3. However, this does not apply in Legend Mode.
+ *  In a multiplayer Wave Battle, cutting in during screen-dimming cards (AKA
+    time freeze counter) is no longer limited to 2 cards. Just like in all the
+    other games, you can now create chains of arbitrary length, and the last 2
+    cards will be used.
+ *  Fixed a glitch present in MMSF1 where moving and shooting at the same time
+    would always fire a regular Mega Buster shot rather than a Charged Shot.
+ *  Fixed a glitch present in MMSF1 and MMSF2 where holding down the +Control
+    Pad at the edge of the field would slow down the Mega Buster's rate of fire.
+ *  Grabity-type viruses can now be damaged with non-Sword attacks, but will
+    only take 1/4th of the damage.
+ *  Entities which have the Invisible status now continue to blink when the
+    battle is paused, in the Custom Screen, or when a screen-dimming card is
+    used, similar to MMSF2/MMSF3.
+ *  Removed the quirk present in MMSF1 where certain enemies would completely
+    disappear from the field for 1 frame while moving, which could cause attacks
+    to miss.
+ *  Increased the HP and Attack Power of certain EX and SP-level bosses.
+ *  You can now run away from the Cancer Bubble, Wolf Woods and Crown Thunder
+    boss fights, similar to MMSF2.
+ *  You can now Double Delete or Triple Delete Jammer enemies. Originally,
+    Jammers did not count towards multi-deletion at all.
+ *  Changed the Float ability so that it no longer grants immunity to the
+    gravity status effect, just like in MMSF3. (Note that it still grants
+    immunity to gravity panels, so effectively the only change is that it no
+    longer protects against Quake Song and certain attacks in Legend Mode.)
+ *  While in Ice Pegasus Mega Man form, status effects such as paralyzed,
+    gravity and invulnerable are now also reflected on his wings, rather than
+    only on his main body.
+ *  Bonus damage for Freeze Break no longer doubly applies elemental weakness.
+ *  Barrier and Aura are no longer affected by elemental weakness.
+ *  Fixed a Best Combo glitch where for certain Fire Elemental attacks, it would
+    not record a grass panel underneath the enemy in the Best Combo.
+ *  Being Whistled no longer grants immunity to paralysis while the Whistle
+    effect is ongoing.
+ *  Adjusted the invulnerability status effect (green flash) to be a bit
+    brighter.
+ *  Adjusted the gravity status effect (darkened) to be a bit darker.
+ *  When fighting an FM-ian boss during the story, you can now receive their
+    Mega card if you reach a high enough Busting Level, just like in MMSF3.
+ *  When fighting an EX-level FM-ian boss, you can now receive their EX Mega
+    card if you reach a high enough Busting Level, just like in MMSF3.
+ *  Fixed an animation glitch that occurs on Andromeda when using a Best Combo
+    that has a status effect recorded as a card precondition.
+ *  Invisibility and invulnerability (green flicker) now flicker on alternating
+    frames, so you can see both active at once.
+ *  When you turn off the Mega Attack, the lock-on reticule now disappears
+    immediately instead of lingering for a few frames, preventing accidental
+    unwanted Mega Attacks - just like in MMSF2/MMSF3.
+ *  Removed Wood Elemental weakness from Gemini Spark W. (Gemini Spark B still
+    has it.)
+ *  In Crown Thunder's boss fight, fixed his animation ending too early when he
+    uses Fall Thunder.
+ *  In Leo Kingdom's boss fight, fixed a weird animation loop when you die to
+    Gigaton Press.
+ *  Fixed timings for Leo Kingdom's Volcano Claws being swapped for his V1 and
+    EX versions.
+ *  Fixed the deletion animation for Libra Scales always showing him tilted to
+    the left.
+ *  Fixed the deletion animation for Dragon Sky always showing him on the right
+    side.
+ *  The "Battle Start" and screen-dimming card name pop-up now has a bounce
+    effect, similar to MMSF2/3.
+ *  When you use a screen-dimming card in single player, the card name pop-up is
+    now faster.
+ *  When you use a screen-dimming card, the name always appears at the top of
+    screen, just like in MMSF3.
+ *  Pop-up messages like COUNTER HIT! and DOUBLE DELETE! now have a scroll in
+    and out effect, just like in MMSF3.
+ *  When you get Countered by an enemy, it will now show an ENEMY COUNTER!
+    pop-up message at the top of the screen.
+ *  Fixed a glitch where if you try to summon a JunkCube in the middle column
+    and the panel is occupied, it would always only try to summon it on the left
+    rather than trying left and right in a random order as intended.
+ *  DX bosses can be fought after fulfilling certain requirements.
+
+
+LEGEND MODE:
+
+ *  A new difficulty mode, Legend Mode, can be selected when starting a New
+    Game.
+ *  You can also turn Legend Mode ON/OFF at any time from the Key Items screen.
+ *  In Legend Mode, the following rules apply:
+ *  Mega Man takes 2x the normal damage.
+ *  Note: Green Dragon Mega Man's Shield Heal ability heals the same amount of
+    HP compared to Normal Mode.
+ *  All enemies have 1.5x the normal HP.
+ *  All enemies become faster and more aggressive.
+ *  Some enemies have different properties and behaviors.
+ *  Some enemy attacks now have additional effects (e.g. added element, status
+    effect or panel change).
+ *  Mega Man can now be Counter Hit by viruses and bosses.
+ *  While in a Star Force form, Mega Man will still take 2x damage from attacks
+    of the element that he is weak to (in Normal Mode, this no longer applies.)
+ *  Hitting a virus or boss with its elemental weakness now deals 1.5x the
+    normal damage, down from 2x.
+ *  Cipher Mail cannot be used until you've actually found that Cipher Mail
+    in the game. (However, after viewing the credits, all Cipher Mail can be
+    used.)
+ *  RNG is not re-seeded at the start of every turn, which prevents predictable
+    patterns on the first turn and certain kinds of RNG manipulation.
+ *  All bosses gain a new ability: Combo Guard. This protects against status
+    effects when the boss is already affected by that status effect - for
+    instance, hitting a boss which is already paralyzed with PlasmaGun will not
+    reset the paralysis timer. Additionally, hitting them with a different
+    status effect while they are affected by or recovering from a status effect
+    will have a reduced effect.
+ *  Bosses have tightened Counter Hit windows.
+ *  Your Busting Level is increased by 1 bonus level.
+ *  Viruses will never drop HP recovery items.
+ *  You take extra damage from overworld hazards (e.g. the shooting stars in
+    SpaceSim Comp).
+ *  For all enemy-specific changes, see "Legend Mode enemies (SPOILERS!).txt".
+ *  Playing on Legend Mode from New Game all the way to the credits without
+    turning it OFF even once will award a special new Cipher Mail. (Note: this
+    Cipher Mail can be used at any point in the game regardless of whether you
+    "earned" it or not.)
+
+
+STAR FORCE:
+
+ *  You now need to defeat the shadow version of the associated Satellite admin
+    during the story before you can use that Star Force form.
+ *  Brother Cards now give you the option to use the Roulette as normal, or to
+    transform into the associated Star Force form, just like in MMSF2/MMSF3.
+ *  The Legendary Master Shin Brother Card allows you to choose from any
+    available Star Force transformation, just like the regular Star Force card.
+ *  Ice Pegasus Mega Man now has a new ability: Quick Step, which increases your
+    movement speed while moving between panels and using Mega Attacks.
+ *  Ice Pegasus Mega Man now has a new ability: Flash Step, which grants brief
+    invisibility at the start and end of every Mega Attack.
+ *  Ice Pegasus Mega Man now has a new ability: Auto-Lock, which makes you
+    automatically lock on to the enemy in front or the nearest enemy in another
+    column. Additionally, you will not lose your Charged Shot when you use a
+    Mega Attack with Auto-Lock.
+ *  Fire Leo Mega Man now has a new ability: Buster x2, which doubles the Attack
+    rating of the Mega Buster and Charged Shot and raises the maximum to 10.
+ *  Fire Leo Mega Man now has a new ability: Break Buster, which causes the Mega
+    Buster to break through shields.
+ *  Fire Leo Mega Man's Charged Shot, Flame Burner, now breaks through shields.
+ *  Reduced the lag of Fire Leo Mega Man's Flame Burner Charged Shot.
+ *  Green Dragon Mega Man now has a new ability: Shield Heal. Upon blocking an
+    attack with your shield, this recovers HP equal to 25% of the Attack Power
+    of the blocked attack.
+ *  Green Dragon Mega Man now has a new ability: Shield Counter. Upon blocking
+    an attack with your shield, Mega Man will briefly flash green. If you cancel
+    the shield with a Battle Card or the Mega Buster at the correct time, Mega
+    Man will gain a brief window of invulnerability. Additionally, if you cancel
+    with the Mega Buster, it will instantly fire the Woody Shot Charged Shot.
+ *  Elemental Cyclone no longer causes the enemy to gain invisibility, just like
+    in MMSF3. However, its Attack Power is reduced from 3 x 100 to 3 x 80.
+ *  Star Force Big Bangs now display their Attack Power.
+ *  Transforming into Star Force now removes all abnormal status effects, just
+    like in MMSF3. (Originally, it only removed paralyzed, bubbled and frozen.)
+
+
+STAR CARDS:
+
+ *  "Star Cards" have been added to the game. You can activate a Star Card's
+    Star Power during battle to Power Up all cards in the Custom Screen with the
+    same name. This applies the same effect as when you scanned a card using the
+    Japan-exclusive Wave Scanner peripheral.
+ *  Only those Battle Cards which apply a Power Up effect have been added as
+    Star Cards. This excludes e.g. the Mega Class cards which had the effect of
+    being summoned to the Custom Screen, and cards like GrassStage.
+ *  The same limitations apply in battle as with the original Wave Scanner. Each
+    Star Power can be used once per battle, and you can use one Star Power per
+    turn.
+ *  You can add up to 5 Star Cards in your Folder, but these can be duplicates
+    to improve the chance of drawing it.
+ *  After the Harp Note chapter, a Card Trader * will appear in Vista Point. You
+    can trade 10 of the same Battle Card in this special Trader to obtain the
+    Star Card version of that card.
+ *  Star Cards can be obtained as a bonus reward from deleting G-size viruses.
+ *  Star Cards can also be obtained from Gold Mystery Waves.
+ *  Star Cards can also be obtained from the Star Frag Trader.
+
+
+BROTHERS:
+
+ *  The in-game BrotherBands now have different Satellites. This lets you unlock
+    all three Star Force transformations throughout the story.
+ *  Zack Temple now has Mega Class +2 as his Link Ability, rather than Mega
+    Class +1.
+ *  Legendary Master Shin's name on the Brother screen is now printed as
+    "L.M. Shin"; previously it was "Shin L.M."
+ *  Once you have obtained the Lonely Heart key item, you can now go to Mirror
+    Comp to gain a Copy Brother. This Brother acts as a copy of your current
+    data. The Face Pic of the Copy Brother will be in grayscale unless you have
+    reached Level 100.
+ *  After the Libra Scales chapter, the premade Geo Face Pic for your Brother
+    page is replaced with his happy version. (To change to it, select it from
+    the premade Face Pics menu.)
+ *  After viewing the credits, 10 extra premade Face Pics will become available
+    for use. This includes some Mega Man's transformations and important
+    characters which you did not form a BrotherBand with during the story, as
+    well as a spacesuit Face Pic that went unused in the game.
+
+
+FOLDER EDIT:
+
+ *  You can now add a maximum of 4 copies of the same Standard Class card to
+    your Folder, up from 3.
+ *  When you try to add more Mega or Giga Class cards to the Folder than is
+    allowed, the game will now tell you the maximum amount you can currently put
+    in, just like in the JP version and in MMSF2/MMSF3.
+ *  Favoriting Battle Cards now works like in MMSF2 where you simply press the
+    Y Button to set or unset a card as Favorite, rather than having to use a
+    separate menu.
+ *  You can now press SELECT to move all cards in the Folder back to the Card
+    Box.
+ *  When you select a card, a "swap" icon now appears on the card, just like in
+    MMSF2/MMSF3.
+ *  Battle Cards now show a Sword, Wind or Breaking attribute icon next to their
+    primary elemental icon, just like in MMSF3. The Standard/Mega/Giga
+    classification is now shown at the top of the Battle Card, replacing "CARD".
+ *  While the cursor is on Edit/Equip/Change Name, you can now still scroll the
+    Folder with the L/R Buttons, just like in MMSF2/MMSF3.
+ *  You can now use the "Change" option on the Extra Folder to change to one of
+    your other Extra Folders, once unlocked.
+ *  Equipping a Folder now plays the sound effect from MMSF3.
+ *  Fixed the Card Box sorting glitch that sometimes occurs in MMSF1 when moving
+    cards from the Card Box to the Folder or Card Trader.
+ *  When you exit from the Folder Edit screen to the Folder select screen, the
+    cursor will now be set on the Folder you were editing, rather than the
+    current equipped folder, just like in MMSF2/MMSF3.
+ *  Made the process of auto-selecting favorites faster and more responsive.
+ *  Share Star attack bonus is now also shown in the Folder select screen, just
+    like in MMSF2/MMSF3.
+
+
+MEGA SCREEN:
+
+ *  Mega Weapons now use a longer name.
+ *  Corrected the name of the Steel Fist Mega Weapon to Bubble Fist, just like
+    in the EU version and in MMSF2.
+ *  Revised the descriptions for Mega Weapons to be closer to MMSF2/MMSF3 and
+    add missing effects.
+ *  The Mega Screen now shows the total level for the Mega Buster stats, Custom
+    Gauge and Mega/Giga Class capacity, just like the JP/EU versions and MMSF2.
+ *  On the Mega Screen, stat boosts from Power Up data are now added to bonus
+    level rather than base level.
+ *  Equipping a Mega Weapon now plays the sound effect from MMSF3.
+ *  During the final chapter, when Omega-Xis isn't in the Transer, he is now
+    removed from the Mega Screen.
+ *  Completing the new side quest in BIG WAVE which becomes available after the
+    Libra Scales scenario will award Power Up data. This grants the same stat
+    boosts as the Japan-exclusive Wave Scanner peripheral.
+ *  The Power Up page now shows Star Force transformation associated with your
+    current Power Up data.
+ *  After fulfilling certain requirements, you can now set Power Up data to
+    neutral so you start battles as regular Mega Man.
+ *  Fixed an issue that was causing the Mega Screen to lag while scrolling left
+    or right when the game is played on a flash cart.
+
+
+KEY ITEMS:
+
+ *  Key Item names are now 12 characters long (up from 8), just like in MMSF3.
+ *  Key Items have been reorganized in the menu to group together items of the
+    same type.
+ *  Mega Weapons are no longer shown in the Key Items menu.
+ *  You can now obtain the Humor Buster. Once obtained, you can set it to Type 1
+    (dog sounds), Type 2 (cat sounds) or Off (normal Mega Buster sounds) from
+    the Key Items menu.
+
+
+DATA LIBRARY:
+
+ *  The Data Library now shows which Battle Cards have Star Card versions, and
+    tracks which ones you've collected so far.
+ *  The Quick Gauge and Slow Gauge Battle Cards have been added to the game.
+ *  The Standard Class library now includes the Lunar Knights Battle Cards as
+    well the new Battle Cards added in Mega Man Star Force DX, bringing the
+    total to 170 Standard Class cards.
+ *  The Mega Class library now includes all three Satellite admins' cards,
+    bringing the total to 36 Mega Class cards.
+ *  The Giga Class library now includes all 16 Giga Class cards in the game,
+    including the Andromeda card. However, the latter is not required to obtain
+    the Giga Complete mark.
+ *  The Data Library menu has been adjusted to behave more similarly to
+    MMSF2/MMSF3.
+ *  The door in Deep Space 2 EM-Road leading to Deep Space 3 EM-Road has been
+    changed from requiring the Standard Complete star to requiring 150 different
+    Standard Class cards (the same number of Standard Class cards that were in
+    the original game).
+
+
+EM DATABASE:
+
+ *  An EM Database has been added, which tracks information about all EM viruses
+    and bosses you have defeated - like a bestiary.
+ *  After deleting a virus or boss, you can check their battle data (stats and
+    attacks).
+ *  After deleting a virus or boss, you can check their reward data (which items
+    they drop, and at which Busting Levels).
+ *  After deleting a virus or boss, you can check their area data (which areas
+    they most commonly appear in).
+ *  The EM Database also tracks which enemies you have landed a Counter Hit on.
+ *  Once you have deleted all viruses and bosses in the game, a silver star will
+    be added to the EM Database.
+ *  Once you have Counter Hit all viruses and bosses in the game, a gold star
+    will be added to the EM Database.
+ *  Landing a Counter Hit on new viruses or bosses will also increase the level
+    of your Power Up data when you get your EM Database evaluated.
+ *  The Records page of the Database now matches the color of your Satellite,
+    rather than always using Pegasus colors.
+
+
+E-MAIL:
+
+ *  When you choose a Brother to send mail to, the cursor now defaults to the
+    Satellite.
+ *  When you choose to send mail to your Satellite, the "Cipher" mail title is
+    now automatically filled in.
+ *  Transer Memos now have a special icon separate from other E-mails. A
+    checkmark is added on the icon when you have completed the associated quest.
+ *  Transer Memos now have "Transer Memo" as the sender and the name of the
+    associated character as the subject. Previously, they would have "Transer
+    Memo" as the subject and the player's name as the sender.
+ *  You can now press the X Button to sort your E-mail, just like in MMBN6. The
+    sorting is kept even after exiting the menu.
+ *  Due to the above, the "Compose" function has been moved to the Y Button.
+ *  6 new Cipher Mails have been added, one of which grants the Humor Buster.
+    For example: "Up your game with Mega Man Star Force DX!"
+ *  While composing E-mail, you can now press START to move the cursor to the
+    Send button.
+ *  Adjusted the behavior of the A Button and B Button in the E-mail screens to
+    be a bit more intuitive.
+ *  Fixed the "glasses of mystery" Cipher Mail triggering the swear word filter.
+
+
+KEYBOARD:
+
+ *  The keyboard now appears on the Touch Screen and can also be used with the
+    stylus, just like in MMSF2/MMSF3.
+ *  The keyboard cursor now defaults on the "1" key rather than the "OK" button,
+    just like MMSF2/MMSF3.
+ *  The keyboard now uses insert mode rather than overwrite mode, just like in
+    MMSF2/MMSF3.
+ *  Adjusted the behavior of the "Enter" key to be more similar to MMSF2.
+ *  When entering a connect number in Connect or On Air, you can now enter a
+    single-digit number (it will be prefixed with a zero automatically).
+
+
+SAVE:
+
+ *  Saving speed has been increased, just like MMSF2.
+ *  Play Time is now recorded up to 999:59, just like MMSF2/MMSF3.
+ *  The Save Screen will now sometimes show messages from story characters Geo
+    has formed a BrotherBand with, as well as Omega-Xis.
+ *  When you save after viewing the credits, your Play Time will now be updated
+    in your save file, rather than reverting to what it was when you last saved.
+ *  Your Extra Folder is no longer included in the total Battle Cards count.
+
+
+CROSSOVER:
+
+ *  The Lunar Knights crossover quest has been restored. As in the Japanese
+    version, you can play it after completing the Gemini Spark chapter.
+ *  After the Gemini Spark chapter, you will receive an E-mail hinting that the
+    Lunar Knights crossover quest is now available.
+ *  The Aaron and Lucian posters at Nacys have been restored.
+ *  Names and descriptions have been added for the Lunar Knights Battle Cards.
+ *  After completing the Lunar Knights crossover quest, wave balls appear in
+    various places of the Wave World that allow you to form a BrotherBand with a
+    Lunar Knights character.
+ *  Red Mystery Waves now always appear on the overworld. (Originally, they
+    would only appear if you had a Lunar Knights BrotherBand.)
+ *  Increased the chance for Green Mystery Waves containing Lunar Knights items
+    to appear on the Wave Road. Originally, there was a 1-in-16 chance that one
+    GMW would contain a Lunar Knights item. Now, the base chance is 25% and
+    increases with 25% for every additional Lunar Knights Brother that you have
+    (so e.g. the chance is 75% when you have 3 Lunar Knights Brothers).
+ *  You can now send E-mail to in-game Lunar Knights Brothers in order to level
+    them up and receive exclusive items and Lunar Knights Battle Cards.
+ *  You can send a password obtained by completing Lunar Knights (the game) to a
+    Lunar Knights Brother in order to instantly level them up.
+ *  Note that just like in the original version, you cannot obtain the V3 Lunar
+    Knights Battle Cards yourself - these can only be used through special means,
+    such as a fully leveled up Lunar Knights Brother's Battle Card Roulette.
+ *  You can now play the Mega Man Battle Network crossover quest without having
+    an MMBN Game Pak inserted in the Nintendo DS SLOT-2. This will become
+    available after you beat Taurus Fire. However, you can still slot in an MMBN
+    Game Pak before then to do the quest earlier.
+ *  You can now slot in an MMBN Game Pak from any region (JP, US or EU), rather
+    than just US.
+
+
+CREDITS:
+
+ *  The credits now contain all names from the JP, US and EU versions, as well
+    as all three Satellite admin constellations.
+ *  During the credits, holding down a button now scrolls at 5x speed (up from
+    3x).

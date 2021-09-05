@@ -1,0 +1,168 @@
+﻿###TextArchive:mess_0561
+###Script:0
+###Mugshot:4
+Where were you!?
+###--------
+###Mugshot:0
+S-Sorry... I, uh...
+###--------
+###Mugshot:0
+I kinda got lost looking for
+the bathroom...
+###--------
+###Mugshot:4
+*sigh* You're so hopeless.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+And now it's close to
+dinnertime. I guess we should
+all go home for today.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+Now listen up, Geo.
+Come to school tomorrow,
+OK!?
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+If you don't come, we'll be
+short 1 actor. And this set
+will be all for naught!!
+###--------
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+(Phew, thank goodness.)
+###--------
+###Mugshot:0
+(Now I can finally go to
+Mr. Boreal's.)
+###--------
+###Script:1
+###Mugshot:4
+###--------
+###Mugshot:4
+Now listen up, Geo.
+Come to school tomorrow,
+OK!?
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+If you don't come, we'll be
+short 1 actor. And this set
+will be all for naught!!
+###--------
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+(Phew, thank goodness.)
+###--------
+###Mugshot:0
+(Now I can finally go to
+Mr. Boreal's.)
+###--------
+###Script:2
+###Mugshot:5
+What took you!?
+###--------
+###Mugshot:5
+You're not worthy of
+making the Prez wait!
+###--------
+###Script:3
+###Mugshot:6
+That was quite the long
+bathroom break.
+###--------
+###Script:4
+###Mugshot:4
+Now listen up, Geo.
+Come to school tomorrow,
+OK!?
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+If you don't come, we'll be
+short 1 actor. And this set
+will be all for naught!!
+###--------
+###Script:5
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I'm in the middle of my
+training. Please don't
+interrupt me.
+###--------
+###Script:6
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+*huff huff*
+Only a little more until I
+hit my goal...!
+###--------
+###Script:15
+###Mugshot:4
+That was a close call...
+###--------
+###Mugshot:4
+I can't believe the light
+would fall like that.
+###--------
+###Script:16
+###Mugshot:5
+You're going to the bathroom?
+###--------
+###Mugshot:5
+Aww, did the falling light
+scare you?
+###--------
+###Script:17
+###Mugshot:6
+If that light had fallen on
+someone...
+###--------
+###Mugshot:6
+Urngh... I don't want to even
+think about it.
+###--------
+###Script:100
+###Mugshot:14
+I like secretly watching
+rehearsals from here.
+###--------
+###Mugshot:14
+Huh? A peeping tom?
+###--------
+###Mugshot:14
+I... I'm not a peeping tom...
+###--------
+###Script:101
+###Mugshot:14
+The set for the play is
+well done, isn't it?
+###--------
+###Mugshot:14
+Even a Wave like me can tell!
+###--------
+###Script:102
+###Mugshot:14
+They hold the school event
+in here every year,
+###--------
+###Mugshot:14
+but this year's play looks
+very promising.
+###--------

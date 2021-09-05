@@ -1,0 +1,26 @@
+﻿###TextArchive:mess_0152
+###Script:0
+###Mugshot:0
+I'm floating...
+There's no gravity in here.
+###--------
+###Script:1
+###Mugshot:Woman
+Welcome to the SpaceSim.
+###--------
+###Mugshot:Woman
+Looks like you are our
+last participant.
+###--------
+###Mugshot:Woman
+Please allow me to close
+the door.
+###--------
+###Script:2
+*beep, beep*
+###--------
+###Script:3
+###Mugshot:Woman
+The tour will begin shortly.
+Enjoy!
+###--------

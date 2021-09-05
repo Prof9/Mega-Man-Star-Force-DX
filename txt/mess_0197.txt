@@ -1,0 +1,42 @@
+﻿###TextArchive:mess_0197
+###Script:0
+###Mugshot:HarpNote
+Please, stop following me!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+I'm... I'm the same as you!
+###--------
+###Script:2
+###Mugshot:HarpNote
+What's the same!?
+###--------
+###Mugshot:HarpNote
+You can't understand
+how I feel!!
+###--------
+###Script:3
+###Mugshot:HarpNote
+Hah!!
+###--------
+###Script:4
+###Mugshot:MegaMan
+Mega, how come we can't
+jump after them?
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If it was just me, I could
+make it, but with you as
+Mega Man, nope, no can do.
+###--------
+###Script:6
+###Mugshot:MegaMan
+Umm...
+Mr. Boreal's lab is that way!!
+###--------
+###Mugshot:MegaMan
+We've got to hurry!
+###--------

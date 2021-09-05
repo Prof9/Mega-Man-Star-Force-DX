@@ -1,0 +1,36 @@
+﻿###TextArchive:mess_0516
+###Script:0
+###Mugshot:2
+###--------
+###Mugshot:2
+Uhh... If I put this together
+in here, how am I going
+to get it out?
+###--------
+###Script:10
+###Mugshot:2
+Hey, how's it going?
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+You look awfully happy.
+Did you find some money
+or something?
+###--------
+###Script:100
+###Mugshot:7
+BEEP BEEP!
+###--------
+###Mugshot:7
+MR. BOREAL'S BUSY AS
+ALWAYS!!
+###--------
+###Script:101
+###Mugshot:7
+BEEP BEEP!
+###--------
+###Mugshot:7
+HELLO? DID YOU NEED TO
+SPEAK WITH MR. BOREAL?
+###--------

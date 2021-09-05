@@ -1,0 +1,498 @@
+﻿###TextArchive:mess_0452
+###Script:0
+###Mugshot:0
+School, huh...
+###--------
+###Script:1
+###Mugshot:0
+What am I doing at this
+fancy condo complex?
+###--------
+###Script:2
+###Mugshot:0
+Bud's house...
+No reason to be here...
+###--------
+###Script:3
+###Mugshot:0
+Zack's house...
+No reason to be here...
+###--------
+###Script:4
+###Mugshot:0
+It looks like a store,
+but it's closed.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Isn't it a little early to
+be going home?
+###--------
+###Script:6
+Hm, hm...
+###--------
+I see, I see.
+###--------
+###Mugshot:0
+Hm? That voice...
+###--------
+###Script:7
+###Mugshot:0
+###--------
+###Mugshot:0
+It's the class Prez, Luna...
+I'd better go say hi.
+###--------
+###Script:8
+###Mugshot:OmegaXis
+Hey, there's nobody over
+there.
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Where ya goin'!?
+We have no business there!
+###--------
+###Script:11
+###Mugshot:0
+I should talk to Sonia first.
+###--------
+###Script:12
+###Mugshot:0
+I don't feel like going to
+school now...
+###--------
+###Script:20
+###Mugshot:Woman
+Hello.
+###--------
+###Mugshot:Woman
+...Uh? You know what's on
+my mind?
+###--------
+###Mugshot:Woman
+That's right!
+There's this guy in town
+named Chase Winde...
+###--------
+###Mugshot:Woman
+I want to know how old
+he is.
+###--------
+###Mugshot:Woman
+If you find out, could you
+let me know?
+###--------
+###Script:21
+###Mugshot:Woman
+That's right!
+There's this guy in town
+named Chase Winde...
+###--------
+###Mugshot:Woman
+I want to know how old
+he is.
+###--------
+###Mugshot:Woman
+If you find out, could you
+let me know?
+###--------
+###Script:22
+###Mugshot:Woman
+Oh? Did you find out how
+old that guy, Chase is?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+...30!?
+Wow, that is pretty old...
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Thank you for finding
+out for me!
+This is for you!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=98
+###--------
+###Mugshot:Woman
+I wonder if he'd think I'm
+too young for him.
+###--------
+###Script:23
+###Mugshot:Woman
+I wonder if he'd think I'm
+too young for him.
+###--------
+###Script:25
+###Mugshot:Boy
+Uh? Is there a card I
+just need to have?
+###--------
+###Mugshot:Boy
+Yes, how'd you know that?
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I really want a
+"<printCard>" card badly!
+But it's hard to get.
+###Command:printCard card=37
+###--------
+###Script:26
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I really want a
+"<printCard>" card badly!
+But it's hard to get.
+###Command:printCard card=37
+###--------
+###Script:27
+###Mugshot:Boy
+Yes! That's the card I want!!
+###--------
+###Mugshot:Boy
+Can I have it?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:Boy
+Thank you!
+###--------
+###Mugshot:Boy
+I'll give you this in return!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=150
+###--------
+###Mugshot:Boy
+Oh yes! I've gotta go
+and show this off.
+###--------
+###Script:28
+###Mugshot:Boy
+Aw, man...
+###--------
+###Script:29
+###Mugshot:Boy
+Oh yes! I've gotta go
+and show this off.
+###--------
+###Script:30
+###Mugshot:LittleBoy
+Yes? Can I do something
+for you?
+###--------
+###Mugshot:LittleBoy
+...That's right!
+How'd you know?
+###--------
+###Mugshot:LittleBoy
+Recently I've been seeing
+strange things!!
+###--------
+###Mugshot:LittleBoy
+Something weird keeps
+staring at me from behind
+the vending machine.
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+It's creeping me out.
+What should I do?
+###--------
+###Script:31
+###Mugshot:LittleBoy
+Recently I've been seeing
+strange things!!
+###--------
+###Mugshot:LittleBoy
+Something weird keeps
+staring at me from behind
+the vending machine.
+###--------
+###Mugshot:LittleBoy
+It creeps me out.
+###--------
+###Script:32
+###Mugshot:LittleBoy
+Uh? Well, what was it?
+A ghost?
+###--------
+###Mugshot:LittleBoy
+No? But it's definitely
+gone, right?
+###--------
+###Mugshot:LittleBoy
+Good. I'll take your word
+for it. Thanks!
+###--------
+###Mugshot:LittleBoy
+Here's something for
+your time.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=101
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I wonder what the heck
+that spooky thing was,
+anyway...
+###--------
+###Script:35
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I wonder what the heck
+that spooky thing was,
+anyway...
+###--------
+###Script:40
+###Mugshot:OldMan
+What can I do for you,
+sonny?
+###--------
+###Mugshot:OldMan
+Oh, oh, that's right!
+###--------
+###Mugshot:OldMan
+I lost some money not
+too long ago.
+It was for my grandson...
+###--------
+###Mugshot:OldMan
+I think I was up at
+Vista Point when I lost it.
+###--------
+###Script:41
+###Mugshot:OldMan
+I lost some money recently
+that was for my grandson...
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I think I was up at
+Vista Point when I lost it.
+###--------
+###Script:42
+###Mugshot:OldMan
+Ohh! You found my money?
+###--------
+###Mugshot:OldMan
+Well, let me see it!
+Where is it?
+###--------
+Geo gave:
+"500 Zennys"
+to the old man!!
+###--------
+###Mugshot:OldMan
+Thank you, sonny.
+This is for your trouble!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=15
+###--------
+###Mugshot:OldMan
+My grandson's going to
+be so happy.
+###--------
+###Script:43
+###Mugshot:OldMan
+Hey, that's not enough.
+###--------
+###Mugshot:OldMan
+I know I lost
+"500 Zennys"...
+###--------
+###Script:46
+###Mugshot:OldMan
+My grandson's going to
+be so happy.
+###--------
+###Script:50
+###Mugshot:Man
+Yeah?
+###--------
+###Mugshot:Man
+Oh, it's you, the boy who
+I gave the RC chopper.
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+How's it working?
+Have you gotten any
+good at flying it?
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+I know!
+Why don't you show me
+what you can do?
+###--------
+###Mugshot:Man
+Whaddaya say?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:Man
+Hey, you look pretty
+confident!
+###--------
+###Mugshot:Man
+Let's see what you've got!
+###--------
+###Script:51
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Why don't you show me
+how good you've gotten
+with that RC chopper?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:Man
+Hey, you look pretty
+confident!
+###--------
+###Mugshot:Man
+Let's see what you've got!
+###--------
+###Script:52
+###Mugshot:Man
+Oh, well, that's too bad.
+###--------
+###Script:55
+###Mugshot:OldMan
+I know the smell of my
+favorite sandwich! Ham!
+###--------
+###Mugshot:OldMan
+Did you bring those for me?
+###--------
+###Mugshot:OldMan
+Well, that lady IS pretty old...
+###--------
+###Mugshot:OldMan
+Thanks, sonny.
+###--------
+Geo gave:
+"<printItem>"
+to the old man!!
+###Command:printItem item=45
+###--------
+###Mugshot:OldMan
+Mmm, mmm.
+###--------
+###Mugshot:OldMan
+Please give my regards to
+the Superintendent.
+###--------
+###Mugshot:OldMan
+...Oh, you didn't know?
+That old lady used to be
+the Superintendent.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+But after she retired
+she started that little
+snack shop.
+###--------
+###Mugshot:OldMan
+She must really love that
+school.
+###--------
+###Script:56
+###Mugshot:OldMan
+That old lady used to be
+the Superintendent
+###--------
+###Mugshot:OldMan
+before she retired and
+started that little
+snack shop.
+###--------
+###Mugshot:OldMan
+She really loves that school.
+###--------
+###Script:60
+###Mugshot:MrHertz
+...UH?
+WHAT AM I DOING HERE?
+###--------
+###Mugshot:MrHertz
+OH, I'M JUST TAKING A
+LITTLE BREAK.
+###--------
+###Mugshot:MrHertz
+EVEN HUMANS TAKE
+BREAKS RIGHT?
+###--------
+###Mugshot:MrHertz
+THEY GO AND BUY DRINKS
+AT THE VENDING MACHINE.
+###--------
+###Mugshot:MrHertz
+I TRIED IT ONCE, BUT...
+###--------
+###Mugshot:MrHertz
+...HUH!?
+###--------
+###Mugshot:MrHertz
+SOMEONE MISTOOK ME FOR
+A GHOST?
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+OH! THAT WAS MY BAD.
+I DIDN'T MEAN TO SCARE
+ANYBODY.
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I'LL TAKE MY BREAKS
+WHERE PEOPLE CAN'T
+SEE ME FROM NOW ON...
+###--------
+###Script:61
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I'LL TAKE MY BREAKS
+WHERE PEOPLE CAN'T
+SEE ME FROM NOW ON...
+###--------
+###Script:70
+###Mugshot:0
+I've gotta do something
+about that truck, fast!
+###--------

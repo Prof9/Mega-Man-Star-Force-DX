@@ -1,0 +1,82 @@
+﻿###TextArchive:mess_0142
+###Script:0
+###Mugshot:0
+OK, let's give this a whirl!
+###--------
+###Script:1
+###Mugshot:0
+"Propeller Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+What's that...?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, Geo!
+Put on your Visualizer
+for a sec.
+###--------
+###Script:3
+###Mugshot:0
+Huh?
+###--------
+###Script:4
+###Mugshot:0
+Hey, there's someone there!
+###--------
+###Mugshot:0
+He looks just like the guy
+on the Navi Card!
+###--------
+###Mugshot:0
+Is that PropellerMan?
+###--------
+###Mugshot:PropellerMan
+Whoosh! Whooooo!
+Propellers are go!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+He's being projected from
+your Transer.
+###--------
+###Mugshot:OmegaXis
+He's probably here to
+help control the RC.
+###--------
+###Script:6
+###Mugshot:0
+###--------
+###Mugshot:0
+Hmm, that's neat.
+EM waves can work like
+that too, huh?
+###--------
+###Mugshot:0
+OK, let's give flying this
+thing a try!
+###--------
+###Script:7
+###Mugshot:LittleBoy
+Thank you!
+Please, take this!
+###--------
+###Script:8
+Geo got:
+"<printCard>"!!
+###Command:printCard card=455
+###--------
+###Script:9
+###Mugshot:0
+###--------
+###Mugshot:0
+...Rats.
+We spent more time here
+than I thought.
+###--------
+###Mugshot:0
+We'd better hurry home.
+###--------

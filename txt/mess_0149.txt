@@ -1,0 +1,130 @@
+﻿###TextArchive:mess_0149
+###Script:0
+###Mugshot:2
+This lab room is where
+I work.
+###--------
+###Mugshot:2
+Feel free to look around.
+###--------
+###Script:1
+###Mugshot:2
+###--------
+###Mugshot:2
+These aren't your everyday
+objects. Some things in here
+have yet to be announced!
+###--------
+###Script:2
+###Mugshot:3
+(M-My FlapPack has yet
+to be announced.)
+###--------
+###Script:3
+###Mugshot:6
+What's this thing hanging on
+the wall?
+###--------
+###Script:4
+###Mugshot:2
+Hey, you have a good set
+of eyes there. That's
+something that hasn't been
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+announced yet, so I can't
+talk about it very loudly...
+###--------
+###Script:5
+###Mugshot:3
+*ba-dump*<wait>
+
+###Command:wait frames=30
+###--------
+###Mugshot:3
+*ba-dump*<wait>
+
+###Command:wait frames=30
+###--------
+###Mugshot:3
+*ba-dump*<wait>
+###Command:wait frames=30
+###--------
+###Script:6
+###Mugshot:2
+###--------
+###Mugshot:2
+.<wait>.<wait>.<wait>pack.
+I created it.
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Script:7
+###Mugshot:3
+!!!
+###--------
+###Mugshot:3
+Wh-What did he just say!?
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Did he just say "FlapPack"?
+H-He did, didn't he...?
+###--------
+###Script:8
+###Mugshot:6
+###--------
+###Mugshot:6
+Oh, I get it...
+So this is a new rocket
+and booster pack.
+###--------
+###Script:9
+###Mugshot:6
+...Hmm?
+###--------
+###Script:10
+###Mugshot:6
+What's this?
+###--------
+###Script:11
+###Mugshot:2
+###--------
+###Mugshot:2
+This is something my
+assistant made.
+He calls it a FlapPack.
+###--------
+###Mugshot:2
+I think it's close to
+completion.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+When I saw its wings flap,
+it pretty much convinced me!
+Ha ha ha ha!
+###--------
+###Script:12
+###Mugshot:2
+Well, it's time for the
+SpaceSim tour to start.
+###--------
+###Mugshot:5
+SpaceSim tour?
+###--------
+###Mugshot:2
+Ha ha ha. You'll see.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Let's get going.
+Reception desk is at the
+back of the museum.
+###--------

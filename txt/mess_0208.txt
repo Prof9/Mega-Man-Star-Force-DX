@@ -1,0 +1,74 @@
+﻿###TextArchive:mess_0208
+###Script:0
+###Mugshot:1
+Where is he?
+###--------
+###Mugshot:8
+Right here.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Hey, ugly!
+###--------
+###Mugshot:OmegaXis
+You've got a lot of nerve
+picking a fight with us.
+###--------
+###Script:2
+###Mugshot:Jammer
+You're Mega Man, right?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Looks like we got famous
+all of a sudden.
+###--------
+###Mugshot:OmegaXis
+...Heh heh.
+###--------
+###Script:4
+###Mugshot:1
+This isn't funny!!
+###--------
+###Script:5
+###Mugshot:8
+You're worse off than
+I figured you'd be;
+###--------
+###Mugshot:8
+bummin' around inside a
+cheap body like that.
+###--------
+###Script:6
+###Mugshot:OmegaXis
+What!?
+###--------
+###Script:7
+###Mugshot:8
+###--------
+###Mugshot:8
+Come! Show me the power
+you used to beat all those
+other FM-ians down.
+###--------
+###Script:8
+###Mugshot:1
+Huh!?
+###--------
+###Script:9
+###Mugshot:OmegaXis
+What's going on?
+###--------
+###Mugshot:OmegaXis
+I-It's like he suddenly
+changed into someone
+completely different!
+###--------
+###Script:10
+###Mugshot:8
+...*grin*
+###--------
+###Script:11
+###Mugshot:OmegaXis
+H-Here he comes!
+###--------

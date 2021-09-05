@@ -1,0 +1,96 @@
+﻿###TextArchive:mess_0365
+###Script:0
+###Mugshot:OmegaXis
+The FM King is just
+beyond here...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Once you change into
+wave form here, there's
+no turning back.
+###--------
+###Script:1
+###Mugshot:0
+No turning back...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+The area ahead is a
+warped world...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The FM King's Z waves are
+so strong, they've turned
+reality into wave form.
+###--------
+###Mugshot:OmegaXis
+Basically, it's half Real World,
+and half Wave.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You can't escape into
+the Real World if you
+get into a tight spot.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Once you enter, the only
+way you can return to
+the Real World is...
+###--------
+###Script:3
+###Mugshot:0
+...To beat the FM King, right?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Right...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you don't... you'll never
+be able to return to the
+Real World ever again...
+###--------
+###Mugshot:OmegaXis
+You came all the way here,
+but...
+###--------
+###Mugshot:OmegaXis
+if you want to turn back,
+now's the time.
+###--------
+###Script:5
+###Mugshot:0
+Thanks, Mega...
+###--------
+###Mugshot:0
+But I'm going forward!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Heh, I thought you'd
+say that.
+###--------
+###Mugshot:OmegaXis
+If you've made up your mind,
+I won't say anymore!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Whenever you're ready,
+let's go!
+###--------
+###Script:7
+###Mugshot:0
+Yeah!
+###--------

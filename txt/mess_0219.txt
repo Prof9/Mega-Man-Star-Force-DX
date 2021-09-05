@@ -1,0 +1,200 @@
+﻿###TextArchive:mess_0219
+###Script:0
+###Mugshot:4
+Let's pick up where we
+left off yesterday!
+###--------
+###Mugshot:4
+We're going to rehearse
+without costumes today.
+###--------
+###Mugshot:4
+Here we go!
+###--------
+###Script:1
+###Mugshot:4
+Scene 35 -
+"Mega Man Appears!"
+###--------
+###Mugshot:4
+Action!!
+###--------
+###Script:2
+###Mugshot:3
+Hold it right there,
+Cow Man!
+###--------
+###Script:3
+###Mugshot:5
+Who are you!?
+###--------
+###Script:4
+###Mugshot:0
+Bud is Cow Man,
+and Pat is Mega Man...
+###--------
+###Mugshot:0
+So that's who's playing who.
+###--------
+###Mugshot:0
+<waitOWVar>
+###Command:waitOWVar variable=2 value=1
+###--------
+###Script:5
+###Mugshot:3
+###--------
+###Mugshot:3
+Whenever people cry
+for help, I will appear!
+###--------
+###Mugshot:3
+I am Mega Man!
+The Blue Bomber!
+###--------
+###Script:6
+###Mugshot:0
+(That sounds nothing like
+the real me!!!)
+###--------
+###Script:7
+###Mugshot:OmegaXis
+(Ha ha ha, your face
+is bright red, Geo.)
+###--------
+###Script:8
+###Mugshot:4
+Cuuuuuuuut!!
+###--------
+###Script:9
+###Mugshot:4
+Bud!<wait>
+That was awful!
+###Command:wait frames=20
+###--------
+###Mugshot:4
+You've got to be more
+monster-like!!
+###--------
+###Script:10
+###Mugshot:5
+B-But I'm a person...
+###--------
+###Script:11
+###Mugshot:4
+And...
+###--------
+###Script:12
+###Mugshot:4
+Zack, up in the lighting area!
+###--------
+###Script:13
+###Mugshot:4
+Your timing is off!
+You're too fast!
+###--------
+###Script:14
+###Mugshot:6
+She's so nit-picky.
+###--------
+###Script:15
+###Mugshot:0
+Umm...
+###--------
+###Script:16
+###Mugshot:0
+I was just thinking...
+###--------
+###Mugshot:4
+What?
+###--------
+###Mugshot:0
+Isn't Mega Man a little
+too cool...?
+###--------
+###Script:17
+###Mugshot:4
+Do you have a problem
+with my glorious script?
+###--------
+###Script:18
+###Mugshot:0
+I mean...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+"Whenever people cry
+for help, I will appear!"?
+###--------
+###Mugshot:0
+I don't think even
+Mega Man has that
+much free time...
+###--------
+###Script:19
+###Mugshot:4
+###--------
+###Mugshot:4
+No, he will always appear.
+I just know it!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(Ha ha ha ha ha.
+She sure has a lot of
+faith in you, Geo.)
+###--------
+###Script:21
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Oh, yeah.
+Speaking of your script,
+what am I doing?
+###--------
+###Script:22
+###Mugshot:4
+###--------
+###Mugshot:4
+That's right,
+I almost forgot!
+###--------
+###Mugshot:4
+Your part is...
+###--------
+###Script:23
+###Mugshot:0
+......
+###--------
+###Script:24
+###Mugshot:4
+I knew you'd be perfect!!
+###--------
+###Script:25
+###Mugshot:0
+(THIS is the important role?)
+###--------
+###Mugshot:0
+(The one they NEEDED
+me to do?)
+###--------
+###Mugshot:0
+(I-I've been TRICKED!!)
+###--------
+###Script:26
+*ding dong
+      ding dong*
+###--------
+###Script:27
+###Mugshot:4
+OK, that's a wrap.
+###--------
+###Mugshot:4
+We have practice again
+tomorrow, so be prepared.
+###--------

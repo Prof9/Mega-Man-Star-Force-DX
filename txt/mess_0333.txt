@@ -1,0 +1,403 @@
+﻿###TextArchive:mess_0333
+###Script:0
+###Mugshot:2
+Thanks for coming, Geo.
+###--------
+###Script:1
+###Mugshot:0
+.........
+###--------
+###Script:2
+###Mugshot:2
+I thought about whether
+I should tell you or not,
+###--------
+###Mugshot:2
+but I think this is something
+I must tell you.
+###--------
+###Script:3
+###Mugshot:0
+What is it?
+###--------
+###Script:4
+###Mugshot:2
+###--------
+###Mugshot:2
+Yesterday, one of our radars
+here at AMAKEN caught a
+radio signal from outer space.
+###--------
+###Script:5
+###Mugshot:0
+.........
+###--------
+###Script:6
+###Mugshot:2
+###--------
+###Mugshot:2
+Actually, the signal was
+from NAZA's space
+station, Peace...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+What I'm saying is it's
+from the space station
+your father was on.
+###--------
+###Mugshot:2
+<wait>And we know that it's
+on a course for Earth.
+###Command:wait frames=60
+###--------
+###Script:7
+###Mugshot:0
+D...Dad...? Is he...?
+###--------
+###Script:8
+We don't want to get
+close enough to find out.
+###--------
+###Script:9
+###Mugshot:0
+B-But why not?
+###--------
+###Script:10
+###Mugshot:BobCopper
+I know you want to know
+about your father
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+after hearing his space
+station is heading this way,
+but...
+###--------
+###Mugshot:BobCopper
+Right now, that station is...
+###--------
+###Mugshot:BobCopper
+It's basically a giant ball
+of Z waves.
+###--------
+###Script:11
+###Mugshot:0
+Then, my dad...
+###--------
+###Script:12
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+We don't know. But it's
+probably best if you
+don't get your hopes up.
+###--------
+###Script:13
+###Mugshot:0
+B-But...
+###--------
+###Script:14
+*beep beep beep*<wait>
+###Command:wait frames=60
+###--------
+###Script:15
+###Mugshot:2
+We caught a new signal.
+###--------
+###Script:16
+###Mugshot:2
+Looks like it's a recording...
+###--------
+###Mugshot:2
+We'll just run it through
+the analyzer here...
+###--------
+###Script:17
+###Mugshot:0
+A recording?
+###--------
+###Mugshot:0
+Maybe... Maybe it's a
+message from my dad...
+###--------
+###Script:18
+###Mugshot:2
+OK, analysis complete.
+###--------
+###Mugshot:2
+Now let's give it a listen...
+###--------
+###Script:19
+###Mugshot:0
+......*gulp*
+###--------
+###Script:20
+...*hiss*...
+*hiss*...*hiss*<wait>
+###Command:wait frames=60
+###--------
+Greetings, Earthlings.
+###--------
+I am the king of Planet FM.
+###--------
+I am coming to personally
+destroy Earth.
+###--------
+You can consider your
+planet as good as gone.
+###--------
+*hiss*...*hiss*<wait>
+###Command:wait frames=60
+###--------
+###Script:21
+###Mugshot:BobCopper
+W-What is this!?
+###--------
+###Mugshot:BobCopper
+It's like a declaration,
+isn't it!?
+###--------
+###Script:22
+###Mugshot:2
+###--------
+###Mugshot:2
+You know, Planet FM was
+the planet Kelvin was trying
+to form a Brother Band with.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I never would have thought
+that the FM-ians would...
+###--------
+###Script:23
+###Mugshot:0
+No...
+###--------
+###Script:24
+###Mugshot:0
+Aaah!!
+###--------
+###Script:25
+###Mugshot:2
+Wh-What happened...?
+###--------
+###Script:26
+###Mugshot:BobCopper
+Be careful. The Z wave
+level is rising fast!
+###--------
+###Script:27
+###Mugshot:2
+What in the world is all this!?
+###--------
+###Script:28
+###Mugshot:Geo
+The Wave Roads!?
+###--------
+###Mugshot:Geo
+I can see them without
+using my Visualizer!
+###--------
+###Script:29
+###Mugshot:BobCopper
+I don't believe it...
+###--------
+###Mugshot:BobCopper
+The Z wave levels are off
+the chart! This room is
+covered in Z waves!!
+###--------
+###Mugshot:BobCopper
+Careful! Something terrible
+is coming!!
+###--------
+###Script:30
+###Mugshot:Geo
+Ahh!
+###--------
+###Script:31
+###Mugshot:2
+What's happening around
+here!?
+###--------
+###Script:32
+###Mugshot:BobCopper
+Oof...
+###--------
+###Mugshot:BobCopper
+It's all being caused by
+that ball of Z waves!
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+It's too dangerous for
+us to continue to be
+showered in Z waves!!
+###--------
+###Script:33
+###Mugshot:2
+My body...!!
+###--------
+###Script:34
+###Mugshot:BobCopper
+This is bad!!
+Being radiated by the
+Z waves
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+is changing the frequency
+at which the particles in
+our bodies vibrate!!
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+If we stay here, our
+bodies will turn into
+Z waves!!
+###--------
+###Script:35
+###Mugshot:Geo
+You mean we're changing
+into wave form!?
+###--------
+###Mugshot:Geo
+Argh, my body isn't
+listening to me!
+###--------
+###Script:36
+###Mugshot:BobCopper
+We're beginning to lose
+body mass!
+###--------
+###Mugshot:BobCopper
+I guess I have to use
+that now.
+###--------
+###Mugshot:BobCopper
+There's only enough
+charge for one shot.
+###--------
+###Mugshot:BobCopper
+Must focus...
+Can't miss...
+###--------
+###Script:37
+###Mugshot:BobCopper
+Z Wave Neutralizer,
+charging!!
+###--------
+###Mugshot:BobCopper
+Anti-Z wave energy level
+rising!!
+###--------
+###Script:38
+###Mugshot:BobCopper
+90 percent!
+98, 99, 100!
+###--------
+###Mugshot:BobCopper
+Z Wave Neutralizer is a go!!
+###--------
+###Script:39
+###Mugshot:BobCopper
+Oww...
+###--------
+###Mugshot:BobCopper
+Looks like it worked.
+###--------
+###Script:40
+###Mugshot:2
+We're saved...
+###--------
+###Script:41
+###Mugshot:2
+This is bad...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Looks like what just
+happened to us is happening
+in other areas as well!!
+###--------
+###Script:42
+###Mugshot:BobCopper
+Nrgh!
+###--------
+###Mugshot:BobCopper
+I've got to get to those
+places at once!
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+But that charged shot
+just now rendered my
+Transer useless.
+###--------
+###Mugshot:BobCopper
+I've got to go back to
+the precinct first.
+###--------
+###Mugshot:BobCopper
+Time is of the essence,
+so I'm off!
+###--------
+###Script:43
+###Mugshot:0
+Hey, Mr. Boreal, where
+are the other locations?
+###--------
+###Script:44
+###Mugshot:2
+Let's see, in our country...
+###--------
+###Mugshot:2
+it's happening in
+Time Square!!
+###--------
+###Script:45
+###Mugshot:0
+Time Square!?
+###--------
+###Script:46
+*ding ding ding*<wait>
+###Command:wait frames=60
+###--------
+Mr. Boreal, we have
+a problem.
+###--------
+Please come to the main
+office at once.
+###--------
+###Script:47
+###Mugshot:2
+And so it begins...
+###--------
+###Mugshot:2
+Geo, why don't you rest
+here for a while.
+###--------
+###Mugshot:2
+Right now, it's too
+dangerous outside.
+###--------
+###Mugshot:2
+Later.
+###--------
+###Script:48
+###Mugshot:0
+Isn't mom in Time Square...?
+###--------
+###Mugshot:0
+I have to go there!
+###--------

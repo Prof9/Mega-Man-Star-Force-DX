@@ -1,0 +1,270 @@
+﻿###TextArchive:mess_0338
+###Script:0
+###Mugshot:0
+Luna...
+###--------
+###Mugshot:0
+Um...
+###--------
+###Script:1
+###Mugshot:16
+Bud, Zack, can you please
+give us some space?
+###--------
+###Script:2
+###Mugshot:6
+...OK.
+###--------
+###Script:3
+###Mugshot:19
+Sure.
+###--------
+###Mugshot:19
+Bud, want to hang out
+at my place?
+###--------
+###Script:4
+###Mugshot:6
+Oh, sure.
+###--------
+###Script:5
+###Mugshot:0
+Luna... I... I'm sorry.
+###--------
+###Mugshot:0
+A lot of things happened
+and I thought about it
+again...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Um... So if it's OK with you...
+can we be Brothers again?
+###--------
+###Script:6
+###Mugshot:16
+###--------
+###Mugshot:16
+You have a lot of nerve!
+Do you have any idea
+what you did!?
+###--------
+###Mugshot:16
+It's not something I can
+forgive, just like that...
+###--------
+###Script:7
+###Mugshot:16
+Aaaah!!
+###--------
+###Script:8
+###Mugshot:0
+An earthquake!?
+It can't be!!
+###--------
+###Script:9
+###Mugshot:16
+Wh-What is all this!?
+###--------
+###Script:10
+###Mugshot:Geo
+Looks like we've got
+another wave ball!
+###--------
+###Script:11
+###Mugshot:19
+Nooooo!!
+###--------
+###Script:12
+###Mugshot:6
+Stooop!!
+###--------
+###Script:13
+###Mugshot:16
+Bud!? Zack!?
+###--------
+###Script:14
+###Mugshot:16
+Bud!! Zack!!
+###--------
+###Script:15
+###Mugshot:Jammer
+Heh heh heh...
+Oh, goody! More humans!
+###--------
+###Script:16
+###Mugshot:6
+Argh! Let us go!
+Get your hands off of me!!
+###--------
+###Script:17
+###Mugshot:19
+Help!! Please!!
+###--------
+###Script:18
+###Mugshot:Geo
+I've gotta do something...
+###--------
+###Script:19
+###Mugshot:Jammer
+Heh heh heh. Yummy snacks
+for Andromeda!
+###--------
+###Mugshot:Jammer
+That girl looks especially
+tasty!
+###--------
+###Script:20
+###Mugshot:Geo
+Luna!!
+###--------
+###Script:21
+###Mugshot:16
+Geo!!
+###--------
+###Script:22
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Now, now. Wait your turn.
+We'll turn you into waves
+after these three.
+###--------
+###Script:23
+###Mugshot:Geo
+I'm not waiting for you!!
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I won't run away anymore!
+I'm gonna fight to protect
+those I care about!
+###--------
+###Mugshot:Geo
+I'm gonna protect everyone
+I can!
+###--------
+###Script:24
+###Mugshot:6
+Don't be a dork!
+You can't fight them! Run!!
+###--------
+###Script:25
+###Mugshot:19
+Find an adult and get help!!
+###--------
+###Script:26
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+You're a good talker,
+but just how are you
+gonna protect them?
+###--------
+###Mugshot:Jammer
+Hmm!?
+###--------
+###Script:27
+###Mugshot:Geo
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:28
+###Mugshot:Jammer
+Y-You!!
+###--------
+###Mugshot:Jammer
+You're the one that defeated
+the FM warriors!
+###--------
+###Script:29
+###Mugshot:6
+Mega Man!?
+###--------
+###Mugshot:6
+You... No way!!
+###--------
+###Script:30
+###Mugshot:19
+Geo is Mega Man!?
+###--------
+###Script:31
+###Mugshot:Jammer
+Tsk! This isn't good.
+###--------
+###Script:32
+###Mugshot:Jammer
+Here's a lovely parting gift!!
+###--------
+###Script:33
+###Mugshot:1
+Oh, no you don't!
+###--------
+###Script:34
+###Mugshot:Jammer
+Curses!
+###--------
+###Script:35
+###Mugshot:1
+Wait, you!!
+###--------
+###Script:36
+###Mugshot:6
+The guy we were always
+picking on...
+###--------
+###Script:37
+###Mugshot:19
+...Is Mega Man...
+###--------
+###Script:38
+###Mugshot:16
+Mega Man......
+###--------
+###Script:39
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Persistent little bugger,
+isn't he!? Let's move!
+###--------
+###Script:40
+###Mugshot:1
+Where'd they go!?
+###--------
+###Script:41
+###Mugshot:Jammer
+Over here!
+###--------
+###Script:42
+###Mugshot:1
+Gotcha!
+###--------
+###Script:43
+###Mugshot:1
+You're not getting away
+that easily!!
+###--------
+###Script:44
+###Mugshot:Jammer
+Now!!
+###--------
+###Script:45
+###Mugshot:Jammer
+Way to let down your
+guard, boy!
+###--------
+###Mugshot:Jammer
+Now eat roof!
+###--------
+###Script:46
+###Mugshot:1
+Ack!
+###--------

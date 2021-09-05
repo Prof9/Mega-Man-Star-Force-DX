@@ -1,0 +1,80 @@
+﻿###TextArchive:mess_0185
+###Script:0
+###Mugshot:Geo
+So I'm supposed to
+wait while Mega lures
+Mr. Copper here.
+###--------
+###Mugshot:Geo
+He sure is taking a while.
+I wonder if he's OK?
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+He didn't get caught on
+the way here, did he...?
+###--------
+###Script:1
+Wait, you source of
+Z waves...
+*huff, huff*
+###--------
+###Script:2
+###Mugshot:Geo
+He's coming!!
+###--------
+###Script:3
+###Mugshot:BobCopper
+*huff, huff*
+It finally stopped.
+*huff*
+###--------
+###Mugshot:BobCopper
+You won't get away
+from me...
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Now, Geo!
+###--------
+###Script:5
+###Mugshot:Geo
+"Pitcher Card"
+Card In!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Nice pitching!
+A perfect strike.
+###--------
+###Mugshot:OmegaXis
+Or should I say a
+"dead ball"?
+###--------
+###Script:7
+###Mugshot:Geo
+Wh-Wh-What!?
+Is he OK!?
+###--------
+###Script:8
+###Mugshot:OmegaXis
+Don't worry, you only
+knocked him out, kid.
+###--------
+###Mugshot:OmegaXis
+Now let's check out his
+Transer.
+###--------
+###Script:9
+###Mugshot:Geo
+Ah, um... Yeah...
+###--------
+###Script:10
+One hot pitch comin'
+right up!
+###--------
+###Script:11
+STRIIIIIIIKE!!
+Batter out!!
+###--------

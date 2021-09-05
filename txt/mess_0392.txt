@@ -1,0 +1,208 @@
+﻿###TextArchive:mess_0392
+###Script:0
+Temp message
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You look like you're starting
+to like school. Well, let's
+hurry and get to class!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+What's going on in the studio?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We gotta be careful of
+that Copper guy...
+Well, let's go home.
+###--------
+###Script:8
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I hate running away, but
+right now it's better
+that we get outside!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Dang!
+The entrance is blocked...
+###--------
+###Mugshot:OmegaXis
+Let's double back...
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Something's gotta be done
+about that Jammer.
+###--------
+###Mugshot:OmegaXis
+Let's head back to the
+wave space in class 5-A!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I remember he was standing
+where he had a good view of
+the blackboard and speakers!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Luna's in danger!
+She could be caught
+up in the Wave World!!
+###--------
+###Script:15
+###Mugshot:OmegaXis
+I'm beat. Let's call it a day!
+###--------
+###Script:16
+###Mugshot:OmegaXis
+*yawn*
+Let's turn in early today!
+###--------
+###Script:17
+###Mugshot:OmegaXis
+Hey, we should be getting
+back to Time Square.
+###--------
+###Mugshot:OmegaXis
+Sonia's waiting there,
+isn't she?
+###--------
+###Script:18
+###Mugshot:OmegaXis
+Don't you have to get
+back to Time Square?
+###--------
+###Script:50
+###Mugshot:OmegaXis
+C'mon, let's call it a day.
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Let's go to Time Square.
+###--------
+###Script:60
+###Mugshot:OmegaXis
+Pulse out!
+###--------
+###Script:61
+###Mugshot:OmegaXis
+Let's show those admins
+what we're made of!
+###++++++++
+###Mugshot:OmegaXis
+Head for the AMAKEN
+rooftop Wave Road!
+###--------
+###Script:62
+###Mugshot:OmegaXis
+Aren't we going to that
+Dream Island place?
+###--------
+###Script:63
+###Mugshot:OmegaXis
+There's a park.
+C'mon, let's go!
+###--------
+###Script:64
+###Mugshot:OmegaXis
+Aren't we going to leave
+the park?
+###--------
+###Script:65
+###Mugshot:OmegaXis
+Do as you were told
+and keep going.
+###--------
+###Script:66
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Isn't there supposed to be
+something at the City Dump?
+###--------
+###Script:67
+###Mugshot:OmegaXis
+We should be getting home.
+###--------
+###Script:70
+###Mugshot:OmegaXis
+Aren't we gonna go home?
+###--------
+###Script:71
+###Mugshot:OmegaXis
+Let's go home and get
+some sleep.
+###--------
+###Script:75
+###Mugshot:OmegaXis
+Aren't we going to
+Time Square?
+###--------
+###Script:76
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Go inside the City Dump!
+###--------
+###Script:77
+###Mugshot:OmegaXis
+Think of a way to move
+that backhoe!
+###--------
+###Script:78
+###Mugshot:OmegaXis
+Look for the ShovelMan
+card!
+###--------
+###Script:79
+###Mugshot:OmegaXis
+Give the ShovelMan card
+to that one guy!
+###--------
+###Script:80
+###Mugshot:OmegaXis
+Move that backhoe outta
+the way!
+###--------
+###Script:81
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Go inside the City Dump!
+###--------
+###Script:88
+###Mugshot:OmegaXis
+Take the Dream Island
+Wave Road and keep going!
+###--------
+###Script:89
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Head for the Scrap Comp
+where Gemini is!
+###--------
+###Script:90
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Head for the Scrap Comp
+where Gemini is!
+###--------

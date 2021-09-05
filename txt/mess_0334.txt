@@ -1,0 +1,514 @@
+﻿###TextArchive:mess_0334
+###Script:0
+###Mugshot:0
+Mom!!
+###--------
+###Mugshot:0
+Mom!!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+It's no good! At this rate,
+mom's gonna turn into a
+bunch of waves!!
+###--------
+###Script:1
+###Mugshot:0
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:2
+###Mugshot:0
+Oh yeah...
+Mega's not here.
+###--------
+###Mugshot:0
+At a time like this...!
+No, I don't need him.
+###--------
+###Script:3
+###Mugshot:0
+Aaah!!
+###--------
+###Mugshot:Jammer
+Looks like we missed one.
+###--------
+###Mugshot:Jammer
+You should've just stayed
+in hiding, boy...
+###--------
+###Script:4
+###Mugshot:Jammer
+Let's turn him into
+EM waves. Whadaya say?
+###--------
+###Script:5
+###Mugshot:Jammer
+Yeah, it doesn't matter.
+He'll get turned into
+waves either way
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+and become Andromeda's
+snack soon enough.
+###--------
+###Mugshot:Jammer
+And thanks to this EM ball
+the King provided,
+###--------
+###Mugshot:Jammer
+we got a real body too,
+just like the humans.
+###--------
+###Mugshot:Jammer
+But they can't hurt us,
+right?
+###--------
+###Script:6
+###Mugshot:Jammer
+That's true.
+###--------
+###Mugshot:Jammer
+Humans have no idea of
+the good points to the
+Wave World,
+###--------
+###Mugshot:Jammer
+yet they think they are
+so great.
+###--------
+###Mugshot:Jammer
+Pompous bums.
+###--------
+###Script:7
+###Mugshot:Jammer
+Yeah.
+###--------
+###Mugshot:Jammer
+So human,
+nothing personal, but...
+###--------
+###Mugshot:Jammer
+I'm gonna beat you into
+the ground!!
+###--------
+###Script:8
+###Mugshot:0
+Aah...
+###--------
+###Script:9
+###Mugshot:Jammer
+Take this!!
+###--------
+###Script:10
+###Mugshot:0
+Aaaaah!!
+###--------
+###Script:11
+###Mugshot:Jammer
+How do you like them apples!?
+###--------
+###Script:12
+###Mugshot:0
+Owww!!
+###--------
+###Script:13
+###Mugshot:Jammer
+Here's another!
+###--------
+###Script:14
+###Mugshot:0
+Yeow!!
+###--------
+###Script:15
+###Mugshot:Jammer
+And have one from me!!
+###--------
+###Script:16
+###Mugshot:0
+Nngh...
+###--------
+###Script:17
+###Mugshot:0
+Oooh...nngh...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+A-Argh... If only I could
+become Mega Man,
+I could fight back...
+###--------
+###Script:18
+###Mugshot:Jammer
+He's still got some fight
+in him.
+###--------
+###Mugshot:Jammer
+Wanna finish him off?
+###--------
+###Script:19
+###Mugshot:Jammer
+Yeah...
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+It's not like anyone will
+know Andromeda was
+gypped of 1 scrawny kid!
+###--------
+###Script:20
+###Mugshot:0
+N-No more...
+###--------
+###Script:21
+###Mugshot:Jammer
+Are ya ready!?
+###--------
+###Script:22
+Geo Stelar, you give up
+far too early.
+###--------
+###Script:23
+###Mugshot:Jammer
+Nooooooooo!!
+###--------
+###Script:24
+###Mugshot:Jammer
+Aaaaaaaah!!
+###--------
+###Script:25
+###Mugshot:Jammer
+Jaaaaaaaaamin!!
+###--------
+###Script:26
+###Mugshot:0
+I'm saved...
+But by who...?
+###--------
+###Mugshot:0
+Ah! Mom!!
+###--------
+###Script:27
+###Mugshot:0
+Mom!!
+###--------
+###Script:28
+Do not fret.
+She is merely unconscious.
+###--------
+###Script:29
+###Mugshot:0
+Who's there!?
+###--------
+###Script:30
+###Mugshot:0
+The Satellite admins!
+###--------
+###Script:31
+###Mugshot:PegasusMagicShadow
+Geo Stelar.
+Search for Omega-Xis.
+###--------
+###Script:32
+###Mugshot:DragonSkyShadow
+The great calamity draws
+ever closer.
+###--------
+###Script:33
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+The only ones who can
+stand against it are you
+and Omega-Xis.
+###--------
+###Script:34
+###Mugshot:0
+###--------
+###Mugshot:0
+I can't just all of a sudden
+find Mega and stop the
+calamity! I can't!!
+###--------
+###Mugshot:0
+Besides, Mega left me
+and we aren't connected
+anymore.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Even if I found him,
+he wouldn't fight by
+my side again!
+###--------
+###Script:35
+###Mugshot:DragonSkyShadow
+Do you honestly believe that?
+###--------
+###Script:36
+###Mugshot:0
+Huh?
+###--------
+###Script:37
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Do you believe that he won't
+show himself if he is not
+tied to the last battle?
+###--------
+###Script:38
+###Mugshot:0
+###--------
+###Mugshot:0
+He doesn't think about me...
+There's no way he would.
+###--------
+###Script:39
+###Mugshot:PegasusMagicShadow
+You don't think his heart
+has changed?
+###--------
+###Script:40
+###Mugshot:0
+His heart... changed...?
+###--------
+###Script:41
+###Mugshot:DragonSkyShadow
+Yes. A feeling he didn't
+have before, he has now.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Could it be that he has
+learned to sympathize
+with another?
+###--------
+###Script:42
+###Mugshot:0
+He's learned to sympathize?
+###--------
+###Script:44
+###Mugshot:0
+.<waitSkip>.<waitSkip>.<waitSkip>But why would he learn
+something like that?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:45
+###Mugshot:LeoKingdomShadow
+Do you not see?
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+It is you, Geo Stelar.
+You have changed Omega-Xis.
+###--------
+###Script:46
+###Mugshot:0
+I-I changed him!?
+###--------
+###Script:47
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+While Omega-Xis was living
+with you, he learned
+how to be sympathetic.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+And as you became friends
+with each other, you taught
+each other important lessons.
+###--------
+###Script:48
+###Mugshot:0
+I taught Mega how to
+sympathize...
+###--------
+###Script:49
+###Mugshot:DragonSkyShadow
+Yes, you did.
+###--------
+###Mugshot:DragonSkyShadow
+And you also learned
+something valuable.
+###--------
+###Script:50
+###Mugshot:0
+From him?
+###--------
+###Script:51
+###Mugshot:LeoKingdomShadow
+Yes. Close your eyes and
+you can hear it...
+###--------
+###Mugshot:LeoKingdomShadow
+You can hear the "courage"
+Omega-Xis gave to you!
+###--------
+###Script:52
+###Mugshot:0
+"Courage"...
+###--------
+###Script:53
+###Mugshot:PegasusMagicShadow
+Yes. Omega-Xis fought for
+what was important to you,
+###--------
+###Mugshot:PegasusMagicShadow
+and bestowed upon you
+courage.
+###--------
+###Mugshot:PegasusMagicShadow
+You are not the same as
+you once were.
+###--------
+###Mugshot:PegasusMagicShadow
+Summon the courage he
+gave to you.
+###--------
+###Mugshot:PegasusMagicShadow
+The you that was once
+afraid of loss is no more.
+###--------
+###Mugshot:PegasusMagicShadow
+He showed you the sympathy
+you gave to him.
+###--------
+###Mugshot:PegasusMagicShadow
+Now you must show him the
+courage he gave you.
+###--------
+###Mugshot:PegasusMagicShadow
+The Earth is in the middle
+of a crisis.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+The only one who can
+protect those dearest
+to you is yourself.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Leave those humans to
+the Satella Police. Focus on
+taking care of the Earth.
+###--------
+###Script:54
+###Mugshot:0
+The courage to protect
+what's dear to me...
+###--------
+###Script:55
+###Mugshot:PegasusMagicShadow
+Take this...
+###--------
+###Script:56
+###Mugshot:LeoKingdomShadow
+Take this...
+###--------
+###Script:57
+###Mugshot:DragonSkyShadow
+Take this...
+###--------
+###Script:58
+###Mugshot:0
+What is it?
+###--------
+###Script:59
+###Mugshot:PegasusMagicShadow
+Cards which have our
+powers sealed within.
+###--------
+###Mugshot:PegasusMagicShadow
+I'm sure they will be
+of some help.
+###--------
+###Script:60
+###Mugshot:LeoKingdomShadow
+Cards which have our
+powers sealed within.
+###--------
+###Mugshot:LeoKingdomShadow
+I'm sure they will be
+of some help.
+###--------
+###Script:61
+###Mugshot:DragonSkyShadow
+Cards which have our
+powers sealed within.
+###--------
+###Mugshot:DragonSkyShadow
+I'm sure they will be
+of some help.
+###--------
+###Script:62
+Geo got:
+"<printCard>", "<printCard>"
+and "<printCard>"!!
+###Command:printCard card=231
+###Command:printCard card=236
+###Command:printCard card=241
+###--------
+<waitOWVar>
+###Command:waitOWVar variable=3 value=2
+###--------
+###Script:63
+Geo got:
+"<printCard>", "<printCard>"
+and "<printCard>"!!
+###Command:printCard card=231
+###Command:printCard card=236
+###Command:printCard card=241
+###--------
+<waitOWVar>
+###Command:waitOWVar variable=3 value=2
+###--------
+###Script:64
+Geo got:
+"<printCard>", "<printCard>"
+and "<printCard>"!!
+###Command:printCard card=231
+###Command:printCard card=236
+###Command:printCard card=241
+###--------
+<waitOWVar>
+###Command:waitOWVar variable=3 value=2
+###--------
+###Script:65
+###Mugshot:PegasusMagicShadow
+Now go, Geo!
+###--------
+###Script:66
+###Mugshot:LeoKingdomShadow
+Now go, Geo!
+###--------
+###Script:67
+###Mugshot:DragonSkyShadow
+Now go, Geo!
+###--------
+###Script:68
+###Mugshot:0
+Mega... I'm gonna find you,
+so hang on!
+###--------

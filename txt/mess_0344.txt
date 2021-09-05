@@ -1,0 +1,58 @@
+﻿###TextArchive:mess_0344
+###Script:0
+Ah, my faithful warriors.
+###--------
+You did well to retrieve
+the Andromeda Key.
+###--------
+###Script:1
+###Mugshot:Taurus
+Mmmrrrgh!
+Thank you, Your Majesty!
+###--------
+###Script:2
+###--------
+I will now lift the seal on
+Andromeda, and with it,
+seal the Earth's fate!!
+###--------
+###Script:3
+###Mugshot:Cygnus
+###--------
+###Mugshot:Cygnus
+Your Majesty, we must
+report that Gemini has
+been deleted.
+###--------
+###Script:4
+It doesn't matter.
+His absence changes nothing.
+###--------
+###--------
+He was a fool.
+###--------
+After I brought him back,
+he carelessly throws my
+efforts away.
+###--------
+###--------
+But never mind him,
+my warriors. Andromeda
+must be prepared!!
+###--------
+###Script:5
+###Mugshot:Taurus
+Mmrrrgh!!
+###--------
+###Script:6
+###Mugshot:Cygnus
+Your Majesty.
+###--------
+###Script:7
+###Mugshot:Libra
+Roger!
+###--------
+###Script:8
+###Mugshot:Ophiuca
+As you wish.
+###--------

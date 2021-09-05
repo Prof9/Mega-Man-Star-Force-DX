@@ -1,0 +1,672 @@
+﻿###TextArchive:mess_1213
+###Script:0
+###Mugshot:Geo
+Waiting for Client to join.
+###--------
+###Script:1
+###Mugshot:Geo
+Client wants to connect...
+
+<positionOptionFromCenter><optionText>  Connect  <optionText>  No
+###Command:positionOptionFromCenter width=89
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:2
+###Mugshot:Geo
+Waiting for Client #<printBuffer>
+to join.
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:3
+###Mugshot:Geo
+Client #<printBuffer> wants
+to connect...
+<positionOptionFromCenter><optionText>  Connect  <optionText>  No
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###Command:positionOptionFromCenter width=89
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:4
+###Mugshot:Geo
+Client cancelled connection!
+###--------
+###Script:10
+###Mugshot:Geo
+Looking for Host...
+###--------
+###Script:11
+###Mugshot:Geo
+Hold on...
+Requesting connection!
+###--------
+###Script:12
+###Mugshot:Geo
+Looking for Host #<printBuffer>.
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:13
+###Mugshot:Geo
+Now requesting connection
+with Host #<printBuffer>.
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:14
+###Mugshot:Geo
+No good... Host refused
+the connection.
+###--------
+###Mugshot:Geo
+Oh well... Going back to the
+connect screen.
+###--------
+###Script:15
+###Mugshot:Geo
+They're already a Brother.
+###--------
+###Script:16
+###Mugshot:Geo
+Already received.
+###--------
+###Script:17
+###Mugshot:Geo
+Get Giga Class card
+Andromeda?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:18
+###Mugshot:Geo
+Disconnecting...
+###--------
+###Script:19
+###Mugshot:Geo
+Disconnecting...
+###--------
+###Script:20
+###Mugshot:Geo
+Communication error...
+###--------
+###Script:30
+###Mugshot:Geo
+What the!? What's this
+wavehole doing here?
+###--------
+###Mugshot:Geo
+!<wait>
+###Command:wait frames=10
+###--------
+###Mugshot:Geo
+It's to another dimension!
+###--------
+###Script:31
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+.<wait>.<wait>.<wait>H<wait>e<wait>l<wait>l<wait>o!
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###--------
+OK! I'm connected!
+###--------
+Hello!
+I'm <printNameBuffer1> <printNameBuffer2>!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###--------
+I crossed over from another
+dimension to get here!
+Let's be Brothers!
+###--------
+###Mugshot:Geo
+Should I...?
+
+###--------
+###Mugshot:Geo
+ <optionText>  Of course!
+ <optionText>  ...No thanks.
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:32
+###Mugshot:Geo
+Waiting for a response...
+###--------
+###Script:33
+###Mugshot:Geo
+Yes! Now we're Brothers!
+###--------
+###Script:34
+###Mugshot:Geo
+I'm getting a transmission
+from a Brother.
+###--------
+###Script:35
+###Mugshot:Geo
+OK, transmission complete!
+Goodbye for now!
+###--------
+###Script:36
+###Mugshot:Geo
+Sorry, we didn't become
+Brothers.
+###--------
+###Script:37
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey Bro.!
+I'm back again from
+another dimension!
+###--------
+###Mugshot:0
+Let's update our data!
+###--------
+###Script:38
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>
+###Command:optionButtonWide up=1 down=2 left=2 right=2 string="Send mail"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Quit"
+###Command:optionButtonWide up=1 down=2 left=2 right=2 string="Check mail"
+###--------
+###Mugshot:Geo
+I've got unsent mail.
+I guess I'll send it.
+###--------
+###Script:39
+###Mugshot:Geo
+OK! Our data has finished
+updating!
+###--------
+###Script:40
+###Mugshot:Geo
+Oh...
+This wave...
+###--------
+###Mugshot:Geo
+I was once Brothers
+with this person...
+###--------
+###Mugshot:Geo
+I wonder if they still
+think we're Bros?
+###--------
+###Mugshot:Geo
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:Geo
+Hold on...
+...They're auto-deleting me
+from their Transer...
+###--------
+###Script:41
+###Mugshot:Geo
+Oops...
+There's something wrong.
+###--------
+###Script:42
+###Mugshot:Geo
+They're breaking up...
+###--------
+###Mugshot:Geo
+Aww...
+###--------
+###Mugshot:Geo
+It seems <printNameBuffer1> <printNameBuffer2>
+cut our Brother Band...
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:Geo
+...Transer is auto-deleting
+<printNameBuffer1> <printNameBuffer2>...
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:43
+Subject: <printBrotherBuffer1>
+###Command:printBrotherBuffer1
+###--------
+###Script:44
+<printBrotherBuffer1>
+<printBrotherBuffer2>
+<printBrotherBuffer3>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer3
+###--------
+###Script:45
+###Mugshot:Geo
+Cancel becoming Brothers?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:46
+###Mugshot:Geo
+OK! Wave update complete!
+###--------
+###Mugshot:Geo
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:Geo
+I deleted the Friend Codes
+that were on standby who
+have already become Brothers.
+###--------
+###Script:70
+###Mugshot:Geo
+Trade and battle with people
+nearby as a Host.
+###--------
+###Script:71
+###Mugshot:Geo
+Trade and battle with people
+nearby as a Client.
+###--------
+###Script:72
+###Mugshot:Geo
+Enter a 2-digit number to
+find specific people.
+###--------
+###Script:73
+###Mugshot:Geo
+Register Brothers to your
+Friend Roster.
+###--------
+###Script:74
+###Mugshot:Geo
+Enter Nintendo Wi-Fi
+Connection setup.
+###--------
+###Script:79
+###Mugshot:Geo
+Enter Nintendo Wi-Fi
+Connection setup.
+###--------
+###Script:80
+###Mugshot:Geo
+Wanna save your progress?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:81
+###Mugshot:Geo
+Is it OK to overwrite?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:82
+Now saving...
+Don't turn off the power!
+###--------
+###Script:83
+Save complete!
+###--------
+###Script:84
+Save failed...
+###--------
+###Script:85
+Save failed... Try again?
+
+<positionOptionFromCenter> <optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:87
+###Mugshot:Geo
+Initializing backup data...
+###--------
+###Script:90
+###Mugshot:Geo
+One time showdown!
+###--------
+###Script:91
+###Mugshot:Geo
+Best 2 out of 3, wins!
+###--------
+###Script:92
+###Mugshot:Geo
+1 battle show down!
+Lose... and lose a card!
+###--------
+###Script:93
+###Mugshot:Geo
+Best 2 out of 3, wins!
+Lose... and lose a card!
+###--------
+###Script:94
+###Mugshot:Geo
+Got pwned huh...
+###--------
+###Script:95
+###Mugshot:Geo
+Set to ON to ask opponent
+to be Bro after match.
+###--------
+###Script:96
+###Mugshot:Geo
+You can trade Battle Cards
+with friends.
+###--------
+###Script:97
+###Mugshot:Geo
+Ending Wireless Connection...
+###--------
+###Script:98
+###Mugshot:Geo
+Practice, 1 round match!
+
+<positionOptionFromCenter><optionText>  Start  <optionText>  Cancel
+###Command:positionOptionFromCenter width=97
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:99
+###Mugshot:Geo
+Practice, 3 round match!
+
+<positionOptionFromCenter><optionText>  Start  <optionText>  Cancel
+###Command:positionOptionFromCenter width=97
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:100
+###Mugshot:Geo
+Real match! 1 round...
+
+<positionOptionFromCenter><optionText>  Start  <optionText>  Cancel
+###Command:positionOptionFromCenter width=97
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:101
+###Mugshot:Geo
+Real match! 3 rounds...
+
+<positionOptionFromCenter><optionText>  Start  <optionText>  Cancel
+###Command:positionOptionFromCenter width=97
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:104
+###Mugshot:Geo
+Start trade?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:105
+###Mugshot:Geo
+End Wireless Connection?
+
+<positionOptionFromCenter><optionText>  Not now!  <optionText>  Yes
+###Command:positionOptionFromCenter width=100
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:106
+###Mugshot:Geo
+Waiting for response
+from friend...
+###--------
+###Script:107
+###Mugshot:Geo
+Cancelled!
+###--------
+###Script:108
+###Mugshot:Geo
+Oops, looks like you chose
+different modes.
+###--------
+###Script:109
+###Mugshot:Geo
+Executing the selected mode...
+###--------
+###Script:110
+###Mugshot:Geo
+Battle a friend.
+###--------
+###Script:111
+###Mugshot:Geo
+Trade Battle Cards.
+###--------
+###Script:112
+###Mugshot:Geo
+End Wireless Connection?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:113
+###Mugshot:Geo
+Ending Connection!
+###--------
+###Script:114
+###Mugshot:Geo
+You can't choose to have a
+Real match cause your friend
+###--------
+###Mugshot:Geo
+only has Giga class cards
+in their box.
+###--------
+###Script:115
+###Mugshot:Geo
+You can't choose to have a
+Real match cause you
+###--------
+###Mugshot:Geo
+only have Giga Class
+cards in your box.
+###--------
+###Script:120
+###Mugshot:Geo
+Upload data to the server?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:121
+###Mugshot:Geo
+Uploading data to the server...
+###--------
+###Script:122
+###Mugshot:Geo
+Data uploaded to the server.
+###--------
+###Script:130
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Start!?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:131
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Start!?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:132
+###Mugshot:Geo
+Just a taste...
+###--------
+###Script:133
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Found <printNameBuffer1> <printNameBuffer2>!
+<optionButtonSmall><optionButtonSmall>Battle?
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:134
+###Mugshot:Geo
+Connecting...
+###--------
+###Script:135
+###Mugshot:Geo
+No good!
+###--------
+###Script:136
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Look for opponent?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Search"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Quit"
+###--------
+###Script:140
+###Mugshot:Geo
+You're already Brothers with
+Legendary Master Shin!
+###--------
+###Script:141
+###Mugshot:Geo
+You've already received
+the Andromeda card!
+###--------
+###Script:142
+###Mugshot:Geo
+Receive Giga class card
+Andromeda?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:143
+3 missl atk,
+laser down
+center row
+###--------
+Geo got:
+"Andromeda"!!
+###--------
+###Mugshot:Geo
+Yes! Receive successful!
+###--------
+###Mugshot:Geo
+Alright, disconnecting...
+###--------
+###Script:144
+###Mugshot:Geo
+Receive cancelled.
+Disconnecting...
+###--------
+###Script:150
+###Mugshot:Geo
+Connect to Host?
+
+<positionOptionFromCenter><optionText>  Yes <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:162
+Now saving...
+Don't turn off the power!
+###--------
+###Script:163
+###Mugshot:Geo
+Save complete!<waitSkip>
+###Command:waitSkip frames=120
+###--------
+###Script:164
+Save failed...<waitSkip>
+###Command:waitSkip frames=120
+###--------
+###Script:165
+###Mugshot:Geo
+Saved failed... Try again?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:167
+###Mugshot:Geo
+Deleting backup data...
+###--------
+###Script:169
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:171
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:172
+###Mugshot:Geo
+Gotta save to enter
+this menu!
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=71
+###--------
+###Mugshot:Geo
+<optionText>  Save  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:173
+Deleting backup data...
+###--------
+###Script:174
+Now saving...
+Don't turn off the power!
+###--------
+###Script:175
+Save complete!
+###--------
+###Script:176
+Save failed... Try again?
+
+<positionOptionFromCenter> <optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+
+###--------
+###Script:178
+Save failed...
+###--------
+###Script:179
+###Mugshot:Geo
+Is it OK to overwrite?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------

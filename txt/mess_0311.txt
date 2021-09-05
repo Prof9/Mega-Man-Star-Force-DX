@@ -1,0 +1,40 @@
+﻿###TextArchive:mess_0311
+###Script:0
+###Mugshot:3
+It... It wasn't supposed to
+turn out like this!!
+###--------
+###Script:1
+###Mugshot:2
+Ooongh...
+###--------
+###Script:2
+###Mugshot:0
+P-Pat!
+###--------
+###Script:3
+###Mugshot:Gemini
+C-Curse you!!
+###--------
+###Script:4
+###Mugshot:Gemini
+Gwaaaaaaaaah!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Gemini...
+###--------
+###Mugshot:OmegaXis
+His lust for power was
+his downfall.
+###--------
+###Script:6
+###Mugshot:0
+I...
+###--------
+###Mugshot:0
+I never wanted to do this...
+###--------
+###Mugshot:0
+Not this...
+###--------

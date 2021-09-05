@@ -1,0 +1,103 @@
+﻿###TextArchive:mess_0547
+###Script:0
+###Mugshot:3
+###--------
+###Mugshot:3
+First period today is Gym,
+so everyone has already
+gone outside.
+###--------
+###Mugshot:3
+My homeroom teacher likes
+to take attendance out
+there too.
+###--------
+###Script:1
+###Mugshot:3
+I've gotta hurry home...
+###--------
+###Script:5
+###Mugshot:3
+I'm super forgetful. If I
+do my homework at home,
+I'll forget to bring it in.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+So I just do it all here
+at school.
+###--------
+###Script:15
+###Mugshot:Luna
+Don't make me wait!
+###--------
+###Mugshot:Luna
+And... be careful, OK!?
+###--------
+###Script:20
+###Mugshot:3
+It's time for after school
+activities?
+###--------
+###Mugshot:3
+Already??
+I totally forgot!!
+###--------
+###Script:21
+###Mugshot:3
+There was a fight in
+Time Square, huh?
+###--------
+###Mugshot:3
+Now there's something I
+won't forget!
+###--------
+###Script:100
+###Mugshot:11
+I have to prepare for class!!
+###--------
+###Mugshot:11
+Busy, busy! That's me!!
+###--------
+###Script:101
+###Mugshot:11
+*beeeeep*
+###--------
+###Mugshot:11
+I feel like some sort of
+strange wave is afoot...
+###--------
+###Script:102
+###Mugshot:11
+Thank goodness everything
+is A-OK again...
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+That was the first time I've
+felt such a strange and
+fearsome wave...
+###--------
+###Script:103
+###Mugshot:11
+Days off are a good time
+to recharge and relax.
+###--------
+###Mugshot:11
+I guess they're needed,
+after all.
+###--------
+###Script:104
+###Mugshot:11
+Now, to arrange all the
+homework data...
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+Oh, but before that, I have
+to organize all the attendance
+records! I'm so busy...
+###--------

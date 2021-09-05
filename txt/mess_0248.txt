@@ -1,0 +1,117 @@
+﻿###TextArchive:mess_0248
+###Script:0
+That night...
+###--------
+###Script:1
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+It looks like our little
+Luna has gotten into
+some trouble again.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+And during such a busy term...
+I just knew that public
+school would pull her down.
+###--------
+###Script:2
+###Mugshot:VeilPlatz
+That's true.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+Those riff-raff "friends" are
+probably rubbing off in a
+bad way on our Luna.
+###--------
+###Script:3
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+If we let her stay at that
+school, she will only wind
+up in more trouble.
+###--------
+###Mugshot:VaughnPlatz
+I'm sure it has already
+damaged her future.
+###--------
+###Script:4
+###Mugshot:VeilPlatz
+Yes, dear.
+###--------
+###Mugshot:VeilPlatz
+We should move her to
+a private school ASAP.
+###--------
+###Script:5
+###Mugshot:VaughnPlatz
+Yes, which is why I will go
+speak with the school,
+###--------
+###Mugshot:VaughnPlatz
+on Monday if I must,
+about her transferring.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+We'll move her to a strict
+boarding school, and sign
+her up for the Elite Course.
+###--------
+###Script:6
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+Yes, if we give her the best
+education, then she'll be hired
+by the best corporations.
+###--------
+###Mugshot:VeilPlatz
+It really is the best route
+to happiness.
+###--------
+###Mugshot:VeilPlatz
+I'll start looking right away.
+###--------
+###Script:7
+###Mugshot:VaughnPlatz
+Yes, please.
+###--------
+###Mugshot:VaughnPlatz
+Oh, I hate to bring up
+work, however,
+###--------
+###Mugshot:VaughnPlatz
+about the location of the
+next exhibition, I think it
+would be better for the
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+layout if we were to set
+it a bit farther back.
+###--------
+###Script:8
+###Mugshot:VeilPlatz
+...You're right. Let's move
+it back there, then.
+###--------
+###Mugshot:VeilPlatz
+We'll have to move the
+tree up a bit though.
+###--------
+###Script:9
+###Mugshot:VaughnPlatz
+Hmm, true...
+###--------
+###Script:10
+###Mugshot:Luna
+Me...? Transfer...?
+###--------

@@ -1,0 +1,118 @@
+﻿###TextArchive:mess_0387
+###Script:0
+Temp message
+###--------
+###Script:46
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This is that place they
+call AMAKEN, right?
+Let's go inside!
+###--------
+###Script:47
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This is that place they
+call AMAKEN, right?
+Let's go inside!
+###--------
+###Script:48
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This is that place they
+call AMAKEN, right?
+Let's go inside!
+###--------
+###Script:49
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Aren't we gonna look around?
+The Science Museum
+seems interesting...
+###--------
+###Script:50
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Aren't we gonna look around?
+The Science Museum
+seems interesting...
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Let's go back and find
+Mr. Boreal.
+###--------
+###Script:52
+###Mugshot:OmegaXis
+C'mon, aren't we gonna go
+to that lab place?
+###--------
+###Script:53
+###Mugshot:OmegaXis
+We're going on that
+SpaceSim tour, aren't we?
+###--------
+###Mugshot:OmegaXis
+Let's hightail it back to
+the Science Museum!
+###--------
+###Script:54
+###Mugshot:OmegaXis
+So this is the SpaceSim.
+Let's look around!
+###--------
+###Script:60
+###Mugshot:OmegaXis
+It's Cygnus! Head for the
+SpaceSim Comp!
+###--------
+###Script:61
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's get outta here
+for now. We can look
+for a wavehole outside.
+###--------
+###Script:62
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The thing that opens
+the door...
+It has to be...
+###--------
+###Script:63
+###Mugshot:OmegaXis
+Use the "<printItem>" to
+open the door!
+###Command:printItem item=14
+###--------
+###Script:64
+###Mugshot:OmegaXis
+Hurry up and find a
+wavehole and pulse in!
+###--------
+###Script:65
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Try to fix the Wave Road
+by messing around with some
+of the display equipment!
+###--------
+###Script:66
+###Mugshot:OmegaXis
+Yes, it's fixed!
+Let's go after Cygnus!
+###--------
+###Script:67
+###Mugshot:OmegaXis
+Go back to the
+SpaceSim Comp!
+###--------

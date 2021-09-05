@@ -1,0 +1,39 @@
+﻿###TextArchive:mess_0150
+###Script:0
+###Mugshot:6
+Sign up for the SpaceSim
+tour is over here.
+###--------
+###Mugshot:6
+You're a participant, right?
+###--------
+###Mugshot:6
+###--------
+###Mugshot:6
+Through this tunnel is the
+SpaceSim. It's an area where
+we can simulate space!
+###--------
+###Mugshot:6
+###--------
+###Mugshot:6
+There's no gravity, and no
+oxygen. So please change
+into these suits.
+###--------
+###Script:1
+Geo got:
+"<printItem>"!!
+###Command:printItem item=13
+###--------
+<waitOWVar>
+###Command:waitOWVar variable=1 value=1
+###--------
+###Script:2
+###Mugshot:2
+Everyone got a space suit,
+right?
+###--------
+###Mugshot:2
+Good. Then let's go!
+###--------

@@ -1,0 +1,20 @@
+﻿###TextArchive:mess_0317
+###Script:0
+*thud!*
+###--------
+###Script:1
+###Mugshot:MegaMan
+Owww...
+###--------
+###Script:2
+Keep trying!!
+###--------
+###Script:3
+###Mugshot:MegaMan
+Aaaaaaaah!!
+###--------
+###Script:4
+Doesn't seem like there's
+anything there.<wait>
+###Command:wait frames=60
+###--------

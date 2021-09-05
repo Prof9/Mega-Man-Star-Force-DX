@@ -1,0 +1,879 @@
+﻿###TextArchive:mess_0001
+###Script:0
+1234567890 abcdefghijklmnopqrstuvwxyz,./;:\\[\\]+-[×]÷=*@\<\>«» 
+###--------
+###Script:1
+!"#$%&'()? ABCDEFGHIJKLMNOPQRSTUVWXYZ,./;:\\[\\]+-[×]÷=*@\<\>«» 
+###--------
+###Script:2
+àáâäèéêëìíîïòóôöœùúûüçñßÀÁÂÄÈÉÊËÌÍÎÏÒÓÔÖŒÙÚÛÜÇÑ¡¿€¢£!?_ 
+###--------
+###Script:3
+àáâäèéêëìíîïòóôöœùúûüçñßÀÁÂÄÈÉÊËÌÍÎÏÒÓÔÖŒÙÚÛÜÇÑ¡¿€¢£!?_ 
+###--------
+###Script:11
+Name Geo   Last Stelar           
+###--------
+###Script:12
+0                        
+###--------
+###Script:13
+                                          
+###--------
+###Script:14
+###Mugshot:Geo
+Not gonna enter
+a Friend Code?
+<positionOptionFromCenter><optionText>  No  <optionText>  Enter
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:15
+###Mugshot:Geo
+Not gonna write
+anything here?
+<positionOptionFromCenter><optionText>  No  <optionText>  Write
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:16
+###Mugshot:Geo
+Are you finished
+with the secret?
+<positionOptionFromCenter><optionText>  No  <optionText>  Enter
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:17
+###Mugshot:Geo
+Not gonna enter
+a message?
+<positionOptionFromCenter><optionText>  No  <optionText>  Enter
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:19
+###Mugshot:Geo
+Is this Friend Code OK?
+
+<positionOptionFromCenter><optionText>  OK  <optionText>  Redo
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:20
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Establish connection to
+Nintendo Wi-Fi Connection?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:21
+###Mugshot:Geo
+Are you done?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:22
+###Mugshot:Geo
+Is this OK?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:23
+###Mugshot:Geo
+Is this OK?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:24
+###Mugshot:Geo
+You didn't write anything!
+###--------
+###Script:25
+###Mugshot:Geo
+You didn't enter a secret!
+###--------
+###Script:26
+###Mugshot:Geo
+You didn't enter a message!
+###--------
+###Script:27
+###Mugshot:GeoNoVisualizer
+Oops... You left a blank!
+###--------
+###Script:28
+###Mugshot:Geo
+Oops... You didn't enter
+a Friend Code.
+###--------
+###Script:29
+###Mugshot:Geo
+Don't you wanna name
+the folder?
+<positionOptionFromCenter><optionText>  No  <optionText>  Name
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:30
+###Mugshot:Geo
+Oops... You didn't enter
+a folder name!
+###--------
+###Script:31
+###Mugshot:Geo
+Is this folder name OK?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:32
+###Mugshot:Geo
+Is this Best Combo
+name OK?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:33
+###Mugshot:Geo
+You didn't write anything!
+###--------
+###Script:34
+###Mugshot:Geo
+Is this message OK?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:35
+###Mugshot:Geo
+You didn't write anything!
+###--------
+###Script:36
+###Mugshot:Geo
+All done naming your
+Best Combo?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:37
+###Mugshot:Geo
+Do you want to stop
+writing?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:38
+00                                  
+###--------
+###Script:39
+###Mugshot:Geo
+Cancel number entry?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:40
+###Mugshot:Geo
+You didn't enter a number!
+###--------
+###Script:41
+###Mugshot:Geo
+Is this number OK?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:42
+###Mugshot:Geo
+Do you want to enter
+a subject?
+<positionOptionFromCenter><optionText>  No  <optionText>  Enter
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:43
+###Mugshot:Luna
+Hey! Come on and write
+something!
+###--------
+###Script:44
+###Mugshot:Geo
+Auto-edited; inappropriate
+words were used.
+###--------
+###Script:45
+###Mugshot:Geo
+Do you wanna enter
+a name?
+<positionOptionFromCenter><optionText>  No  <optionText>  Enter
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:50
+ANAL
+###--------
+###Script:51
+ARSEHOLES
+###--------
+###Script:52
+ARSEHOLE
+###--------
+###Script:53
+ARSES
+###--------
+###Script:54
+ARSE
+###--------
+###Script:55
+ASSHOLES
+###--------
+###Script:56
+ASSHOLE
+###--------
+###Script:57
+ASSES
+###--------
+###Script:58
+ASS
+###--------
+###Script:59
+BASTARDS
+###--------
+###Script:60
+BASTARD
+###--------
+###Script:61
+BITCHASS
+###--------
+###Script:62
+BITCHES
+###--------
+###Script:63
+BITCH
+###--------
+###Script:64
+BLOWJOBS
+###--------
+###Script:65
+BLOWJOB
+###--------
+###Script:66
+BOOBS
+###--------
+###Script:67
+BULLSHIT
+###--------
+###Script:68
+BUTTFUCK
+###--------
+###Script:69
+BUTTSEX
+###--------
+###Script:70
+CLITORIS
+###--------
+###Script:71
+CLITS
+###--------
+###Script:72
+CLIT
+###--------
+###Script:73
+COCKS
+###--------
+###Script:74
+COCKSUCKERS
+###--------
+###Script:75
+COCKSUCKER
+###--------
+###Script:76
+COCKTEASER
+###--------
+###Script:77
+COCK
+###--------
+###Script:78
+COKSUCKERS
+###--------
+###Script:79
+COKSUCKER
+###--------
+###Script:80
+COKTEASER
+###--------
+###Script:81
+COKS
+###--------
+###Script:82
+CONO
+###--------
+###Script:83
+COON
+###--------
+###Script:84
+CRAPPY
+###--------
+###Script:85
+CRAP
+###--------
+###Script:86
+CUMSHOT
+###--------
+###Script:87
+CUMM
+###--------
+###Script:88
+CUM
+###--------
+###Script:89
+CUNTLICKERS
+###--------
+###Script:90
+CUNTLICKER
+###--------
+###Script:91
+CUNTS
+###--------
+###Script:92
+CUNT
+###--------
+###Script:93
+DAMNED
+###--------
+###Script:94
+DAMN
+###--------
+###Script:95
+DICKHEAD
+###--------
+###Script:96
+DICKWAD
+###--------
+###Script:97
+DICKS
+###--------
+###Script:98
+DICK
+###--------
+###Script:99
+DIKE
+###--------
+###Script:100
+DIPSHIT
+###--------
+###Script:101
+DUMBASS
+###--------
+###Script:102
+DUMBASS
+###--------
+###Script:103
+EJACULATING
+###--------
+###Script:104
+ERECTION
+###--------
+###Script:105
+FAGOTS
+###--------
+###Script:106
+FAGOT
+###--------
+###Script:107
+FAGS
+###--------
+###Script:108
+FAG
+###--------
+###Script:109
+FISTING
+###--------
+###Script:110
+FUCKFACE
+###--------
+###Script:111
+FUCKLING
+###--------
+###Script:112
+FUCKING
+###--------
+###Script:113
+FUCKIN
+###--------
+###Script:114
+FUCKYOU
+###--------
+###Script:115
+FUCKOFF
+###--------
+###Script:116
+FUCKME
+###--------
+###Script:117
+FUCKERS
+###--------
+###Script:118
+FUCKER
+###--------
+###Script:119
+FUCKED
+###--------
+###Script:120
+FUCKS
+###--------
+###Script:121
+FUCK
+###--------
+###Script:122
+HELL
+###--------
+###Script:123
+HORNEY
+###--------
+###Script:124
+HOMO
+###--------
+###Script:125
+JACKASS
+###--------
+###Script:126
+JERKOFF
+###--------
+###Script:127
+MARIJUANA
+###--------
+###Script:128
+MASTURBATING
+###--------
+###Script:129
+MASTURBATE
+###--------
+###Script:130
+MOTHERFUCKERS
+###--------
+###Script:131
+MOTHERFUCKER
+###--------
+###Script:132
+MOTHERFUCKING
+###--------
+###Script:133
+MOTHERFUCKIN
+###--------
+###Script:134
+NAKED
+###--------
+###Script:135
+NIGGER
+###--------
+###Script:136
+PENIS
+###--------
+###Script:137
+PISSED
+###--------
+###Script:138
+PISS
+###--------
+###Script:139
+PRICK
+###--------
+###Script:140
+PUSSYS
+###--------
+###Script:141
+PUSSY
+###--------
+###Script:142
+RAPE
+###--------
+###Script:143
+RAPING
+###--------
+###Script:144
+SEXY
+###--------
+###Script:145
+SEX
+###--------
+###Script:146
+SHITHEAD
+###--------
+###Script:147
+SHITTY
+###--------
+###Script:148
+SHIT
+###--------
+###Script:149
+SLUTS
+###--------
+###Script:150
+SLUT
+###--------
+###Script:151
+SPERM
+###--------
+###Script:152
+TITS
+###--------
+###Script:153
+VAGINA
+###--------
+###Script:154
+WHORES
+###--------
+###Script:155
+WHORE
+###--------
+###Script:156
+anal
+###--------
+###Script:157
+sluts
+###--------
+###Script:158
+arseholes
+###--------
+###Script:159
+arsehole
+###--------
+###Script:160
+arses
+###--------
+###Script:161
+arse
+###--------
+###Script:162
+assholes
+###--------
+###Script:163
+asshole
+###--------
+###Script:164
+Asses
+###--------
+###Script:165
+Ass
+###--------
+###Script:166
+bastards
+###--------
+###Script:167
+bastard
+###--------
+###Script:168
+bitchass
+###--------
+###Script:169
+bitches
+###--------
+###Script:170
+bitch
+###--------
+###Script:171
+blowjobs
+###--------
+###Script:172
+blowjob
+###--------
+###Script:173
+boobs
+###--------
+###Script:174
+bullshit
+###--------
+###Script:175
+buttfuck
+###--------
+###Script:176
+buttsex
+###--------
+###Script:177
+clitoris
+###--------
+###Script:178
+clits
+###--------
+###Script:179
+clit
+###--------
+###Script:180
+cocks
+###--------
+###Script:181
+cocksuckers
+###--------
+###Script:182
+cocksucker
+###--------
+###Script:183
+cockteaser
+###--------
+###Script:184
+cock
+###--------
+###Script:185
+coksuckers
+###--------
+###Script:186
+coksucker
+###--------
+###Script:187
+cokteaser
+###--------
+###Script:188
+coks
+###--------
+###Script:189
+cono
+###--------
+###Script:190
+coon
+###--------
+###Script:191
+crappy
+###--------
+###Script:192
+crap
+###--------
+###Script:193
+cumshot
+###--------
+###Script:194
+cumm
+###--------
+###Script:195
+cum
+###--------
+###Script:196
+cuntlickers
+###--------
+###Script:197
+cuntlicker
+###--------
+###Script:198
+cunts
+###--------
+###Script:199
+cunt
+###--------
+###Script:200
+whore
+###--------
+###Script:201
+damn
+###--------
+###Script:202
+dickhead
+###--------
+###Script:203
+dickwad
+###--------
+###Script:204
+vagina
+###--------
+###Script:205
+dick
+###--------
+###Script:206
+dike
+###--------
+###Script:207
+dipshit
+###--------
+###Script:208
+tits
+###--------
+###Script:209
+dumbass
+###--------
+###Script:210
+ejaculating
+###--------
+###Script:211
+erection
+###--------
+###Script:212
+sperm
+###--------
+###Script:213
+fagot
+###--------
+###Script:214
+slut
+###--------
+###Script:215
+fag
+###--------
+###Script:216
+fisting
+###--------
+###Script:217
+fuckface
+###--------
+###Script:218
+fuckling
+###--------
+###Script:219
+fucking
+###--------
+###Script:220
+fuckin
+###--------
+###Script:221
+fuckyou
+###--------
+###Script:222
+fuckoff
+###--------
+###Script:223
+fuckme
+###--------
+###Script:224
+fuckers
+###--------
+###Script:225
+fucker
+###--------
+###Script:226
+fucked
+###--------
+###Script:227
+shit
+###--------
+###Script:228
+fuck
+###--------
+###Script:229
+hell
+###--------
+###Script:230
+horney
+###--------
+###Script:231
+homo
+###--------
+###Script:232
+jackass
+###--------
+###Script:233
+jerkoff
+###--------
+###Script:234
+marijuana
+###--------
+###Script:235
+masturbating
+###--------
+###Script:236
+masturbate
+###--------
+###Script:237
+motherfuckers
+###--------
+###Script:238
+motherfucker
+###--------
+###Script:239
+shit
+###--------
+###Script:240
+motherfuckin
+###--------
+###Script:241
+naked
+###--------
+###Script:242
+nigger
+###--------
+###Script:243
+penis
+###--------
+###Script:244
+pissed
+###--------
+###Script:245
+piss
+###--------
+###Script:246
+prick
+###--------
+###Script:247
+pussy
+###--------
+###Script:248
+sex
+###--------
+###Script:249
+rape
+###--------
+###Script:250
+raping
+###--------
+###Script:251
+sexy
+###--------
+###Script:252
+shithead
+###--------
+###Script:253
+###Mugshot:GeoNoVisualizer
+Is this name correct?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:GeoNoVisualizer
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:254
+###Mugshot:Geo
+Is this name correct?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------

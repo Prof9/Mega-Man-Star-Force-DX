@@ -1,0 +1,112 @@
+﻿###TextArchive:mess_0288
+###Script:0
+###Mugshot:Jammer
+Waaaaaaaah!!
+###--------
+###Script:1
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+Hmph.
+What a useless bunch.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+You're up next, Gemini.
+###--------
+###Mugshot:OmegaXis
+Right hand to the FM King!
+###--------
+###Mugshot:0
+H-He's that high up!?
+###--------
+###Mugshot:0
+Isn't that a bit much
+for us...?
+###--------
+###Mugshot:OmegaXis
+Maybe, but...
+###--------
+###Mugshot:OmegaXis
+right now, he doesn't
+have a human host.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+And as you already know,
+we FM-ians can't use our
+full power on Earth.
+###--------
+###Mugshot:OmegaXis
+So we do have a shot
+at beating him.
+###--------
+###Script:3
+###Mugshot:Gemini
+Ha ha, it's just as you say.
+###--------
+###Mugshot:Gemini
+I am a bit vulnerable
+without Rey here.
+###--------
+###Script:6
+###Mugshot:0
+Rey...? Isn't that the
+person on the phone?
+###--------
+###Mugshot:OmegaXis
+So that's who you're
+leeching off of...
+###--------
+###Script:7
+###Mugshot:Gemini
+That's right.
+Rey is my partner.
+###--------
+###Script:9
+###Mugshot:OmegaXis
+Why doesn't this Rey
+person show themself!?
+###--------
+###Script:10
+###Mugshot:Gemini
+Ah, Rey is not fond of
+others, you see.
+###--------
+###Mugshot:Gemini
+Why don't you two try
+to find out who Rey is?
+###--------
+###Mugshot:Gemini
+Ha ha ha ha.
+See you around.
+###--------
+###Script:11
+###Mugshot:OmegaXis
+He got away...
+###--------
+###Script:12
+###Mugshot:0
+Rey, huh? We're gonna
+have to be really careful.
+###--------
+###Script:13
+###Mugshot:0
+###--------
+###Mugshot:0
+Let's see, if I push this, it
+should make the SorterBots
+go back to normal.
+###--------
+###Script:14
+###Mugshot:0
+Here we go.
+###--------
+###Script:15
+*whooooooom*
+###--------
+###Script:16
+###Mugshot:OmegaXis
+OK, pulse out!
+###--------

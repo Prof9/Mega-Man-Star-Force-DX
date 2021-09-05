@@ -1,0 +1,67 @@
+﻿###TextArchive:mess_1140
+###Script:0
+###Mugshot:SpeedNavi
+Mic check!
+Test, test!
+###--------
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+It's lunch time!
+Remember to play nice,
+and no cutting in line!
+###--------
+###Mugshot:SpeedNavi
+How's that? I'm practicing
+my announcer voice.
+###--------
+###Script:10
+###Mugshot:SpeedNavi
+Mic check!
+Test, test!
+###--------
+###Mugshot:SpeedNavi
+The emergency broadcast
+should probably be played
+at a time like this,
+###--------
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+but the kid in the
+Broadcasting Club isn't
+around...
+###--------
+###Script:20
+###Mugshot:SpeedNavi
+Mic check!
+Test, test!
+###--------
+###Mugshot:SpeedNavi
+What do you think of my
+broadcasts?
+###--------
+###Mugshot:SpeedNavi
+I'm gonna keep on practicing
+no matter what!
+###--------
+###Script:100
+###Mugshot:SpeedNavi
+Puffy!
+###--------
+###Mugshot:SpeedNavi
+It's puffy!
+###--------
+###Mugshot:SpeedNavi
+Mr. Shepar's hair is really
+PUFFY!!
+###--------
+###Script:101
+###Mugshot:SpeedNavi
+Something bad is going on
+with the humans!
+###--------
+###Mugshot:SpeedNavi
+Even Mr. Shepar is in a
+very puffy situation!
+###--------

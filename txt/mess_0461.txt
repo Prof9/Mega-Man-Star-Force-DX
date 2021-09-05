@@ -1,0 +1,31 @@
+﻿###TextArchive:mess_0461
+###Script:0
+###Mugshot:8
+###--------
+###Mugshot:8
+Your science test is coming
+up soon, and you haven't
+studied a word!
+###--------
+###Script:5
+###Mugshot:8
+Let's see, next we have
+social studies.
+###--------
+###Mugshot:8
+Or is it English we have
+next...?
+###--------
+###Script:10
+###Mugshot:8
+###--------
+###Mugshot:8
+I can hear a strange sound,
+and it's making such a racket
+that I can't think properly!
+###--------
+###Script:15
+###Mugshot:2
+Be careful, OK?
+Bye, Geo!
+###--------

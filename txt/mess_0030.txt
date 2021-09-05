@@ -1,0 +1,112 @@
+﻿###TextArchive:mess_0030
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:MitchShepar
+Mr. Shepar's Transer!
+Come on in!
+###--------
+###Script:3
+###Mugshot:MitchShepar
+Balance...
+###--------
+###Script:4
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+I want to teach the kids
+things they can't get
+from books.
+###--------
+###Script:6
+###Mugshot:MitchShepar
+I've been working with
+kids for many years
+now, and I can say
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+that it's important to
+try to see the world
+from their perspective.
+###--------
+###Mugshot:MegaMan
+(I should report back
+to Mr. Square.)
+###--------
+###Script:10
+###Mugshot:MitchShepar
+Actually...
+I have a problem.
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+I made a promise to my
+kids that I can't keep!
+###--------
+###Mugshot:MitchShepar
+Ohh, I'm so sorry,
+my children!
+###--------
+###Mugshot:MitchShepar
+Brothers please, help me!
+###--------
+###Mugshot:MegaMan
+Mr. Shepar's in a pinch!
+###--------
+###Mugshot:MegaMan
+Should I help him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Well, let's get to it!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:MitchShepar
+Actually...
+I have a problem.
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+I made a promise to my
+kids that I can't keep!
+###--------
+###Mugshot:MitchShepar
+Ohh, I'm so sorry,
+my children!
+###--------
+###Mugshot:MitchShepar
+Brothers please, help me!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+...
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

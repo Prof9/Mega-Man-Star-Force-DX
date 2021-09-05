@@ -1,0 +1,69 @@
+﻿###TextArchive:mess_1235
+###Script:0
+###Mugshot:Woman
+Oh, p-please help me!
+###--------
+###Script:1
+###Mugshot:Geo
+"Thermo Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:ThermoMan
+TheeeermoMan
+is in the house!
+###--------
+###Mugshot:ThermoMan
+So what'll it be?
+Hotter or colder?
+###--------
+###Script:3
+###Mugshot:Woman
+Ahh! P-Please don't make
+it c-colder!!
+###--------
+###Script:4
+###Mugshot:Woman
+We don't need a breeze in
+here; j-just warmth.
+###--------
+###Script:5
+###Mugshot:ThermoMan
+Whoooooooooop!!
+###--------
+###Mugshot:ThermoMan
+It's a tad nippy in here,
+isn't it?
+###--------
+###Mugshot:ThermoMan
+Let's crank up the heat!
+Sizzlin'!
+###--------
+###Script:6
+###Mugshot:Woman
+Wow, it's getting warmer
+in here!
+###--------
+###Script:7
+###Mugshot:ThermoMan
+Hope that's just right
+for you, madam!
+###--------
+###Script:8
+###Mugshot:Woman
+It is! Thank you so much!!
+###--------
+###Mugshot:Woman
+Here's a little something
+for you!
+###--------
+###Script:9
+Geo got:
+"<printCard>"!!
+###Command:printCard card=18
+###--------
+###Script:10
+###Mugshot:Woman
+Now the kids won't catch
+a cold!
+###--------

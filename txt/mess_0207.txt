@@ -1,0 +1,29 @@
+﻿###TextArchive:mess_0207
+###Script:0
+###Mugshot:1
+Ack!!
+###--------
+###Script:1
+###Mugshot:8
+...*grin*
+###--------
+###Script:2
+###Mugshot:OmegaXis
+That punk. Is he trying
+to pick a fight?
+###--------
+###Mugshot:OmegaXis
+Well, he'll get his fight!
+###--------
+###Mugshot:OmegaXis
+He's probably heading for
+the Foyer Wave Road.
+###--------
+###Script:3
+###Mugshot:1
+Yeah...
+###--------
+###Mugshot:1
+But I wonder what his
+story is...?
+###--------

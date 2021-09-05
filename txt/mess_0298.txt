@@ -1,0 +1,31 @@
+﻿###TextArchive:mess_0298
+###Script:0
+###Mugshot:1
+It's a dead end.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Looks like the waves
+are being distorted.
+###--------
+###Script:2
+###Mugshot:1
+Now what?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Well, the cause has gotta
+be around here...
+###--------
+###Mugshot:OmegaXis
+Hmm?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+That hunk of junk looks
+a bit suspicious.
+###--------
+###Mugshot:OmegaXis
+Geo, pulse into that
+for a sec.
+###--------

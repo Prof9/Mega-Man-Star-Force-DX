@@ -1,0 +1,251 @@
+﻿###TextArchive:mess_1229
+###Script:2
+<optionButtonSmall><optionButtonSmall>First question
+First question
+First question
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Correct"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Wrong"
+###--------
+###Script:3
+<optionButtonSmall><optionButtonSmall>Second question
+Second question
+Second question
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Correct"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Wrong"
+###--------
+###Script:5
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="6"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="8"
+###--------
+###Mugshot:QuizSheet
+How many legs are there:
+2 birds + 1 cat
+###--------
+###Script:6
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="1"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="2"
+###--------
+###Mugshot:QuizSheet
+2 + 1 [-] 2 + 1 = ?
+###--------
+###Script:7
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="15411"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="15405"
+###--------
+###Mugshot:QuizSheet
+16238 [-] 827=?
+###--------
+###Script:8
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Wall"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Fall"
+###--------
+###Mugshot:QuizSheet
+Humpty Dumpty had a great...
+###--------
+###Script:9
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="7"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="10"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="12"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="13"
+###--------
+###Mugshot:QuizSheet
+Three boxes of 4 apples
+each. How many in total?
+###--------
+###Script:10
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="10:45"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="10:55"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="11:45"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="12:55"
+###--------
+###Mugshot:QuizSheet
+What is the time
+15 minutes after 10:30?
+###--------
+###Script:11
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="9"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="10"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="11"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="12"
+###--------
+###Mugshot:QuizSheet
+1 + 2 + 3 + 4 = ?
+###--------
+###Script:12
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="15"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="165"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="1"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="5"
+###--------
+###Mugshot:QuizSheet
+83 [-] 82 = ?
+###--------
+###Script:13
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="RACECAR"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="EYES"
+###--------
+###Mugshot:QuizSheet
+What's the same forward
+and backward?
+###--------
+###Script:14
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yarnball"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Hairball"
+###--------
+###Mugshot:QuizSheet
+A cat's favorite toy...
+###--------
+###Script:15
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="A winner"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Perfect"
+###--------
+###Mugshot:QuizSheet
+Nobody's...
+###--------
+###Script:16
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Space"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Comp"
+###--------
+###Mugshot:QuizSheet
+Which word has more letters?
+###--------
+###Script:17
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Grandma"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Grandpa"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Brother"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Uncle"
+###--------
+###Mugshot:QuizSheet
+Your father's father is your...
+###--------
+###Script:18
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Choice"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Monkey"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Money"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Monday"
+###--------
+###Mugshot:QuizSheet
+Time is...
+###--------
+###Script:19
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="99 years"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="17 years"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="10 years"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="7 years"
+###--------
+###Mugshot:QuizSheet
+How long is 1 dog year?
+###--------
+###Script:20
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Winter"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Spring"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Summer"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Autumn"
+###--------
+###Mugshot:QuizSheet
+Snow falls in which season?
+###--------
+###Script:21
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Sprout"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Tentacle"
+###--------
+###Mugshot:QuizSheet
+What comes out of a seed?
+###--------
+###Script:22
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Attract"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Repel"
+###--------
+###Mugshot:QuizSheet
+On a magnet, opposite
+poles do what?
+###--------
+###Script:23
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="No"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Yes"
+###--------
+###Mugshot:QuizSheet
+Do snakes hatch from eggs?
+###--------
+###Script:24
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Cold"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Warm"
+###--------
+###Mugshot:QuizSheet
+A lizard is ____-blooded.
+###--------
+###Script:25
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Macro"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Tele"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Micro"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Audio"
+###--------
+###Mugshot:QuizSheet
+What kind of scope do we
+use on tiny things?
+###--------
+###Script:26
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Turtles"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Birds"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Sharks"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Humans"
+###--------
+###Mugshot:QuizSheet
+Which animal doesn't have
+bones?
+###--------
+###Script:27
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Ant-lion"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Ant"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Aardvark"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Asp"
+###--------
+###Mugshot:QuizSheet
+Which animal is the smallest?
+###--------

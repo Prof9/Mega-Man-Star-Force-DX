@@ -1,0 +1,127 @@
+﻿###TextArchive:mess_0179
+###Script:0
+...Geo...
+###--------
+...Geo!
+###--------
+###Script:1
+###Mugshot:GeoNoVisualizer
+U-Ungh...
+###--------
+###Script:2
+Before you, a great
+calamity lies...
+###--------
+There are two paths from
+which to choose...
+###--------
+Should you not obtain the
+power to defeat it,
+###--------
+the vortex of chaos will
+swallow all.
+###--------
+However, if you open
+your heart,
+###--------
+###--------
+you will find the power to
+defeat the darkness that
+will inevitably arrive.
+###--------
+###--------
+It is in your hands which
+future will be, and which
+will not.
+###--------
+We are always watching you...
+###--------
+###Script:3
+###Mugshot:GeoNoVisualizer
+Wh-Which future I... choose...
+###--------
+###Mugshot:GeoNoVisualizer
+And you guys...
+###--------
+###Mugshot:GeoNoVisualizer
+U-Ungh...
+###--------
+###Script:4
+###Mugshot:GeoNoVisualizer
+.<waitSkip>.<waitSkip>.<waitSkip>A dream?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:GeoNoVisualizer
+What a strange dream...
+###--------
+###Mugshot:GeoNoVisualizer
+......Mega?
+...You're awfully quiet.
+###--------
+###Mugshot:GeoNoVisualizer
+Meh, whatever...
+###--------
+###Script:5
+*ding dong!*<waitOWVar>
+###Command:waitOWVar variable=1 value=2
+###--------
+###Script:6
+###Mugshot:GeoNoVisualizer
+Someone's here.
+###--------
+###Mugshot:GeoNoVisualizer
+But mom'll get the door...
+Wait!
+###--------
+###Mugshot:GeoNoVisualizer
+Mom's got her part-time
+job today.
+###--------
+###Mugshot:GeoNoVisualizer
+Guess I have to go
+answer it...
+###--------
+###Script:7
+###Mugshot:0
+Mega, don't you think it's
+about time to get up?
+###--------
+###Mugshot:0
+...Hmm, he's not here.
+I wonder where he went?
+###--------
+###Script:8
+###Mugshot:0
+Mega!!
+Where are you?
+###--------
+###Mugshot:0
+Oh yeah, I should put
+on my Visualizer...
+###--------
+###Script:9
+###Mugshot:0
+...Where did he wander
+off to?
+###--------
+###Mugshot:0
+Please don't let him find
+more FM-ians...
+###--------
+###Script:10
+*ding dong!*<waitOWVar>
+*ding dong!*<waitOWVar>
+###Command:waitOWVar variable=1 value=4
+###Command:waitOWVar variable=1 value=5
+###--------
+###Script:11
+###Mugshot:0
+Oh right...
+The person at the door!
+###--------
+###Mugshot:0
+Argh, I wonder where
+that Mega went off to?
+###--------

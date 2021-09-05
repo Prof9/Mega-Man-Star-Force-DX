@@ -1,0 +1,66 @@
+﻿###TextArchive:mess_0560
+###Script:0
+The desks all have built-in
+computers.
+###--------
+Just about every school
+has these.
+###--------
+###Script:1
+The teacher's podium.
+It looks like an ordinary
+podium.
+###--------
+###--------
+But it has a secret that
+only the homeroom teacher
+knows.
+###--------
+###Script:2
+A speaker control panel.
+###--------
+###Script:3
+A chalkboard.
+###--------
+They call it that, but no
+one uses chalk...
+###--------
+###Script:4
+A very large speaker.
+###--------
+###Script:5
+It looks like a ball,
+but it's a 3D puzzle.
+###--------
+###Script:6
+The control panel for the
+display.
+###--------
+Right now the display is
+showing a graph.
+###--------
+###Script:7
+Books are all neatly
+arranged.
+###--------
+###Script:8
+An ant farm on
+Creature Vision:
+###--------
+The tunnels are visible,
+but the ants are nowhere
+in sight.
+###--------
+###Script:9
+Creature Vision control panel.
+###--------
+###Script:10
+This links all the school
+computers together.
+###--------
+###Script:11
+An aloe plant.
+###--------
+Those thorns look kinda
+scary...
+###--------

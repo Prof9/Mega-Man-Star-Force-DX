@@ -1,0 +1,46 @@
+﻿###TextArchive:mess_0563
+###Script:10
+###Mugshot:11
+Gotta feel the burn!
+###--------
+###Script:11
+###Mugshot:12
+*pant*
+I'm just getting warmed up!
+###--------
+###Script:20
+###Mugshot:11
+###--------
+###Mugshot:11
+I don't care if it's the end
+of the world, I'm gonna
+keep on running!
+###--------
+###Script:21
+###Mugshot:12
+###--------
+###Mugshot:12
+Whatever it is, bring it on.
+I can use my footwork
+and dodge it!
+###--------
+###Script:100
+###Mugshot:14
+Raise the curtain...
+###--------
+###Mugshot:14
+Lower the curtain...
+###--------
+###Mugshot:14
+They only use me a couple
+of times a year.
+###--------
+###Script:101
+###Mugshot:14
+There's a huge EM wave
+approaching...
+###--------
+###Mugshot:14
+Not even this curtain can
+protect me now.
+###--------

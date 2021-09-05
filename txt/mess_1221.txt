@@ -1,0 +1,175 @@
+﻿###TextArchive:mess_1221
+###Script:0
+###Mugshot:Geo
+You don't need to use
+a Sub Card right now.
+###--------
+###Script:2
+###Mugshot:Geo
+Do you want to use
+"<printItemBuffered>"?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:printItemBuffered buffer=2
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:3
+###Mugshot:Geo
+Let's not use this
+just now.
+###--------
+###Script:4
+###Mugshot:Geo
+This card is used
+automatically.
+###--------
+###Script:5
+###Mugshot:Geo
+You just used that one.
+Let's hold off on it
+for now.
+###--------
+###Script:6
+###Mugshot:Geo
+This enhancement item is
+for use with Lunar Knights.
+###--------
+###Script:10
+Mega Man recovered
+50 HP!
+###--------
+###Script:11
+Mega Man recovered
+200 HP!
+###--------
+###Script:12
+Mega Man recovered
+all of his HP!
+###--------
+###Script:13
+Mega Man has disappeared!
+Weaker foes won't be able
+to find him for a while!
+###--------
+###Script:14
+Mega's eyes twinkled!
+It's very likely he'll meet
+foes that he met before.
+###--------
+###Script:15
+Mega is radiating red
+waves! Fire enemies will
+appear more frequently.
+###--------
+###Script:16
+Mega is radiating blue
+waves! Aqua enemies will
+appear more frequently.
+###--------
+###Script:17
+Mega is radiating yellow
+waves! Elec enemies will
+appear more frequently.
+###--------
+###Script:18
+Mega is radiating green
+waves! Wood enemies will
+appear more frequently.
+###--------
+###Script:19
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:20
+  ×<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadSpaces
+###--------
+###Script:25
+###Mugshot:Geo
+Please choose your gift
+to your Brother.
+###--------
+###Script:26
+###Mugshot:Geo
+Really don't give anything?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:27
+###Mugshot:Geo
+Give "<printItemBuffered>"
+to your Brother?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:printItemBuffered buffer=0
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:30
+###Mugshot:Geo
+Want to equip the
+"<printItem>"?
+<positionOptionFromCenter><optionText>  Off <optionText>  Type 1 <optionText>  Type 2
+###Command:printItem item=81
+###Command:positionOptionFromCenter width=147
+###Command:optionText up=0 down=0 left=2 right=1
+###Command:optionText up=1 down=1 left=0 right=2
+###Command:optionText up=2 down=2 left=1 right=0
+###--------
+###Script:31
+###Mugshot:Geo
+Want to equip the
+"<printItem>"?
+<positionOptionFromCenter><optionText>  Off <optionText>  Type 1 <optionText>  Type 2
+###Command:printItem item=81
+###Command:positionOptionFromCenter width=147
+###Command:optionText up=0 down=0 left=2 right=1
+###Command:optionText up=1 down=1 left=0 right=2
+###Command:optionText up=2 down=2 left=1 right=0
+###--------
+###Script:32
+###Mugshot:Geo
+Want to equip the
+"<printItem>"?
+<positionOptionFromCenter><optionText>  Off <optionText>  Type 1 <optionText>  Type 2
+###Command:printItem item=81
+###Command:positionOptionFromCenter width=147
+###Command:optionText up=0 down=0 left=2 right=1
+###Command:optionText up=1 down=1 left=0 right=2
+###Command:optionText up=2 down=2 left=1 right=0
+###--------
+###Script:33
+###Mugshot:Geo
+<wait>
+###Command:wait frames=15
+###--------
+###Mugshot:Geo
+Turned the "<printItem>"
+OFF!
+###Command:printItem item=81
+###--------
+###Script:34
+###Mugshot:Geo
+<wait>
+###Command:wait frames=15
+###--------
+###Mugshot:Geo
+Set the "<printItem>"
+to Type 1!
+###Command:printItem item=81
+###--------
+###Script:35
+###Mugshot:Geo
+<wait>
+###Command:wait frames=15
+###--------
+###Mugshot:Geo
+Set the "<printItem>"
+to Type 2!
+###Command:printItem item=81
+###--------

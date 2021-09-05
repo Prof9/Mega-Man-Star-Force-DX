@@ -1,0 +1,24 @@
+﻿###TextArchive:mess_0259
+###Script:0
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Luna... I mean, Queen Ophiuca
+is waiting for us up there...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Yeah.
+###--------
+###Mugshot:OmegaXis
+I don't know where she's
+hiding or what she's doing,
+###--------
+###Mugshot:OmegaXis
+but let's find her, and
+finish this.
+###--------
+###Script:2
+###Mugshot:MegaMan
+...Yeah.
+###--------

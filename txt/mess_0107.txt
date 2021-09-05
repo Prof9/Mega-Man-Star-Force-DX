@@ -1,0 +1,424 @@
+﻿###TextArchive:mess_0107
+###Script:0
+The stars were just
+beginning to twinkle
+###--------
+as Geo turned his
+eyes to the heavens.
+###--------
+###Script:1
+###Mugshot:0
+Dad, Cassiopeia is so
+bright tonight...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Oh, and today, this
+man named Mr. Boreal
+came to our house.
+###--------
+###Mugshot:0
+And he gave me your
+Visualizer...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+It's got some sort of
+special lens, and it feels
+like it has a special power,
+###--------
+###Mugshot:0
+but what can I see with it?
+###--------
+###Mugshot:0
+If I use it, will I see you...?
+###--------
+###Script:2
+###Mugshot:GeoVisualizer
+.<waitSkip>.<waitSkip>.<waitSkip>Who am I kidding?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:GeoVisualizer
+Dad, where are you?
+I miss you so much...
+###--------
+###Mugshot:GeoVisualizer
+...Dad.
+###--------
+###Script:3
+###Mugshot:GeoVisualizer
+What's...?
+###--------
+###Mugshot:GeoVisualizer
+.<waitSkip>.<waitSkip>.<waitSkip>Th-This is dad's
+access signal!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:4
+###Mugshot:GeoVisualizer
+It's getting closer
+and closer!
+###--------
+###Script:5
+###Mugshot:GeoVisualizer
+Aaaaaaaaah!!
+###--------
+###Script:6
+.<waitSkip>.<waitSkip>.<waitSkip>So this is Earth...
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:7
+###Mugshot:0
+U-Unngh...
+###--------
+###Mugshot:0
+...Aaaaah!!
+###--------
+###Script:8
+###Mugshot:0
+Wh-Wh-Wh...!?
+###--------
+###Script:9
+###Mugshot:OmegaXis
+You can see me?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That's funny. Humans aren't
+supposed to be able to see
+energy beings like me...
+###--------
+###Script:10
+###Mugshot:0
+A-A-Are you a monster!?
+###--------
+###Mugshot:0
+Why... Why are there
+roads in the sky!?
+###--------
+###Mugshot:0
+That's not the Milky Way,
+that's for sure!
+###--------
+###Mugshot:0
+Am I dreaming?
+###--------
+###Script:11
+###Mugshot:0
+It... disappeared...
+###--------
+###Script:12
+###Mugshot:0
+Ah! It's back!!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Now I get it.
+You can see my EM body
+with those glasses.
+###--------
+###Script:14
+###Mugshot:0
+But-But...
+But I didn't see
+a thing earlier.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hmph. I must've activated
+some hidden power of those
+glasses when I zapped them.
+###--------
+###Mugshot:0
+Wh-Wh...?
+###--------
+###Script:15
+###Mugshot:OmegaXis
+Hey, didn't anyone tell you
+not to gawk!?
+###--------
+###Mugshot:OmegaXis
+But I guess I can't
+blame you, kid.
+###--------
+###Script:16
+###Mugshot:0
+Wh-Who are you?
+###--------
+###Script:17
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The name's Omega-Xis, but
+humans get it all wrong,
+so just call me "Mega".
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I'm from Planet FM,
+so I'm what you humans
+call an "alien", I guess.
+###--------
+###Mugshot:OmegaXis
+But to me, you guys
+are the real aliens!
+###--------
+###Mugshot:OmegaXis
+Normally, you humans can't
+see my EM body,
+###--------
+###Mugshot:OmegaXis
+which is made of
+electro-magnetic waves,
+###--------
+###Mugshot:OmegaXis
+but somehow, I guess with
+those glasses, you can
+see the Wave World.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That road you see in the
+sky is a part of the
+Wave World; a Wave Road.
+###--------
+###Mugshot:OmegaXis
+You got all of that,
+Geo Stelar?
+###--------
+###Script:18
+###Mugshot:0
+Wh-Why does an alien
+know my name!?
+###--------
+###Script:19
+###Mugshot:OmegaXis
+I heard it from a human
+I met in space.
+###--------
+###Script:20
+###Mugshot:0
+That human...
+Could it be...?
+###--------
+###Mugshot:0
+Was it my dad!?
+###--------
+###Mugshot:0
+Dad...
+Where is he right now!?
+###--------
+###Script:21
+###Mugshot:0
+Whoa!!
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Tsk!
+They're here already?
+###--------
+###Script:23
+###Mugshot:0
+They're here?
+Who's here?
+###--------
+###Script:24
+###Mugshot:OmegaXis
+The creeps who are
+after me, that's who, kid.
+###--------
+###Script:25
+###Mugshot:0
+What the!?
+###--------
+###Mugshot:0
+That train's not supposed
+to be able to move!
+###--------
+###Script:26
+###Mugshot:OmegaXis
+EM viruses from Planet FM.
+###--------
+###Mugshot:OmegaXis
+They're going to destroy
+the town with that.
+###--------
+###Script:27
+###Mugshot:0
+What!?
+###--------
+###Mugshot:0
+If they did that,
+it'd be a disaster!
+###--------
+###Mugshot:0
+Plus, mom's still at home!
+###--------
+###Script:28
+###Mugshot:OmegaXis
+There's only one way
+to stop that train.
+###--------
+###Mugshot:OmegaXis
+Go into it and delete
+those EM viruses!
+###--------
+###Script:29
+###Mugshot:0
+Delete those viruses?
+###--------
+###Mugshot:0
+But how?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+Like THIS!!
+###--------
+###Script:31
+###Mugshot:0
+Ack!
+###--------
+###Script:32
+###Mugshot:OmegaXis
+Now listen up, kid.
+###--------
+###Mugshot:OmegaXis
+You wanna stop
+that train, you do
+what I say. Got it?
+###--------
+###Mugshot:OmegaXis
+You humans have those
+Card Force things, right?
+###--------
+###Mugshot:0
+Yeah.
+###--------
+###Mugshot:OmegaXis
+Take out one of
+your blank cards.
+###--------
+###Script:33
+###Mugshot:0
+Uh... um, OK...
+###--------
+###Script:34
+###Mugshot:OmegaXis
+OK, here we go!
+###--------
+###Mugshot:OmegaXis
+Hah!!
+###--------
+###Script:35
+###Mugshot:0
+Wow...
+###--------
+###Mugshot:0
+The card's glowing.
+What's he doing?
+###--------
+###Script:36
+###Mugshot:OmegaXis
+I'm powering up the
+card with my energy.
+###--------
+###Mugshot:OmegaXis
+Look, we don't have
+much time!
+###--------
+###Mugshot:OmegaXis
+Next, we've gotta
+find a wavehole!
+###--------
+###Mugshot:0
+A wavehole?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+It's where a chunk of
+space has been warped
+into a whirlpool shape!
+###--------
+###Mugshot:OmegaXis
+I bet you can see them
+with those glasses.
+###--------
+###Script:37
+###Mugshot:0
+Space that's been warped
+into a whirlpool?
+###--------
+###Script:38
+###Mugshot:0
+Hey, I see one!
+###--------
+###Script:39
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You don't need to wear
+your Visualizer for this
+next part, but...
+###--------
+###Mugshot:OmegaXis
+swipe the card I made when
+you're at a wavehole.
+###--------
+###Mugshot:OmegaXis
+You do know how to
+swipe a card, right?
+###--------
+###Script:40
+###Mugshot:0
+Of course!
+I just push the R Button.
+###--------
+###Script:41
+###Mugshot:OmegaXis
+Yeah.
+And then you've gotta yell:
+###--------
+###Mugshot:OmegaXis
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:0
+Uh... Okay...
+###--------
+###Mugshot:OmegaXis
+Oh, and I guess I
+should tell you, kid,
+###--------
+###Mugshot:OmegaXis
+push the Y Button to
+put on your Visualizer.
+###--------
+###Mugshot:OmegaXis
+That way, you can see
+the Wave World.
+###--------
+###Mugshot:OmegaXis
+Now put those glasses
+to good use!
+Let's move!
+###--------

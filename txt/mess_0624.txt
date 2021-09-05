@@ -1,0 +1,52 @@
+﻿###TextArchive:mess_0624
+###Script:4
+The air circulator...
+###--------
+It doesn't seem to be
+working.
+###--------
+###Script:7
+Air rumbling out of the
+air circulator...
+###--------
+###Script:8
+Air rumbling out of the
+air circulator...
+###--------
+...Oh?
+###--------
+If you look real close,
+there's a wavehole here!
+###--------
+###Script:9
+###--------
+It seems this system
+removes CO² from the
+air inside the station.
+## Changed to subscript 2 in font
+###--------
+###Script:10
+The module temperature
+control panel.
+###--------
+The temperature is set
+to just the right level.
+###--------
+###Script:11
+There's a bunch of scrap
+blocking the way...
+###--------
+###Script:13
+###Mugshot:0
+*gasp* *gasp*
+It's getting hard to breathe.
+###--------
+###Mugshot:0
+I've got to get some
+air quick.
+###--------
+###Script:14
+###Mugshot:0
+OK, gotta move this trash
+out of the way!!
+###--------

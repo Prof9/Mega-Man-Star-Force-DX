@@ -1,0 +1,121 @@
+﻿###TextArchive:mess_0007
+###Script:0
+<optionText>  Ice Pegasus
+<optionText>  Fire Leo
+<optionText>  Green Dragon
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Script:1
+<optionText>  Ice Pegasus
+<optionText>  Fire Leo
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:2
+<optionText>  Ice Pegasus
+<optionText>  Green Dragon
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:3
+<optionText>  Fire Leo
+<optionText>  Green Dragon
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:10
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall>You running, kid?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:11
+###Mugshot:OmegaXis
+.<wait>.<wait>.<wait>OK, we're out of here!
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:12
+###Mugshot:OmegaXis
+.<wait>.<wait>.<wait>Argh, it's no good!
+There's no way out!
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Hey, hey! You can't turn
+tail and run now!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall>Call a Brother and use a
+Best Combo?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:21
+###Mugshot:OmegaXis
+<optionButtonWide><optionButtonWide><optionButtonWide><optionButtonWide>Call a Brother and use a
+Best Combo?
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Best Combo"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Star Force"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Roulette"
+###Command:optionButtonWide up=3 down=3 left=3 right=3 string="Cancel"
+###--------
+###Script:22
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall><optionButtonSmall>Use your Brother's power
+and transform?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Star Force"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Roulette"
+###Command:optionButtonSmall up=2 down=2 left=2 right=2 string="Cancel"
+###--------
+###Script:23
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall><optionButtonSmall>Call a Brother and use a
+Best Combo?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Best Combo"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Roulette"
+###Command:optionButtonSmall up=2 down=2 left=2 right=2 string="Cancel"
+###--------
+###Script:24
+###Mugshot:OmegaXis
+You're already changing into
+Star Force!
+###--------
+###Script:25
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall>You're already in that form...
+Still wanna transform?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:30
+###Mugshot:OmegaXis
+You've already used
+that Star Power!
+Once per battle, kid.
+###--------
+###Script:31
+###Mugshot:OmegaXis
+You don't have a card to
+use this one's effect on!
+###--------
+###Script:32
+###Mugshot:OmegaXis
+You can only use 1
+Star Power per turn!
+###--------
+###Script:33
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall><optionButtonSmall>Activate this card's
+Star Power?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Activate"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Use normally"
+###Command:optionButtonSmall up=2 down=2 left=2 right=2 string="Cancel"
+###--------

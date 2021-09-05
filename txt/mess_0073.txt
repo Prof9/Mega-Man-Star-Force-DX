@@ -1,0 +1,115 @@
+﻿###TextArchive:mess_0073
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleBoy
+Welcome to my
+Major League Transer!
+###--------
+###Script:4
+###Mugshot:LittleBoy
+My dream is to play
+in the Majors!
+###--------
+###Mugshot:LittleBoy
+I practice every day
+till I get blisters!
+###--------
+###Script:5
+###Mugshot:LittleBoy
+Man! I just can't win!
+###--------
+###Mugshot:LittleBoy
+I'm gonna keep trying
+till I beat this game!
+###--------
+###Mugshot:LittleBoy
+Because I'm gonna be
+a big-leaguer!
+###--------
+###Mugshot:MegaMan
+That kid's got spunk!
+###--------
+###Mugshot:MegaMan
+Maybe I should give
+him a hand?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's do it.
+###--------
+###Mugshot:OmegaXis
+If only you had that
+much spunk.
+###--------
+###Mugshot:MegaMan
+Uh...
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Yeah, just leave the
+kid alone!
+###--------
+###Script:7
+###Mugshot:LittleBoy
+Man! I just can't win!
+###--------
+###Mugshot:LittleBoy
+I'm gonna keep trying
+till I beat this game!
+###--------
+###Mugshot:LittleBoy
+Because I'm gonna be
+a Big-leaguer!
+###--------
+###Script:8
+###Mugshot:LittleBoy
+Yessss! I didn't even
+win the game but I
+got the card!
+###--------
+###Mugshot:LittleBoy
+Lucky me!
+###--------
+###Mugshot:MegaMan
+...
+###--------
+###Mugshot:OmegaXis
+...
+###--------
+###Script:9
+###Mugshot:LittleBoy
+My birthday is coming up.
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I really want a baseball
+glove. I wonder if Grandpa
+will get me one?
+###--------
+###Mugshot:MegaMan
+(I should report back
+to Mr. Park.)
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

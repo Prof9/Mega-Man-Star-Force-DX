@@ -1,0 +1,88 @@
+﻿###TextArchive:mess_1071
+###Script:50
+###Mugshot:TruckNavi
+*vroom*
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Ah, if I could get even a
+single mail wave to deliver,
+I'd be happy!
+###--------
+###Mugshot:TruckNavi
+I'm getting rusty here,
+not doing anything.
+###--------
+###Script:51
+###Mugshot:InfoNavi
+Whee! Today is nice
+and sunny again!
+###--------
+###Mugshot:InfoNavi
+But it might be a little
+cloudy tomorrow.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+According to the weather
+report, there is a 65%
+chance of clouds.
+###--------
+###Mugshot:InfoNavi
+But they're only clouds,
+you know.
+###--------
+###Script:100
+###Mugshot:TruckNavi
+We! Are! The!
+Amazing Delivery Brothers!
+###--------
+###Mugshot:TruckNavi
+Delivery Bro 1!
+###--------
+###Mugshot:MrHertz
+DELIVERY BRO 2!
+###--------
+###Mugshot:MrHertz
+WE ARE THE AMAZING
+DELIVERY BROTHERS!
+###--------
+###Mugshot:TruckNavi
+And today! We are!
+###--------
+###Mugshot:MrHertz
+SPACING OUT!
+###--------
+###Mugshot:TruckNavi
+Here again!
+###--------
+###Mugshot:MrHertz
+TOTALLY!
+###--------
+###Mugshot:TruckNavi
+Not working!
+###--------
+###Script:102
+###Mugshot:InfoNavi
+There is a wire fence
+below me.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Humans set up these wire
+fences to stop other humans
+from progressing further in.
+###--------
+###Mugshot:InfoNavi
+Which means...
+###--------
+###Mugshot:InfoNavi
+there must be a trap
+just beyond the fence!
+###--------
+###Mugshot:InfoNavi
+...Ha ha.
+###--------

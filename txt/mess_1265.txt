@@ -1,0 +1,42 @@
+﻿###TextArchive:mess_1265
+###Script:0
+###Mugshot:OmegaXis
+Piece of cake!
+###--------
+###Mugshot:OmegaXis
+Hey, he just dropped
+a bunch of data.
+###--------
+###Mugshot:OmegaXis
+That thing we're looking for
+must be here somewhere.
+###--------
+###Script:1
+###Mugshot:MegaMan
+Whoa.
+That guy had a ton
+of data on him.
+###--------
+###Mugshot:MegaMan
+Let's see...
+Is this it?
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=85
+###--------
+<waitOWVar>
+###Command:waitOWVar variable=0 value=5
+###--------
+###Mugshot:MegaMan
+I'm not sure, but I think
+this is the right data...
+###--------
+###Mugshot:OmegaXis
+We won't know until
+we try, right?
+###--------
+###Mugshot:MegaMan
+For now, let's bring
+this back to Ken.
+###--------

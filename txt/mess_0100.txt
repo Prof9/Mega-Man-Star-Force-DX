@@ -1,0 +1,465 @@
+﻿###TextArchive:mess_0100
+###Script:0
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Hi, Geo!
+It's your Class President,
+Luna Platz.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I didn't like your attitude,
+but I can forgive you,
+if you come to school!
+###--------
+###Mugshot:Luna
+We have some Brother Band
+homework today.
+###--------
+###Mugshot:Luna
+I've attached a new version
+of the Brother Band
+program we use in class,
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+so make sure you do
+your homework!
+###--------
+###Mugshot:Luna
+Oh, and one more thing<waitSkip>.<waitSkip>.<waitSkip>.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:Luna
+COME TO SCHOOL!
+###--------
+NOW INITIALIZING
+PERSONAL PAGE EDITOR...
+###--------
+###Script:1
+###Mugshot:Luna
+OK, looks like we're
+all set.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Now, we're going to use
+this program, and do
+your homework!
+###--------
+###Mugshot:Luna
+So pay close attention,
+OK?
+###--------
+###Mugshot:Luna
+This is the Brother Screen
+on your Transer.
+###--------
+###Mugshot:Luna
+It shows you info about
+your Brothers.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+You can access this screen
+by selecting "BROTHR" on
+the Menu Screen.
+###--------
+###Mugshot:Luna
+<wait>...<wait>Ah!
+You don't have a
+single Brother!
+###Command:wait frames=16
+###Command:wait frames=16
+###--------
+###Mugshot:Luna
+I can't explain anything
+like this!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Alright, I'll tell you what.
+Just for now, I'll be
+your Brother.
+###--------
+###Mugshot:Luna
+You'd better be thankful!
+
+###--------
+###Mugshot:Luna
+Here we go!<waitFlag>
+###Command:waitFlag flag=169
+###--------
+###Mugshot:Luna
+Now, you and I are
+Brothers!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+...Actually, do you need me to
+explain Brother Band to you?
+
+###--------
+###Mugshot:Luna
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No 
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:2
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Brother Band is a system
+that connects two friends
+through EM waves.
+###--------
+###Mugshot:Luna
+Once you become Brothers,
+###--------
+###Mugshot:Luna
+you can send mail and
+trade data no matter
+where you are!
+###--------
+###Mugshot:Luna
+You can also see each
+other's Personal Page!
+###--------
+###Mugshot:Luna
+...Huh?<wait>
+What's a Personal Page?
+###Command:wait frames=16
+###--------
+###Mugshot:Luna
+Why, your profile and
+Battle Cards are shown
+there!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+If you're going to have
+any Brothers, you're going
+to need a Personal Page!
+###--------
+###Mugshot:Luna
+I know!
+Let's make you one!
+###--------
+###Script:3
+###Mugshot:Luna
+Got it all so far?
+
+
+###--------
+###Mugshot:Luna
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:4
+###Mugshot:Luna
+OK, now I'm going to
+explain Personal Pages.
+###--------
+###Script:5
+###Mugshot:Luna
+This is a Personal Page.
+You can see this by
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+selecting your Brother's
+or your own icon from
+the Brother Screen.
+###--------
+###Script:6
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+So, a Personal Page is
+just that; it's where info
+about a person is displayed.
+###--------
+###Mugshot:Luna
+You can see a Brother's
+info, and vice versa.
+###--------
+###Mugshot:Luna
+Now I'll explain things
+one at a time.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+In the upper-left corner,
+a person's Name, Face
+Icon, and Level are shown.
+###--------
+###Mugshot:Luna
+All of this has already
+been set so let's go on.
+###--------
+###Mugshot:Luna
+The lower part shows
+your battle data!
+###--------
+###Mugshot:Luna
+Hmm?<wait> You can't see
+because I'm in your way?
+###Command:wait frames=16
+###--------
+###Mugshot:Luna
+Alright. I'll leave for
+a second.
+###--------
+###Mugshot:Luna
+Push the A Button when
+you're done, OK?
+###--------
+###Script:7
+###Mugshot:Luna
+Did you take a good look?<wait>
+###Command:wait frames=16
+###--------
+###Mugshot:Luna
+Well, even if you didn't,
+I'm back so moving on!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Favorite is where the 6
+cards you set as your
+favorites are displayed.
+###--------
+###Mugshot:Luna
+Favorite Battle Cards
+can be used by Brothers
+###--------
+###Mugshot:Luna
+so you should set only
+your strongest cards!
+###--------
+###Mugshot:Luna
+Let's see...<wait>
+Best Combo...
+###Command:wait frames=16
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I don't actually know much
+about that... But we don't
+need it right now anyway.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Link Abilities are powers you
+and your Brother give to
+each other as a boost!
+###--------
+###Mugshot:Luna
+So, are you OK up to
+this point?
+
+###--------
+###Mugshot:Luna
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:8
+Lastly, let's look at
+the upper-right!
+###--------
+Do you see the "MES."
+and "SECR" buttons?
+###--------
+###--------
+"MES." stands for "message",
+and it's where you can leave
+a note for your Brothers.
+###--------
+###--------
+You can write about what
+you did recently, brag,
+or whatever you'd like!
+###--------
+###--------
+You can edit it any time,
+so for now, just hurry
+up and write a self-intro!
+###--------
+###Script:9
+###Mugshot:Luna
+Next is "SECR"!
+###--------
+###Mugshot:Luna
+"SECR" is where you write
+your secret message!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Secrets you can't tell a
+stranger, you can tell
+to your Brothers!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+When you become Brothers
+with someone, they can see
+your secret. So be honest!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+You can change your secret
+at any time, so for now,
+just write something!
+###--------
+###Script:10
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+OK!
+Congratulations on creating
+your Personal Page!
+###--------
+###Mugshot:Luna
+If you have a Brother,
+you'll always be connected,
+###--------
+###Mugshot:Luna
+no matter where or when!
+It's neat!
+###--------
+###Mugshot:Luna
+...<wait>*ahem* So hurry up!
+Make some Brothers!
+###Command:wait frames=10
+###--------
+###Mugshot:Luna
+<wait>Oh...
+<wait>One more thing.
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:Luna
+If you have Real friends
+and you want to form a
+Brother Band bond with them,
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+you can only become
+Real Brothers with 3
+people at first.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+But... if, one day, you
+achieve something great,
+###--------
+###Mugshot:Luna
+the number of Brothers
+you can have will grow!
+###--------
+###Mugshot:Luna
+Real Brothers can change
+their info day by day, so
+it's good to trade your
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+own info through the
+Menu Screen's "On Air"
+section, OK?
+###--------
+###Mugshot:Luna
+If both of you are
+On Air at the same
+time,
+###--------
+###Mugshot:Luna
+something even better
+will happen, I hear.
+###--------
+###Mugshot:Luna
+Hmm... And...<wait>
+###Command:wait frames=10
+###--------
+###Mugshot:Luna
+That concludes your
+Brother Band homework!
+###--------
+###Mugshot:Luna
+Now all you have to do
+is make some Brothers...
+###--------
+###Mugshot:Luna
+go On Air...
+###--------
+###Mugshot:Luna
+trade data...
+###--------
+###Mugshot:Luna
+and come to school!
+###--------
+###Mugshot:Luna
+Oh, and one last thing...
+###--------
+###Mugshot:Luna
+C<wait>O<wait>M<wait>E<wait> T<wait>O<wait> S<wait>C<wait>H<wait>O<wait>O<wait>L<wait>!<wait>!<wait>
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+###Mugshot:Luna
+Got it!?
+###--------
+###Mugshot:Luna
+I'll see you at school,
+then!
+###--------
+###Script:11
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+You do?
+I thought everyone knew
+about Brother Bands!
+###--------
+###Mugshot:Luna
+Well, whatever.
+###--------

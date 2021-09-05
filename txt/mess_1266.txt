@@ -1,0 +1,147 @@
+﻿###TextArchive:mess_1266
+###Script:0
+Alright, let's try
+restoring the data...
+###--------
+Uploading...
+###--------
+.<wait>.<wait>.<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+Initializing Personality
+Program...
+###--------
+###Script:1
+###Mugshot:MrFamous
+Greetings!
+###--------
+###Mugshot:MrFamous
+I am the world-renowned
+authority on all things
+NetBattling...
+###--------
+###Mugshot:MrFamous
+They call me...
+Mr. Famous, Mark II!
+###--------
+###Mugshot:MrFamous
+But you can just
+call me Mark II!
+###--------
+###Script:2
+###Mugshot:KenSuther
+Whoa... Time out.
+Did you just say
+"NetBattling"?
+###--------
+###Mugshot:KenSuther
+You mean, like...
+###--------
+###Mugshot:KenSuther
+that thing people used to
+do with their Navis in order
+to delete EM viruses?
+###--------
+###Mugshot:KenSuther
+These days, we just use
+Battle Cards directly,
+###--------
+###Mugshot:KenSuther
+so NetBattling is totally
+washed up, y'know?
+###--------
+###Mugshot:KenSuther
+Well, one thing's for sure.
+###--------
+###Mugshot:KenSuther
+Guess this won't be much
+use as a store assistant,
+after all...
+###--------
+###Mugshot:MrFamous
+Not so fast!
+###--------
+###Mugshot:MrFamous
+BattleChips and
+Battle Cards...
+###--------
+###Mugshot:MrFamous
+They're not so different
+as you might think!
+###--------
+###Mugshot:MrFamous
+There's no one who
+knows more about
+battling than me.
+###--------
+###Mugshot:MrFamous
+And I'd be happy to
+help with the store!
+###--------
+###Mugshot:MrFamous
+###--------
+###Mugshot:MrFamous
+I look forward to raising a
+new generation of promising
+young Wave Battlers!
+###--------
+###Script:3
+###Mugshot:ClaudPincer
+You know Mr. Suther...
+###--------
+###Mugshot:ClaudPincer
+This guy might not
+be half bad!
+Snippidy-snap!
+###--------
+###Mugshot:ClaudPincer
+Heh heh!
+In fact, he might just
+come in real handy!
+###--------
+###Mugshot:KenSuther
+You think?
+Hmmm...
+###--------
+###Mugshot:KenSuther
+Oh, what the heck!
+Welcome aboard,
+Famous-dude!
+###--------
+###Mugshot:KenSuther
+You and I are going to
+make some waves!
+###--------
+###Script:4
+###Mugshot:MrFamous
+Glad to be of service!
+###--------
+###Script:5
+###Mugshot:KenSuther
+And Geo, my man!
+Thanks a bunch for
+your help!
+###--------
+###Mugshot:KenSuther
+Here.
+Why don't you take
+this ultra-rare card?
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=170
+###--------
+<waitOWVar>
+###Command:waitOWVar variable=0 value=6
+###--------
+###Mugshot:KenSuther
+And uh... I dunno how
+much it's worth,
+###--------
+###Mugshot:KenSuther
+but feel free to use
+Mark II here anytime
+you want.
+###--------

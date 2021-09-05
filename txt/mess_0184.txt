@@ -1,0 +1,36 @@
+﻿###TextArchive:mess_0184
+###Script:0
+###Mugshot:MegaMan
+Alright!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Now the pitching machine
+should work.
+###--------
+###Script:2
+###Mugshot:MegaMan
+Yeah.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Now let's go back to
+the Real World!
+###--------
+###Mugshot:OmegaXis
+I'm going to lure the old
+man to us,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+so you use the pitching
+machine and get him good.
+###--------
+###Mugshot:OmegaXis
+Got it?
+###--------
+###Script:4
+###Mugshot:MegaMan
+Y-Yeah...
+###--------

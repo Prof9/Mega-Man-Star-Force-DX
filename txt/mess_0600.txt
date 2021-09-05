@@ -1,0 +1,40 @@
+﻿###TextArchive:mess_0600
+###Script:0
+###Mugshot:OldMan
+I'm the caretaker of
+this park.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I don't mind if you play
+here, but be sure to pick
+up your garbage!
+###--------
+###Script:1
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+This picnic basket's been
+here for a while... I wonder
+if it's still any good?
+###--------
+###Script:2
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+...Hm?
+What's the matter, sonny?
+###--------
+###Mugshot:OldMan
+What'reya all so worked
+up about?
+###--------
+###Script:100
+###Mugshot:5
+I wonder what lies beyond
+that horizon...
+###--------
+###Mugshot:5
+Do you know?
+###--------

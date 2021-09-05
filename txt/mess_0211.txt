@@ -1,0 +1,200 @@
+﻿###TextArchive:mess_0211
+###Script:0
+###Mugshot:2
+Hey, Geo.
+###--------
+###Mugshot:2
+Did something happen
+today?
+###--------
+###Script:1
+###Mugshot:0
+Actually...
+###--------
+###Script:2
+###Mugshot:2
+###--------
+###Mugshot:2
+.<wait>.<wait>.<wait>Oh?
+The pendant started
+glowing?
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###--------
+###Script:3
+###Mugshot:0
+I thought maybe you'd know
+something about it.
+###--------
+###Script:4
+###Mugshot:2
+###--------
+###Mugshot:2
+Well, I know your dad used
+to wear it, but I don't
+know much else...
+###--------
+###Script:5
+###Mugshot:0
+You don't know either,
+huh...?
+###--------
+###Script:6
+###Mugshot:2
+Hmm, but it's odd that it
+lit up on its own.
+###--------
+###Mugshot:2
+Would you mind if I take
+a look at it?
+###--------
+###Script:7
+###Mugshot:0
+...Um, OK.
+###--------
+###Script:8
+An hour later...
+###--------
+###Script:9
+###Mugshot:2
+I got it, Geo!
+###--------
+###Script:10
+###Mugshot:2
+I had to take it apart,
+but it turns out
+###--------
+###Mugshot:2
+that this pendant is
+something like a transmitter.
+###--------
+###Script:11
+###Mugshot:0
+A transmitter!?
+###--------
+###Mugshot:0
+Then this really isn't a
+regular pendant...
+###--------
+###Script:12
+###Mugshot:2
+###--------
+###Mugshot:2
+But this transmitter won't
+work unless something
+activates it first.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+And the thing that
+activates it is...
+a Brother Band.
+###--------
+###Script:13
+###Mugshot:0
+Eh? What do you mean?
+###--------
+###Script:14
+###Mugshot:2
+###--------
+###Mugshot:2
+If this pendant is very
+close to where a Brother
+Band is being formed,
+###--------
+###Mugshot:2
+it will pick up on that
+and the transmitter
+will turn on.
+###--------
+###Mugshot:2
+And that's what causes
+it to glow.
+###--------
+###Script:15
+###Mugshot:0
+Why would dad not tell
+anyone about it...?
+###--------
+###Script:16
+###Mugshot:2
+I don't know,
+###--------
+###Mugshot:2
+but it's possible that your
+pendant is connected to
+someone somewhere.
+###--------
+###Script:17
+###Mugshot:0
+But who could it be
+connected to?
+###--------
+###Mugshot:0
+.<wait>.<wait>.<wait>.<wait>.<wait>.<wait>!!
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###--------
+###Mugshot:0
+You don't think it could
+be my dad, do you!?
+###--------
+###Mugshot:0
+If it is, then I can
+contact him!
+###--------
+###Mugshot:0
+Mr. Boreal!
+How do I use this!?
+###--------
+###Script:18
+###Mugshot:2
+###--------
+###Mugshot:2
+The transmitter is very old
+and beat up, so I don't think
+you can send a signal at all.
+###--------
+###Mugshot:2
+Maybe if you went to a
+place with good reception,
+###--------
+###Mugshot:2
+then maybe you can
+send something.
+###--------
+###Script:19
+###Mugshot:0
+A place with good reception?
+###--------
+###Script:20
+###Mugshot:2
+Yeah.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+If you go to the roof of
+this building, you might be
+able to get something.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+If you take your pendant
+there and wait, someone
+just might contact you.
+###--------
+###Script:21
+###Mugshot:0
+The roof? OK!
+###--------
+###Mugshot:0
+Thank you, Mr. Boreal!
+###--------

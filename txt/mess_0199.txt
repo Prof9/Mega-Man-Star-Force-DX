@@ -1,0 +1,303 @@
+﻿###TextArchive:mess_0199
+###Script:0
+###Mugshot:HarpNote
+Nnngh...
+###--------
+###Mugshot:HarpNote
+No... I must... protect my...
+music...
+###--------
+###Script:1
+###Mugshot:MegaMan
+How long are you gonna
+continue saying that!?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Do you think your mom would
+be happy to know you're
+hurting people with music!?
+###--------
+###Script:2
+###Mugshot:HarpNote
+You don't know a thing
+about how I feel...
+###--------
+###Script:3
+###Mugshot:MegaMan
+Yes, I do!!
+###--------
+###Mugshot:MegaMan
+My... My dad's gone, too.
+###--------
+###Mugshot:MegaMan
+That's why I know what
+it's like to lose someone
+you love very much,
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+and what it's like to be
+forced into things...
+###--------
+###Mugshot:MegaMan
+In my case, it's about
+going to school.
+###--------
+###Mugshot:MegaMan
+I'm scared of getting close
+to other people...
+###--------
+###Mugshot:MegaMan
+I keep thinking; what if I
+found people I really liked?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Maybe one day they'll
+disappear, just like my
+dad did. I became scared.
+###--------
+###Mugshot:MegaMan
+That's why I didn't want
+to go to school.
+###--------
+###Mugshot:MegaMan
+But the teachers forced
+me to go anyway.
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It got so bad that I even
+thought about running away
+and never coming back...
+###--------
+###Script:4
+###Mugshot:HarpNote
+.........
+###--------
+###Script:5
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+The thing that stopped me
+was something my mom
+said to me. She said,
+###--------
+###Mugshot:MegaMan
+"You don't have to go if
+you don't want to.
+###--------
+###Mugshot:MegaMan
+"When you think you're
+ready, then go."
+###--------
+###Mugshot:MegaMan
+If my mom hadn't said
+that to me,
+###--------
+###Mugshot:MegaMan
+maybe I would've ended
+up doing something I'd
+regret now.
+###--------
+###Mugshot:MegaMan
+That's who I am, so that's
+why I understand you.
+###--------
+###Mugshot:MegaMan
+And I want to help you...
+###--------
+###Script:6
+###Mugshot:HarpNote
+...You felt like that too?
+###--------
+###Script:7
+###Mugshot:MegaMan
+There's a lot of people
+waiting for your song.
+###--------
+###Mugshot:MegaMan
+You don't have to sing
+now, but one day, when
+you feel like singing again,
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+you should sing for those
+people who love your
+songs, I think...
+###--------
+###Script:8
+###Mugshot:Lyra
+Why aren't you finishing
+us off?
+###--------
+###Script:9
+###Mugshot:OmegaXis
+I told you.
+###--------
+###Mugshot:OmegaXis
+I don't like to beat up
+on women.
+###--------
+###Script:10
+###Mugshot:Lyra
+*sniffle*
+###--------
+###Mugshot:Lyra
+Now I see... We have
+already lost this fight.
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+There is only a disgraceful
+punishment waiting for me
+if I return like this.
+###--------
+###Mugshot:Lyra
+...I know what I'm going to do.
+###--------
+###Script:11
+###Mugshot:OmegaXis
+H-Hey, you can't be
+serious...?
+###--------
+###Script:12
+###Mugshot:Lyra
+Of course I'm serious.
+###--------
+###Mugshot:Lyra
+I'm glad I came to this
+planet. And I'm glad I
+got to meet Sonia.
+###--------
+###Mugshot:Lyra
+Don't worry, I'm not
+interested in the FM-ian
+crowd anymore.
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+You only get one life to
+live, and I plan to live it
+and have fun.
+###--------
+###Mugshot:Lyra
+I wonder if you knew this
+planet has a saying,
+###--------
+###Mugshot:Lyra
+"as fickle as a
+woman's heart"?
+###--------
+###Script:13
+###Mugshot:OmegaXis
+That's what I was afraid of.
+###--------
+###Mugshot:OmegaXis
+You know if you stay,
+they'll be after you too.
+###--------
+###Script:14
+###Mugshot:Lyra
+Hee hee hee.
+That's where you come in!
+###--------
+###Script:15
+###Mugshot:OmegaXis
+Ack! Don't volunteer me!!
+###--------
+###Mugshot:OmegaXis
+From now on, I'm allergic
+to women!
+###--------
+###Script:16
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Hey, wait a sec, Mega!
+Don't I get a say in this!?
+###--------
+###Script:17
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If they get all weird in
+the head again, we'll get
+them good. You'll see, kid.
+###--------
+###Script:18
+###Mugshot:HarpNote
+You won't need to worry
+about that.
+###--------
+###Script:19
+###Mugshot:HarpNote
+I'll watch over Lyra and
+make sure she doesn't
+cause any more trouble.
+###--------
+###Mugshot:HarpNote
+###--------
+###Mugshot:HarpNote
+And you won't see me
+using my beloved music
+for evil ever again.
+###--------
+###Mugshot:HarpNote
+...Geo?
+###--------
+###Script:20
+###Mugshot:MegaMan
+Y-Yes?
+###--------
+###Script:21
+###Mugshot:HarpNote
+I'm... going to give up being
+a singer for now.
+###--------
+###Script:22
+###Mugshot:MegaMan
+What!?
+###--------
+###Script:23
+###Mugshot:HarpNote
+Until now, I've performed
+music for myself.
+###--------
+###Mugshot:HarpNote
+I want to start over with
+my studies.
+###--------
+###Mugshot:HarpNote
+And one day, start
+singing again.
+###--------
+###Mugshot:HarpNote
+###--------
+###Mugshot:HarpNote
+I want to sing for the
+people who will wait for
+me and my mama's song...
+###--------
+###Mugshot:HarpNote
+But first, I have some
+work to do.
+###--------
+###Script:24
+###Mugshot:MegaMan
+Work?
+###--------
+###Script:25
+###Mugshot:HarpNote
+I'm going to build the best
+stage ever!
+###--------

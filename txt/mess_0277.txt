@@ -1,0 +1,74 @@
+﻿###TextArchive:mess_0277
+###Script:0
+###Mugshot:1
+OK, let's get rid of
+those oddball waves.
+###--------
+###Mugshot:1
+Yah!
+###--------
+###Script:1
+*boom boom boom*
+###--------
+###Script:2
+###Mugshot:1
+That takes care of that!
+......
+###--------
+###Script:3
+Hey, you!
+###--------
+###Script:4
+###Mugshot:LittleGirl
+What do ya think ya doin'!?
+###--------
+###Script:5
+###Mugshot:Girl
+That's what I was gonna say!
+###--------
+###Script:6
+###Mugshot:1
+Again!?
+###--------
+###Mugshot:1
+This time they're "-"...
+So...
+###--------
+###Mugshot:1
+2 "+" or 2 "-" waves
+will repel each other?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+That's what it looks like.
+###--------
+###Mugshot:OmegaXis
+These waves make humans
+dislike each other.
+###--------
+###Script:8
+###Mugshot:OldMan
+How dare you!
+###--------
+###Script:9
+###Mugshot:OldWoman
+Ahh!
+Crazy old coot!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+There's no end to this...
+###--------
+###Script:11
+###Mugshot:1
+Then, what should we do?
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Well, let's find the source
+of those waves.
+###--------
+###Mugshot:OmegaXis
+It's probably somewhere in
+this area.
+###--------

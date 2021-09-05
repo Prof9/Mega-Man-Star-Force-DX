@@ -1,0 +1,131 @@
+﻿###TextArchive:mess_0056
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Man
+###--------
+###Mugshot:Man
+I'm Barry Square.
+I teach at Echo
+Elementary.
+###--------
+###Mugshot:Man
+Did I mention that I'm
+Barry Square?
+###--------
+###Script:3
+###Mugshot:Man
+Oh, I just know the
+students don't like me.
+###--------
+###Script:4
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Ohh...
+I can't take it.
+###--------
+###Mugshot:Man
+Maybe I should just quit...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+How can I ever become
+a popular teacher like
+Mitch Shepar?
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+But there's no way I
+could even hold a
+candle to him.
+###--------
+###Mugshot:OmegaXis
+That guy's all mixed up!
+###--------
+###Mugshot:MegaMan
+Yeah... But I kinda feel
+bad for him, ya know.
+###--------
+###Mugshot:MegaMan
+I wonder if I should help him.
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+It's probably no use talking
+to somebody that mixed up,
+but oh well...
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Well, he says he wants
+to quit... ...Oh well.
+###--------
+###Script:6
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Ohh...
+I can't take it.
+###--------
+###Mugshot:Man
+Maybe I should just quit...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+How can I ever become
+a popular teacher like
+Mitch Shepar?
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+But there's no way I
+could even hold a
+candle to him.
+###--------
+###Script:7
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Yes! I've got it!
+Mitch Shepar's secret!
+###--------
+###Mugshot:Man
+I know what I have to
+do to be popular!
+###--------
+###Mugshot:Man
+The students' level...
+The students' level!
+###--------
+###Mugshot:Man
+Whoo-hoo!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

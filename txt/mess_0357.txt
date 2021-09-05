@@ -1,0 +1,73 @@
+﻿###TextArchive:mess_0357
+###Script:0
+###Mugshot:TaurusFire
+###--------
+###Mugshot:TaurusFire
+You... How can you have
+so much power... in that
+tiny body of yours...?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I didn't think it was possible
+until I met him either, but
+this is the power of trust!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Guys like you who can't
+trust your companions can't
+understand this power!
+###--------
+###Mugshot:OmegaXis
+Bye, bye, Taurus!
+###--------
+###Script:2
+###Mugshot:TaurusFire
+Power... from trust...
+###--------
+###Mugshot:TaurusFire
+###--------
+###Mugshot:TaurusFire
+Us FM-ians who only
+know of loneliness...
+can't... understand...
+###--------
+###Mugshot:TaurusFire
+Omega-Xis...
+You... really are an...
+###--------
+###Mugshot:TaurusFire
+Mooooooooo!!
+###--------
+###Script:3
+###Mugshot:0
+What was Taurus trying to
+say at the end there?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+No idea.
+###--------
+###Mugshot:OmegaXis
+Look, let's just get going!
+###--------
+###Script:5
+###Mugshot:0
+O-OK...
+###--------
+###Script:6
+###Mugshot:0
+Looks like we can unlock
+the door with this.
+###--------
+###Script:7
+###Mugshot:0
+OK, the door's been unlocked.
+Let's go.
+###--------

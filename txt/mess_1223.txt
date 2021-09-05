@@ -1,0 +1,109 @@
+﻿###TextArchive:mess_1223
+###Script:0
+###Mugshot:Geo
+<optionButtonWide>Pick option for
+<printEnemyBuffered>'s record.
+###Command:optionButtonWide up=0 down=0 left=0 right=0 string="See Brother's Rankings"
+###Command:printEnemyBuffered buffer=0
+###--------
+###Script:1
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide>Pick option for
+<printEnemyBuffered>'s record.
+###Command:optionButtonWide up=1 down=1 left=0 right=0 string="See Brother's Rankings"
+###Command:optionButtonWide up=0 down=0 left=1 right=1 string="Delete My Record"
+###Command:printEnemyBuffered buffer=0
+###--------
+###Script:2
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide>Pick option for
+<printEnemyBuffered>'s record.
+###Command:optionButtonWide up=1 down=1 left=0 right=0 string="See Brother's Rankings"
+###Command:optionButtonWide up=0 down=0 left=1 right=1 string="Delete Friend Record"
+###Command:printEnemyBuffered buffer=0
+###--------
+###Script:3
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>Pick option for
+<printEnemyBuffered>'s record.
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="See Brother's Rankings"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Delete My Record"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Delete Friend Record"
+###Command:printEnemyBuffered buffer=0
+###--------
+###Script:10
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Delete your own record?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Mugshot:Geo
+Your own record has
+been deleted.
+###--------
+###Script:11
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Delete your friend's record?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Mugshot:Geo
+Your friend's record has
+been deleted.
+###--------
+###Script:20
+<spacePx><printBuffer>:<printBuffer>:<printBuffer>
+###Command:spacePx count=39
+###Command:printBuffer buffer=0 minLength=1 padMode=leftPadZeroes
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:21
+<spacePx>[-][:][-][-][:][-][-]
+###Command:spacePx count=39
+###--------
+###Script:22
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=leftPadSpaces
+###--------
+###Script:23
+<printBuffer>: <printBrotherName>
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###Command:printBrotherName brother=0 part=0
+###--------
+###Script:24
+<printBuffer>: <printBrotherName>
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###Command:printBrotherName brother=1 part=0
+###--------
+###Script:25
+<printBuffer>: <printBrotherName>
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###Command:printBrotherName brother=2 part=0
+###--------
+###Script:26
+<printBuffer>: <printBrotherName>
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###Command:printBrotherName brother=3 part=0
+###--------
+###Script:27
+<printBuffer>: <printBrotherName>
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###Command:printBrotherName brother=4 part=0
+###--------
+###Script:28
+<printBuffer>: <printBrotherName>
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###Command:printBrotherName brother=5 part=0
+###--------
+###Script:29
+<printBuffer>: <printBrotherName>
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###Command:printBrotherName brother=6 part=0
+###--------
+###Script:30
+[-][:] [-][-][-][-][-][-]
+###--------
+###Script:31
+Brother Rankings
+###--------

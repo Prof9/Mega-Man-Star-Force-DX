@@ -1,0 +1,70 @@
+﻿###TextArchive:mess_0518
+###Script:0
+###Mugshot:Pat
+...Huh?
+What am I thinking about?
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+...Oh, nothing really, just that
+SorterBot that found me.
+###--------
+###Mugshot:Pat
+I wonder where he's at and
+what he's doing now.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+It's been more than 10 years
+now... I wonder if he's still
+working at the City Dump.
+###--------
+###Script:1
+###Mugshot:Pat
+The SorterBot that
+found me...
+###--------
+###Mugshot:Pat
+I wonder where he's at and
+what he's doing now.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+It's been more than 10 years
+now... I wonder if he's still
+working at the City Dump.
+###--------
+###Script:2
+###Mugshot:Pat
+Oh? You found out where
+that SorterBot is?
+###--------
+###Mugshot:Pat
+At the Time Square
+department store?
+###--------
+###Mugshot:Pat
+So that's what happened
+to him.
+###--------
+###Mugshot:Pat
+Thank you, Geo!
+###--------
+###Mugshot:Pat
+Please take this token of
+my appreciation.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Mugshot:Pat
+I'll go and see him soon!
+###--------
+###Script:3
+###Mugshot:Pat
+I'll go and see him soon!
+###--------

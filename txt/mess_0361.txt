@@ -1,0 +1,33 @@
+﻿###TextArchive:mess_0361
+###Script:0
+###Mugshot:0
+......
+###--------
+###Script:1
+###Mugshot:0
+Mega... Is he...?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Even without being
+Mega Man you can tell...
+###--------
+###Mugshot:OmegaXis
+Yeah, beyond this door
+is the FM King...
+###--------
+###Mugshot:OmegaXis
+...and Andromeda.
+###--------
+###Script:3
+###Mugshot:0
+Behind here...
+###--------
+###Mugshot:0
+But first, we have to
+get this door open...
+###--------
+###Script:4
+###Mugshot:OmegaXis
+You got it, kid.
+###--------

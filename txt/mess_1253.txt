@@ -1,0 +1,433 @@
+﻿###TextArchive:mess_1253
+###Script:1
+Echo Ridge
+###--------
+###Script:2
+Geo's LvRm
+###--------
+###Script:3
+Geo's Room
+###--------
+###Script:4
+Luna's Room
+###--------
+###Script:5
+Bud's Room
+###--------
+###Script:6
+Zack's Room
+###--------
+###Script:7
+BIG WAVE
+###--------
+###Script:8
+Vista Point
+###--------
+###Script:10
+AMAKEN Grounds
+###--------
+###Script:11
+AMAKEN Foyer
+###--------
+###Script:12
+Science Museum
+###--------
+###Script:13
+Lab
+###--------
+###Script:14
+SpaceSim
+###--------
+###Script:16
+Foyer
+###--------
+###Script:17
+1F Hallway
+###--------
+###Script:18
+2F Hallway
+###--------
+###Script:19
+Class 1-A
+###--------
+###Script:20
+Class 1-B
+###--------
+###Script:21
+Class 5-A
+###--------
+###Script:22
+Class 5-B
+###--------
+###Script:23
+Gym
+###--------
+###Script:24
+Studio
+###--------
+###Script:27
+Time Square
+###--------
+###Script:28
+Nacys 1F
+###--------
+###Script:29
+Nacys Roof
+###--------
+###Script:30
+Event Stage
+###--------
+###Script:34
+Dream Island
+###--------
+###Script:35
+Dream Park
+###--------
+###Script:36
+City Dump
+###--------
+###Script:37
+Scrapyard1
+###--------
+###Script:38
+Scrapyard2
+###--------
+###Script:40
+Island Undrgrnd
+###--------
+###Script:41
+Service Module
+###--------
+###Script:42
+AC Module
+###--------
+###Script:43
+Power Module
+###--------
+###Script:44
+Living Module
+###--------
+###Script:45
+Lab Module 2
+###--------
+###Script:50
+Echo Ridge EM-Rd
+###--------
+###Script:51
+Geo's LvRm EM-Rd
+###--------
+###Script:52
+Geo's Rm EM-Rd
+###--------
+###Script:53
+Luna's Rm EM-Rd
+###--------
+###Script:54
+Bud's Rm EM-Rd
+###--------
+###Script:55
+Zack's Rm EM-Rd
+###--------
+###Script:56
+BIG WAVE EM-Rd
+###--------
+###Script:57
+Vista Pt. EM-Rd
+###--------
+###Script:60
+AMAKEN Grd EM-Rd
+###--------
+###Script:61
+AMAKEN Fyr EM-Rd
+###--------
+###Script:62
+Sci Museum EM-Rd
+###--------
+###Script:63
+Lab EM-Rd
+###--------
+###Script:64
+SpaceSim EM-Rd
+###--------
+###Script:66
+Foyer EM-Rd
+###--------
+###Script:67
+1F Hallway EM-Rd
+###--------
+###Script:68
+2F Hallway EM-Rd
+###--------
+###Script:69
+Class 1-A EM-Rd
+###--------
+###Script:70
+Class 1-B EM-Rd
+###--------
+###Script:71
+Class 5-A EM-Rd
+###--------
+###Script:72
+Class 5-B EM-Rd
+###--------
+###Script:73
+Gym EM-Rd
+###--------
+###Script:74
+Studio EM-Rd
+###--------
+###Script:77
+Time Sq. EM-Rd
+###--------
+###Script:78
+Nacys 1F EM-Rd
+###--------
+###Script:79
+Nacys Roof EM-Rd
+###--------
+###Script:80
+Event Stge EM-Rd
+###--------
+###Script:84
+Drm Island EM-Rd
+###--------
+###Script:85
+Dream Park EM-Rd
+###--------
+###Script:86
+City Dump EM-Rd
+###--------
+###Script:87
+Scrapyard1 EM-Rd
+###--------
+###Script:88
+Scrapyard2 EM-Rd
+###--------
+###Script:90
+IsldUndrgndEM-Rd
+###--------
+###Script:91
+Servce Mod EM-Rd
+###--------
+###Script:92
+AC Mod EM-Rd
+###--------
+###Script:93
+Power Mod EM-Rd
+###--------
+###Script:94
+Living Mod EM-Rd
+###--------
+###Script:95
+Lab Module 2
+###--------
+###Script:100
+TruckComp1
+###--------
+###Script:101
+TruckComp2
+###--------
+###Script:103
+SpaceSimComp1
+###--------
+###Script:104
+SpaceSimComp2
+###--------
+###Script:105
+SpaceSimComp3
+###--------
+###Script:107
+SchoolComp1
+###--------
+###Script:108
+SchoolComp2
+###--------
+###Script:109
+SchoolComp3
+###--------
+###Script:111
+RoboSnakeComp1
+###--------
+###Script:112
+RoboSnakeComp2
+###--------
+###Script:113
+RoboSnakeComp3
+###--------
+###Script:115
+ScrapComp1
+###--------
+###Script:116
+ScrapComp2
+###--------
+###Script:117
+ScrapComp3
+###--------
+###Script:119
+StationComp1
+###--------
+###Script:120
+StationComp2
+###--------
+###Script:121
+StationComp3
+###--------
+###Script:122
+StationComp4
+###--------
+###Script:123
+Last Stage
+###--------
+###Script:125
+DeepSpace1 EM-Rd
+###--------
+###Script:126
+DeepSpace2 EM-Rd
+###--------
+###Script:127
+DeepSpace3 EM-Rd
+###--------
+###Script:130
+Train Comp
+###--------
+###Script:131
+Rocket Comp
+###--------
+###Script:132
+Car Comp
+###--------
+###Script:133
+Black Hole Comp
+###--------
+###Script:134
+Pitcher Comp
+###--------
+###Script:135
+VendingMachnComp
+###--------
+###Script:136
+Panda Comp
+###--------
+###Script:137
+Sign Comp
+###--------
+###Script:138
+Desk Comp
+###--------
+###Script:139
+Exerciser Comp
+###--------
+###Script:140
+Vanity Comp
+###--------
+###Script:141
+Living Mod Comp
+###--------
+###Script:142
+Service Mod Comp
+###--------
+###Script:143
+AC Mod Comp
+###--------
+###Script:144
+Statue Comp
+###--------
+###Script:145
+Incinerator Comp
+###--------
+###Script:146
+AMAKEN Towr Comp
+###--------
+###Script:147
+Antenna Comp
+###--------
+###Script:148
+Display Comp
+###--------
+###Script:149
+Principal Comp
+###--------
+###Script:150
+1F Speaker Comp
+###--------
+###Script:151
+1-A Comp
+###--------
+###Script:152
+1-B Comp
+###--------
+###Script:153
+5-A Comp
+###--------
+###Script:154
+5-B Comp
+###--------
+###Script:155
+Piano Comp
+###--------
+###Script:156
+Mowai Comp
+###--------
+###Script:157
+Enormatron Comp
+###--------
+###Script:158
+Tailor's Comp
+###--------
+###Script:159
+Pirate Ship Comp
+###--------
+###Script:160
+Lighthouse Comp
+###--------
+###Script:161
+Boat Comp
+###--------
+###Script:162
+Telescope Comp
+###--------
+###Script:163
+Doghouse Comp
+###--------
+###Script:164
+Fridge Comp
+###--------
+###Script:165
+Video Game Comp
+###--------
+###Script:166
+Tcket Machn Comp
+###--------
+###Script:167
+Space Colny Comp
+###--------
+###Script:168
+2F Speaker Comp
+###--------
+###Script:169
+Light Comp
+###--------
+###Script:170
+VCR Comp
+###--------
+###Script:171
+Cake Shop Comp
+###--------
+###Script:172
+Mirror Comp
+###--------
+###Script:173
+Mowa Mowa Comp
+###--------
+###Script:174
+Recycld Itm Comp
+###--------
+###Script:175
+Crane Comp
+###--------
+###Script:176
+Spacesuit Comp
+###--------
+###Script:177
+Test Mnitor Comp
+###--------

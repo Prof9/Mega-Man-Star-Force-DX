@@ -1,0 +1,77 @@
+﻿###TextArchive:mess_1218
+###Script:0
+###Mugshot:KenSuther
+Surf's up, dude!
+What'll it be?
+###--------
+###Script:1
+###Mugshot:KenSuther
+What'll it be?
+###--------
+###Script:2
+###Mugshot:KenSuther
+<optionButtonSmall><optionButtonSmall>Ready to ride the waves
+on out already?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:3
+###Mugshot:KenSuther
+Come back often to see
+what the tide brings in!
+###--------
+###Script:10
+###Mugshot:KenSuther
+<optionButtonSmall><optionButtonSmall>You want a
+"<printCardBuffered>", yeah?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printCardBuffered buffer=0
+###--------
+###Script:11
+###Mugshot:KenSuther
+<optionButtonSmall><optionButtonSmall>You want a
+"<printItemBuffered>", yeah?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItemBuffered buffer=0
+###--------
+###Script:15
+###Mugshot:Geo
+You bought:
+"<printCardBuffered>"!!
+###Command:printCardBuffered buffer=0
+###--------
+###Script:16
+###Mugshot:Geo
+You bought:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=0
+###--------
+###Script:20
+###Mugshot:KenSuther
+Sorry, dude, but you're a
+few Zenny short.
+###--------
+###Script:21
+###Mugshot:KenSuther
+Oops, you can't carry any
+more of these, buddy!
+###--------
+###Script:22
+###Mugshot:KenSuther
+Sorry, I'm all sold out
+of that.
+###--------
+###Script:30
+<printBuffer>[z]
+###Command:printBuffer buffer=0 minLength=6 padMode=leftPadSpaces
+###--------
+###Script:31
+<printBuffer>[z]
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadSpaces
+###--------
+###Script:32
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadSpaces
+###--------

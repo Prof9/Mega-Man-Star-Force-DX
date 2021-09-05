@@ -1,0 +1,69 @@
+﻿###TextArchive:mess_1129
+###Script:50
+###Mugshot:InfoNavi
+I'm studying for class.
+###--------
+###Mugshot:InfoNavi
+"Never Eat Soggy Wheat"...
+###--------
+###Mugshot:InfoNavi
+"Never" stands for... North...
+And "Eat"... stands for East...
+###--------
+###Mugshot:InfoNavi
+"Soggy" is for South...
+###--------
+###Mugshot:InfoNavi
+Um...
+###--------
+###Mugshot:InfoNavi
+What's "Wheat" stand
+for again?
+
+###--------
+<positionOptionFromCenter> <optionText>  Winter
+<positionOptionFromCenter> <optionText>  West
+###Command:positionOptionFromCenter width=35
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=35
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:51
+###Mugshot:InfoNavi
+Oh, that's right.
+It's "Winter"...
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+Wait a sec! Winter!?
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+No, no, no! That's not it!
+That's a season of the year!
+###--------
+###Script:52
+###Mugshot:InfoNavi
+Ah, that's right.
+It's "West".
+###--------
+###Mugshot:InfoNavi
+Well, I'm glad at least you
+remembered!
+###--------
+###Script:53
+###Mugshot:InfoNavi
+Hmm, the kids seem kind
+of burnt out today.
+###--------
+###Mugshot:InfoNavi
+Maybe they studied a bit
+too hard?
+###--------
+###Mugshot:InfoNavi
+Studying should be done in
+moderation!
+###--------

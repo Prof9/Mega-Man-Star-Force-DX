@@ -1,0 +1,76 @@
+﻿###TextArchive:mess_0971
+###Script:0
+###Mugshot:MrHertz
+A-HA-HA...
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+EE-HEE-HEE...
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+HUH? WHAT'S SO FUNNY,
+YOU ASK?
+###--------
+###Mugshot:MrHertz
+NOTHING'S FUNNY!
+###--------
+###Mugshot:MrHertz
+A-HA-HA...
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+BUT IF I DON'T STAY
+CHEERFUL AND BRIGHT,
+###--------
+###Mugshot:MrHertz
+THE LIGHTS WILL GO DARK.
+###--------
+###Mugshot:MrHertz
+OO-HOO-HOO...
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+THE JOB OF A LIGHTING
+WAVE IS TOUGH!
+###--------
+###Mugshot:MrHertz
+HAAA-HA-HA-HA...
+*BEEP BEEP*
+###--------
+###Script:5
+###Mugshot:MegaMan
+Viruses!!
+###--------
+###Mugshot:MegaMan
+So they're the reason
+the light won't work...
+###--------
+###Mugshot:OmegaXis
+OK, let's do it!!
+###--------
+###Mugshot:MegaMan
+Right!
+###--------
+###Script:6
+###Mugshot:MegaMan
+That should do the trick.
+###--------
+###Mugshot:MegaMan
+I should let that kid know.
+###--------
+###Script:200
+###Mugshot:MrHertz
+<optionButtonSmall><optionButtonSmall>I HAVE SUB CARDS.
+WANT A LOOK?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+PLEASE COME BACK AGAIN
+SOMETIME!
+###--------
+###Script:202
+###Mugshot:MrHertz
+SORRY, I'M ALL SOLD OUT...
+###--------

@@ -1,0 +1,430 @@
+﻿###TextArchive:mess_0153
+###Script:0
+###Mugshot:Woman
+Welcome to the SpaceSim,
+everyone!
+###--------
+###Mugshot:Woman
+Oh, Mr. Boreal!
+Will you be joining us?
+###--------
+###Script:1
+###Mugshot:AaronBoreal
+Yes, I'm here with a few
+of the kids today.
+###--------
+###Mugshot:AaronBoreal
+Don't mind me.
+Please, continue as normal.
+###--------
+###Script:2
+###Mugshot:Woman
+OK. Well, as I was saying...
+###--------
+###Mugshot:Woman
+Hi everyone! I am your
+tour guide for today.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+What do you think of our
+SpaceSim? Almost like the
+real thing, don't you think?
+###--------
+###Mugshot:Woman
+But the fun has just begun.
+###--------
+###Mugshot:Woman
+Now, if everyone would
+please follow me.
+###--------
+###Script:3
+###Mugshot:Woman
+This is a model of the Earth.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+One man, a long time ago
+said, "The Earth is blue."
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+And he was right.
+Our planet, Earth...
+is truly a sight to behold.
+###--------
+###Script:4
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+This is Saturn. It's famous
+for the giant rings that
+encircle the planet.
+###--------
+###Script:5
+###Mugshot:Woman
+Does anyone know what
+the rings are made of?
+###--------
+###Script:6
+###Mugshot:5
+I know! They're really a
+bunch of giant donuts!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Well, that's a very unique
+answer! But I'm sorry,
+that's not it!
+###--------
+###Mugshot:Woman
+Um... How about you!?
+###--------
+###Mugshot:3
+M-Me!?
+###--------
+###Mugshot:Woman
+Do you know what the
+rings are made of?
+###--------
+###Mugshot:3
+Um...
+###--------
+###Mugshot:3
+They're made up of small
+bits of dust and ice
+###--------
+###Mugshot:3
+that formed into what we
+see as rings, I think...
+###--------
+###Script:7
+###Mugshot:Woman
+That's exactly right!
+###--------
+###Mugshot:4
+Good going!
+###--------
+###Mugshot:0
+Gee, ah...
+###--------
+###Script:8
+###Mugshot:0
+(This tour is actually
+kinda fun...)
+###--------
+###Script:9
+###Mugshot:AaronBoreal
+......
+###--------
+###Script:10
+###Mugshot:Woman
+And next we have these.
+###--------
+###Script:11
+###Mugshot:Woman
+Shooting stars.
+Aren't they romantic?
+###--------
+###Script:12
+###Mugshot:4
+Wow, they're so pretty!
+###--------
+###Script:13
+###Mugshot:0
+.<waitSkip>.<waitSkip>.<waitSkip>Cool.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:14
+###Mugshot:AaronBoreal
+Ha ha ha,
+so how is it, Geo?
+###--------
+###Mugshot:AaronBoreal
+You look happier already.
+###--------
+###Script:15
+###Mugshot:0
+Eh?
+###--------
+###Script:16
+###Mugshot:AaronBoreal
+You really are your
+father's son.
+###--------
+###Mugshot:AaronBoreal
+Your eyes light up when it
+comes to space things.
+###--------
+###Script:17
+###Mugshot:0
+R-Really?
+###--------
+###Script:18
+###Mugshot:Woman
+Next, I want to show
+everyone this...
+###--------
+###Script:19
+The Swan's Dance.
+###--------
+###Script:20
+###Mugshot:Woman
+Yes, the Swan's Dance.
+###--------
+###Mugshot:Woman
+Hey, we don't have
+anything like that here!
+###--------
+###Mugshot:Woman
+Who was that...?
+###--------
+###Script:21
+Over here.
+###--------
+###Script:22
+###Mugshot:Woman
+M-Mr. Dubius?
+###--------
+###Script:23
+###Mugshot:AaronBoreal
+H-How are you in here
+without a suit on!?
+###--------
+###Script:24
+###Mugshot:TomDubius
+I don't need a space suit.
+###--------
+###Mugshot:TomDubius
+I have been reborn.
+###--------
+###Script:25
+###Mugshot:4
+A-Aaaaaaaaaah!!
+###--------
+###Script:26
+###Mugshot:6
+A monster!!
+###--------
+###Script:27
+###Mugshot:0
+(That's...!)
+###--------
+###Script:28
+###Mugshot:OmegaXis
+(He's here!!)
+###--------
+###Script:29
+###Mugshot:AaronBoreal
+T-Tom, what's wrong!?
+###--------
+###Script:30
+###Mugshot:CygnusWing
+What's wrong?
+Hmph, you seem to be fine...
+###--------
+###Mugshot:CygnusWing
+for someone who just
+betrayed someone else!
+###--------
+###Mugshot:CygnusWing
+I have come to punish
+you, Aaron.
+###--------
+###Mugshot:CygnusWing
+Behold!
+###--------
+###Script:31
+###Mugshot:OmegaXis
+This is bad! Geo!
+Turn away from him!!
+###--------
+###Script:32
+###Mugshot:0
+What?
+###--------
+###Script:33
+###Mugshot:OmegaXis
+Just do it!
+Hurry!!
+###--------
+###Script:34
+###Mugshot:0
+OK...
+###--------
+###Script:35
+###Mugshot:CygnusWing
+Hah!!
+###--------
+###Script:36
+###Mugshot:AaronBoreal
+What is that?
+###--------
+###Script:37
+###Mugshot:4
+Is that the Swan's Dance?
+###--------
+###Mugshot:4
+...Hey, that's odd.
+###--------
+###Script:38
+###Mugshot:Woman
+My body is...!
+###--------
+###Script:39
+###Mugshot:6
+Moving by itself...!
+###--------
+###Script:40
+###Mugshot:5
+Waaaaaah!!
+###--------
+###Script:41
+###Mugshot:CygnusWing
+I have you now.
+###--------
+###Script:42
+###Mugshot:Cygnus
+That's right.
+Dance until you drop!!
+###--------
+###Script:43
+###Mugshot:AaronBoreal
+Ooonngh...
+###--------
+###Mugshot:AaronBoreal
+Wh-What is the meaning
+of this, Tom!?
+###--------
+###Mugshot:AaronBoreal
+Why are you doing this!?
+###--------
+###Script:44
+###Mugshot:CygnusWing
+You should know why.
+###--------
+###Mugshot:CygnusWing
+###--------
+###Mugshot:CygnusWing
+Betrayal is the essence
+of society. Even now.
+###--------
+###Mugshot:CygnusWing
+Soon, the oxygen in
+your suits will run out.
+###--------
+###Mugshot:CygnusWing
+###--------
+###Mugshot:CygnusWing
+Until then, enjoy floating
+in this space... dancing
+your time away.
+###--------
+###Mugshot:CygnusWing
+Compared to my suffering,
+this will be nothing.
+###--------
+###Script:45
+###Mugshot:AaronBoreal
+Betrayal? Suffering?
+###--------
+###Mugshot:AaronBoreal
+What are you talking about!?
+Please tell me!!
+###--------
+###Script:46
+###Mugshot:CygnusWing
+###--------
+###Mugshot:CygnusWing
+You... You pretend to be
+concerned, but you'll just
+betray me again.
+###--------
+###Mugshot:CygnusWing
+I'm not buying it anymore!
+###--------
+###Script:47
+###Mugshot:CygnusWing
+I hope you all enjoy
+yourselves with this.
+###--------
+###Mugshot:CygnusWing
+This is the dance of your
+demise.
+###--------
+###Script:48
+###Mugshot:0
+Wh-What just happened??
+###--------
+###Script:49
+###Mugshot:OmegaXis
+That guy's been taken
+over by Cygnus.
+###--------
+###Script:50
+###Mugshot:0
+Cygnus?
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Yeah, an FM-ian shaped
+like a swan.
+###--------
+###Mugshot:OmegaXis
+You watch his dance, and
+you'll be dancing too.
+###--------
+###Mugshot:OmegaXis
+The only way to stop the
+dancing is to beat him.
+###--------
+###Script:52
+###Mugshot:0
+B-Beat him?
+###--------
+###Mugshot:0
+You want me to fight him!?
+###--------
+###Script:53
+###Mugshot:OmegaXis
+It's up to you, but if
+you don't act soon...
+###--------
+###Mugshot:OmegaXis
+Well, you get the picture.
+###--------
+###Script:54
+###Mugshot:0
+Th-That's...
+###--------
+###Script:55
+###Mugshot:OmegaXis
+Besides,
+even if you run away,
+###--------
+###Mugshot:OmegaXis
+Cygnus is looking for me,
+so we'd see him again
+anyway.
+###--------
+###Script:56
+###Mugshot:0
+So I have to fight him no
+matter what!?
+###--------
+###Mugshot:0
+Why do these things only
+happen to me!?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Anyway, go find a wavehole,
+kid, and pulse in!!
+###--------

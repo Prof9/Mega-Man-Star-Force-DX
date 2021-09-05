@@ -1,0 +1,152 @@
+﻿###TextArchive:mess_0189
+###Script:0
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I'm sure the help signal was
+coming from somewhere
+around here...
+###--------
+###Script:1
+###Mugshot:Sonia
+Ah! It's you!
+###--------
+###Script:2
+###Mugshot:Sonia
+Please! Hide me!
+###--------
+###Script:3
+###Mugshot:Geo
+A-Are you... Sonia Strumm?
+###--------
+###Script:4
+###Mugshot:Sonia
+...Yes.
+###--------
+###Script:5
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Some guy who says he's
+your manager is looking
+for you.
+###--------
+###Mugshot:Geo
+Something about a concert
+and what to do...
+###--------
+###Script:6
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+He should just cancel it...
+He wants to hold it for
+his own selfish reasons.
+###--------
+###Mugshot:Sonia
+...Please.
+I don't want to go back.
+###--------
+###Mugshot:Sonia
+Take me where no one
+will find me. Please.
+###--------
+###Script:7
+Sonia!!
+###--------
+Where are you!?
+###--------
+###Script:8
+###Mugshot:Sonia
+Oh no!
+I can't let him find me!
+###--------
+###Script:9
+###Mugshot:ChrysGolds
+Argh, where did she
+run off to?
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+If I cancel the concert,
+it'll be my neck. I have to
+find her no matter what...
+###--------
+###Script:10
+###Mugshot:Geo
+I think he's gone.
+###--------
+###Script:11
+###Mugshot:Sonia
+Please...
+Take me somewhere...
+Anywhere...
+###--------
+###Mugshot:Sonia
+I... I don't want to sing...
+###--------
+###Script:12
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I think this guy I know,
+Mr. Boreal, would let you hide
+out at his lab for a while.
+###--------
+###Script:13
+###Mugshot:OmegaXis
+(Well aren't you being
+the gentleman?)
+###--------
+###Mugshot:OmegaXis
+(It's not like you.
+Dare I say it's love...?)
+###--------
+###Script:14
+###Mugshot:Geo
+(Mega! I just understand
+how she feels, that's all...)
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+(That's why I'm going to
+help her. But that's as
+far as it goes.)
+###--------
+###Script:15
+###Mugshot:Sonia
+...Who are you talking to?
+###--------
+###Script:16
+###Mugshot:Geo
+N-Nobody!
+Just myself!
+###--------
+###Mugshot:Geo
+Well, want to get going?
+###--------
+###Script:17
+###Mugshot:Sonia
+Yeah...
+###--------
+###Script:18
+###Mugshot:Zack
+Wasn't that Geo
+I just passed...?
+###--------
+###Mugshot:Zack
+That girl he was with
+looked sorta familiar.
+###--------
+###Mugshot:Zack
+...Meh, whatever.
+###--------
+###Mugshot:Zack
+Today is Sonia's concert!
+###--------
+###Mugshot:Zack
+I must warm up so I can
+cheer my heart out!!
+###--------

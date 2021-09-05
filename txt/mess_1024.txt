@@ -1,0 +1,37 @@
+﻿###TextArchive:mess_1024
+###Script:0
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+I can't put my finger on it,
+but something just doesn't
+feel right...
+###--------
+###Script:1
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Status is normal,
+but I have a somewhat
+ominous presentiment...
+###--------
+###Script:20
+###Mugshot:SpeedNavi
+Aah... I'm feeling woozy.
+###--------
+###Mugshot:SpeedNavi
+What's going to happen
+to us...?
+###--------
+###Script:21
+###Mugshot:InfoNavi
+*shiver*...
+*shiver*...
+###--------
+###Mugshot:InfoNavi
+Something perilous is on
+the horizon...
+###--------
+###Mugshot:InfoNavi
+*shiver*...
+###--------

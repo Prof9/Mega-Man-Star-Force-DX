@@ -1,0 +1,56 @@
+﻿###TextArchive:mess_0241
+###Script:0
+###Mugshot:Luna
+Hey, what are those
+monsters?
+###--------
+###Mugshot:Luna
+And why do I get the
+feeling you know something?
+###--------
+###Script:1
+###Mugshot:Geo
+.........Uh, I don't know
+anything...
+###--------
+###Script:2
+###Mugshot:Luna
+Hmm, I guess not.
+###--------
+###Mugshot:Luna
+If only Mega Man was here
+instead of you.
+###--------
+###Mugshot:Luna
+He'd squash those guys
+in a heartbeat!
+###--------
+###Mugshot:Luna
+Oh, Mega Man...
+Won't you come save me...?
+###--------
+###Script:3
+###Mugshot:Geo
+Ha ha... Yeah...
+###--------
+###Script:4
+*ding dong!*<wait>
+###Command:wait frames=30
+###--------
+###Script:5
+###Mugshot:Geo
+The elevator's here.
+###--------
+###Script:6
+Jammmm!!
+###--------
+###Script:7
+###Mugshot:Geo
+Ack! Luna, get into the
+classroom! Hurry!!
+###--------
+###Script:8
+###Mugshot:Luna
+Eh!?
+Oh... OK!
+###--------

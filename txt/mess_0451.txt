@@ -1,0 +1,500 @@
+﻿###TextArchive:mess_0451
+###Script:0
+###Mugshot:2
+What's wrong?
+You don't look so well.
+###--------
+###Script:1
+###Mugshot:3
+You're looking a little pale.
+Are you alright?
+###--------
+###Script:2
+###Mugshot:4
+###--------
+###Mugshot:4
+Whenever I'm sad, young man,
+looking up at the heavens
+always helps to cheer me up.
+###--------
+###Script:3
+###Mugshot:5
+###--------
+###Mugshot:5
+I was really surprised recently
+when the kids started to
+fight for no apparent reason.
+###--------
+###Script:4
+###Mugshot:8
+###--------
+###Mugshot:8
+I had a really bad headache
+recently, and I don't remember
+anything that happened.
+###--------
+###Mugshot:8
+I wonder what was going
+on then?
+###--------
+###Script:5
+###Mugshot:20
+Hey!
+###--------
+###Mugshot:20
+Where's your tough-looking
+pal today?
+###--------
+###Script:10
+###Mugshot:16
+Hmph!
+###--------
+###Script:11
+###Mugshot:6
+The Prez is in a real
+nasty funk.
+###--------
+###Mugshot:6
+You have any idea how
+to get her out of it?
+###--------
+###Script:12
+###Mugshot:19
+The Prez isn't in the best
+of moods, it seems.
+###--------
+###Mugshot:19
+I wish there was something
+we could do...
+###--------
+###Script:13
+###Mugshot:0
+U-Um...
+###--------
+###Mugshot:16
+.........
+###--------
+###Script:14
+###Mugshot:6
+###--------
+###Mugshot:6
+She won't talk to us either.
+Something pretty bad
+must've happened to her.
+###--------
+###Script:15
+###Mugshot:19
+She's never been this cold
+to us before...
+###--------
+###Script:16
+###Mugshot:16
+.........
+###--------
+###Script:17
+###Mugshot:6
+###--------
+###Mugshot:6
+I'm gonna get the guy that
+embarrassed the Prez like
+this real good when I find him!
+###--------
+###Script:18
+###Mugshot:19
+We'd better watch what
+we say to her...
+###--------
+###Script:19
+###Mugshot:5
+What's wrong?
+Why the frown?
+###--------
+###Script:20
+###Mugshot:4
+I've got a bad feeling...
+###--------
+###Mugshot:4
+But I can't put my finger
+on what it is.
+###--------
+###Script:22
+###Mugshot:5
+What was that just now!?
+###--------
+###Script:23
+###Mugshot:4
+Wh-What is going on...?
+###--------
+###Script:30
+###Mugshot:4
+Yes...?
+###--------
+###Mugshot:0
+Um... I sort of have
+something I want to ask...
+###--------
+###Mugshot:4
+Sorry, sonny, but I don't
+want to talk right now.
+###--------
+###Script:31
+###Mugshot:4
+Yes...?
+###--------
+###Mugshot:0
+Um... I sort of have
+something I want to ask...
+###--------
+###Mugshot:4
+Sorry, sonny, but I don't
+want to talk right now.
+###--------
+###Mugshot:0
+.........
+###--------
+Geo showed:
+"<printItem>"
+to Mr. Gatte.
+###Command:printItem item=59
+###--------
+###Mugshot:4
+Th-That's...
+###--------
+###Mugshot:4
+That's Tropical Tea,
+isn't it!?
+###--------
+###Mugshot:4
+Oh, please let me have it!
+It's my favorite!
+###--------
+###Mugshot:0
+Um, well, can you answer
+my question first?
+###--------
+###Mugshot:4
+If it's just a question,
+then sure!
+###--------
+###Mugshot:0
+Well, you see...
+###--------
+###Mugshot:4
+So you are Kelvin's son...
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+...Yes, I was the one in
+charge of that tragic
+space station mission...
+###--------
+###Mugshot:4
+I have wronged him in
+the worst way possible...
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+And no matter how much I
+want to apologize, I don't
+expect I'll ever be forgiven.
+###--------
+###Mugshot:0
+But you can make up
+for what you did, sir.
+###--------
+###Mugshot:0
+There was a piece of
+the station that
+###--------
+###Mugshot:0
+fell back to Earth after
+the incident, right?
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+A-Are you thinking of using
+it to communicate with
+the station's main section?
+###--------
+###Mugshot:0
+...Yes.
+###--------
+###Mugshot:0
+If I don't, the whole world
+will be in danger!
+###--------
+###Mugshot:4
+That look in your eyes...
+###--------
+###Mugshot:4
+You remind me so much
+of your father...
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+Alright. I'll tell you where
+I hid that piece of the
+space station.
+###--------
+###Mugshot:0
+Really!?
+###--------
+###Mugshot:4
+Yeah...
+###--------
+###Mugshot:0
+So where is it?
+###--------
+###Mugshot:4
+Where is it...?
+Hmm... Where did I hide it...?
+###--------
+###Mugshot:0
+What!?
+###--------
+###Mugshot:4
+Well, see... In order to stop
+myself from ever telling
+###--------
+###Mugshot:4
+someone where I'd hidden
+it by accident,
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+I used an ancient secret
+technique to wipe that
+knowledge from my mind.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+But ever since I did that,
+my memory's just gotten
+worse and worse. Ha ha.
+###--------
+###Mugshot:0
+Th-Then, you have no
+idea where it is...?
+###--------
+###Mugshot:4
+Oh, nothing of the sort,
+sonny.
+###--------
+###Mugshot:4
+I figured that someone
+would ask me someday,
+###--------
+###Mugshot:4
+so I hid the location in a
+piece of data somewhere.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+I'm pretty sure it's in the
+research facility of one
+of my past subordinates.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+I hid it with a program in
+something that has to do
+with the space station.
+###--------
+###Mugshot:0
+Subordinate...?
+Are you talking about
+Mr. Boreal?
+###--------
+###Mugshot:4
+Oh! Yes, that's the fellow!
+###--------
+###Mugshot:0
+Who would've thought it
+would be at AMAKEN?
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+If it's with a program...
+Sounds like we should check
+out some Comp Spaces.
+###--------
+###Mugshot:0
+And something related to
+the space station...
+###--------
+###Mugshot:0
+OK, let's try to find
+this thing!
+###--------
+###Mugshot:0
+Thanks a lot, Mr. Gatte!
+###--------
+Geo gave:
+"<printItem>"
+to Mr. Gatte!
+###Command:printItem item=59
+###--------
+###Mugshot:0
+Hmm, but why did you want
+to hide it anyway?
+###--------
+###Mugshot:4
+.........
+###--------
+###Mugshot:4
+I heard a piece of the
+message that the station
+was broadcasting
+###--------
+###Mugshot:4
+at the time of the incident.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+When I heard that the FM-ians
+were coming to Earth, I was
+scared out of my wits.
+###--------
+###Mugshot:4
+And then, a piece of the
+station fell to Earth.
+When we examined it,
+###--------
+###Mugshot:4
+we found the station's
+communication equipment
+was still onboard.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+It was broken, but from that,
+we could get an idea of where
+the space station was.
+###--------
+###Mugshot:4
+However, by the same logic,
+the FM-ians could find out
+where Earth was.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+So in order to prevent that,
+I tried to isolate the piece
+###--------
+###Mugshot:4
+in a place where no one
+would ever find it.
+###--------
+###Mugshot:4
+I'm really sorry for cutting
+the crew of the space
+station off like that,
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+and I did fix the transmitter
+in case we ever needed to
+use it to make contact,
+###--------
+###Mugshot:4
+but as the one who was
+responsible for the mission,
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+I had to do what I did
+to protect the Earth
+from the invaders...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+......I see. So NAZA...
+didn't really abandon my dad...
+###--------
+###Mugshot:4
+But in essence, we did...
+###--------
+###Mugshot:4
+I'm really sorry for what
+I've done...
+###--------
+###Mugshot:0
+...No, I think my dad
+would understand.
+###--------
+###Mugshot:0
+Thank you very much.
+###--------
+###Script:32
+###Mugshot:4
+Please tell Aaron I said hi.
+###--------
+###Script:33
+###Mugshot:4
+......*sigh*
+This feeling...
+###--------
+###Mugshot:4
+It's like that day all
+over again...
+###--------
+###Mugshot:4
+Maybe I'll write about it
+in my Transer...
+###--------
+###Script:40
+###Mugshot:2
+What's going on?
+I'm s-scared...
+###--------
+###Script:41
+###Mugshot:3
+There have been earthquakes
+ever since yesterday.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Is something happening
+to the Earth?
+Ah, I'm so nervous...
+###--------
+###Script:42
+###Mugshot:4
+Be careful...
+###--------
+###Script:43
+###Mugshot:5
+Did you see the mail from
+NAZA!? What's going on?
+###--------
+###Script:44
+###Mugshot:8
+I-I'm scared...
+###--------
+###Script:45
+###Mugshot:20
+Very strong EM waves are
+headed this way!!
+###--------
+###Mugshot:20
+I can't move very well
+at all now!!
+###--------

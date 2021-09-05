@@ -1,0 +1,25 @@
+﻿###TextArchive:mess_0120
+###Script:0
+###Mugshot:0
+Ah!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Geo, what's wrong?
+###--------
+###Script:2
+###Mugshot:0
+I-I sense something very
+bad's about to happen.
+###--------
+###Mugshot:0
+.<waitSkip>.<waitSkip>.<waitSkip>It's just my imagination,
+right?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:3
+###Mugshot:OmegaXis
+.........
+###--------

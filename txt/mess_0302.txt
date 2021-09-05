@@ -1,0 +1,19 @@
+﻿###TextArchive:mess_0302
+###Script:0
+###Mugshot:1
+The road dead ends
+here, too.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+It's probably another
+disturbance.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+That piece of scrap metal's
+a bit suspicious.
+###--------
+###Mugshot:OmegaXis
+Geo, pulse into that.
+###--------

@@ -1,0 +1,561 @@
+﻿###TextArchive:mess_0494
+###Script:1
+X message
+###--------
+###Script:2
+A pitching machine.
+###--------
+It's locked, so it won't work.
+###--------
+###Script:3
+A pitching machine...
+###--------
+Depending on the settings,
+it can throw a mean fastball.
+###--------
+###Script:15
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+...Uh?
+Am I looking for
+recovery cards?
+###--------
+###Mugshot:Luna
+H-How did you know that?
+###--------
+###Mugshot:Geo
+Tell you what, I'll even
+look for them for you.
+###--------
+###Mugshot:Luna
+I'm looking for...
+###--------
+###Mugshot:Luna
+"<printCard>" and
+"<printCard>" and
+"<printCard>".
+###Command:printCard card=129
+###Command:printCard card=130
+###Command:printCard card=131
+###--------
+###Mugshot:Luna
+But, really... I can find
+them by myself!!
+###--------
+###Mugshot:Geo
+Uh? But you need them,
+right?
+###--------
+###Mugshot:Luna
+I said I can find
+them myself!
+###--------
+###Mugshot:Luna
+I don't need your help,
+OK!?
+###--------
+###Script:16
+###Mugshot:Luna
+I'm looking for...
+###--------
+###Mugshot:Luna
+"<printCard>" and
+"<printCard>" and
+"<printCard>".
+###Command:printCard card=129
+###Command:printCard card=130
+###Command:printCard card=131
+###--------
+###Mugshot:Luna
+But, really... I can find
+them by myself!!
+###--------
+###Mugshot:Geo
+Uh? But you need them,
+right?
+###--------
+###Mugshot:Luna
+I said I can find
+them myself!
+###--------
+###Mugshot:Luna
+I don't need your help,
+OK!?
+###--------
+###Script:17
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+...Ah!
+T-Those are...!!
+###--------
+###Mugshot:Geo
+The recovery cards
+you wanted.
+###--------
+###Mugshot:Luna
+Wha-Why did you do that!
+###--------
+###Mugshot:Geo
+What!?
+###--------
+###Mugshot:Geo
+But, you said that
+you wanted them.
+###--------
+###Mugshot:Luna
+T-Those were supposed
+to be a present...
+###--------
+###Mugshot:Luna
+I was going to give them
+to you.
+###--------
+###Mugshot:Geo
+Wha!?
+###--------
+###Mugshot:Luna
+You're always getting
+into trouble.
+###--------
+###Mugshot:Luna
+I was worried, so I wanted
+you to have them...
+###--------
+###Mugshot:Luna
+Now you've gone and
+messed it all up!!
+###--------
+###Mugshot:Geo
+I-I'm sorry.
+###--------
+###Mugshot:Luna
+Oh, well, since you've
+already ruined the surprise...
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Take this, it might
+do you some good.
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=132
+###--------
+###Mugshot:Luna
+Take care of yourself.
+###--------
+###Script:18
+###Mugshot:Luna
+Take care of yourself.
+###--------
+###Script:20
+###Mugshot:Bud
+Hey, Geo.
+###--------
+###Mugshot:Bud
+Do you know about that
+super deluxe meat they
+call Coby Beef?
+###--------
+###Mugshot:Bud
+It's s'posed to be the
+juiciest, softest, tastiest
+meat out there.
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+I heard there's this burger
+place that sells Coby Burgers!
+###--------
+###Mugshot:Bud
+I heard that they're so
+popular that the store
+doesn't even advertise.
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+And to even get one
+you need to get on a
+waiting list.
+###--------
+###Mugshot:Bud
+I want one sooo baaad!
+###--------
+###Script:21
+###Mugshot:Bud
+Do you know about that
+super deluxe meat they
+call Coby Beef?
+###--------
+###Mugshot:Bud
+It's s'posed to be the
+juiciest, softest, tastiest
+meat out there.
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+I heard there's this burger
+place that sells Coby Burgers!
+###--------
+###Mugshot:Bud
+I heard that they're so
+popular that the store
+doesn't even advertise.
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+And to even get one
+you need to get on a
+waiting list.
+###--------
+###Mugshot:Bud
+I want one sooo baaad!
+###--------
+###Script:22
+###Mugshot:Bud
+Oh! That smell!
+###--------
+Geo gave:
+"<printItem>"
+to Bud!!
+###Command:printItem item=57
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Oh yeah!!
+A Coby Burger!
+###--------
+###Mugshot:Bud
+Here goes!!
+###--------
+###Mugshot:Bud
+*munch*<wait> *munch*<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Mugshot:Bud
+Deeelicious!
+###--------
+###Mugshot:Bud
+Thanks for the great burger!
+###--------
+###Mugshot:Bud
+Take this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+Deeelicious!
+###--------
+###Script:23
+###Mugshot:Bud
+Deeelicious!
+###--------
+###Script:25
+###Mugshot:Zack
+......
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+...Uh?
+Why do I look sad?
+###--------
+###Mugshot:Zack
+Yeah, I've been doing
+some thinking.
+###--------
+###Mugshot:Zack
+I kinda have an idea
+of the enemies you
+had to go up against
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+when Prez and Bud were
+in trouble. But all I managed
+to do was run away.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+They stood by to give you
+moral support while you were
+fighting, but me, I-I did nothing.
+###--------
+###Mugshot:Zack
+I wish I could have
+at least done some
+intelligence gathering,
+###--------
+###Mugshot:Zack
+but even the
+information I give,
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+like "there is a strange
+sound coming from the
+school piano," is useless.
+###--------
+###Mugshot:Zack
+Am I really that worthless...?
+###--------
+###Script:26
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Prez and Bud stood by to
+give you moral support while
+you fought, but I did nothing.
+###--------
+###Mugshot:Zack
+I wish I could have
+at least done some
+intelligence gathering,
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+but even the
+information I give,
+###--------
+###Mugshot:Zack
+like "there is a strange
+sound coming from the
+school piano," is useless.
+###--------
+###Mugshot:Zack
+Am I really that worthless...?
+###--------
+###Script:27
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+...Uh?
+I helped save Echo Ridge?
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+If it weren't for you, we'd
+all be in serious trouble.
+###--------
+###Mugshot:Zack
+I did...?
+###--------
+###Mugshot:Geo
+Yes, you did!
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+...Really?
+I did something useful?
+###--------
+###Mugshot:Geo
+Have a little more faith
+in yourself.
+###--------
+###Mugshot:Zack
+Faith... You're right.
+###--------
+###Mugshot:Zack
+Thanks, I feel better now.
+###--------
+###Mugshot:Zack
+...Oh yeah.
+###--------
+###Mugshot:Zack
+Um, up until now, I've never
+had the courage to ask
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+because I didn't have the
+confidence, but will you be
+Brothers with me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:29
+###Mugshot:Zack
+Oh...
+###--------
+###Script:30
+###Mugshot:Zack
+Your Brother Band is full...
+###--------
+###Script:31
+###Mugshot:Zack
+Will you be my Brother?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:32
+###Mugshot:Zack
+I've finally made a
+true friend!
+###--------
+###Script:51
+###Mugshot:Luna
+You better... come back!!
+###--------
+###Script:52
+###Mugshot:Luna
+Could it be...
+###--------
+###Mugshot:Luna
+You want to be
+Brothers again?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:54
+###Mugshot:Luna
+You'll regret it, you know!
+###--------
+###Script:55
+###Mugshot:Luna
+Your Brother Band is full...
+###--------
+###Script:61
+###Mugshot:Bud
+I believe in you!
+###--------
+###Script:62
+###Mugshot:Bud
+...What?
+###--------
+###Mugshot:Bud
+You wanna be Brothers
+again?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:64
+###Mugshot:Bud
+...Hmph!
+###--------
+###Script:65
+###Mugshot:Bud
+Your Brother Band must
+be full...
+###--------
+###Script:71
+###Mugshot:Zack
+Keep it up, Geo!!
+###--------
+###Script:72
+###Mugshot:Zack
+......
+###--------
+###Mugshot:Zack
+Do you want to be
+Brothers again?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:74
+###Mugshot:Zack
+You're going to regret it.
+###--------
+###Script:75
+###Mugshot:Zack
+Your Brother Band is full...
+###--------
+###Script:100
+###Mugshot:0
+I don't feel like pulsing in
+right now...
+###--------
+###Script:101
+###Mugshot:0
+I guess I'll go home for
+today...
+###--------
+###Script:105
+###Mugshot:0
+###--------
+###Mugshot:0
+There's some kind of
+strange wave that's
+keeping me from pulsing in.
+###--------
+###Script:110
+###Mugshot:0
+That's strange...
+Was this here before?
+###--------
+###Mugshot:OmegaXis
+Well, all you do here is
+stare at the sky...
+###--------
+###Mugshot:OmegaXis
+Wouldn't be surprised if
+you just missed it.
+###--------
+###Mugshot:OmegaXis
+Anyway... aren't you
+going to give it a try?
+###--------
+###Mugshot:0
+A Card Trader ★.
+Put in 10 cards?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:0
+<optionText>  Yes!  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:111
+###Mugshot:0
+A Card Trader ★.
+Put in 10 cards?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:0
+<optionText>  Yes!  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:113
+###Mugshot:OmegaXis
+C'mon! Sometimes you
+gotta take risks in life!
+###--------
+###Script:114
+###Mugshot:0
+Looks like we don't
+have enough cards.
+###--------

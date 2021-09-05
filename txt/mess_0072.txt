@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0072
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:OldMan
+Thanks for coming to
+my Transer!
+###--------
+###Script:3
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I love my grandson!
+And I'd do anything for him!
+###--------
+###Script:4
+###Mugshot:OldMan
+Boy, I'm in a fix and I
+dunno what to do.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+My grandson's birthday is
+coming soon, and I have
+no idea what to get him...
+###--------
+###Mugshot:MegaMan
+That old man looks like he
+needs help.
+###--------
+###Mugshot:OmegaXis
+Couldn't we just ask that
+grandson guy?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It's better for these things
+to be a surprise. We can't
+just go up and ask him.
+###--------
+###Mugshot:OmegaXis
+Humans are such a pain!
+###--------
+###Mugshot:OmegaXis
+So, are we gonna help
+him or what?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+...Humans are such a pain!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+What? You're not gonna
+help him? I give up...
+###--------
+###Script:6
+###Mugshot:OldMan
+Boy, I'm in a fix and I
+dunno what to do.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+My grandson's birthday is
+coming soon, and I have
+no idea what to get him...
+###--------
+###Script:7
+###Mugshot:OldMan
+I've got it!
+Looks like he wants a
+baseball glove!
+###--------
+###Mugshot:OldMan
+He's gonna be a big-leaguer!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

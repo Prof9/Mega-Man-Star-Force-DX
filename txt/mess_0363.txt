@@ -1,0 +1,49 @@
+﻿###TextArchive:mess_0363
+###Script:0
+###Mugshot:OmegaXis
+Well, you're the last one,
+Snake Woman!
+###--------
+###Script:1
+###Mugshot:Ophiuca
+"Snake Woman" is such an
+unrefined name.
+###--------
+###Mugshot:Ophiuca
+I, Ophiuca, guardian of
+the FM King,
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+will not allow a single
+vermin like you to get
+through this final door!!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Geo!!
+The FM King is just
+beyond this door!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We have to get past her!
+Don't let her stop us here!
+###--------
+###Script:3
+###Mugshot:0
+Got it!
+###--------
+###Mugshot:0
+Wave Battle!
+Ride On!!
+###--------
+###Script:4
+###Mugshot:QueenOphiuca
+You don't have the
+antidote to MY venom!!
+###--------

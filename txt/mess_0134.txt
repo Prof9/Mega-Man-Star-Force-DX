@@ -1,0 +1,11 @@
+﻿###TextArchive:mess_0134
+###Script:0
+###Mugshot:MegaMan
+I-I did it!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Don't let your guard
+down yet!
+Here comes more!
+###--------

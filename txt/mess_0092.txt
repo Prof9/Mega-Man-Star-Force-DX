@@ -1,0 +1,14 @@
+###TextArchive:mess_0092
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:0
+Welcome
+###--------
+###Script:2
+###Mugshot:0
+Welcome
+###--------

@@ -1,0 +1,75 @@
+﻿###TextArchive:mess_0549
+###Script:10
+###Mugshot:LittleGirl
+Hey, get this!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I set my locker combination
+and wrote it down on a
+piece of paper but...
+###--------
+###Mugshot:LittleGirl
+I lost it... And now I can't
+get my locker open.
+###--------
+###Mugshot:LittleGirl
+I know I had it until I
+went to the bathroom...
+###--------
+###Script:11
+###Mugshot:LittleGirl
+I wrote my combination
+down on a piece of paper,
+but I lost it.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+And now I can't get my
+locker open.
+###--------
+###Mugshot:LittleGirl
+I know I had it before I
+went to the bathroom...
+###--------
+###Script:12
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Aaah!!
+You found my combination!!
+###--------
+###Mugshot:LittleGirl
+Thank you so much!
+###--------
+Geo gave:
+"<printItem>"
+to Ema Nesia!!
+###Command:printItem item=61
+###--------
+###Mugshot:LittleGirl
+Oh yeah!
+My combination is 130!
+###--------
+###Mugshot:LittleGirl
+I chose it because my
+birthday is January 30th.
+###--------
+###Mugshot:LittleGirl
+Now I can open my locker!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Oh, by the way!
+Um, do you have a
+"<printItem>"?
+###Command:printItem item=14
+###--------
+###Mugshot:LittleGirl
+It'd be great if you could
+use it to open my locker
+for me...
+###--------

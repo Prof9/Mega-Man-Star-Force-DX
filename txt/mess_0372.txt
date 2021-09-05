@@ -1,0 +1,334 @@
+﻿###TextArchive:mess_0372
+###Script:0
+Three weeks have passed.
+###--------
+###--------
+Thanks to everyone, I was
+able to make it back to
+Earth, safe and sound.
+###--------
+###--------
+But the wounds I got during
+that rough fight made me
+miss school for a while.
+###--------
+###--------
+But I got the OK from
+my doctor, so today, I get
+to go back to school!
+###--------
+###--------
+I'm kinda anxious and
+excited to see everyone
+again after so long...
+###--------
+###Script:1
+###Mugshot:Hope
+Geo!!
+###--------
+###Mugshot:Hope
+Hurry up and come
+downstairs!
+###--------
+###Mugshot:Hope
+Everyone's here waiting
+for you!
+
+###--------
+###Script:2
+###Mugshot:0
+Okay!!
+###--------
+###Script:3
+*thump thump*
+*thump thump*
+*thump thump*
+###--------
+###Script:4
+###Mugshot:22
+Welcome back, Geo!
+###--------
+###Script:5
+###Mugshot:16
+We figured it would be kind
+of sad if you had to go
+to school by yourself
+###--------
+###Mugshot:16
+###--------
+###Mugshot:16
+after so long, so we
+decided to drop by!
+###--------
+###Mugshot:16
+So you'd better show us
+some appreciation!
+###--------
+###Mugshot:16
+By the way...
+###--------
+###Script:6
+###Mugshot:16
+What are you doing here?
+###--------
+###Mugshot:16
+You don't go to Echo
+Elementary!
+###--------
+###Mugshot:16
+Aren't you supposed to
+go to your school?
+###--------
+###Script:7
+###Mugshot:22
+Well, today is Geo's
+first day back, so
+it's a special day.
+###--------
+###Mugshot:22
+###--------
+###Mugshot:22
+No harm done, right?
+I'll go to my school
+right after this!
+###--------
+###Mugshot:22
+###--------
+###Mugshot:22
+(Besides, I can get there
+in no time if I take the
+Wave Road!)
+###--------
+###Script:8
+###Mugshot:16
+Special day, huh?
+###--------
+###Mugshot:16
+Hee hee, I guess so...
+###--------
+###Script:9
+###Mugshot:22
+Yeah!
+###--------
+###Script:10
+###Mugshot:6
+###--------
+###Mugshot:6
+You did real good with that
+tiny body of yours, Geo.
+You really are amazing...
+###--------
+###Script:11
+###Mugshot:19
+Um... I heard that if
+you go into space,
+you can get taller...
+###--------
+###Mugshot:19
+###--------
+###Mugshot:19
+But you don't look like
+you grew any...
+###--------
+###Script:12
+###Mugshot:Pat
+Welcome back. I'm relieved
+to see you're OK.
+###--------
+###Script:13
+###Mugshot:0
+Thank you, everyone...
+###--------
+###Mugshot:0
+If you guys... weren't
+there for me... *sniffle*
+###--------
+###Mugshot:0
+I... I wouldn't be here...
+right now... *sniffle*
+###--------
+###Script:14
+###Mugshot:16
+What are you crying about!?
+###--------
+###Mugshot:16
+###--------
+###Mugshot:16
+You're the hero that
+saved Earth!
+Pull yourself together!
+###--------
+###Script:15
+###Mugshot:22
+That's right!
+You should feel proud!
+###--------
+###Script:16
+###Mugshot:0
+...OK!
+###--------
+###Script:17
+###Mugshot:6
+Now THAT's what we
+like to see!
+###--------
+###Script:18
+###Mugshot:19
+A real manly expression!
+###--------
+###Script:19
+*ding dong
+      ding dong*<wait>
+###Command:wait frames=150
+###--------
+###Script:20
+###Mugshot:6
+Ack!! That's the bell!!
+###--------
+###Script:21
+###Mugshot:19
+If we don't hurry,
+we'll be late!!
+###--------
+###Script:22
+###Mugshot:16
+As the Class President,
+I can't be late!!
+###--------
+###Mugshot:16
+Come on, everyone!
+LET'S MOVE!!
+###--------
+###Script:23
+###Mugshot:0
+Mr. Boreal, Mr. Copper,
+thank you very much!
+###--------
+###Script:24
+###Mugshot:22
+Geo!!
+We're going to be late!!
+###--------
+###Script:25
+###Mugshot:16
+You don't even go to
+our school!
+###--------
+###Mugshot:16
+Geo! Hurry up!!
+###--------
+###Script:26
+###Mugshot:0
+OK, I'm coming!!
+###--------
+###Script:27
+###Mugshot:0
+Well, bye, mom!
+###--------
+###Script:28
+###Mugshot:Hope
+See you later!
+###--------
+###Script:29
+###Mugshot:9
+###--------
+###Mugshot:9
+Geo has really grown
+and changed... He's like
+a different person.
+###--------
+###Script:30
+###Mugshot:13
+There's still all sorts of
+things I'd like to ask,
+###--------
+###Mugshot:13
+but I guess this isn't the
+time for it.
+###--------
+###Script:31
+###Mugshot:Hope
+Kelvin, are you seeing this?
+###--------
+###Mugshot:Hope
+He has so many friends
+now...
+###--------
+###Mugshot:Hope
+and he smiles just like you...
+###--------
+###Mugshot:Hope
+...*sniffle*
+###--------
+###Script:32
+###Mugshot:Lyra
+So? What are you going
+to do now?
+###--------
+###Script:33
+###Mugshot:OmegaXis
+What do you mean?
+###--------
+###Script:34
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+We are aliens who live inside
+the hearts of lonely humans.
+###--------
+###Mugshot:Lyra
+But Geo and Sonia aren't
+lonely anymore.
+###--------
+###Script:35
+###Mugshot:OmegaXis
+Heh. I'm gonna do what
+I wanna do!
+###--------
+###Mugshot:OmegaXis
+I've got the feeling that
+there'll be more excitement
+down the line
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+if I stick with him.
+Plus, I wanna learn
+more about Earth.
+###--------
+###Script:36
+###Mugshot:Lyra
+What a coincidence.
+I was thinking the exact
+same thing.
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+Shall we get going?
+We're going to be left
+behind if we don't.
+###--------
+###Script:37
+###Mugshot:OmegaXis
+Yeah, let's go!
+###--------
+###Script:38
+###Mugshot:0
+Where did you wander
+off to, Mega!?
+###--------
+###Script:39
+<positionOptionFromCenter><wait>T<wait>H<wait>E<wait> E<wait>N<wait>D<wait>
+###Command:positionOptionFromCenter width=53
+###Command:wait frames=120
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------

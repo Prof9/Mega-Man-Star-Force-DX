@@ -1,0 +1,99 @@
+﻿###TextArchive:mess_0070
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:OldWoman
+Hello and welcome to
+my Transer!
+###--------
+###Script:3
+###Mugshot:OldWoman
+Oh, I love finding
+great bargains!
+###--------
+###Mugshot:OldWoman
+I wonder if any sales
+are going on now.
+###--------
+###Script:4
+###Mugshot:OldWoman
+Oh, my!
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+This store is big. I might
+never be able to find my
+way around this place.
+###--------
+###Mugshot:OmegaXis
+It looks like that lady's
+lost or something.
+###--------
+###Mugshot:MegaMan
+Yeah, even I get lost
+in department stores.
+###--------
+###Mugshot:OmegaXis
+Do you think we should help?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's get this over with.
+###--------
+###Mugshot:MegaMan
+I hope I don't get lost...
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Good idea, let's just
+keep walking.
+###--------
+###Script:6
+###Mugshot:OldWoman
+Oh, my!
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+This store is big. I might
+never be able to find my
+way around this place.
+###--------
+###Script:7
+###Mugshot:OldWoman
+My, my!
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Thanks to a nice young
+man, I was able to find
+my way around.
+###--------
+###Mugshot:OldWoman
+I wish my daughter was
+that thoughtful.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

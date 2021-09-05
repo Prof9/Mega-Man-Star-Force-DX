@@ -1,0 +1,13 @@
+﻿###TextArchive:mess_0136
+###Script:0
+###Mugshot:OmegaXis
+What were you doing!?
+You were totally unready!
+###--------
+###Mugshot:OmegaXis
+Give it another shot, kid!
+###--------
+###Script:1
+###Mugshot:MegaMan
+OK!
+###--------

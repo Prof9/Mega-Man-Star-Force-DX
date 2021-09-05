@@ -1,0 +1,76 @@
+﻿###TextArchive:mess_0603
+###Script:0
+They're round posts in
+the ground.
+###--------
+Jumping from post to post
+is kinda fun.
+###--------
+###Script:1
+A jungle Gym made from
+wooden poles.
+###--------
+###--------
+I'm getting in shape just
+thinking about where to begin.
+###--------
+###Script:2
+"Stay safe and have fun!"
+###--------
+###Script:3
+There's a picnic set
+laid out here.
+###--------
+I guess someone must be
+having a picnic.
+###--------
+###Script:5
+Bright red flowers are
+in bloom here.
+###--------
+Their scent calms the soul.
+###--------
+###Script:6
+The blue of those flowers
+is amazing...
+###--------
+You lose track of time
+if you look too long...
+###--------
+###Script:8
+Open seas as far as
+the eye can see.
+###--------
+It makes small problems
+vanish for a bit.
+###--------
+###Script:9
+There are tires blocking
+the way.
+###--------
+###Script:15
+A wooden table.
+###--------
+You can look at the sea
+while you chat away.
+###--------
+###Script:16
+A wooden table.
+###--------
+You can look at the sea
+while you chat away.
+###--------
+Hmm?
+What's this...?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Script:20
+A see-saw made out of
+wooden poles.
+###--------
+But it's kinda tough without
+another person.
+###--------

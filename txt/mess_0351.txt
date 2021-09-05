@@ -1,0 +1,38 @@
+﻿###TextArchive:mess_0351
+###Script:0
+###Mugshot:OmegaXis
+Hold it. I'm sensing some
+bad vibes...
+###--------
+###Script:1
+###Mugshot:0
+Bad vibes?
+What do you mean?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+There's something bad
+just up ahead.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Heh. But I guess if you
+think about it, this is our
+enemy's home turf.
+###--------
+###Mugshot:OmegaXis
+It'd be odd if they
+WEREN'T here.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Anyway, be careful, and
+don't let your guard down.
+Let's go!
+###--------
+###Script:3
+###Mugshot:0
+Roger!
+###--------

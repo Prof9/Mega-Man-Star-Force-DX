@@ -1,0 +1,13 @@
+﻿###TextArchive:mess_0613
+###Script:0
+###Mugshot:6
+Say hi to Luna for me!
+###--------
+###Script:1
+###Mugshot:6
+###--------
+###Mugshot:6
+I guess everything is OK
+between you and Luna again.
+I'm glad...
+###--------

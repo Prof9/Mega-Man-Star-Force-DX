@@ -1,0 +1,26 @@
+﻿###TextArchive:mess_1046
+###Script:0
+###Mugshot:3
+*BEEP BEEP BEEP*
+###--------
+###Mugshot:3
+THE OWNER OF THIS
+ROOM IS BUD,
+###--------
+###Mugshot:3
+AND I KNOW THIS ROOM
+LOOKS LIKE A MESS,
+###--------
+###Mugshot:3
+BUT HE'S JUST A
+LONELY GUY...
+###--------
+###Script:5
+###Mugshot:3
+BUD'S STRESS LEVEL'S
+BEEN UP SINCE YESTERDAY.
+###--------
+###Mugshot:3
+DID SOMETHING HAPPEN
+TO HIM?
+###--------

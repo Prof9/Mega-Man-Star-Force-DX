@@ -1,0 +1,317 @@
+﻿###TextArchive:mess_0579
+###Script:0
+###Mugshot:0
+Sonia might freak if I just
+took off...
+###--------
+###Script:1
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Script:2
+###Mugshot:0
+I've gotta hurry and get
+to the Event Stage!
+###--------
+###Script:10
+###Mugshot:Woman
+Welcome!
+How may I help you?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Oh? You're not here to
+shop? Then, to what do
+we owe the pleasure?
+###--------
+###Mugshot:Woman
+...Uh? Are we going to
+remodel the entrance?
+###--------
+###Mugshot:Woman
+Why, yes. You're very well
+informed!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+We are still trying to decide
+on the design, something simple
+or something with impact!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Do you know someone who
+could give us some advice?
+###--------
+###Script:11
+###Mugshot:Woman
+We're remodelling the
+entrance...
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+But we're still trying to decide
+on the design, something simple
+or something with impact!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Do you know someone who
+could give us some advice?
+###--------
+###Script:12
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Oh? You brought someone
+who's an expert with
+automatic doors?
+###--------
+###Mugshot:Woman
+...Wonderful! Where is he?
+###--------
+###Mugshot:KeyMan
+Here I am!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+The KeyMan card!
+I see, KeyMan can give us
+advice on our doors!
+###--------
+###Mugshot:Woman
+Well, what do you say,
+KeyMan?
+###--------
+###Mugshot:KeyMan
+Hmm....
+###--------
+###Mugshot:KeyMan
+###--------
+###Mugshot:KeyMan
+Well the thing to keep in
+mind when you're replacing
+any door is security.
+###--------
+###Mugshot:KeyMan
+###--------
+###Mugshot:KeyMan
+Of course, looks are import-
+ant... but keeping burglars out
+should be your main concern.
+###--------
+###Mugshot:Woman
+I see... You do make a
+very good point!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+We'll certainly keep that
+at the top of our list
+of priorities!
+###--------
+###Mugshot:Woman
+Please take this token of
+our appreciation.
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=131
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I'll call the remodelling
+company right away!
+###--------
+###Script:13
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I'll call the remodelling
+company right away!
+###--------
+###Script:15
+###Mugshot:OldWoman
+Woo, this is big!
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+An old woman like me could
+get lost in a place like this.
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I wonder if there is
+something that would
+help me not get lost?
+###--------
+###Script:16
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+An old woman like me could
+get lost in a place like this.
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I wonder if there is
+something that would
+help me not get lost?
+###--------
+###Script:17
+###Mugshot:OldWoman
+Oh, what's that?
+###--------
+###Mugshot:OldWoman
+A floor guide?
+For me?
+###--------
+Geo gave:
+"<printItem>"
+to the woman!!
+###Command:printItem item=48
+###--------
+###Mugshot:OldWoman
+Thank you!
+I won't get lost with this!
+###--------
+###Mugshot:OldWoman
+I hope you'll accept this...
+It isn't much.
+###--------
+Geo got:
+"2000 Zennys"!!
+###--------
+###Mugshot:OldWoman
+Thank you, sonny.
+###--------
+###Script:18
+###Mugshot:OldWoman
+Thank you, sonny.
+###--------
+###Script:20
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+Oh, you're Luna's friend...
+How do you do?
+###--------
+###Mugshot:VeilPlatz
+...Uh?
+Is something bothering me?
+###--------
+###Mugshot:VeilPlatz
+Yes, as a matter of fact.
+You're perceptive!
+###--------
+###Mugshot:VeilPlatz
+Since the incident,
+I have rethought a lot.
+###--------
+###Mugshot:VeilPlatz
+I've decided to be more of
+a mother to Luna.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+You know, I was so busy
+with work that I hardly ever
+cooked for her at all!
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I would like to make her
+something special, but I'm
+not very good at cooking.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I wish there was someone
+who could teach me...
+###--------
+###Mugshot:0
+(Hmm... my mom is a
+good cook...)
+###--------
+###Script:21
+###Mugshot:VeilPlatz
+I've almost never cooked
+for Luna.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I would like to make her
+something special, but I'm
+not very good at cooking.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I wish there was someone
+who could teach me...
+###--------
+###Mugshot:0
+(Hmm... my mom is a
+good cook...)
+###--------
+###Script:22
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+Oh? What's that?
+A "<printItem>"?
+###Command:printItem item=52
+###--------
+###Mugshot:VeilPlatz
+If I may be so bold,
+can I have it?
+###--------
+Geo gave:
+"<printItem>"
+to Ms. Platz!!
+###Command:printItem item=52
+###--------
+###Mugshot:VeilPlatz
+...I see.
+###--------
+###Mugshot:VeilPlatz
+This is perfect! I'll go home
+and give it a try.
+###--------
+###Mugshot:VeilPlatz
+Here you are.
+###--------
+Geo got
+"<printItem>"!!
+###Command:printItem item=68
+###--------
+###Mugshot:VeilPlatz
+Please be a good friend
+to Luna!
+###--------
+###Script:23
+###Mugshot:VeilPlatz
+Please be a good friend
+to Luna!
+###--------
+###Script:30
+Geo got:
+"<printItem>"!!
+###Command:printItem item=54
+###--------

@@ -1,0 +1,16 @@
+﻿###TextArchive:mess_0681
+###Script:0
+A control panel. Now it
+seems to be working fine.
+###--------
+###Script:1
+YOU HAVE CLEARED ALL
+THE STAGES...
+###--------
+WELL DONE!!
+###--------
+###Script:2
+TO HE WHO CLEARS ALL,
+THE ROAD SHALL BE
+OPENED.
+###--------

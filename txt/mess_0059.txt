@@ -1,0 +1,108 @@
+﻿###TextArchive:mess_0059
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleGirl
+Hi!
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:LittleGirl
+I'm hopelessly forgetful.
+###--------
+###Script:4
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Oh, no!
+Help me, Bros!
+###--------
+###Mugshot:LittleGirl
+I can't find it!
+###--------
+###Mugshot:LittleGirl
+How am I supposed to
+open that without it?
+###--------
+###Mugshot:LittleGirl
+I'm a complete bonehead!
+###--------
+###Mugshot:MegaMan
+It looks like that girl
+has a problem.
+###--------
+###Mugshot:OmegaXis
+You sure are outspoken
+when a girl's involved!
+###--------
+###Mugshot:MegaMan
+But she's in trouble.
+###--------
+###Mugshot:MegaMan
+Shouldn't I help her?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Yeah, yeah...
+Well, let's get on with it!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+So, we're just gonna
+leave her there, huh?
+###--------
+###Mugshot:MegaMan
+You see, it doesn't
+matter if she's a girl.
+###--------
+###Mugshot:OmegaXis
+OK, tough guy.
+###--------
+###Script:6
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Oh, no!
+Help me, Bros!
+###--------
+###Mugshot:LittleGirl
+I can't find it!
+###--------
+###Mugshot:LittleGirl
+How am I supposed to
+open that without it?
+###--------
+###Mugshot:LittleGirl
+I'm a complete bonehead!
+###--------
+###Script:7
+###Mugshot:LittleGirl
+Yay!
+Today was a happy day!
+###--------
+###Mugshot:LittleGirl
+This really cute boy came
+to my my rescue!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

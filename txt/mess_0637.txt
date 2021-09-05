@@ -1,0 +1,98 @@
+﻿###TextArchive:mess_0637
+###Script:0
+###Mugshot:1
+*BEEP BEEP BEEP*
+DANGER! DANGER!
+###--------
+###Mugshot:1
+THE TRUCK IS OUT OF
+CONTROL!
+###--------
+###Mugshot:1
+DANGER! DANGER!
+###--------
+###Script:1
+###Mugshot:1
+*BEEP BEEP BEEP*
+###--------
+###Mugshot:1
+THERE IS A PANEL THAT
+CAN STOP THE DRIVING
+CONTROL SYSTEM IN
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+THE BACK, BUT YOU CAN'T
+GET THERE WITHOUT RIDING
+THOSE BULL PROGRAMS.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+THEY'RE USUALLY PRETTY
+CALM, BUT THEY'RE GOING
+WILD BECAUSE OF THE
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+SYSTEM GLITCH. IF YOU
+RIDE ON ONE NOW, YOU
+MIGHT GET THROWN OFF...
+###--------
+###Mugshot:1
+THIS MAY BE OLD
+NEWS TO YOU,
+###--------
+###Mugshot:1
+BUT IF YOU LOSE YOUR
+BALANCE 3 TIMES, YOU'LL
+FALL OFF OF THE BULL.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+SO MAKE SURE YOU PRESS
+THE BALANCE BUTTONS
+TO STAY ON TOP!
+###--------
+###Script:2
+###Mugshot:1
+*BEEP BEEP BEEP*
+###--------
+###Mugshot:1
+THIS MAY BE OLD NEWS
+TO YOU,
+###--------
+###Mugshot:1
+BUT IF YOU LOSE YOUR
+BALANCE 3 TIMES, YOU'LL
+FALL OFF OF THE BULL.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+SO MAKE SURE YOU PRESS
+THE BALANCE BUTTONS
+TO STAY ON TOP!
+###--------
+###Script:5
+###Mugshot:1
+*BEEP BEEP*
+###--------
+###Mugshot:1
+LOOKS LIKE YOU CALMED
+THINGS DOWN HERE!
+###--------
+###Script:6
+###Mugshot:1
+*BEEP BEEP BEEP*
+###--------
+###Mugshot:1
+WOW! YOU TAMED THAT
+BULL LIKE IT WAS NOTHING!
+###--------
+###Mugshot:1
+THAT WAS AWESOME!
+###--------

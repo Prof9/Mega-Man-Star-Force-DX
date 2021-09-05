@@ -1,0 +1,68 @@
+﻿###TextArchive:mess_1158
+###Script:60
+###Mugshot:19
+Grr! This is my wave form...
+###--------
+###Mugshot:19
+The full moon makes my
+blood boil!
+###--------
+###Mugshot:19
+C'mon and see if you can
+cool it down!
+###--------
+<positionOptionFromCenter><optionText>  Fight  <optionText>  Don't
+###Command:positionOptionFromCenter width=85
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:61
+###Mugshot:19
+Grr!
+###--------
+###Mugshot:19
+I'm in a f-frenzy again!
+###--------
+###Mugshot:19
+See if you can calm me
+down!!
+###--------
+<positionOptionFromCenter><optionText>  Fight  <optionText>  Don't
+###Command:positionOptionFromCenter width=85
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:63
+###Mugshot:OmegaXis
+Put 'em up, Geo!!
+Here we go!
+###--------
+###Script:64
+###Mugshot:OmegaXis
+OK, let's do this, Geo!
+###--------
+###Script:65
+###Mugshot:OmegaXis
+On your toes, Geo!
+###--------
+###Script:67
+###Mugshot:19
+Grr! Not bad...
+###--------
+###Mugshot:19
+You've quelled my excitement
+for now.
+###--------
+###Script:68
+###Mugshot:19
+You can't soothe my frenzy
+like that!
+###--------
+###Script:69
+###Mugshot:19
+###--------
+###Mugshot:19
+C'mon already!
+Quench my fire!
+Grr!!
+###--------

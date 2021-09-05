@@ -1,0 +1,103 @@
+﻿###TextArchive:mess_0833
+###Script:0
+###Mugshot:MrHertz
+IT'S S-SCARY UP HERE...
+*BEEP*
+###--------
+###Mugshot:MrHertz
+I'M AFRAID OF HEIGHTS,
+BUT...
+###--------
+###Mugshot:MrHertz
+I'M IN CHARGE OF KEEPING
+THIS TOWER FUNCTIONING
+PROPERLY.
+###--------
+###Mugshot:MrHertz
+THERE ARE A LOT OF
+PEOPLE COUNTING ON ME!
+###--------
+###Mugshot:MrHertz
+EVEN SO, I'M STILL
+SCARED...
+*BEEP BEEP*
+###--------
+###Script:10
+###Mugshot:Lucian
+###--------
+###Mugshot:Lucian
+As for Aaron...
+He's probably in a place
+where people gather,
+###--------
+###Mugshot:Lucian
+where the sun shines down
+the strongest.
+###--------
+###Mugshot:Lucian
+Like on a rooftop or
+something.
+###--------
+###Script:20
+###Mugshot:MegaMan
+What the!? What's this
+wave ball doing here?
+###--------
+###Mugshot:MegaMan
+!<wait>
+###Command:wait frames=10
+###--------
+###Mugshot:MegaMan
+It's connected to another
+dimension!
+###--------
+###Script:21
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+.<wait>.<wait>.<wait>H<wait>e<wait>l<wait>l<wait>o!
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###--------
+OK! I'm connected!
+###--------
+Hello! I'm Lucian!
+###--------
+I crossed over from
+another dimension to
+get here!
+###--------
+Let's be Brothers!
+###--------
+###Mugshot:MegaMan
+Should I?
+
+###--------
+###Mugshot:MegaMan
+<positionOptionFromCenter><optionText>  Of course!
+<positionOptionFromCenter><optionText>  ...No thanks.
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:23
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+But, it's too faint to
+make out the words.
+###--------

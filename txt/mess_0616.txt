@@ -1,0 +1,28 @@
+﻿###TextArchive:mess_0616
+###Script:0
+###Mugshot:OmegaXis
+Let's hurry up and get
+into space!
+###--------
+###Mugshot:OmegaXis
+I know you're not gettin'
+cold feet, are you!?
+###--------
+###Script:15
+###Mugshot:3
+###--------
+###Mugshot:3
+Leave the communication
+system to me. You should
+go home and get some rest.
+###--------
+###Script:21
+###Mugshot:3
+And Geo...
+...Be careful.
+###--------
+###Script:22
+###Mugshot:Sonia
+I'll be waiting, so you'd
+better come back.
+###--------

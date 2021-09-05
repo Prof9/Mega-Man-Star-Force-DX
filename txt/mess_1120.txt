@@ -1,0 +1,61 @@
+﻿###TextArchive:mess_1120
+###Script:0
+###Mugshot:CommonNavi
+Ahh!
+###--------
+###Mugshot:CommonNavi
+Oops. No time to take a
+break. I should get back.
+###--------
+###Mugshot:CommonNavi
+But today sure is another
+peaceful day!
+###--------
+###Script:10
+###Mugshot:CommonNavi
+Wh-Wh-Wh-Wh-Wh-
+###--------
+###Mugshot:CommonNavi
+What should I do!?
+What should I do!?
+###--------
+###Mugshot:CommonNavi
+Um... Maybe I should do
+this? Or maybe that?
+###--------
+###Mugshot:CommonNavi
+Aaaaaaah!!
+###--------
+###Script:20
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+People long ago used to
+say that if you prepare
+well, you'll have no regrets.
+###--------
+###Mugshot:CommonNavi
+Hmm... Sounds like that
+was meant for me!
+###--------
+###Script:100
+###Mugshot:SpeedNavi
+Huh? What's a student?
+###--------
+###Mugshot:SpeedNavi
+Huh? What's a school?
+###--------
+###Mugshot:SpeedNavi
+Huh? What time is it?
+###--------
+###Script:101
+###Mugshot:SpeedNavi
+Huh? Aren't the students
+acting strange?
+###--------
+###Mugshot:SpeedNavi
+Huh? What's a school?
+###--------
+###Mugshot:SpeedNavi
+Huh? What time is it?
+###--------

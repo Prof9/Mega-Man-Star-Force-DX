@@ -1,0 +1,88 @@
+﻿###TextArchive:mess_1260
+###Script:0
+What great strides a
+human can make in the
+briefest of moments.
+###--------
+###Script:1
+###Mugshot:LeoKingdomShadow
+Even though it has only
+been a little while,
+###++++++++
+###Mugshot:LeoKingdomShadow
+you have not just
+regained your old strength--
+you have surpassed it.
+###++++++++
+###Mugshot:LeoKingdomShadow
+Very good, Geo.
+I commend you.
+And Omega-Xis, as well.
+###--------
+###Mugshot:1
+I've come to realize...
+it's up to myself to
+protect those I hold dear.
+###++++++++
+###Mugshot:1
+I always saw relationships
+as things that only
+weigh you down,
+###++++++++
+###Mugshot:1
+but... I get it now.
+###++++++++
+###Mugshot:1
+This power...
+My power...
+###++++++++
+###Mugshot:1
+It's all thanks to the bonds
+I made with my friends.
+###--------
+###Mugshot:LeoKingdomShadow
+Indeed.
+This is a power that the
+FM King does not know,
+###++++++++
+###Mugshot:LeoKingdomShadow
+and it is the key that
+may lead you to victory.
+###--------
+<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:OmegaXis
+But you didn't invite us
+over to congratulate us.
+###++++++++
+###Mugshot:OmegaXis
+You called us out here
+for a fight. Am I wrong?
+###--------
+###Mugshot:LeoKingdomShadow
+Very perceptive,
+Omega-Xis.
+###++++++++
+###Mugshot:LeoKingdomShadow
+Yes. I want to see
+your growth firsthand.
+###++++++++
+###Mugshot:LeoKingdomShadow
+If you are able to
+defeat me, then I will
+lend you my powers.
+###++++++++
+###Mugshot:LeoKingdomShadow
+...Prepare yourself,
+Mega Man!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Look alive, Geo!
+Here he comes!
+###--------
+###Mugshot:1
+Wave Battle!
+Ride On!!
+###--------

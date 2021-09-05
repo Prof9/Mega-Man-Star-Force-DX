@@ -1,0 +1,11 @@
+﻿###TextArchive:mess_0447
+###Script:0
+Temp message
+###--------
+###Script:5
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+A Wave World in space...
+I can't be too careful...
+###--------

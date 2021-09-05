@@ -1,0 +1,75 @@
+﻿###TextArchive:mess_1094
+###Script:10
+###Mugshot:MegaMan
+It's a wave ball!
+OK, let's go for it!
+###--------
+###Mugshot:MegaMan
+Hah!!
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Looks like we got them all
+in this area.
+###--------
+###Script:50
+###Mugshot:InfoNavi
+Do you know about
+"terra-forming"?
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+It means to transform a
+planet into something
+humans can live on.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Wow, living on a lost planet.
+Just thinking about it
+makes me giddy!
+###--------
+###Script:70
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+I was thinking. Are there
+other waves like us on
+Mars or some other planet?
+###--------
+###Mugshot:InfoNavi
+Hmm...
+###--------
+###Script:90
+###Mugshot:InfoNavi
+Neptune sounds like a
+planet full of water.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Don't you get the feeling
+that it has to be so easy
+to live there?
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+I wonder if there are
+waves on Neptune... I'd be
+really happy if there were!
+###--------
+###Script:150
+###Mugshot:InfoNavi
+Looking at the boundaries
+of the SpaceSim makes
+me think that I'd like to
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+see the real vastness of
+space myself, someday.
+###--------

@@ -1,0 +1,56 @@
+﻿###TextArchive:mess_0542
+###Script:0
+###Mugshot:5
+You aren't a part of this
+class, are you?
+###--------
+###Script:1
+###Mugshot:7
+Your homeroom is up on
+the second floor.
+###--------
+###Script:2
+###Mugshot:5
+I'm going to eat dinner with
+my dad tonight!
+###--------
+###Script:3
+###Mugshot:7
+Don't stay too late now, OK?
+###--------
+###Script:5
+###Mugshot:5
+We're learning about equations
+in class.
+###--------
+###Mugshot:5
+It's really hard stuff!
+###--------
+###Script:6
+###Mugshot:7
+This student's curiosity is
+amazing!
+###--------
+###Mugshot:7
+But that's to be expected
+of our trivia king!
+###--------
+###Script:10
+###Mugshot:7
+Don't forget your homework,
+alright?
+###--------
+###Mugshot:5
+Yes, madam!
+###--------
+###Script:12
+###Mugshot:5
+Look! I did my homework!
+###--------
+###Mugshot:7
+Oh, that's great!
+###--------
+###Mugshot:7
+Keep it up, now!
+Alright?
+###--------

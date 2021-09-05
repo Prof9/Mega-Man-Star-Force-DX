@@ -1,0 +1,169 @@
+﻿###TextArchive:mess_0569
+###Script:10
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+What? You're going to help
+me with the school broadcast?
+###--------
+###Mugshot:Boy
+That'd be nice.
+###--------
+###Mugshot:Boy
+Actually, lately there's been
+a lot of interference.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I'd like you to find out where
+it's coming from.
+###--------
+###Mugshot:Boy
+It might have something to
+do with the waves in this
+room.
+###--------
+###Script:11
+###Mugshot:Boy
+Actually, lately there's been
+a lot of interference.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I'd like you to find out where
+it's coming from.
+###--------
+###Mugshot:Boy
+It might have something to
+do with the waves in this
+room.
+###--------
+###Script:12
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+What? You found out where
+that interference was
+coming from?
+###--------
+###Mugshot:Boy
+Good work!
+###--------
+###Mugshot:Boy
+This is for a job well done!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=5
+###--------
+###Mugshot:Boy
+Why don't you join the
+broadcasting club?
+###--------
+###Script:13
+###Mugshot:Boy
+Why don't you join the
+broadcasting club?
+###--------
+###Script:15
+###Mugshot:MitchShepar
+Hmm, what am I going
+to do...?
+###--------
+###Mugshot:MitchShepar
+...Oh, it's Geo.
+###--------
+###Mugshot:MitchShepar
+I have a little problem.
+###--------
+###Mugshot:MitchShepar
+Do you know Mowa Mowa?
+###--------
+###Mugshot:MitchShepar
+My kids asked me to get
+them some Mowa Mowa
+figures,
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+but I can't because I was
+asked to work today,
+unexpectedly.
+###--------
+###Mugshot:MitchShepar
+The kids are going to be
+upset.
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+...What? You'll go and get
+them for me?
+###--------
+###Mugshot:MitchShepar
+Really? That would be great!
+###--------
+###Mugshot:MitchShepar
+Here's some money.
+###--------
+Geo got:
+"500 Zennys"!!
+###--------
+###Mugshot:MitchShepar
+I really appreciate this!
+###--------
+###Script:16
+###Mugshot:MitchShepar
+My kids asked me to get
+them some Mowa Mowa
+figures,
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+but I can't because I was
+asked to work today,
+unexpectedly.
+###--------
+###Mugshot:MitchShepar
+Could you do me a favor
+and buy them for me?
+###--------
+###Script:17
+###Mugshot:MitchShepar
+Oh, you're back already!
+###--------
+Geo gave:
+"<printItem>"
+to Mr. Shepar.
+###Command:printItem item=51
+###--------
+###Mugshot:MitchShepar
+Thank you!
+This is a big help.
+###--------
+###Mugshot:MitchShepar
+It's great to have you
+as my student!
+###--------
+###Mugshot:MitchShepar
+Please accept this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Mugshot:MitchShepar
+With this, I'll get to see
+their smiling faces!
+###--------
+###Script:18
+###Mugshot:MitchShepar
+With this, I'll get to see
+their smiling faces!
+###--------

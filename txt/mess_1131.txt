@@ -1,0 +1,43 @@
+﻿###TextArchive:mess_1131
+###Script:0
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+Hmm... What do I need
+to prepare for
+tomorrow's lesson?...
+###--------
+###Mugshot:CommonNavi
+Hey! You! The salesman
+standing over there!
+###--------
+###Mugshot:CommonNavi
+This is a classroom.
+Why do you always just
+stand there grinning?
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+No one is going to buy
+anything from you...
+###--------
+###Mugshot:CommonNavi
+And besides, you're breaking
+my concentration...
+###--------
+###Script:20
+###Mugshot:CommonNavi
+Oops... It looks like something
+terrible is heading this way
+in a hurry.
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+I bet even that salesman
+won't be able to keep that
+smirk on his face much longer...
+###--------

@@ -1,0 +1,149 @@
+﻿###TextArchive:mess_0104
+###Script:0
+###Mugshot:3
+###--------
+###Mugshot:3
+I can't believe it's already
+been 3 years since Kelvin's
+space station vanished.
+###--------
+###Script:1
+###Mugshot:2
+Hmm, I suppose it has...
+###--------
+###Script:2
+###Mugshot:3
+Oh, I wanted to ask you
+about how he's doing.
+###--------
+###Mugshot:3
+He's in 5th grade now,
+right?
+###--------
+###Script:3
+###Mugshot:2
+He would be, but he still
+can't bear to go.
+###--------
+###Mugshot:2
+Ever since that incident,
+he...
+###--------
+###Mugshot:2
+He's been very closed
+towards everyone.
+###--------
+###Script:4
+###Mugshot:3
+I don't blame him.
+The boy lost his father,
+who he loved dearly.
+###--------
+###Mugshot:3
+That's gotta be tough.
+###--------
+###Mugshot:3
+But if he's not going,
+what about his studies?
+###--------
+###Script:5
+###Mugshot:2
+We're managing with the
+Card Force System.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+He's studying from one
+of the textbook type
+card's Navi, TeacherMan.
+###--------
+###Mugshot:2
+But he's not really
+focusing.
+###--------
+###Mugshot:2
+He fiddles with gadgets,
+or reads about the stars.
+###--------
+###Mugshot:2
+He wants to move to outer
+space to find his dad.
+###--------
+###Script:6
+###Mugshot:3
+Oh, I see.
+###--------
+###Mugshot:3
+If only we had more
+power, we could've found--
+###--------
+###Mugshot:2
+Aaron, it's OK.
+It's not your fault.
+###--------
+###Mugshot:2
+It was an accident...
+###--------
+###Mugshot:3
+.........
+###--------
+###Script:7
+###Mugshot:2
+Come here and say hello,
+young man.
+###--------
+###Script:8
+###Mugshot:0
+...Fine.
+###--------
+###Script:9
+###Mugshot:2
+###--------
+###Mugshot:2
+This man is Mr. Boreal.
+He worked under your
+dad at NAZA.
+###--------
+###Script:10
+###Mugshot:3
+Howdy!
+###--------
+###Mugshot:0
+Hey.
+###--------
+###Mugshot:3
+I really owe him one from
+when I worked at NAZA.
+###--------
+###Mugshot:3
+That was one brave
+man, your father.
+###--------
+###Mugshot:3
+Oh yeah, I quit NAZA a
+while back, and now I
+work at my own lab
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+just outside of town,
+researching the Earth,
+space, and the stars.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+If you want, you're
+welcome to drop by...
+Um...
+###--------
+###Script:11
+###Mugshot:2
+Don't be rude.
+Introduce yourself.
+###--------
+###Mugshot:0
+Uh, um... OK.
+###--------

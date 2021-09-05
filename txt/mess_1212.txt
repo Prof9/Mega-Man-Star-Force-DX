@@ -1,0 +1,897 @@
+﻿###TextArchive:mess_1212
+###Script:2
+I can't pulse in...
+###--------
+###Script:3
+Mega's not here,
+so I can't pulse in..!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Let's go talk with a few
+more townspeople, kid.
+###--------
+###Script:7
+###Mugshot:OmegaXis
+You can pulse in later, kid.
+It's time to go home!
+###--------
+###Script:10
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+<waitSkip>
+###Command:waitSkip frames=20
+###--------
+###Script:11
+###Mugshot:OmegaXis
+...Hold on, Geo.
+###--------
+###Mugshot:OmegaXis
+Don't you think it'd be a
+good idea to save now?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The EM waves are getting
+intense, so you won't be
+able to save past this point.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well, if you really want
+to go full steam ahead,
+I won't stop you...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+You wanna pulse out, Geo?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:25
+###Mugshot:OmegaXis
+You wanna pulse out, Geo?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:27
+###Mugshot:OmegaXis
+You can't pulse out now, kid!
+###--------
+###Script:31
+###Mugshot:OmegaXis
+Running away? We've gotta
+stop the truck first!
+###--------
+###Script:33
+###Mugshot:OmegaXis
+Come on! Time to make for
+the stars, kid!
+###--------
+###Mugshot:OmegaXis
+What, don't tell me you're
+bailing out now!?
+###--------
+###Script:40
+###Mugshot:OmegaXis
+Hey! <printItemBuffered>'s effect
+has worn off!
+###Command:printItemBuffered buffer=0
+###--------
+###Script:41
+###Mugshot:OmegaXis
+Hey! <printItemBuffered>'s effect
+has worn off!
+###Command:printItemBuffered buffer=0
+###--------
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall>Want to use another?
+(You have: <printBuffer>)
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printBuffer buffer=1 minLength=2 padMode=noPad
+###--------
+###Script:42
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=0
+###--------
+Mega Man has disappeared!
+Weaker foes won't be able
+to find him for a while!
+###--------
+###Script:43
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=0
+###--------
+Mega's eyes twinkled!
+It's very likely he'll meet
+foes that he met before.
+###--------
+###Script:44
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=0
+###--------
+Mega is radiating red
+waves! Fire enemies will
+appear more frequently.
+###--------
+###Script:45
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=0
+###--------
+Mega is radiating blue
+waves! Aqua enemies will
+appear more frequently.
+###--------
+###Script:46
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=0
+###--------
+Mega is radiating yellow
+waves! Elec enemies will
+appear more frequently.
+###--------
+###Script:47
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=0
+###--------
+Mega is radiating green
+waves! Wood enemies will
+appear more frequently.
+###--------
+###Script:48
+You used:
+"<printItemBuffered>"!
+###Command:printItemBuffered buffer=0
+###--------
+###Script:50
+Oh, it's the help signal.
+###--------
+###Script:51
+Looks like the help signal
+went offline.
+###--------
+###Script:52
+The help signal seems to
+still be going strong.
+###--------
+###Script:60
+Looks like I got some mail.
+###--------
+###--------
+Let me see, I can check my
+mail by pressing the X Button
+to open the Menu Screen,
+###--------
+and then picking "E-Mail".
+###--------
+###Script:61
+Looks like I got some mail.
+###--------
+###Script:62
+###Mugshot:MegaMan
+Looks like I got some mail.
+###--------
+###Script:70
+<printPlayerName1> <printPlayerName2>
+has gathered all
+
+###Command:printPlayerName1
+###Command:printPlayerName2
+###--------
+Standard Class cards!
+###--------
+###Script:71
+<printPlayerName1> <printPlayerName2>
+has gathered all
+
+###Command:printPlayerName1
+###Command:printPlayerName2
+###--------
+Mega Class cards!
+###--------
+###Script:72
+<printPlayerName1> <printPlayerName2>
+has gathered all
+
+###Command:printPlayerName1
+###Command:printPlayerName2
+###--------
+Giga Class cards!
+###--------
+###Script:75
+Geo got:
+"<printCardBuffered>"!!
+###Command:printCardBuffered buffer=1
+###--------
+###Script:76
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+You, Geo Stelar, who
+has broken the code,
+I bestow this upon thee.
+###--------
+<printEnemyBuffered> got:
+"<printCardBuffered>"!!
+###Command:printEnemyBuffered buffer=4
+###Command:printCardBuffered buffer=1
+###--------
+###Script:77
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+You, Geo Stelar, who
+has broken the code,
+I bestow this upon thee.
+###--------
+<printEnemyBuffered> got:
+"<printItemBuffered>"!!
+###Command:printEnemyBuffered buffer=4
+###Command:printItemBuffered buffer=1
+###--------
+###Script:78
+###Mugshot:MrHertz
+*BEEP, BEEP!*
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+THE CIPHER YOU HAVE
+ENTERED IS NOT VALID!
+PLEASE TRY AGAIN!
+###--------
+###Mugshot:MrHertz
+CARE TO HEAR ABOUT
+CIPHER MAIL?
+
+###--------
+###Mugshot:MrHertz
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:MrHertz
+AWW...
+OK, BYE-BEEP!
+###--------
+###Script:79
+###Mugshot:MrHertz
+*BEEP, BEEP!*
+###--------
+###Mugshot:MrHertz
+THE CIPHER YOU
+ENTERED HAS BEEN
+USED ALREADY.
+###--------
+###Mugshot:MrHertz
+CIPHERS CAN
+BE USED ONCE
+AND ONLY ONCE.
+###--------
+###Mugshot:MrHertz
+OK, BYE-BEEP!
+###--------
+###Script:81
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+You, Geo Stelar, who
+has broken the code,
+I bestow this upon thee.
+###--------
+<printEnemyBuffered> got:
+"<printCardBuffered>"!!
+###Command:printEnemyBuffered buffer=4
+###Command:printCardBuffered buffer=1
+###--------
+###Script:82
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+You, Geo Stelar, who
+has broken the code,
+I bestow this upon thee.
+###--------
+<printEnemyBuffered> got:
+"<printCardBuffered>"!!
+###Command:printEnemyBuffered buffer=4
+###Command:printCardBuffered buffer=1
+###--------
+###Script:83
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+You, Geo Stelar, who
+has broken the code,
+I bestow this upon thee.
+###--------
+<printEnemyBuffered> got:
+"<printItemBuffered>"!!
+###Command:printEnemyBuffered buffer=4
+###Command:printItemBuffered buffer=1
+###--------
+###Script:84
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+You, Geo Stelar, who
+has broken the code,
+I bestow this upon thee.
+###--------
+<printEnemyBuffered> got:
+"<printItemBuffered>"!!
+###Command:printEnemyBuffered buffer=4
+###Command:printItemBuffered buffer=1
+###--------
+###Script:85
+###Mugshot:LegendaryMasterShin
+It's <wait>Legendary!
+###Command:wait frames=15
+###++++++++
+###Mugshot:LegendaryMasterShin
+You managed to
+break the code!
+But wait...
+###++++++++
+###Mugshot:LegendaryMasterShin
+How did you know about
+this Cipher Mail, hmmm?
+###++++++++
+###Mugshot:LegendaryMasterShin
+A Legendary player like you
+shouldn't need this, right?
+###++++++++
+###Mugshot:LegendaryMasterShin
+Let's see...<wait>
+This Cipher Mail...<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###++++++++
+###Mugshot:LegendaryMasterShin
+You may be able to find a
+hint somewhere in the game.
+###++++++++
+###Mugshot:LegendaryMasterShin
+Try sending it again
+once you do!
+###++++++++
+###Mugshot:LegendaryMasterShin
+Until then...
+Keep it Legendary!
+###--------
+###Script:86
+###Mugshot:LegendaryMasterShin
+It's <wait>Legendary!
+###Command:wait frames=15
+###++++++++
+###Mugshot:LegendaryMasterShin
+You managed to
+break the code!
+But wait...
+###++++++++
+###Mugshot:LegendaryMasterShin
+How did you know about
+this Cipher Mail, hmmm?
+###++++++++
+###Mugshot:LegendaryMasterShin
+A Legendary player like you
+shouldn't need this, right?
+###++++++++
+###Mugshot:LegendaryMasterShin
+Let's see...<wait>
+This Cipher Mail...<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###++++++++
+###Mugshot:LegendaryMasterShin
+Why don't you try sending
+it again once you achieve
+something truly great?
+###++++++++
+###Mugshot:LegendaryMasterShin
+Until then...
+Keep it Legendary!
+###--------
+###Script:87
+###Mugshot:MrHertz
+CIPHER MAIL IS A COOL
+SYSTEM WHERE YOU GET
+AN ITEM WHEN YOU
+###--------
+###Mugshot:MrHertz
+ENTER "Cipher" IN THE
+"SUBJECT" FIELD
+###--------
+###Mugshot:MrHertz
+AND THE ACTUAL CIPHER
+WORD OR MESSAGE IN THE
+"BODY" FIELD!
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+"CIPHERS" CAN BE FOUND
+ALL OVER. ALL YOU HAVE
+TO DO IS LOOK!
+###--------
+###Mugshot:MrHertz
+OK, BYE-BEEP!
+###--------
+###Script:91
+###Mugshot:OmegaXis
+It's no good. You can't
+get in from here, kid!
+###--------
+###Mugshot:OmegaXis
+The wavehole'll flash when
+we're in a good spot.
+###--------
+###Script:100
+###Mugshot:PropellerMan
+I'm all up for grabbing
+some sky!!
+###--------
+###Mugshot:PropellerMan
+But I feel for you, not
+having your own wings.
+###--------
+###Script:101
+PropellerMan 2
+###--------
+###Script:102
+PropellerMan 3
+###--------
+###Script:103
+PropellerMan 4
+###--------
+###Script:104
+###Mugshot:PitcherMan
+Get ready for a smokin'
+pitch!!
+###--------
+###Mugshot:PitcherMan
+I put all I have into one
+pitch. That's my game!
+###--------
+###Mugshot:PitcherMan
+You want me in for an
+inning? No way, no how!
+###--------
+###Mugshot:PitcherMan
+Cause one hot pitch is all
+you are gonna get!
+###--------
+###Script:105
+PitcherMan 2
+###--------
+###Script:106
+PitcherMan 3
+###--------
+###Script:107
+PitcherMan 4
+###--------
+###Script:108
+###Mugshot:KeyMan
+Open sesame!
+###--------
+###Mugshot:KeyMan
+OPEN SESAME!! I'm itching
+to open some doors!
+###--------
+###Script:109
+KeyMan 2
+###--------
+###Script:110
+KeyMan 3
+###--------
+###Script:111
+KeyMan 4
+###--------
+###Script:112
+###Mugshot:ThermoMan
+###--------
+###Mugshot:ThermoMan
+Whooooosh!!
+How do you like it!?
+Hot or cold!?
+###--------
+###Mugshot:ThermoMan
+Me!?
+Honestly, I don't like either!!
+###--------
+###Mugshot:ThermoMan
+I like it juuust right.
+Comfort, that's my motto!
+###--------
+###Script:113
+ThermoMan 2
+###--------
+###Script:114
+ThermoMan 3
+###--------
+###Script:115
+ThermoMan 4
+###--------
+###Script:116
+###Mugshot:ShovelMan
+I'm the great and powerful
+Navi, ShovelMan!
+###--------
+###Mugshot:ShovelMan
+I can shovel my way
+through anything!
+###--------
+###Mugshot:ShovelMan
+But I'll tell ya 1 thing I
+don't dig up - humans!
+###--------
+###Mugshot:ShovelMan
+Oh, and another thing;
+I am NOT ShovelerMan!
+###--------
+###Script:117
+ShovelMan 2
+###--------
+###Script:118
+ShovelMan 3
+###--------
+###Script:119
+ShovelMan 4
+###--------
+###Script:120
+Geo got:
+"<printCardBuffered>★"!!
+###Command:printCardBuffered buffer=1
+###--------
+###Script:121
+###Mugshot:0
+Huh? It gave me the
+same card I just put in.
+###--------
+###Mugshot:OmegaXis
+No, wait... Check it out.
+This one's a Star Card!
+###--------
+###Mugshot:OmegaXis
+Try putting it in
+your folder!
+###--------
+###Script:122
+Geo got:
+.<wait>.<wait>.<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+Nothing?
+###--------
+###Mugshot:OmegaXis
+What gives!?
+This thing's busted!
+###--------
+###Mugshot:0
+I'm not detecting any
+viruses, though...
+###--------
+###Mugshot:0
+Maybe the trader has
+some kind of trick to it.
+###--------
+###Mugshot:OmegaXis
+Just watch out you don't
+lose all your cards!
+###--------
+###Script:130
+Looks like you got mail
+from a Brother!
+###--------
+###Script:131
+Oops. There was a
+communication error...
+###--------
+###Script:132
+###Mugshot:MegaMan
+Looks like you got mail
+from a Brother!
+###--------
+###Script:133
+###Mugshot:MegaMan
+Looks like you got mail
+from a Brother!
+###--------
+###Script:140
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey, Geo!
+Thanks for the words
+of encouragement!
+###--------
+###Script:141
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey, Geo!
+Thanks for the "<printItemBuffered>"!
+###Command:printItemBuffered buffer=5
+###--------
+###Script:142
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey, Geo!
+Thanks for the "<printItemBuffered>"!
+It's perfect!
+###Command:printItemBuffered buffer=5
+###--------
+###Script:143
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey, Geo!
+You play Lunar Knights too?
+###--------
+###Mugshot:0
+So, you've beaten
+Lunar Knights on
+Normal Mode?
+###--------
+###Mugshot:0
+Not bad! But can you
+handle Hard Mode?
+###--------
+###Mugshot:0
+I feel inspired by your
+efforts!
+###--------
+###Script:144
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey, Geo!
+You play Lunar Knights too?
+###--------
+###Mugshot:0
+So, you've beaten
+Lunar Knights on
+Hard Mode?
+###--------
+###Mugshot:0
+Nice going! Keep it up
+for Nightmare Mode!
+###--------
+###Mugshot:0
+I feel inspired by your
+efforts!
+###--------
+###Script:145
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey, Geo!
+You play Lunar Knights too?
+###--------
+###Mugshot:0
+So, you've beaten
+Lunar Knights on
+Nightmare Mode?
+###--------
+###Mugshot:0
+Awesome! You sent
+those vampires packing!
+###--------
+###Mugshot:0
+I feel inspired by your
+efforts!
+###--------
+###Script:146
+###Mugshot:0
+###--------
+###Mugshot:0
+Hey, Geo!
+You play Lunar Knights too?
+###--------
+###Mugshot:0
+So, you've gotten all the
+titles in Lunar Knights?
+###--------
+###Mugshot:0
+Incredible! That's a
+truly impressive feat!
+###--------
+###Mugshot:0
+I feel inspired by your
+efforts!
+###--------
+###Script:147
+I feel a little stronger now!
+###--------
+###Script:148
+I feel a lot stronger now!
+###--------
+###Script:149
+<printBrotherNameBuffered><printBrotherNameBuffered>'s level has
+increased to LV. <printBuffer>!!<wait>
+###Command:printBrotherNameBuffered buffer=4 part=0
+###Command:printBrotherNameBuffered buffer=4 part=1
+###Command:printBuffer buffer=8 minLength=3 padMode=noPad
+###Command:wait frames=30
+###--------
+###Script:150
+###Mugshot:0
+Keep up the good work!
+See you!
+###--------
+###Script:151
+###Mugshot:0
+Here's something in return!
+See you!
+###--------
+<printEnemyBuffered> got:
+"<printCard>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printCard card=SolarGun
+###--------
+###Script:152
+###Mugshot:0
+Here's something in return!
+See you!
+###--------
+<printEnemyBuffered> got:
+"<printCard>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printCard card=SolarGunV2
+###--------
+###Script:153
+###Mugshot:0
+Here's something in return!
+See you!
+###--------
+<printEnemyBuffered> got:
+"<printCard>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printCard card=DarkSword
+###--------
+###Script:154
+###Mugshot:0
+Here's something in return!
+See you!
+###--------
+<printEnemyBuffered> got:
+"<printCard>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printCard card=DarkSwrdV2
+###--------
+###Script:155
+###Mugshot:0
+Here's something in return!
+See you!
+###--------
+<printEnemyBuffered> got a
+Sub Card:
+"<printItem>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printItem item=98
+###--------
+###Script:156
+###Mugshot:0
+Here's something in return!
+See you!
+###--------
+<printEnemyBuffered> got a
+Sub Card:
+"<printItem>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printItem item=102
+###--------
+###Script:157
+###Mugshot:0
+This is one of my
+rarest treasures!
+See you!
+###--------
+<printEnemyBuffered> got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printItem item=33
+###--------
+###Script:158
+###Mugshot:0
+This is one of my
+rarest treasures!
+See you!
+###--------
+<printEnemyBuffered> got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printEnemyBuffered buffer=1
+###Command:printItem item=34
+###--------
+###Script:159
+###Mugshot:0
+I think you'll be able to
+make good use of this!
+See you!
+###--------
+<printEnemyBuffered> got:
+"SunFldr"!!
+###Command:printEnemyBuffered buffer=1
+###--------
+###Script:160
+###Mugshot:0
+I think you'll be able to
+make good use of this!
+See you!
+###--------
+<printEnemyBuffered> got:
+"DarkFldr"!!
+###Command:printEnemyBuffered buffer=1
+###--------
+###Script:181
+###Mugshot:0
+Oh no!
+There's a virus in
+the Real World!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I don't see a wavehole
+nearby... How are we
+going to fight it?
+###--------
+###Mugshot:OmegaXis
+Must be one of
+Planet FM's lackeys...
+###--------
+###Mugshot:OmegaXis
+It looks like the virus is
+warping space around it.
+###--------
+###Mugshot:OmegaXis
+We should be able to
+transform and take it on!
+###--------
+###Script:182
+###Mugshot:0
+###--------
+###Mugshot:0
+Mega's not here, so I can't
+transform... Better steer
+clear of viruses for now.
+###--------
+###Script:183
+###Mugshot:OmegaXis
+Let's show this virus
+who's boss!
+
+###--------
+###Mugshot:OmegaXis
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------

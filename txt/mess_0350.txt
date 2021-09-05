@@ -1,0 +1,41 @@
+﻿###TextArchive:mess_0350
+###Script:0
+###Mugshot:0
+OK, KeyMan.
+Do your thing!
+###--------
+###Script:1
+###Mugshot:KeyMan
+Open Sesame!
+###--------
+###Script:2
+###Mugshot:KeyMan
+Open Sesame!
+###--------
+###Script:3
+###Mugshot:0
+Alright!
+###--------
+###Mugshot:0
+Thanks, KeyMan!
+###--------
+###Script:4
+###Mugshot:KeyMan
+Open Sesame!
+###--------
+###Script:5
+###Mugshot:0
+No good.
+I can't get it to open.
+###--------
+###Mugshot:0
+Should I give it another try?
+
+
+###--------
+###Mugshot:0
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------

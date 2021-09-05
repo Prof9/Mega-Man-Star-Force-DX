@@ -1,0 +1,103 @@
+﻿###TextArchive:mess_0420
+###Script:0
+Temp message
+###--------
+###Script:11
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I should go apologize to Luna
+and try to go back to being
+Brothers with her again.
+###--------
+###Mugshot:MegaMan
+I hope she forgives me.
+###--------
+###Script:12
+###Mugshot:MegaMan
+Mr. Boreal might know
+something.
+###--------
+###Script:20
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Let's look for Mr. Boreal's
+old boss. Where could he be?
+###--------
+###Script:21
+###Mugshot:MegaMan
+By the looks of his
+Transer, that's the guy.
+###--------
+###Script:22
+###Mugshot:MegaMan
+Let's go talk to that old
+guy...
+###--------
+###Script:23
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+The data is hidden in
+something that has to do
+with the space station...
+###--------
+###Mugshot:MegaMan
+What could that be?
+###--------
+###Script:24
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I'll check out the data I got.
+I might find something out.
+###--------
+###Script:25
+###Mugshot:MegaMan
+It's hidden on Dream Island?
+Let's go!
+###--------
+###Script:26
+###Mugshot:MegaMan
+Let's go back to
+Dream Island!
+###--------
+###Script:27
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Let's pulse out, go home,
+and get some rest for
+tomorrow.
+###--------
+###Script:31
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I'll pulse out and go to
+Vista Point...
+###--------
+###Script:32
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I'll pulse out and head
+to the place under
+Dream Island!
+###--------
+###Script:33
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+If everything's all good to
+go, I'd better pulse out...
+###--------
+###Script:34
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+A challenge from Leo
+Kingdom... I'd better
+make sure I'm ready...
+###--------

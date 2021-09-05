@@ -1,0 +1,27 @@
+﻿###TextArchive:mess_0124
+###Script:0
+###Mugshot:OmegaXis
+Look at you, kid!
+You just got yourself
+a Star Card.
+###--------
+###Mugshot:0
+A Star Card?
+What's that?
+###--------
+###Mugshot:OmegaXis
+Never mind that now.
+I'll send you an e-mail later.
+###--------
+###Mugshot:OmegaXis
+Right now we need to
+focus on stopping that
+truck!
+###--------
+###Mugshot:0
+Right... Well, now the
+car should work.
+###--------
+###Mugshot:0
+Initializing Axel Program...
+###--------

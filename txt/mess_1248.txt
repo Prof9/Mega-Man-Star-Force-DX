@@ -1,0 +1,20 @@
+﻿###TextArchive:mess_1248
+###Script:0
+GeoFldr
+###--------
+###Script:1
+LunaFldr
+###--------
+###Script:2
+XtraFldr
+###--------
+###Script:10
+Card Box
+###--------
+###Script:11
+Trader
+###--------
+###Script:12
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=leftPadSpaces
+###--------

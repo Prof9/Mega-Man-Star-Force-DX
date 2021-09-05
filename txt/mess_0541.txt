@@ -1,0 +1,35 @@
+﻿###TextArchive:mess_0541
+###Script:0
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Here's some food!
+Now eat up, everyone!
+###--------
+###Script:1
+###Mugshot:Woman
+This is the 1-A classroom.
+And I am the homeroom
+teacher.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Don't you think I make a
+wonderful teacher?
+###--------
+###Script:5
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I wonder if anyone will
+take it... My quiz, I mean.
+###--------
+###Script:6
+###Mugshot:Woman
+Good morning!
+###--------
+###Mugshot:Woman
+...Wait, you're in the wrong
+classroom!
+###--------

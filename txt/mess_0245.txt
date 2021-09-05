@@ -1,0 +1,94 @@
+﻿###TextArchive:mess_0245
+###Script:0
+###Mugshot:Jammer
+Gnaaaagh!!
+###--------
+###Mugshot:Jammer
+Nooo, I was so close!!
+###--------
+###Mugshot:Jammer
+Lord Gemini...
+I'm sor...ry...
+###--------
+###Mugshot:Jammer
+Aaaaaaaahh!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+Gemini?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+So that's who was
+behind it all. Gemini.
+###--------
+###Mugshot:MegaMan
+Are they...?
+###--------
+###Mugshot:OmegaXis
+He, and yeah, he's
+another FM-ian.
+###--------
+###Mugshot:OmegaXis
+But I have no idea what
+he's plotting.
+###--------
+###Mugshot:MegaMan
+Gemini...
+###--------
+###Script:3
+###Mugshot:MegaMan
+Ah! Luna!
+###--------
+###Script:4
+###Mugshot:MegaMan
+How is she?
+###--------
+###Script:5
+###Mugshot:HarpNote
+She's fine.
+###--------
+###Mugshot:HarpNote
+She just fainted and should
+wake up pretty soon.
+###--------
+###Mugshot:HarpNote
+And what about you?
+Are you OK?
+###--------
+###Script:6
+###Mugshot:MegaMan
+Yeah, I'm fine.
+###--------
+###Script:7
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+There are some really
+strong Z waves coming
+from this room!!
+###--------
+###Script:8
+###Mugshot:MegaMan
+Looks like old Mr. Copper's
+back...
+###--------
+###Mugshot:MegaMan
+It'd be pretty bad if
+he found more Z waves.
+###--------
+###Mugshot:MegaMan
+So we'd better go back
+to the Real World.
+###--------
+###Mugshot:MegaMan
+Can you help me and grab
+one of Luna's arms?
+###--------
+###Script:9
+###Mugshot:HarpNote
+Sure!
+###--------
+###Mugshot:HarpNote
+OK, let's go.
+###--------

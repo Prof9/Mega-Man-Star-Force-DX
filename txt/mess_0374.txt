@@ -1,0 +1,48 @@
+﻿###TextArchive:mess_0374
+###Script:0
+###Mugshot:MegaMan
+What is this place?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+We're in space.
+###--------
+###Script:2
+Welcome, chosen ones.
+###--------
+Overcome the obstacles
+one by one.
+###--------
+###--------
+If you clear them all,
+I shall bestow a fragment
+of my power upon you.
+###--------
+Come, you who are
+the chosen ones...
+###--------
+###Script:3
+###Mugshot:MegaMan
+Who is that!?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+And what did they mean by
+"overcome the obstacles"?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Heh, no idea there.
+###--------
+###Mugshot:OmegaXis
+But if they're just
+testing us, we'll make it!
+###--------
+###Mugshot:OmegaXis
+Let's go for it, Geo!!
+###--------
+###Script:5
+###Mugshot:MegaMan
+Roger!
+###--------

@@ -1,0 +1,29 @@
+﻿###TextArchive:mess_1180
+###Script:100
+###Mugshot:TruckNavi
+Oh?
+You've gotten pretty far
+in here.
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+All of this junk was dumped
+here long ago!
+###--------
+###Script:101
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Well, well... Hello there.
+It looks like the humans
+have a serious problem.
+###--------
+###Mugshot:TruckNavi
+Is it because of this
+strange EM radiation?
+###--------
+###Mugshot:TruckNavi
+You should probably try
+to find shelter!
+###--------

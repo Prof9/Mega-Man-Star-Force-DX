@@ -1,0 +1,33 @@
+﻿###TextArchive:mess_0304
+###Script:0
+###Mugshot:0
+Sorry, but your party
+is over!
+###--------
+###Script:1
+###Mugshot:Jammer
+Hmm?
+###--------
+###Script:2
+###Mugshot:Jammer
+M-Mega Man!!
+###--------
+###Script:3
+###Mugshot:0
+Restore the Wave Road now!
+###--------
+###Script:4
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Take one step closer,
+and you'll regret it!!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Let's go, Geo!
+###--------
+###Script:6
+###Mugshot:0
+Yeah!
+###--------

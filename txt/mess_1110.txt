@@ -1,0 +1,58 @@
+﻿###TextArchive:mess_1110
+###Script:0
+###Mugshot:FighterNavi
+OK! All clear on the right!
+###--------
+###Mugshot:FighterNavi
+OK! All clear on the left!
+###--------
+###Script:10
+###Mugshot:FighterNavi
+Emergency! Emergency!
+###--------
+###Mugshot:FighterNavi
+Take cover! Take cover!
+###--------
+###Script:20
+###Mugshot:FighterNavi
+OK! All clear on the right!
+###--------
+###Mugshot:FighterNavi
+OK! All clear on the left!
+###--------
+###Mugshot:FighterNavi
+All clear up and down!
+###--------
+###Script:100
+###Mugshot:MrHertz
+WHEWWW, I'M REALLY
+GETTING OUT OF SHAPE.
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I CLIMB JUST ONE FLIGHT
+OF STAIRS, AND I'M OUT
+OF BREATH. *PANT*
+###--------
+###Script:101
+###Mugshot:MrHertz
+WHEWWW, I'M REALLY
+GETTING OUT OF SHAPE.
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I CLIMB JUST ONE FLIGHT
+OF STAIRS, AND I'M OUT
+OF BREATH. *PANT*
+###--------
+###Mugshot:MrHertz
+BY THE WAY... WHAT IS
+IT WITH ALL OF THESE
+UPTIGHT PEOPLE?
+###--------
+###Mugshot:MrHertz
+IS IT SOME KIND OF
+CALCIUM DEFICIENCY?
+###--------

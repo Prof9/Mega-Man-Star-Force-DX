@@ -1,0 +1,89 @@
+﻿###TextArchive:mess_0875
+###Script:0
+###Mugshot:MrHertz
+A BOY CAME BACK TO
+SCHOOL RECENTLY!
+###--------
+###Mugshot:MrHertz
+NOW THE CLASS IS
+WHOLE AGAIN!
+###--------
+###Mugshot:MrHertz
+YOU KNOW, YOU KINDA LOOK
+LIKE THAT BOY,
+###--------
+###Mugshot:MrHertz
+BUT I TELL YOU, THIS KID
+WEARS THE FUNKIEST
+GLASSES I'VE EVER SEEN!
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+IS THAT SUPPOSED TO
+BE THE NEW STYLE OR
+SOMETHING?
+###--------
+###Script:51
+###Mugshot:6
+Thank you very much!!
+###--------
+###Mugshot:6
+Here's your merchandise!
+###--------
+Mega Man got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printItem item=24
+###--------
+###Mugshot:6
+Thank you sooo much!!
+###--------
+###Script:52
+###Mugshot:6
+Uh-oh...
+You don't have enough money.
+###--------
+###Script:53
+###Mugshot:6
+Wanna buy a quality item?
+###--------
+###Mugshot:6
+For you, only 4000 Zennys!
+###--------
+###Mugshot:6
+The rapid fire on this baby
+is sumthin' fierce!
+###--------
+###Mugshot:6
+So how about it?
+###--------
+<positionOptionFromCenter><optionText>  Buy  <optionText>  Don't
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:6
+Well, I'm sorry we couldn't
+make a deal!!
+###--------
+###Script:54
+###Mugshot:6
+Must get more money...
+Ha ha ha ha ha!!
+###--------
+###Script:200
+###Mugshot:MrHertz
+<optionButtonSmall><optionButtonSmall>I HAVE SUB CARDS.
+WANT A LOOK?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+PLEASE COME BACK AGAIN
+SOMETIME!
+###--------
+###Script:202
+###Mugshot:MrHertz
+SORRY, I'M ALL SOLD OUT...
+###--------

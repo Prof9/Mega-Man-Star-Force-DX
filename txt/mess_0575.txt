@@ -1,0 +1,140 @@
+﻿###TextArchive:mess_0575
+###Script:2
+It feels good to get out
+on a nice day.
+###--------
+###Script:4
+The cake menu.
+###--------
+###--------
+The most popular one is
+the Mowai Galactica with
+lots of chocolate!......
+###--------
+###Script:5
+These planters are filled
+with pretty flowers.
+###--------
+###Script:6
+A statue of Rover,
+the faithful dog.
+###--------
+###Script:8
+It's a 30% off sale.
+###--------
+###Script:9
+This wagon is filled with
+Mowai goods.
+###--------
+###Script:11
+It feels good to press up
+against the cool glass.
+###--------
+...But it's not good manners,
+so I'd better stop.
+###--------
+###Script:12
+The café menu.
+###--------
+###--------
+Bittersweet coffee has a
+grown-up taste... I've heard.
+###--------
+###Script:13
+It'd be nice to have tea
+time here sometime.
+###--------
+###Script:16
+Where do you want to go?
+###--------
+###Script:17
+No bus yet...
+###--------
+###Script:18
+<optionText>  Echo Ridge<spacePx><optionText>  Quit
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:19
+<optionText>  Echo Ridge<spacePx><optionText>  AMAKEN
+<optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=2 right=2
+###--------
+###Script:20
+<optionText>  Echo Ridge<spacePx><optionText>  AMAKEN
+<optionText>  Dream Island<optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=3 down=3 left=0 right=0
+###Command:optionText up=0 down=0 left=3 right=3
+###Command:optionText up=1 down=1 left=2 right=2
+###--------
+###Script:25
+A bowling alley.
+###--------
+The smack of pins is
+music to my ears.
+###--------
+###Script:26
+There's something shiny
+on the ground.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=47
+###--------
+###Script:30
+It's hard to comment on...
+###--------
+It's an avante-garde
+object made by a foreign
+artist R. Checo.
+###--------
+###Script:31
+It's hard to comment on...
+###--------
+It's an avante-garde
+object made by a foreign
+artist R. Checo.
+###--------
+Oh...?
+What's this?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Script:35
+A cake shop.
+###--------
+The sweet smell of cakes
+gets me every time.
+###--------
+###Script:36
+A cake shop.
+###--------
+The sweet smell of cakes
+gets me every time.
+###--------
+...Hmm?
+###--------
+If you look real close,
+there's a wavehole here!
+###--------
+###Script:40
+The Mowai is spinning as
+strong as ever.
+###--------
+###Script:41
+The Mowai is spinning as
+strong as ever.
+###--------
+...Hmm?
+###--------
+If you look real close,
+there's a wavehole here!
+###--------

@@ -1,0 +1,193 @@
+﻿###TextArchive:mess_0114
+###Script:0
+###Mugshot:OmegaXis
+Hmm...
+Like I thought, you can
+get different info
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+about a person from their
+personal page than when
+you're talking to them.
+###--------
+###Mugshot:1
+That's because that info
+is for Brothers only.
+###--------
+###Mugshot:OmegaXis
+That's odd...
+###--------
+###Script:1
+###Mugshot:1
+What's odd?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Ever since this morning, I've
+felt the presence of FM-ians
+somewhere around here.
+###--------
+###Mugshot:OmegaXis
+I thought maybe they were
+hiding in a Transer like me,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+but we checked everyone's
+Transers, and we didn't
+find any FM-ians...
+###--------
+###Script:3
+###Mugshot:1
+Hey! Tell me that kind
+of stuff first!
+###--------
+###Mugshot:1
+What if we had run into
+an FM-ian inside one of
+those Transers...
+###--------
+###Mugshot:1
+.........
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Meh, so the info was
+a little late.
+###--------
+###Script:5
+###Mugshot:1
+Don't say it as if it
+doesn't involve me!!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+.<waitSkip>.<waitSkip>.<waitSkip>
+*shush!*
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:7
+###Mugshot:1
+What's up all of a sudden?
+###--------
+###Script:8
+###Mugshot:OmegaXis
+I sense the presence
+I felt this morning...
+###--------
+###Mugshot:1
+But everyone in town
+checks out. No one's hidin-
+###--------
+###Mugshot:OmegaXis
+FM-ians can hide in more
+than just Transers.
+###--------
+###Script:9
+###Mugshot:1
+Oh, yeah. Like what
+happened with the train.
+###--------
+###Script:10
+###Mugshot:OmegaXis
+A-ha! I got it!
+###--------
+###Mugshot:OmegaXis
+The FM-ians are hiding out
+in a Comp Space somewhere!
+That's gotta be it!
+###--------
+###Script:11
+###Mugshot:1
+So what do we do now?
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Do I have to spell it out?
+###--------
+###Mugshot:OmegaXis
+Victory goes to the
+one who strikes first!
+###--------
+###Mugshot:OmegaXis
+So we have to make
+the first strike!
+###--------
+###Mugshot:OmegaXis
+Let's check all the Comp
+Spaces in this area!!
+###--------
+###Script:13
+###Mugshot:1
+I can't believe this is
+happening...
+###--------
+###Script:14
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, you can believe it or
+not, but I'm the only one
+who knows about your dad.
+###--------
+###Mugshot:OmegaXis
+You can feel free to
+kick me out, because
+the only thing connecting
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+us is how much you
+believe me and what I
+say. It's up to you, kid.
+###--------
+###Script:15
+###Mugshot:1
+......
+###--------
+###Script:16
+###Mugshot:OmegaXis
+Nngh!!
+###--------
+###Mugshot:OmegaXis
+.........
+We've talked too long.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I can feel their presence.
+They're in this town...
+Somewhere.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Anyway, as long as they're
+in a Comp Space, they're
+at a disadvantage!
+###--------
+###Script:17
+###Mugshot:1
+A-And so...?
+###--------
+###Script:18
+###Mugshot:OmegaXis
+So we have to get them
+before they get us!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That's the secret to
+staying alive.
+Now get looking!
+###--------

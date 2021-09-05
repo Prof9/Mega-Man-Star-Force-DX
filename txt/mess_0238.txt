@@ -1,0 +1,282 @@
+﻿###TextArchive:mess_0238
+###Script:0
+###Mugshot:Geo
+E-Excuse me...
+###--------
+###Script:1
+###Mugshot:MitchShepar
+Over here!
+We're over here!
+###--------
+###Script:2
+###Mugshot:Geo
+Grk!!
+###--------
+###Script:3
+###Mugshot:MitchShepar
+What's wrong?
+Come on and say hi.
+###--------
+###Script:4
+###Mugshot:MitchShepar
+This is Mr. Bob Copper
+from the Satella Police.
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+He's looking into what
+happened here during that
+incident a few days ago.
+###--------
+###Script:5
+###Mugshot:BobCopper
+I haven't seen you in
+a while.
+###--------
+###Mugshot:BobCopper
+Almost forgot your name.
+Geo, was it?
+###--------
+###Script:6
+###Mugshot:Geo
+Y-Yes, sir.
+###--------
+###Mugshot:Geo
+And what can I help
+you with?
+###--------
+###Script:7
+###Mugshot:BobCopper
+You remember the incident
+here, right?
+###--------
+###Script:8
+###Mugshot:Geo
+Y-Yes...
+###--------
+###Script:9
+###Mugshot:BobCopper
+I was looking around the
+school today, and I found
+some very high levels
+###--------
+###Mugshot:BobCopper
+of Z waves. What I'm
+getting at is that anyone
+with eyes can see that
+###--------
+###Mugshot:BobCopper
+this last incident was
+drenched in Z Waves,
+and it happened
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+just as soon as you set
+foot in a place you haven't
+been in for 3 years.
+###--------
+###Script:10
+###Mugshot:MitchShepar
+Now hold on a sec,
+Mr. Copper.
+###--------
+###Mugshot:MitchShepar
+The cause of the
+incident was me.
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+This child had nothing to
+do with it. If anything,
+he's a victim!
+###--------
+###Script:11
+###Mugshot:BobCopper
+Hey, please calm down,
+Mr. Shepar.
+###--------
+###Mugshot:BobCopper
+I wasn't saying he
+was the culprit.
+###--------
+###Mugshot:BobCopper
+I was just trying to see
+if the boy knew anything.
+###--------
+###Mugshot:BobCopper
+Maybe something we
+don't know?
+###--------
+###Script:12
+###Mugshot:BobCopper
+Right, Geo?
+###--------
+###Script:13
+###Mugshot:Geo
+Um, I have no idea what
+you're talking about...
+###--------
+###Script:14
+###Mugshot:BobCopper
+Come on now, you must
+know something.
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+After all, you have been
+close to every other incident
+so far involving Z waves!
+###--------
+###Script:15
+###Mugshot:Geo
+But that doesn't mean
+I know anything...
+###--------
+###Script:16
+###Mugshot:BobCopper
+Alright then, Geo.
+Don't be shocked, but
+###--------
+###Mugshot:BobCopper
+Z waves are really an
+alien life form!!
+###--------
+###Script:17
+###Mugshot:Geo
+(H-How does he know that!?
+This is bad...)
+###--------
+###Mugshot:Geo
+(Just how much does this
+old man know!?)
+###--------
+###Script:18
+###Mugshot:BobCopper
+These aliens have bodies
+made of EM waves
+###--------
+###Mugshot:BobCopper
+that normal people can't
+see with the naked eye.
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+When they get near humans,
+they get inside people and
+make them do evil things.
+###--------
+###Mugshot:BobCopper
+If you don't watch out,
+you might get taken
+over by an alien too!!
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+And if that happens,
+you could be a danger to
+everyone around you!
+###--------
+###Script:19
+###Mugshot:Geo
+(Somehow, I think it's
+already too late for me...)
+###--------
+###Script:20
+###Mugshot:MitchShepar
+Ha ha ha!!
+<wait>EM aliens?
+###Command:wait frames=60
+###--------
+###Mugshot:MitchShepar
+Oh, that's a riot!
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+But you can't trick kids
+today with that kind of
+story! Right, Geo?
+###--------
+###Script:21
+###Mugshot:Geo
+Aha ha ha...
+###--------
+###Script:22
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+So, are you satisfied,
+Mr. Copper? He really knows
+nothing about any aliens.
+###--------
+###Script:23
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+Geo, you can go home now.
+Mr. Copper and I have a
+few things to talk about.
+###--------
+###Script:24
+###Mugshot:BobCopper
+Mr. Shepar, I must insist...
+###--------
+###Mugshot:BobCopper
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:BobCopper
+(Wait, it'd be a bad idea
+get on the teacher's bad
+side. Better play it safe...)
+###--------
+###Mugshot:BobCopper
+...OK, I suppose that's
+enough for today.
+###--------
+###Script:25
+###Mugshot:BobCopper
+Sorry to keep you from
+getting home, Geo.
+###--------
+###Mugshot:BobCopper
+I'm sure we'll see each
+other again real soon.
+###--------
+###Script:26
+###Mugshot:Geo
+...Um, bye!!
+###--------
+###Script:27
+###Mugshot:OmegaXis
+Guess the old man knows
+about us FM-ians.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+He's probably gonna tail us
+like crazy from now on,
+even more than before.
+###--------
+###Script:28
+###Mugshot:Geo
+And just when I had made
+some friends too.
+###--------
+###Mugshot:Geo
+Talk about things I
+could do without...
+###--------
+###Mugshot:Geo
+Well, at least we can go
+home for today...
+###--------

@@ -1,0 +1,39 @@
+﻿###TextArchive:mess_0341
+###Script:0
+###Mugshot:0
+OK, I'm counting on you,
+ShovelMan!
+###--------
+###Script:1
+###Mugshot:ShovelMan
+Shooooovel!
+###--------
+###Script:2
+###Mugshot:ShovelMan
+Shooooooooovel!
+###--------
+###Script:3
+###Mugshot:0
+It's a door!
+###--------
+###Mugshot:0
+Thanks, ShovelMan!
+###--------
+###Script:4
+###Mugshot:ShovelMan
+Shooooovel!
+###--------
+###Script:5
+###Mugshot:0
+On the other side of
+this door...
+###--------
+###Script:6
+###Mugshot:OmegaXis
+What are you waiting for!?
+Let's go!
+###--------
+###Script:7
+###Mugshot:0
+Y-Yeah!!
+###--------

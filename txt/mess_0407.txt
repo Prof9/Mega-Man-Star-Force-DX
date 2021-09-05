@@ -1,0 +1,9 @@
+﻿###TextArchive:mess_0407
+###Script:0
+Temp message
+###--------
+###Script:64
+###Mugshot:MegaMan
+Mr. Shepar is in the back
+somewhere...
+###--------

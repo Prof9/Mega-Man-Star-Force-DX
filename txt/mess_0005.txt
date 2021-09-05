@@ -1,0 +1,217 @@
+﻿###TextArchive:mess_0005
+###Script:0
+0123456789 
+###--------
+###Script:1
+       [z]
+###--------
+###Script:2
+   HP+
+###--------
+###Script:3
+   HP MAX   
+###--------
+###Script:10
+###Mugshot:OmegaXis
+<optionButtonSmall><optionButtonSmall>Great battle!
+Wanna ask to be Brothers?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Waiting for a reply,
+so just sit tight...
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Oh, guess they
+cancelled on us.
+###--------
+###Mugshot:OmegaXis
+Let's ask again
+some other time.
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Hey, this time your
+opponent is a former
+Brother.
+###--------
+###Mugshot:OmegaXis
+You deleted them from your
+end, but... looks like they still
+thought you were Brothers.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+They're auto-deleting you
+from their records now...
+###--------
+###Script:14
+###Mugshot:OmegaXis
+Huh!? This time your
+opponent is a Brother.
+<printNameBuffer1> <printNameBuffer2>.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+...Looks like they deleted
+you as a Brother.
+###--------
+###Mugshot:OmegaXis
+Well... guess we should delete
+them on this end, too.
+###--------
+###Script:21
+###Mugshot:PegasusMagic
+That was a<wait> magnificent move!
+###Command:wait frames=5
+###--------
+###Mugshot:PegasusMagic
+Recognized as a Best Combo!<wait>
+###Command:wait frames=5
+###--------
+###Script:22
+###Mugshot:LeoKingdom
+That was a<wait> splendid move!
+###Command:wait frames=5
+###--------
+###Mugshot:LeoKingdom
+Recognized as a Best Combo!<wait>
+###Command:wait frames=5
+###--------
+###Script:23
+###Mugshot:DragonSky
+That was a<wait> glorious move!
+###Command:wait frames=5
+###--------
+###Mugshot:DragonSky
+Recognized as a Best Combo!<wait>
+###Command:wait frames=5
+###--------
+###Script:30
+###Mugshot:OmegaXis
+OK! Now listen up, kid!
+###--------
+###Mugshot:OmegaXis
+A Best Combo is made by
+linking cards together.
+###--------
+###Mugshot:OmegaXis
+When you use 3 cards
+together in 1 turn, and
+do more than 300 points
+###--------
+###Mugshot:OmegaXis
+of damage, that attack
+will be recognized as
+a Best Combo.
+###--------
+###Mugshot:OmegaXis
+Just remember they gotta
+be Standard Cards and
+can't be powered up.
+###--------
+###Mugshot:OmegaXis
+That's all there is to it!
+If you equip a Best Combo
+###--------
+###Mugshot:OmegaXis
+from your Best Combo
+screen, it will be set as
+your "Personal Best Combo."
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Wanna hear about
+Personal Best Combos?
+
+###--------
+###Mugshot:OmegaXis
+<positionOptionFromCenter><optionText>  No  <optionText>  Sure
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:31
+###Mugshot:OmegaXis
+OK, let's turn the
+Best Combo screen on!
+###--------
+###Script:40
+###Mugshot:OmegaXis
+OK, here's the lowdown, kid.
+###--------
+###Mugshot:OmegaXis
+Your Personal Best Combo
+is a special attack that
+you give to your Brothers.
+###--------
+###Mugshot:OmegaXis
+Basically, your Brothers
+can use a Best Combo
+you made in battle.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you can work out a
+strong Best Combo,
+###--------
+###Mugshot:OmegaXis
+you can make your
+Brothers' battles easier.
+###--------
+###Mugshot:OmegaXis
+I'm sure they'd thank
+you if you did...
+###--------
+###Mugshot:OmegaXis
+And that's what a
+Personal Best Combo is!
+###--------
+###Mugshot:OmegaXis
+Now make sure you
+remember what I said, kid!
+###--------
+###Mugshot:OmegaXis
+By the way, you can store
+up to 7 Best Combos.
+###--------
+###Mugshot:OmegaXis
+Make sure you save
+your favorite combos!
+###--------
+###Mugshot:OmegaXis
+You can access your
+Best Combo screen from
+your Personal page!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK, let's turn the
+Best Combo screen on!
+###--------
+###Script:41
+<printBrotherBuffer1>
+<printBrotherBuffer2>
+<printBrotherBuffer3>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer3
+###--------
+###Script:42
+<printBrotherBuffer1>
+<printBrotherBuffer2>
+<printBrotherBuffer3>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer3
+###--------

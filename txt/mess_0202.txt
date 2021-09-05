@@ -1,0 +1,313 @@
+﻿###TextArchive:mess_0202
+###Script:0
+A few days later...
+###--------
+###Script:1
+###Mugshot:Geo
+...Uunngh...
+###--------
+###Script:2
+###Mugshot:Geo
+...*sigh*
+###--------
+###Script:3
+###Mugshot:Geo
+Hey...
+###--------
+###Mugshot:Geo
+Where am I...?
+###--------
+###Mugshot:OmegaXis
+Hey, Geo!
+###--------
+###Script:4
+###Mugshot:Geo
+Mega!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Where are we?
+###--------
+###Mugshot:OmegaXis
+There isn't anything around.
+###--------
+###Mugshot:OmegaXis
+When and how did we end
+up here?
+###--------
+###Script:6
+###Mugshot:Geo
+I don't know...
+###--------
+###Script:7
+###Mugshot:PegasusMagicShadow
+You are in your subconscious.
+###--------
+###Script:8
+###Mugshot:DragonSkyShadow
+You are in your subconscious.
+###--------
+###Script:9
+###Mugshot:LeoKingdomShadow
+You are in your subconscious.
+###--------
+###Script:10
+###Mugshot:Geo
+Wh-Who's there!?
+###--------
+###Script:11
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Aaah!
+What the!?
+###--------
+###Script:12
+###Mugshot:PegasusMagicShadow
+...Geo.
+###--------
+###Script:13
+###Mugshot:DragonSkyShadow
+...Geo.
+###--------
+###Script:14
+###Mugshot:LeoKingdomShadow
+...Geo.
+###--------
+###Script:15
+###Mugshot:Geo
+How do you know my name...?
+###--------
+###Script:16
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+As for the one in your arm...
+It's the FM-ian, Omega-Xis,
+correct?
+###--------
+###Script:17
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+As for the one in your arm...
+It's the FM-ian, Omega-Xis,
+correct?
+###--------
+###Script:18
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+As for the one in your arm...
+It's the FM-ian, Omega-Xis,
+correct?
+###--------
+###Script:19
+###Mugshot:OmegaXis
+They knew even my name...
+Who are these guys!?
+###--------
+###Script:20
+###Mugshot:LeoKingdomShadow
+We are they who watch
+over you.
+###--------
+###Mugshot:LeoKingdomShadow
+And they who will continue
+to watch.
+###--------
+###Script:21
+###Mugshot:PegasusMagicShadow
+We are they who watch
+over you.
+###--------
+###Mugshot:PegasusMagicShadow
+And they who will continue
+to watch.
+###--------
+###Script:22
+###Mugshot:DragonSkyShadow
+We are they who watch
+over you.
+###--------
+###Mugshot:DragonSkyShadow
+And they who will continue
+to watch.
+###--------
+###Script:23
+###Mugshot:Geo
+What are you talking about?
+###--------
+###Script:24
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Geo...
+I sense a strange aura
+around them.
+###--------
+###Mugshot:OmegaXis
+I don't think that's good
+news for us...
+###--------
+###Script:25
+###Mugshot:Geo
+Then, are they enemies!?
+FM-ians!?
+###--------
+###Script:26
+###Mugshot:PegasusMagicShadow
+We have come only to warn.
+###--------
+###Mugshot:PegasusMagicShadow
+Right now your existence
+is very small...
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+However, it will determine
+the ultimate fate of
+this planet, Earth.
+###--------
+###Script:27
+###Mugshot:DragonSkyShadow
+We have come only to warn.
+###--------
+###Mugshot:DragonSkyShadow
+Right now your existence
+is very small...
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+However, it will determine
+the ultimate fate of
+this planet, Earth.
+###--------
+###Script:28
+###Mugshot:LeoKingdomShadow
+We have come only to warn.
+###--------
+###Mugshot:LeoKingdomShadow
+Right now your existence
+is very small...
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+However, it will determine
+the ultimate fate of
+this planet, Earth.
+###--------
+###Script:29
+###Mugshot:Geo
+What does that mean?
+###--------
+###Script:30
+###Mugshot:GeoNoVisualizer
+...Unngh...
+###--------
+###Script:31
+###Mugshot:GeoNoVisualizer
+...A dream?
+###--------
+###Mugshot:GeoNoVisualizer
+What a weird dream...
+###--------
+###Mugshot:GeoNoVisualizer
+Didn't I have one like
+that before?
+###--------
+###Mugshot:GeoNoVisualizer
+...Hmm?
+###--------
+###Script:32
+###Mugshot:GeoNoVisualizer
+###--------
+###Mugshot:GeoNoVisualizer
+The pendant's glowing...
+What does this mean?
+###--------
+###Script:33
+###Mugshot:GeoNoVisualizer
+It stopped.
+###--------
+###Script:34
+###Mugshot:Geo
+Hey, Mega. Did you have
+the same dream?
+###--------
+###Script:35
+###Mugshot:OmegaXis
+Yeah, there were 3
+strange shadows...
+###--------
+###Mugshot:OmegaXis
+And they kept grumbling
+about something.
+###--------
+###Mugshot:OmegaXis
+I didn't understand any of it.
+###--------
+###Script:36
+###Mugshot:Geo
+Well, you weren't the
+only one.
+###--------
+###Mugshot:Geo
+Speaking of things we
+don't get...
+###--------
+###Script:37
+###Mugshot:Geo
+When I woke up, my
+pendant was glowing...
+###--------
+###Mugshot:Geo
+Did it have something to
+do with the dream?
+###--------
+###Script:38
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well, it also lit up when you
+made that Brother Band.
+###--------
+###Script:39
+###Mugshot:Geo
+I wonder what this really is.
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I don't think it's a plain old
+pendant anymore. Maybe it's
+got some special function?
+###--------
+###Mugshot:Geo
+Hmm...
+###--------
+###Mugshot:Geo
+......
+###--------
+###Script:40
+###Mugshot:OmegaXis
+You seem to care a lot
+about it.
+###--------
+###Script:41
+###Mugshot:Geo
+Well, it's a memento of
+my dad.
+###--------
+###Script:42
+###Mugshot:OmegaXis
+Well, let's go ask your mom
+about it.
+###--------
+###Script:43
+###Mugshot:Geo
+OK.
+###--------

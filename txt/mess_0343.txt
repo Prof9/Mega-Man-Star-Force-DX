@@ -1,0 +1,236 @@
+﻿###TextArchive:mess_0343
+###Script:0
+###Mugshot:GeminiSparkBlack
+No... How could I lose again!?
+###--------
+###Script:1
+###Mugshot:GeminiSparkWhite
+Andromeda...!
+Avenge us...!
+###--------
+###Script:2
+###Mugshot:3
+Geo... what just happened
+with you...?
+###--------
+###Script:3
+###Mugshot:0
+Pat!
+###--------
+###Script:4
+###Mugshot:Pat
+Ooogh...
+###--------
+###Mugshot:Pat
+Geo... I don't think this
+makes up for what I did
+to you, but I... I still hope...
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I can be... your Brother...
+*thud*
+###--------
+###Script:5
+###Mugshot:0
+Pat!!
+###--------
+###Script:6
+###Mugshot:3
+He's alright.
+He just fainted.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+But we should take him to
+AMAKEN just to be safe.
+Are you OK?
+###--------
+###Script:7
+###Mugshot:0
+I'm OK. But Pat...
+We should hurry.
+###--------
+###Script:8
+###Mugshot:3
+Alright.
+###--------
+###Script:9
+###--------
+At Mr. Boreal's request,
+Mr. Dubius was contacted and
+Pat was rushed to AMAKEN.
+###--------
+Afterwards...
+###--------
+###Script:10
+###Mugshot:3
+It is quite an unbelievable
+story, but you becoming
+friends with an FM-ian
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+named Mega and changing
+into "Mega Man"...
+###--------
+###Mugshot:3
+Well, it means that you
+have the power to fuse
+with an FM-ian...
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+And if I can fix that
+transmitter and send
+you into space,
+###--------
+###Mugshot:3
+then maybe you can stop
+the FM-ians' plan...
+###--------
+###Script:11
+###Mugshot:0
+We've got to hurry!
+###--------
+###Mugshot:0
+If we don't, it might be
+too late for us!
+###--------
+###Script:12
+###Mugshot:3
+Sorry, but I have to
+think about it...
+###--------
+###Script:13
+###Mugshot:0
+What!?
+###--------
+###Script:14
+###Mugshot:3
+Just because you have the
+power to fight the FM-ians,
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+that doesn't mean I can
+just send you off into
+outer space!!
+###--------
+###Script:15
+###Mugshot:0
+But!!
+###--------
+###Script:16
+###Mugshot:3
+What if something happened
+to you?
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+How would your mother feel
+if she lost you, the only link
+she has left to your father?
+###--------
+###Mugshot:3
+How would I be able to
+face her then!?
+###--------
+###Mugshot:3
+I'm the one who sent your
+father into space! ME!
+###--------
+###Script:17
+###Mugshot:0
+###--------
+###Mugshot:0
+"No matter how small of a
+chance, as long as there is
+hope, then we can't give up."
+###--------
+###Mugshot:0
+My dad used to say that...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I'm not who I was before.
+I'm not afraid of losing
+people anymore.
+###--------
+###Mugshot:0
+And I fight so I can
+protect those I love.
+###--------
+###Script:18
+###Mugshot:Kelvin
+###--------
+###Mugshot:Kelvin
+Aaron, I'm going to put
+everything on this tiny
+sliver of hope and try.
+###--------
+###Script:19
+###Mugshot:3
+...Kelvin.
+###--------
+###Script:20
+###Mugshot:0
+Mr. Boreal...
+###--------
+###Script:21
+###Mugshot:3
+###--------
+###Mugshot:3
+Give me one day.
+I'm gonna get this up and
+running by tomorrow.
+###--------
+###Script:22
+###Mugshot:0
+Really!?
+###--------
+###Script:23
+###Mugshot:3
+Yeah. But you have to
+promise me something.
+###--------
+###Script:24
+###Mugshot:0
+A promise? OK...
+###--------
+###Script:25
+###Mugshot:3
+Come back alive!
+###--------
+###Mugshot:3
+You can promise me
+that, right!?
+###--------
+###Script:26
+###Mugshot:0
+I will! Promise!
+###--------
+###Script:27
+###Mugshot:3
+OK. You go home and get
+a good night's sleep.
+###--------
+###Script:28
+###Mugshot:0
+*nod*
+###--------
+###Script:29
+###Mugshot:3
+.<waitSkip>.<waitSkip>.<waitSkip>I'm doing the right thing,
+aren't I, Kelvin?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------

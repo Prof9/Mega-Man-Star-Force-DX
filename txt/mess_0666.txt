@@ -1,0 +1,9 @@
+﻿###TextArchive:mess_0666
+###Script:4
+This monitor shows inside
+the SpaceSim.
+###--------
+###Script:5
+A giant planet is
+blocking the road...
+###--------

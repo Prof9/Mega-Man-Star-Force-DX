@@ -1,0 +1,146 @@
+﻿###TextArchive:mess_0371
+###Script:0
+###Mugshot:0
+Dad...
+###--------
+###Mugshot:0
+I don't think I'll ever see
+the Earth again.
+###--------
+###Script:1
+###Mugshot:Kelvin
+Don't give up yet, Geo.
+###--------
+###Mugshot:Kelvin
+You still have strong
+bonds to the Earth.
+###--------
+###Mugshot:Kelvin
+Bonds that, no matter
+how far apart you are,
+can't be cut.
+###--------
+###Mugshot:Kelvin
+###--------
+###Mugshot:Kelvin
+Geo, believe in your
+Brothers.
+###--------
+###Mugshot:Kelvin
+And never give up.
+###--------
+###Mugshot:Kelvin
+I'll always be watching
+over you.
+###--------
+###Script:2
+###Mugshot:0
+Dad!!
+Wait! Dad!!
+###--------
+###Mugshot:0
+Dad...
+###--------
+###Script:3
+*rustle*
+###--------
+###Script:4
+###Mugshot:0
+It was a dream.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Yo. Morning.
+###--------
+###Script:6
+###Mugshot:0
+I saw my dad in my
+dream... He told me to
+not give up...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+that I have strong bonds
+to the Earth... and to
+believe in my Brothers...
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Sounds like Kelvin.
+###--------
+###Mugshot:OmegaXis
+You never know. Maybe
+he really did come by.
+###--------
+###Script:8
+*beep beep beep*<wait>
+###Command:wait frames=60
+###--------
+###Script:9
+###Mugshot:0
+What's my Transer doing?
+###--------
+###Script:10
+###Mugshot:0
+This light...
+###--------
+###Script:11
+*beep beep beep*<wait>
+###Command:wait frames=50
+###--------
+*beeeeeeeep*
+###--------
+###Script:12
+###Mugshot:0
+Aah!!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Is that what I think it is...?
+###--------
+###Script:14
+###Mugshot:0
+It's the Brother Band...
+###--------
+###Mugshot:0
+They were looking for me!
+###--------
+###Script:15
+###Mugshot:OmegaXis
+Looks like they were
+really trying too.
+###--------
+###Mugshot:0
+(Dad...)
+###--------
+###Mugshot:0
+(Now I see why you valued
+the bonds between people
+so much.)
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(No matter how far apart
+we are, no one can erase
+the power of this bond...)
+###--------
+###Mugshot:0
+(Dad, I think I can be
+strong and move on.)
+###--------
+###Mugshot:0
+(Because I'm not alone now.)
+###--------
+###Mugshot:0
+(And I have you,
+wherever you are...)
+###--------
+###Mugshot:0
+Let's go home to everyone.
+###--------

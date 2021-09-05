@@ -1,0 +1,19 @@
+﻿###TextArchive:mess_0685
+###Script:0
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=41
+###--------
+###Script:1
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=41
+###--------
+###Script:2
+A big heavy door is
+blocking the road.
+###--------
+###Script:3
+A big heavy door is
+blocking the road.
+###--------

@@ -1,0 +1,90 @@
+﻿###TextArchive:mess_0514
+###Script:0
+###Mugshot:Luna
+Let's go back to the
+Science Museum.
+###--------
+###Mugshot:Luna
+Chop-chop!
+Let's move!
+###--------
+###Script:1
+###Mugshot:Bud
+SpaceSim?
+###--------
+###Mugshot:Bud
+What is that?
+Is it something you can eat?
+###--------
+###Script:2
+###Mugshot:Zack
+The FlapPack...
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+If they announced this,
+I'm sure it'd be the talk
+of the town!
+###--------
+###Script:3
+###Mugshot:AaronBoreal
+I think the space tour's
+about to start.
+###--------
+###Mugshot:AaronBoreal
+Better get back to the
+Science Museum.
+###--------
+###Script:50
+###Mugshot:CommonNavi
+Where am I?
+What am I going to do??
+###--------
+###Mugshot:CommonNavi
+It looks like a bunch of
+top-secret stuff.
+###--------
+###Mugshot:CommonNavi
+If someone found out that
+I knew, I'd be deleted!
+###--------
+###Mugshot:CommonNavi
+I've got to get out of here!
+FAST!
+###--------
+###Mugshot:CommonNavi
+Where's the exit!?
+###--------
+###Script:51
+###Mugshot:CommonNavi
+Oh me, oh my!
+Something bad is happening!!
+###--------
+###Mugshot:CommonNavi
+I'm so lost! I don't know
+where I started from!
+###--------
+###Mugshot:CommonNavi
+Huh?
+The oxygen's running out?
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+I don't know anything
+about that!
+###--------
+###Mugshot:CommonNavi
+All I care about is
+where the exit is!
+###--------
+###Script:100
+###Mugshot:7
+OH! ARE YOU A CUSTOMER?
+WHAT A RARITY!
+###--------
+###Mugshot:7
+USUALLY, THE PUBLIC
+ISN'T ALLOWED IN HERE.
+###--------

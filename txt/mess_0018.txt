@@ -1,0 +1,285 @@
+﻿###TextArchive:mess_0018
+###Script:0
+###Mugshot:PegasusMagicShadow
+Before you use the
+Star Force in battle,
+allow me to explain.
+###--------
+###Mugshot:PegasusMagicShadow
+The Pegasus Star Force
+transforms you into
+Ice Pegasus Mega Man.
+###--------
+###Mugshot:PegasusMagicShadow
+You will possess incredible
+speed and be able to move
+around panels quicker.
+###--------
+###Mugshot:PegasusMagicShadow
+Moreover, cards will
+automatically lock on
+to enemies,
+###--------
+###Mugshot:PegasusMagicShadow
+and you will be invisible
+for a brief moment when
+using Mega Attacks.
+###--------
+###Mugshot:PegasusMagicShadow
+Your Charged Shot will
+become an attack
+called Ice Slash,
+###--------
+###Mugshot:PegasusMagicShadow
+an Aqua attack that
+will freeze your foe.
+###--------
+###Mugshot:PegasusMagicShadow
+Lastly, the Star Force
+Big Bang, or SFB.
+###--------
+###Mugshot:IcePegasusMegaMan
+Star Force Big Bang?
+###--------
+###Mugshot:PegasusMagicShadow
+It is a powerful attack
+which utilizes the power
+of my Satellite.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+To use the SFB, you must
+first perform a Counter.
+###--------
+###Mugshot:PegasusMagicShadow
+The Bonus Card which comes
+from that will change into
+an SFB Battle Card
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+as long as you continue to
+be in your Star Force form.
+###--------
+###Mugshot:PegasusMagicShadow
+All you must do is
+press the A Button,
+###--------
+###Mugshot:PegasusMagicShadow
+and the SFB will fire
+down upon your enemies.
+###--------
+###Mugshot:PegasusMagicShadow
+The SFB is a ferocious
+power and you should
+try to obtain it,
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+but only when it is possible.
+Use it wisely, and it will
+be a great asset.
+###--------
+###Mugshot:PegasusMagicShadow
+Remember what I have said.
+###--------
+###Mugshot:PegasusMagicShadow
+Now, focus on the enemy
+before you.
+###--------
+###Mugshot:IcePegasusMegaMan
+Got it!
+OK, let's go!
+###--------
+###Script:10
+###Mugshot:LeoKingdomShadow
+Before you use the
+Star Force in battle,
+allow me to explain.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+While you are transformed,
+the number of cards you
+may pick increases.
+###--------
+###Mugshot:LeoKingdomShadow
+No longer are you limited
+to cards of the same
+column, but you may now
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+pick of the same row,
+and your charged shot
+will now burn your foe.
+###--------
+###Mugshot:LeoKingdomShadow
+It is an attack called
+Flame Burner.
+###--------
+###Mugshot:LeoKingdomShadow
+Lastly, the Star Force
+Big Bang, or SFB.
+###--------
+###Mugshot:FireLeoMegaMan
+Star Force Big Bang?
+###--------
+###Mugshot:LeoKingdomShadow
+It is a powerful attack
+which utilizes the power
+of my Satellite.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+To use the SFB, you must
+first perform a Counter.
+###--------
+###Mugshot:LeoKingdomShadow
+The Bonus Card which
+comes from that will
+change into an SFB
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Battle Card as long as
+you continue to be in
+your Star Force form.
+###--------
+###Mugshot:LeoKingdomShadow
+All you must do is
+press the A Button,
+###--------
+###Mugshot:LeoKingdomShadow
+and the SFB will fire
+down upon your enemies.
+###--------
+###Mugshot:LeoKingdomShadow
+The SFB is a ferocious
+power and you should try
+to obtain it, but only
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+when it is possible.
+Use it wisely, and it will
+be a great asset.
+###--------
+###Mugshot:LeoKingdomShadow
+Remember what I have said.
+
+###--------
+###Mugshot:LeoKingdomShadow
+Now, focus on the enemy
+before you.
+###--------
+###Mugshot:FireLeoMegaMan
+Got it!
+OK, let's go!
+###--------
+###Script:20
+###Mugshot:DragonSkyShadow
+Before you use the
+Star Force in battle,
+allow me to explain.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+While you are transformed,
+the number of cards you
+may pick increases.
+###--------
+###Mugshot:DragonSkyShadow
+No longer are you limited
+to cards of the same
+column, but you may now
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+pick of the same row,
+and your charged shot
+will now become a wide
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+attack, sending leaves
+down 3 columns in the
+shape of a spear.
+###--------
+###Mugshot:DragonSkyShadow
+It is an attack called
+Woody Shot.
+###--------
+###Mugshot:DragonSkyShadow
+Lastly, the Star Force
+Big Bang, or SFB.
+###--------
+###Mugshot:GreenDragonMegaMan
+Star Force Big Bang?
+###--------
+###Mugshot:DragonSkyShadow
+It is a powerful attack
+which utilizes the power
+of my Satellite.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+To use the SFB, you must
+first perform a Counter.
+###--------
+###Mugshot:DragonSkyShadow
+The Bonus Card which
+comes from that will
+change into an SFB
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Battle Card as long as
+you continue to be in
+your Star Force form.
+###--------
+###Mugshot:DragonSkyShadow
+All you must do is
+press the A Button,
+###--------
+###Mugshot:DragonSkyShadow
+and the SFB will fire
+down upon your enemies.
+###--------
+###Mugshot:DragonSkyShadow
+The SFB is a ferocious
+power and you should try
+to obtain it, but only
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+when it is possible.
+Use it wisely, and it will
+be a great asset.
+###--------
+###Mugshot:DragonSkyShadow
+Remember what I have said.
+
+###--------
+###Mugshot:DragonSkyShadow
+Now, focus on the enemy
+before you.
+###--------
+###Mugshot:GreenDragonMegaMan
+Got it!
+OK, let's go!
+###--------

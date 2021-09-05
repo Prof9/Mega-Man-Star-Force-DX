@@ -1,0 +1,12 @@
+﻿###TextArchive:mess_0405
+###Script:0
+Temp message
+###--------
+###Script:5
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It looks like Cygnus Wing's
+attack didn't do any
+lasting damage.
+###--------

@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0061
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Yoo-hoo, it's me, Nadia Kleen!
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:LittleGirl
+It's not that I'm a dirty
+person, but I am really
+bad at cleaning.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+And my day to clean
+the classroom is coming
+up soon.
+###--------
+###Script:4
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+It's not that I'm a dirty
+person, but I am really
+bad at cleaning.
+###--------
+###Mugshot:LittleGirl
+No matter how hard I
+try, this room won't
+get clean!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Cleaning huh...
+Should I give her a hand?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+What a drag!
+Let's get this over with!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Yeah, let's let her sort
+out her own problems.
+###--------
+###Script:6
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+It's not that I'm a dirty
+person, but I am really
+bad at cleaning.
+###--------
+###Mugshot:LittleGirl
+No matter how hard I
+try, this room won't
+get clean!
+###--------
+###Script:7
+###Mugshot:LittleGirl
+I'm a pro when it
+comes to cleaning!
+###--------
+###Mugshot:LittleGirl
+Did you know?
+When cleaning a room,
+###--------
+###Mugshot:LittleGirl
+the corners make all
+the difference.
+It's true!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

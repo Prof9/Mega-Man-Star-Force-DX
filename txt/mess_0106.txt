@@ -1,0 +1,137 @@
+﻿###TextArchive:mess_0106
+###Script:0
+You there! Wait!
+###--------
+###Script:1
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+You're the one, aren't you?
+The boy who never comes
+to school.
+###--------
+###Mugshot:Luna
+I am Luna Platz of Echo
+Elementary, class 5-A,
+###--------
+###Mugshot:Luna
+which makes me your
+Class President!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+The big guy behind me is
+Bud Bison, and the short
+one is Zack Temple.
+###--------
+###Script:2
+###Mugshot:0
+......
+###--------
+###Script:3
+###Mugshot:Bud
+Hey, jerk!
+###--------
+###Mugshot:Bud
+Don't just stand there!
+Say something!
+###--------
+###Script:4
+###Mugshot:Zack
+The Prez is waiting
+for a response!
+###--------
+###Script:5
+###Mugshot:0
+...What do you want?
+###--------
+###Script:6
+###Mugshot:Luna
+Nothing.
+But it's my job as
+Class President
+###--------
+###Mugshot:Luna
+to see that all of my
+classmates attend school!
+###--------
+###Script:7
+###Mugshot:0
+Uh, what?
+###--------
+###Script:8
+###Mugshot:Luna
+I hate it when things
+are not perfect,
+###--------
+###Mugshot:Luna
+so having one person
+missing is unforgivable!
+###--------
+###Script:9
+###Mugshot:0
+Sorry, but I've got
+nothing to do with you.
+###--------
+###Script:10
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Hey!
+You can't say that
+to the Prez!!
+###--------
+###Script:11
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+How dare you!
+The Prez is telling you
+to go to school!
+###--------
+###Mugshot:Zack
+Don't look down on us
+because you're taller!
+###--------
+###Script:12
+###Mugshot:Luna
+Bud! Zack!
+That's enough!
+###--------
+###Script:13
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+In any case, Geo,
+I expect to see you
+at school tomorrow.
+###--------
+###Script:14
+###Mugshot:0
+.........
+###--------
+###Script:15
+###Mugshot:Luna
+Geo Stelar...
+###--------
+###Mugshot:Luna
+Something tells me he
+won't be showing up.
+###--------
+###Mugshot:Luna
+If only we had some
+way to open him up...
+###--------
+###Mugshot:Luna
+Hmm, today's Brother Band
+lesson was...
+###--------
+###Mugshot:Luna
+Yes...
+That may come in handy...
+###--------
+###Mugshot:Luna
+Come on, you two!
+Let's get going!!
+###--------

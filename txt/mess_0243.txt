@@ -1,0 +1,14 @@
+﻿###TextArchive:mess_0243
+###Script:0
+###Mugshot:MegaMan
+Where'd he go!?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+He's probably headed
+for Luna!
+###--------
+###Script:2
+###Mugshot:MegaMan
+No! We've gotta hurry back!!
+###--------

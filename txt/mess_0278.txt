@@ -1,0 +1,87 @@
+﻿###TextArchive:mess_0278
+###Script:0
+###Mugshot:1
+Boy, don't you look suspect?
+###--------
+###Script:1
+###Mugshot:Jammer
+Hee hee hee.
+###--------
+###Mugshot:Jammer
+You're finally here,
+Mega Man.
+###--------
+###Script:2
+###Mugshot:1
+Are you the one behind
+those weird waves?
+###--------
+###Script:3
+###Mugshot:Jammer
+That was a power given
+to me by a certain person.
+###--------
+###Mugshot:Jammer
+I was given the task of
+destroying all Brother Bands
+###--------
+###Mugshot:Jammer
+by making Brothers fight
+each other.
+###--------
+###Mugshot:Jammer
+Hee hee hee.
+###--------
+###Script:4
+###Mugshot:1
+Destroy people's
+Brother Bands?
+###--------
+###Mugshot:1
+Then those people who
+were fighting...
+###--------
+###Script:5
+###Mugshot:Jammer
+Bingo! They're all Brothers!
+###--------
+###Mugshot:Jammer
+Heeeee hee hee!
+###--------
+###Script:6
+###Mugshot:1
+Why would you do that!?
+###--------
+###Script:7
+###Mugshot:Jammer
+"That" person hates
+Brother Bands.
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Don't you get it?
+That's why we'll destroy
+them all!
+###--------
+###Script:8
+###Mugshot:1
+What a lowlife.
+###--------
+###Script:9
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, Geo.
+Let's just hurry up and
+deal with this guy.
+###--------
+###Script:10
+###Mugshot:1
+Yeah. We can't let him be.
+###--------
+###Script:11
+###Mugshot:Jammer
+I won't let you ruin
+our plans!
+###--------

@@ -1,0 +1,118 @@
+﻿###TextArchive:mess_0224
+###Script:0
+###Mugshot:0
+Mr. Shepar...
+###--------
+###Script:1
+###Mugshot:11
+Well, well, a bad kid
+running from class, I see.
+###--------
+###Script:2
+###Mugshot:0
+Why are you doing this
+to us all of a sudden?
+###--------
+###Script:3
+###Mugshot:11
+There's nothing to
+explain to you.
+It's a grown-up's problem.
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+All I can say is...
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+I will make this a
+top-ranked school.
+That is all.
+###--------
+###Script:4
+###Mugshot:0
+...Then...
+###--------
+###Mugshot:0
+Then the things you said
+before were all lies?
+###--------
+###Mugshot:0
+What happened to
+"there are other things
+that are important
+###--------
+###Mugshot:0
+outside of school and
+books..."?
+###--------
+###Script:5
+###Mugshot:11
+That...
+###--------
+###Script:6
+###Mugshot:12
+Get a grip.
+###--------
+###Mugshot:12
+You're losing the precious
+balance you had.
+###--------
+###Script:7
+###Mugshot:11
+You don't need to worry.
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+...By the way, Geo,
+how is it that you can
+move about freely?
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+...Oh, I get it.
+The Study Wave isn't
+on strong enough.
+###--------
+###Mugshot:11
+In that case...
+###--------
+###Script:8
+###Mugshot:11
+In that case, I'll have
+to pump it up.
+###--------
+###Mugshot:11
+And this time, I'll control
+it from in here!
+###--------
+###Script:9
+###Mugshot:OmegaXis
+Argh, they went inside
+the Comp.
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Then, we've gotta pulse in.
+###--------
+###Mugshot:OmegaXis
+Put on your Visualizer, Geo.
+###--------
+###Script:11
+###Mugshot:0
+There aren't any waveholes
+here.
+###--------
+###Script:12
+###Mugshot:OmegaXis
+We're gonna have to pulse
+in from somewhere else.
+###--------
+###Mugshot:OmegaXis
+Let's get outta here and
+look for a wavehole.
+###--------

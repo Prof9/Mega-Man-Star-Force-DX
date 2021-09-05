@@ -1,0 +1,95 @@
+﻿###TextArchive:mess_1174
+###Script:0
+###Mugshot:OmegaXis
+There's no reason to go
+over there!!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+There's no reason to go
+over there!
+###--------
+###Script:60
+###Mugshot:12
+You there!!
+###--------
+###Mugshot:12
+I, Couronne the XIV,
+master of the Jour
+Jovonne family
+###--------
+###Mugshot:12
+###--------
+###Mugshot:12
+desire to engage in
+spirited battle with you.
+Face me now!
+###--------
+###Mugshot:12
+<positionOptionFromCenter><optionText>  Fight  <optionText>  Don't
+###Command:positionOptionFromCenter width=85
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:61
+###Mugshot:12
+You there!!
+###--------
+###Mugshot:12
+Have ye come to duel with
+me, Couronne the XIV,
+###--------
+###Mugshot:12
+master of the
+Jour Jovonne family?
+###--------
+###Mugshot:12
+<positionOptionFromCenter><optionText>  Fight  <optionText>  Don't
+###Command:positionOptionFromCenter width=85
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:63
+###Mugshot:OmegaXis
+Get ready, Geo!!
+###--------
+###Script:64
+###Mugshot:OmegaXis
+Let's do this, Geo!
+###--------
+###Script:65
+###Mugshot:OmegaXis
+Stay on your toes, Geo!
+###--------
+###Script:67
+###Mugshot:12
+###--------
+###Mugshot:12
+I must say...
+Your skills are praiseworthy.
+###--------
+###Script:68
+###Mugshot:12
+Hmph! Did you think you
+even stood a chance?
+###--------
+###Script:69
+###Mugshot:CrownThunder
+How dare you refuse an
+offer from ME!?
+###--------
+###Script:200
+###Mugshot:CommonNavi
+<optionButtonSmall><optionButtonSmall>Hey, take a look at
+these goods.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+Please come back again
+sometime!
+###--------
+###Script:202
+###Mugshot:CommonNavi
+Sorry, I'm all sold out...
+###--------

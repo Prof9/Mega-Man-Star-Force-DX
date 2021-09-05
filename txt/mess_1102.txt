@@ -1,0 +1,16 @@
+﻿###TextArchive:mess_1102
+###Script:0
+###Mugshot:1
+There's no reason to go
+there now...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+I guess I should go look
+for that guy...
+###--------
+###Script:5
+###Mugshot:MegaMan
+If I pulse out now,
+they'll find me for sure!
+###--------

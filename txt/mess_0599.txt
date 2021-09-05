@@ -1,0 +1,151 @@
+﻿###TextArchive:mess_0599
+###Script:1
+This is a map of
+Dream Island.
+###--------
+The shape of it when viewed
+from above is quite unique.
+###--------
+###Script:2
+A street sign.
+###--------
+I'll hurt my neck if I look
+at it too long.
+###--------
+###Script:3
+This long bridge continues
+on to Dream Island.
+###--------
+###--------
+Below the bridge isn't a
+river, it's the ocean.
+###--------
+###Script:4
+According to this sign...
+###--------
+There's a park on the
+right and a waste plant
+on the left.
+###--------
+###Script:5
+A cute pink bench...
+###--------
+Couples can sit here and
+be all lovey-dovey...
+###--------
+...I've heard.
+###--------
+###Script:6
+A pile of logs.
+###--------
+###--------
+The smell of wood and sea
+mixed together smells nice.
+###--------
+###Script:8
+The gate arm is down.
+###--------
+###--------
+Looks like only official
+vehicles can go through.
+###--------
+###Script:10
+###--------
+This second-hand shop sells
+used items for just a fraction
+of what they would cost new.
+###--------
+###Script:11
+This gate made of logs is...
+###--------
+The entrance to Dream Park.
+###--------
+###Script:12
+"The place where you are
+standing was once ocean."
+###--------
+###--------
+"This entire island was built
+on a landfill which was even-
+tually called Dream Island."
+###--------
+###Script:16
+No bus yet.
+###--------
+###Script:18
+Where do you want to go?
+###--------
+###Script:19
+<optionText>  Echo Ridge<spacePx><optionText>  Quit
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:20
+<optionText>  Echo Ridge<spacePx><optionText>  AMAKEN
+<optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=2 right=2
+###--------
+###Script:21
+<optionText>  Echo Ridge<spacePx><optionText>  AMAKEN
+<optionText>  Time Square<spacePx><optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=3 down=3 left=0 right=0
+###Command:optionText up=0 down=0 left=3 right=3
+###Command:spacePx count=3
+###Command:optionText up=1 down=1 left=2 right=2
+###--------
+###Script:23
+It doesn't look like the
+bus is coming soon.
+###--------
+###Script:25
+A garbage truck.
+###--------
+I sometimes see them
+in town.
+###--------
+###Script:26
+A garbage truck.
+###--------
+I sometimes see them
+in town.
+###--------
+Oh...?
+What's this?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Script:30
+A used refrigerator.
+###--------
+You can hardly tell because
+it's so shiny.
+###--------
+###Script:31
+A used refrigerator.
+###--------
+You can hardly tell because
+it's so shiny.
+###--------
+###--------
+Oh...?
+The power's off.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whirr* *hum*
+###--------
+There's a wavehole here!
+###--------

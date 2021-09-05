@@ -1,0 +1,106 @@
+﻿###TextArchive:mess_0043
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Worker
+Welcome to Sumar's
+Transer! Enjoy yourself.
+###--------
+###Script:3
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I work as an engineer at
+AMAKEN for Mr. Boreal.
+I respect him a lot!
+###--------
+###Script:4
+###Mugshot:Worker
+Sumar is in quite a pinch.
+I know not why, yet
+there seems to be a
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+strange occurrence with
+this device. Someone
+please assist me!
+###--------
+###Mugshot:OmegaXis
+I'm guessing he's not
+from these parts...
+###--------
+###Mugshot:MegaMan
+Maybe he's from overseas.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Humans change their words
+depending on what part of
+the planet they're from?
+###--------
+###Mugshot:OmegaXis
+Now that's strange...
+Oh, well.
+###--------
+###Mugshot:MegaMan
+Well, should we help him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's go over there
+and see what he needs.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Oh well...
+He's as good as demoted.
+###--------
+###Script:6
+###Mugshot:Worker
+Sumar is in quite a pinch.
+I know not why, yet
+there seems to be a
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+strange occurrence with
+this device. Someone
+please assist me!
+###--------
+###Script:7
+###Mugshot:Worker
+I was assisted with the
+device by a young boy!
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+The education level in this
+country is sensational!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,109 @@
+﻿###TextArchive:mess_0573
+###Script:10
+###Mugshot:24
+Looks like my friends will
+be a little late.
+###--------
+###Mugshot:24
+###--------
+###Mugshot:24
+But there's so much to
+do here! I hope they'll
+get here soon!
+###--------
+###Script:11
+###Mugshot:7
+Mmm, the cakes here are
+the absolute best!
+###--------
+###Script:12
+###Mugshot:5
+###--------
+###Mugshot:5
+If you look at the Mowai
+for too long, pretty soon,
+your eyes are spinning too!
+###--------
+###Script:13
+###Mugshot:9
+Hmm...
+Still not here yet, huh...?
+###--------
+###Script:15
+###Mugshot:24
+.........
+###--------
+###Mugshot:0
+Mom...
+###--------
+###Script:16
+###Mugshot:7
+Ooooogh...
+###--------
+###Script:17
+###Mugshot:5
+...Nnngh...
+###--------
+###Script:18
+###Mugshot:9
+.........
+###--------
+###Script:19
+Ohhh...
+###--------
+###Script:20
+###Mugshot:6
+###--------
+###Mugshot:6
+The Satella Police came and
+took care of all the folks
+that fainted a little while back.
+###--------
+###Mugshot:6
+They sure know how to
+do their job...
+###--------
+###Script:30
+###Mugshot:6
+###--------
+###Mugshot:6
+There aren't too many people
+here, all because of what
+happened.
+###--------
+###Script:40
+###Mugshot:8
+Oh no... What will happen
+to the Earth?
+###--------
+###Script:41
+###Mugshot:7
+As long as the world is
+coming to an end,
+###--------
+###Mugshot:7
+I might as well try every
+kind of cake here!
+###--------
+###Script:42
+###Mugshot:5
+Can it be this Mowai is
+calling the aliens here?
+###--------
+###Script:43
+###Mugshot:9
+###--------
+###Mugshot:9
+If I stay here in a town as
+populated as this, I might
+get hurt by the aliens too...
+###--------
+###Script:44
+###Mugshot:16
+A large amount of Z waves
+are approaching!!
+###--------
+###Mugshot:16
+How are we supposed to
+face this enemy!?
+###--------

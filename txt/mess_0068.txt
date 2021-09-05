@@ -1,0 +1,116 @@
+﻿###TextArchive:mess_0068
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Woman
+Hello!
+Welcome to my Transer.
+###--------
+###Script:3
+###Mugshot:Woman
+I work at Nacys in
+Time Square.
+Please drop by.
+###--------
+###Script:4
+###Mugshot:Woman
+I work at Nacys in
+Time Square.
+Please drop by.
+###--------
+###Mugshot:Woman
+I've been thinking
+about remodeling the
+front entrance,
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+but I'm having trouble
+deciding what kind of
+automatic doors to put in...
+###--------
+###Mugshot:MegaMan
+I wonder if I could be of
+some help...
+###--------
+###Mugshot:OmegaXis
+Well? Wanna go and
+talk to her?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK. Let's do this job
+and split.
+###--------
+###Mugshot:MegaMan
+Hmm, remodeling..
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Yeah, she can figure
+it out by herself.
+###--------
+###Script:6
+###Mugshot:Woman
+I work at Nacys in
+Time Square.
+Please drop by.
+###--------
+###Mugshot:Woman
+I've been thinking
+about remodeling the
+front entrance,
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+but I'm having trouble
+deciding what kind of
+automatic doors to put in...
+###--------
+###Script:7
+###Mugshot:Woman
+I decided what to do
+about the automatic doors.
+###--------
+###Mugshot:Woman
+I'm going to make my
+decision based on safety.
+###--------
+###Mugshot:Woman
+I got some really good
+advice from a customer,
+who reminder me that
+###--------
+###Mugshot:Woman
+safety is more important
+than looks or functionality.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Thank you, boy with
+the green glasses.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

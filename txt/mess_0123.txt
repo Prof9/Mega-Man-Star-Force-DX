@@ -1,0 +1,106 @@
+﻿###TextArchive:mess_0123
+###Script:0
+###Mugshot:1
+Now what?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We've gotta get into the
+Truck Comp, and beat the
+FM-ian that's causing this.
+###--------
+###Mugshot:OmegaXis
+When the truck passes
+under us, jump!
+###--------
+###Script:2
+###Mugshot:1
+O-OK...
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Don't chicken out on me!
+Here it comes!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Alright!
+Now! Jump!!
+###--------
+###Script:5
+###Mugshot:1
+O-OK!!
+###--------
+###Script:6
+###Mugshot:1
+.........
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Stop spacing out, kid!!
+###--------
+###Script:8
+###Mugshot:1
+I can't jump onto something
+going that fast!
+###--------
+###Script:9
+###Mugshot:OmegaXis
+Then we have no choice
+but to stop it with brute
+force!
+###--------
+###Mugshot:OmegaXis
+One charged shot should
+do the...
+###--------
+###Mugshot:1
+W-W-W-Wait a sec!!
+###--------
+###Mugshot:1
+If you do that, you'll hurt
+the other guys, too!
+###--------
+###Mugshot:OmegaXis
+Then what do you suggest?
+Leave them be and let
+them cause an accident
+###--------
+###Mugshot:OmegaXis
+and get hurt that way?
+###--------
+###Script:10
+###Mugshot:1
+An accident? I got it!
+###--------
+###Mugshot:1
+If we could block the
+road somehow...
+###--------
+###Mugshot:1
+we could stop the truck.
+But how...?
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Don't look at me!
+You figure it out!
+###--------
+###Mugshot:OmegaXis
+There's nothing around
+that can stop a truck.
+###--------
+###Mugshot:OmegaXis
+Am I right or am I right?
+###--------
+###Script:12
+###Mugshot:1
+You're right...
+But I'm not giving up.
+###--------
+###Mugshot:1
+There's gotta be something
+around here I can use!
+###--------

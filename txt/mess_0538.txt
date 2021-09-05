@@ -1,0 +1,35 @@
+﻿###TextArchive:mess_0538
+###Script:10
+###Mugshot:5
+###--------
+###Mugshot:5
+I had to stay after school
+again for being tardy...
+###--------
+###Script:11
+###Mugshot:7
+###--------
+###Mugshot:7
+He's always tardy.
+No matter how many times
+I keep him after class,
+###--------
+###Mugshot:7
+he still comes in super late!
+###--------
+###Script:20
+###Mugshot:5
+###--------
+###Mugshot:5
+I hate always getting
+lectured, but I kinda feel
+like my teacher really cares...
+###--------
+###Script:21
+###Mugshot:7
+###--------
+###Mugshot:7
+I do my best to teach
+my students how to be
+responsible.
+###--------

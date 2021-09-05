@@ -1,0 +1,118 @@
+﻿###TextArchive:mess_0421
+###Script:0
+Temp message
+###--------
+###Script:8
+###Mugshot:MegaMan
+*gulp* 
+###--------
+###Mugshot:MegaMan
+S-So the virus is
+inside this Comp Space?
+###--------
+###Script:11
+###Mugshot:1
+###--------
+###Mugshot:1
+I don't feel good about
+snooping around in other
+people's Transers...
+###--------
+###Script:13
+###Mugshot:1
+###--------
+###Mugshot:1
+Could some kind of FM-ian
+be hiding in a Comp Space
+somewhere in town?
+###--------
+###Script:14
+###Mugshot:1
+I guess I'll go home for now...
+###--------
+###Script:15
+###Mugshot:1
+*yawn* I need some rest.
+###--------
+###Script:20
+###Mugshot:1
+The stars should be coming
+out pretty soon...
+###--------
+###Mugshot:1
+I'd better make my way
+up to Vista Point.
+###--------
+###Script:21
+###Mugshot:1
+Guess I'll head on up to
+Vista Point.
+###--------
+###Script:22
+###Mugshot:1
+I guess I'll head home...
+###--------
+###Script:23
+###Mugshot:1
+There has to be a way
+to stop that truck...
+###--------
+###Script:24
+###Mugshot:1
+I've have to get inside
+that Truck Comp...
+###--------
+###Script:25
+###Mugshot:1
+There's no other way...
+I have to go back in...
+###--------
+###Script:48
+###Mugshot:MegaMan
+AMAKEN...
+Guess I should go in.
+###--------
+###Script:49
+###Mugshot:MegaMan
+OK... Off to the
+Science Museum.
+###--------
+###Script:50
+###Mugshot:MegaMan
+There're some displays in
+the Science Museum.
+###--------
+###Script:51
+###Mugshot:MegaMan
+Guess I'll go find Mr. Boreal.
+###--------
+###Script:52
+###Mugshot:MegaMan
+Guess I'll go to the lab...
+###--------
+###Script:53
+###Mugshot:MegaMan
+A SpaceSim tour...
+###--------
+###Mugshot:MegaMan
+Guess I should head over
+to the Science Museum.
+###--------
+###Script:65
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Something that can pull in
+EM waves... I think there
+was a display like that...
+###--------
+###Script:66
+###Mugshot:MegaMan
+It's fixed! Now I can get
+to the other side!
+###--------
+###Script:67
+###Mugshot:MegaMan
+I've got to get to the
+SpaceSim Comp!
+###--------

@@ -1,0 +1,554 @@
+﻿###TextArchive:mess_0000
+###Script:0
+###--------
+<optionButtonWide><optionButtonWide><optionButtonWide>What do you want to
+do with <printEnemyBuffered>'s
+record?
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="See Bros. Ranks"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Delete My Record"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Del Friend's Rec"
+###Command:printEnemyBuffered buffer=0
+###--------
+###Script:1
+Begin HelpSignal
+###--------
+###Script:2
+ !"#$%&'()*+,-./
+0123456789:;\<=\>?
+@ABCDEFGHIJKLMNO
+###--------
+PQRSTUVWXYZ\\[[¥]\\]^_
+`abcdefghijklmno
+pqrstuvwxyz{|}~¡
+###--------
+¢£¤¥¦§¨©ª«¬­®¯°±
+²³´µ¶·¸¹º»¼½¾¿ÀÁ
+ÂÃÄÅŒÇÈÉÊËÌÍÎÏÐÑ
+###--------
+ÒÓÔÕÖ×ØÙÚÛÜÝÞßàá
+âãäåœçèéêëìíîïðñ
+òóôõö÷øùúûüýþÿ[*][-]
+###--------
+[×][=][:][%][?][+]■。ー[!][RV][BX][&]、゜[.]
+[·][·][;][']["]["][~][/][(][)]「」[EX][SP][GX][DX]
+[_][z][END][MB][circle]€∞[÷][@]★[\\[][\\]]‘—‚
+###--------
+###Script:3
+<positionOptionFromCenter>
+<positionOptionFromCenter>
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=5
+###Command:positionOptionFromCenter width=4
+###Command:positionOptionFromCenter width=3
+###--------
+<positionOptionFromCenter><optionText>  End  <optionText>  Don't End
+###Command:positionOptionFromCenter width=106
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:4
+<optionButtonSmall><optionButtonSmall>Connect & update data?
+Or correct code?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Connect"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Code"
+###--------
+###Script:5
+<optionButtonSmall><optionButtonSmall>Connect & update data?
+Or correct code?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Connect"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Code"
+###--------
+###Script:6
+<optionButtonWide><optionButtonWide><optionButtonWide>Choose action...
+
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Equip"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Change name"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Erase"
+###--------
+###Script:7
+<optionButtonWide><optionButtonWide><optionButtonWide>Choose action...
+
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Equip"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Change name"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Erase"
+###--------
+###Script:8
+Start Note game
+###--------
+###Script:9
+Oh<waitSkip>.<waitSkip>.<waitSkip>.
+###Command:waitSkip frames=120
+###Command:waitSkip frames=120
+###Command:waitSkip frames=120
+###--------
+###Script:10
+###Mugshot:0
+Bro. face test
+###--------
+###Script:11
+Line test
+Line test
+Line test
+###--------
+Line test
+Line test
+Line test
+###--------
+Line test
+Line test
+Line test
+###--------
+Line test
+Line test
+Line test
+###--------
+###Script:20
+Got <printItem>!
+###Command:printItem item=0
+###--------
+###Script:21
+Got <printItem>!
+###Command:printItem item=1
+###--------
+###Script:22
+Got <printItem>!
+###Command:printItem item=2
+###--------
+###Script:23
+Got <printItem>!
+###Command:printItem item=3
+###--------
+###Script:24
+Got <printItem>!
+###Command:printItem item=4
+###--------
+###Script:25
+Got <printItem>!
+###Command:printItem item=5
+###--------
+###Script:26
+Got <printItem>!
+###Command:printItem item=6
+###--------
+###Script:27
+Got <printItem>!
+###Command:printItem item=7
+###--------
+###Script:28
+Got <printItem>!
+###Command:printItem item=8
+###--------
+###Script:29
+Got <printItem>!
+###Command:printItem item=9
+###--------
+###Script:30
+Got <printItem>!
+###Command:printItem item=10
+###--------
+###Script:31
+Got <printItem>!
+###Command:printItem item=11
+###--------
+###Script:32
+Got <printItem>!
+###Command:printItem item=12
+###--------
+###Script:33
+Got <printItem>!
+###Command:printItem item=13
+###--------
+###Script:34
+Got <printItem>!
+###Command:printItem item=14
+###--------
+###Script:35
+Got <printItem>!
+###Command:printItem item=15
+###--------
+###Script:36
+Got <printItem>!
+###Command:printItem item=16
+###--------
+###Script:37
+Got <printItem>!
+###Command:printItem item=17
+###--------
+###Script:38
+Got <printItem>!
+###Command:printItem item=18
+###--------
+###Script:39
+Got <printItem>!
+###Command:printItem item=19
+###--------
+###Script:40
+Got <printItem>!
+###Command:printItem item=20
+###--------
+###Script:41
+Got <printItem>!
+###Command:printItem item=21
+###--------
+###Script:42
+Got <printItem>!
+###Command:printItem item=22
+###--------
+###Script:43
+Got <printItem>!
+###Command:printItem item=23
+###--------
+###Script:44
+Got <printItem>!
+###Command:printItem item=24
+###--------
+###Script:45
+Got <printItem>!
+###Command:printItem item=25
+###--------
+###Script:46
+Got <printItem>!
+###Command:printItem item=26
+###--------
+###Script:47
+Got <printItem>!
+###Command:printItem item=27
+###--------
+###Script:48
+Got <printItem>!
+###Command:printItem item=28
+###--------
+###Script:49
+Got <printItem>!
+###Command:printItem item=29
+###--------
+###Script:50
+Got <printItem>!
+###Command:printItem item=30
+###--------
+###Script:51
+Got <printItem>!
+###Command:printItem item=31
+###--------
+###Script:52
+Got <printItem>!
+###Command:printItem item=32
+###--------
+###Script:53
+Got <printItem>!
+###Command:printItem item=33
+###--------
+###Script:54
+Got <printItem>!
+###Command:printItem item=34
+###--------
+###Script:55
+Got <printItem>!
+###Command:printItem item=35
+###--------
+###Script:56
+Got <printItem>!
+###Command:printItem item=36
+###--------
+###Script:57
+Got <printItem>!
+###Command:printItem item=37
+###--------
+###Script:58
+Got <printItem>!
+###Command:printItem item=38
+###--------
+###Script:59
+Got <printItem>!
+###Command:printItem item=39
+###--------
+###Script:60
+Got <printItem>!
+###Command:printItem item=40
+###--------
+###Script:61
+Got <printItem>!
+###Command:printItem item=41
+###--------
+###Script:62
+Got <printItem>!
+###Command:printItem item=42
+###--------
+###Script:63
+Got <printItem>!
+###Command:printItem item=43
+###--------
+###Script:64
+Got <printItem>!
+###Command:printItem item=44
+###--------
+###Script:65
+Got <printItem>!
+###Command:printItem item=45
+###--------
+###Script:66
+Got <printItem>!
+###Command:printItem item=46
+###--------
+###Script:67
+Got <printItem>!
+###Command:printItem item=47
+###--------
+###Script:68
+Got <printItem>!
+###Command:printItem item=48
+###--------
+###Script:69
+Got <printItem>!
+###Command:printItem item=49
+###--------
+###Script:70
+Got <printItem>!
+###Command:printItem item=50
+###--------
+###Script:71
+Got <printItem>!
+###Command:printItem item=51
+###--------
+###Script:72
+Got <printItem>!
+###Command:printItem item=52
+###--------
+###Script:73
+Got <printItem>!
+###Command:printItem item=53
+###--------
+###Script:74
+Got <printItem>!
+###Command:printItem item=54
+###--------
+###Script:75
+Got <printItem>!
+###Command:printItem item=55
+###--------
+###Script:76
+Got <printItem>!
+###Command:printItem item=56
+###--------
+###Script:77
+Got <printItem>!
+###Command:printItem item=57
+###--------
+###Script:78
+Got <printItem>!
+###Command:printItem item=58
+###--------
+###Script:79
+Got <printItem>!
+###Command:printItem item=59
+###--------
+###Script:80
+Got <printItem>!
+###Command:printItem item=60
+###--------
+###Script:81
+Got <printItem>!
+###Command:printItem item=61
+###--------
+###Script:82
+Got <printItem>!
+###Command:printItem item=62
+###--------
+###Script:83
+Got <printItem>!
+###Command:printItem item=63
+###--------
+###Script:84
+Got <printItem>!
+###Command:printItem item=64
+###--------
+###Script:85
+Got <printItem>!
+###Command:printItem item=65
+###--------
+###Script:86
+Got <printItem>!
+###Command:printItem item=66
+###--------
+###Script:87
+Got <printItem>!
+###Command:printItem item=67
+###--------
+###Script:88
+Got <printItem>!
+###Command:printItem item=68
+###--------
+###Script:89
+Got <printItem>!
+###Command:printItem item=69
+###--------
+###Script:90
+Got <printItem>!
+###Command:printItem item=70
+###--------
+###Script:91
+Got <printItem>!
+###Command:printItem item=71
+###--------
+###Script:92
+Got <printItem>!
+###Command:printItem item=72
+###--------
+###Script:93
+Got <printItem>!
+###Command:printItem item=73
+###--------
+###Script:94
+Got <printItem>!
+###Command:printItem item=74
+###--------
+###Script:95
+Got <printItem>!
+###Command:printItem item=75
+###--------
+###Script:96
+Got <printItem>!
+###Command:printItem item=76
+###--------
+###Script:97
+Got <printItem>!
+###Command:printItem item=77
+###--------
+###Script:98
+Got <printItem>!
+###Command:printItem item=78
+###--------
+###Script:100
+Got <printItem>!
+###Command:printItem item=96
+###--------
+###Script:101
+Got <printItem>!
+###Command:printItem item=97
+###--------
+###Script:102
+Got <printItem>!
+###Command:printItem item=98
+###--------
+###Script:103
+Got <printItem>!
+###Command:printItem item=99
+###--------
+###Script:104
+Got <printItem>!
+###Command:printItem item=100
+###--------
+###Script:105
+Got <printItem>!
+###Command:printItem item=101
+###--------
+###Script:106
+Got <printItem>!
+###Command:printItem item=102
+###--------
+###Script:107
+Got <printItem>!
+###Command:printItem item=103
+###--------
+###Script:108
+Got <printItem>!
+###Command:printItem item=104
+###--------
+###Script:109
+Got <printItem>!
+###Command:printItem item=105
+###--------
+###Script:110
+Got <printItem>!
+###Command:printItem item=106
+###--------
+###Script:111
+Got <printItem>!
+###Command:printItem item=107
+###--------
+###Script:112
+Got <printItem>!
+###Command:printItem item=108
+###--------
+###Script:113
+Got <printItem>!
+###Command:printItem item=109
+###--------
+###Script:114
+Got <printItem>!
+###Command:printItem item=110
+###--------
+###Script:115
+Got 10000 Zennys!
+###--------
+###Script:116
+Set 0 Zennys
+###--------
+###Script:120
+Encounter ON
+###--------
+###Script:121
+Trip Around World
+###--------
+###Script:122
+Got 10 HP Mems
+###--------
+###Script:123
+Got 20 HP Mems
+###--------
+###Script:230
+Begin B.Combo Rcog
+###--------
+###Script:231
+###Mugshot:LegendaryMasterShin
+Got "<printBestComboBuffer>"!!
+###Command:printBestComboBuffer
+###--------
+###Script:232
+###Mugshot:LegendaryMasterShin
+OK! But, wait...
+You didn't equip a
+Best Combo.
+###--------
+###Script:233
+###Mugshot:LegendaryMasterShin
+OK! But, wait...
+You've got 10 Legend Cards.
+###--------
+###Script:243
+6 Bros. reg OK
+###--------
+###Script:244
+Got Andromeda for mod
+check use!!
+###--------
+Still ???? because didn't
+get via wireless
+###--------
+###Script:245
+Got folder 2!!
+###--------
+###Script:246
+Got extra folder
+###--------
+###Script:247
+Got Star Force!!
+###--------
+###Script:248
+Got Star Force!!
+###--------
+###Script:249
+Got Star Force!!
+###--------
+###Script:250
+Bros. w/Sonia!!
+###--------
+###Script:251
+Bros. w/Bud!!
+###--------
+###Script:253
+Bros. w/Zack!!
+###--------
+###Script:254
+Bros. w/Luna!!
+###--------

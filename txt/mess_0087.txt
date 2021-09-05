@@ -1,0 +1,117 @@
+﻿###TextArchive:mess_0087
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:VaughnPlatz
+This Transer belongs to
+Vaughn Platz.
+###--------
+###Script:2
+###Mugshot:VaughnPlatz
+My next money-making
+scheme should be...
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+something that men and
+women, young and old
+can enjoy. ...The jungle...
+###--------
+###Mugshot:VaughnPlatz
+No, no, forget the jungle.
+###--------
+###Script:3
+###Mugshot:VaughnPlatz
+My next money-making
+scheme should be...
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+something that men and
+women, young and old
+can enjoy. ...The jungle...
+###--------
+###Mugshot:VaughnPlatz
+No, no, forget the jungle.
+###--------
+###Script:10
+###Mugshot:VaughnPlatz
+Ever since that incident,
+I've understood the
+importance of family.
+###--------
+###Mugshot:VaughnPlatz
+But I just don't ever
+have any time.
+###--------
+###Mugshot:VaughnPlatz
+I wish it weren't
+always like this.
+I'm sorry, Luna.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+We'll spend time together
+after I take care of this.
+###--------
+###Mugshot:MegaMan
+Hmm, should I talk to him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Alright!
+Here we go.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:VaughnPlatz
+Ever since that incident,
+I've understood the
+importance of family.
+###--------
+###Mugshot:VaughnPlatz
+But I just don't ever
+have any time.
+###--------
+###Mugshot:VaughnPlatz
+I wish it weren't
+always like this.
+I'm sorry, Luna.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+We'll spend time together
+after I take care of this.
+###--------
+###Script:12
+###Mugshot:OmegaXis
+...
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

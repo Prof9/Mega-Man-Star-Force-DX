@@ -1,0 +1,25 @@
+﻿###TextArchive:mess_0157
+###Script:0
+###Mugshot:0
+Alright!!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Now to switch this thing on.
+###--------
+###Script:2
+###Mugshot:0
+Um, is this it?
+###--------
+###Script:3
+*whiiiir*
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Sounds like you got it
+to work.
+###--------
+###Mugshot:OmegaXis
+Now let's go check out
+the Wave Road!
+###--------

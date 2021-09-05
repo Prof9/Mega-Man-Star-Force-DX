@@ -1,0 +1,13 @@
+﻿###TextArchive:mess_0019
+###Script:0
+###Mugshot:MegaMan
+I can't hit this guy at all!!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+He's really, really strong!!
+###--------
+###Script:2
+###Mugshot:Jammer
+Ha ha ha ha!!
+###--------

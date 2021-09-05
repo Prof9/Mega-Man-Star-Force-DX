@@ -1,0 +1,42 @@
+﻿###TextArchive:mess_1127
+###Script:0
+###Mugshot:MrHertz
+LA LA LA...
+###--------
+###Mugshot:MrHertz
+...HUH?
+WHAT AM I DOING?
+###--------
+###Mugshot:MrHertz
+UH, I WAS JUST PRACTICING
+MY SINGING.
+###--------
+###Mugshot:MrHertz
+RECENTLY MY FRIENDS
+AND I HAVE BEEN GOING
+TO KARAOKE AND...
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+WHAT? MY SINGING IS
+BOTHERING OTHER
+PEOPLE?
+###--------
+###Mugshot:MrHertz
+O-OH, SORRY ABOUT THAT.
+###--------
+###Mugshot:MrHertz
+I'LL SING SOMEWHERE ELSE
+FROM NOW ON.
+###--------
+###Script:1
+###Mugshot:MrHertz
+I'LL SING SOMEWHERE ELSE
+FROM NOW ON.
+###--------
+###Script:2
+###Mugshot:1
+I should only pulse out
+if I'm prepared.
+###--------

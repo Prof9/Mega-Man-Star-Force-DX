@@ -1,0 +1,135 @@
+﻿###TextArchive:mess_0060
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleBoy
+Yo! Is everybody
+feeling good!?
+###--------
+###Script:3
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Yo! Lately I've been
+all wired up and
+can't get to sleep!
+###--------
+###Script:4
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Yo! Lately I've been
+all wired up and
+can't get to sleep!
+###--------
+###Mugshot:LittleBoy
+At least that's what I'd
+like to tell you...
+###--------
+###Mugshot:LittleBoy
+but the truth is I can
+hardly stay awake.
+###--------
+###Mugshot:LittleBoy
+I hear some kind of lullaby
+music in my head...
+###--------
+###Mugshot:LittleBoy
+My eyes...are
+...getting heavy......
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Mugshot:MegaMan
+Mega!
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Mugshot:OmegaXis
+Could it be some kind
+of hypno-wave?
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Mugshot:OmegaXis
+Do you wanna help this kid?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK! Let's go!
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Hey! This could be the
+work of an FM-ian!
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Mugshot:OmegaXis
+...Oh well...
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Script:6
+###Mugshot:LittleBoy
+I hear some kind of lullaby
+music in my head...
+###--------
+###Mugshot:LittleBoy
+My eyes...are
+...getting heavy......
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Script:7
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Yo! That drowsy feeling
+that I was having is
+gone now! I feel great!
+###--------
+###Mugshot:LittleBoy
+But what the heck was
+that music anyway?
+###--------
+###Mugshot:LittleBoy
+...Hmm.
+###--------
+###Mugshot:LittleBoy
+...
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

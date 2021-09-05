@@ -1,0 +1,135 @@
+﻿###TextArchive:mess_0186
+###Script:0
+###Mugshot:OmegaXis
+What the heck are the
+Satella Police?
+###--------
+###Script:1
+###Mugshot:MegaMan
+I asked my dad that once...
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+He said they are a
+group under the Force
+Satellite's control.
+###--------
+###Mugshot:MegaMan
+They deal with things
+regular police can't.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+I see. Having them on
+our tail is gonna be bad.
+###--------
+###Mugshot:OmegaXis
+I got it. Go into his
+Transer one more time.
+###--------
+###Script:3
+###Mugshot:MegaMan
+No way. What are you
+going to do?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Just do it, kid!
+Trust me.
+###--------
+###Script:5
+###Mugshot:MegaMan
+Ack! I said no!
+What are you doing to me!?
+We're going to be in so
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+much trouble randomly
+erasing stuff from
+people's Transers!!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Shut up!
+###--------
+###Mugshot:OmegaXis
+I'm erasing everything he
+knows about us!
+###--------
+###Mugshot:OmegaXis
+Haaaaah!
+###--------
+###Script:7
+###Mugshot:MegaMan
+Hey, calm down...
+Oww! Waaah!!
+###--------
+###Mugshot:MegaMan
+If you touch that...
+Aaah! Yeeow!!
+###--------
+###Mugshot:MegaMan
+Stop it already!
+Aaagh...
+###--------
+###Script:8
+###Mugshot:OmegaXis
+*huff, huff*
+###--------
+###Mugshot:OmegaXis
+I've deleted all the stuff
+he had on Z waves.
+###--------
+###Mugshot:OmegaXis
+Now let's get the heck
+out of here!
+###--------
+###Script:9
+###Mugshot:BobCopper
+U...Unngh...
+###--------
+###Mugshot:BobCopper
+Huh? What am I doing here...?
+###--------
+###Script:10
+###Mugshot:BobCopper
+Oh, that's right.
+I was chasing something...
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+Oh! Z waves!
+I chased some strong ones
+here and the readings are...?
+###--------
+###Script:11
+###Mugshot:BobCopper
+WH-WH-WHAT!?
+###--------
+###Mugshot:BobCopper
+M-M-My data is all g-g-gone!!
+###--------
+###Mugshot:BobCopper
+Wh-What am I supposed
+to do now!?
+###--------
+###Script:12
+###Mugshot:MegaMan
+Sorry, mister...
+###--------
+###Script:13
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Now that we know what the
+old man is up to and what
+he knows, let's go home.
+###--------
+###Mugshot:OmegaXis
+Tsk, what another fine
+mess we're in.
+###--------

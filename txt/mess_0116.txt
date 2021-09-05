@@ -1,0 +1,126 @@
+﻿###TextArchive:mess_0116
+###Script:0
+###Mugshot:0
+###--------
+###Mugshot:0
+It's evening already...
+I wonder if mom's home yet.
+###--------
+###Script:1
+Wait, you!
+###--------
+###Script:2
+###Mugshot:Luna
+You didn't come again today.
+###--------
+###Mugshot:Luna
+Just how long do you
+plan on skipping school?
+###--------
+###Script:3
+###Mugshot:0
+(Urk, not again.)
+###--------
+###Script:4
+###Mugshot:Luna
+Bud!
+###--------
+###Script:5
+###Mugshot:Bud
+Hey, we're trying to ask
+you how you're doing!
+###--------
+###Mugshot:Bud
+Least you could do
+is answer!
+###--------
+###Mugshot:0
+.........
+###--------
+###Script:6
+###Mugshot:OmegaXis
+(What a pain in the butt.
+I'll teach him a-)
+###--------
+###Mugshot:0
+(You're not going to do
+anything to him...)
+###--------
+###Mugshot:OmegaXis
+(You going to stop me, kid?)
+###--------
+###Mugshot:0
+(Come on, Mega!
+Do you realize how much
+of a mess it would be
+###--------
+###Mugshot:0
+if you show yourself!?)
+###--------
+###Script:7
+###Mugshot:OmegaXis
+(It's not like he can hear
+me anyway!)
+###--------
+###Mugshot:0
+(So stop it!!)
+###--------
+###Mugshot:OmegaXis
+(We don't have to take
+this twerp's rants!)
+###--------
+###Mugshot:0
+(No! Stop it! Don't you
+jerk my arm around!)
+###--------
+###Mugshot:OmegaXis
+(I'm gonna show him my
+awesome Mega Uppercut!)
+###--------
+###Mugshot:0
+(M-My arm...!)
+###--------
+###Script:8
+###Mugshot:Bud
+What are you mumbling
+about now!?
+###--------
+###Mugshot:Bud
+Look, jerk.
+Just be good and
+come to school!!
+###--------
+###Mugshot:Bud
+It's for your own
+good anyway.
+...
+###--------
+###Script:9
+###Mugshot:Bud
+Ungh...
+###--------
+###Mugshot:Bud
+Little... creep...
+###--------
+###Script:10
+###Mugshot:Luna
+Bud!
+###--------
+###Script:11
+###Mugshot:Zack
+Bud!
+###--------
+###Script:12
+###Mugshot:0
+I... I hit him...
+###--------
+###Mugshot:0
+I-I'm sorry!!
+Please, just stay away
+from me!!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+You think I overdid it
+just a smidge?
+###--------

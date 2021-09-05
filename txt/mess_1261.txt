@@ -1,0 +1,94 @@
+﻿###TextArchive:mess_1261
+###Script:0
+###Mugshot:LeoKingdomShadow
+Excellent!
+###++++++++
+###Mugshot:LeoKingdomShadow
+This is the kind of power
+that can save this planet.
+###++++++++
+###Mugshot:LeoKingdomShadow
+It seems you are ready.
+All doubts have been
+cleared from my mind.
+###++++++++
+###Mugshot:LeoKingdomShadow
+Receive this, Geo!
+My Star Force!
+###--------
+###Script:1
+###Mugshot:LeoKingdomShadow
+Now, you will be able to
+use the Leo Star Force.
+###++++++++
+###Mugshot:LeoKingdomShadow
+It will grant you fierce
+power... Power to protect
+everything you hold dear.
+###--------
+###Mugshot:1
+Leo Kingdom...
+Thank you!
+###--------
+###Mugshot:LeoKingdomShadow
+The past is the past...
+But it need not be
+Earth's future.
+###++++++++
+###Mugshot:LeoKingdomShadow
+Show the FM King that the
+power of relationships trumps
+the power of solitude.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+...Heh, whatever.
+I got a bone to pick
+with that guy, myself.
+###--------
+<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:OmegaXis
+So where were we?
+Boreal's old boss, right?
+###++++++++
+###Mugshot:OmegaXis
+Old geezer, used to
+work for NAZA.
+Ring any bells?
+###--------
+###Mugshot:1
+......<wait>
+Actually...
+###Command:wait frames=60
+###--------
+###Script:3
+###Mugshot:1
+After they found that
+crashed part of the station,
+###++++++++
+###Mugshot:1
+I remember a man from
+NAZA came to our house.
+###++++++++
+###Mugshot:1
+Thinking about it now,
+###++++++++
+###Mugshot:1
+I feel like I've seen
+someone like that in
+Echo Ridge recently.
+###--------
+###Mugshot:OmegaXis
+Boreal did say his old boss
+was seen in the vicinity.
+###++++++++
+###Mugshot:OmegaXis
+It's a solid lead.
+###++++++++
+###Mugshot:OmegaXis
+Alright!
+Let's go search Echo Ridge
+top to bottom!
+###--------

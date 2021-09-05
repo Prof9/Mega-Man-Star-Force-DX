@@ -1,0 +1,44 @@
+﻿###TextArchive:mess_1115
+###Script:0
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+OK, OK, what do I
+need to prepare for
+the next lesson?
+###--------
+###Script:10
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+There's some dangerous
+looking wave wandering about.
+I guess I'll just wait here.
+###--------
+###Script:20
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Don't tell anyone that I
+said so... But I think there
+should be a class called
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+"The Working Wave" that
+makes humans more aware
+of our role in their lives.
+###--------
+###Script:100
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+I wonder what those humans
+down there are talking about.
+###--------
+###Script:101
+###Mugshot:CommonNavi
+I get extremely bored
+when I'm not in class.
+###--------

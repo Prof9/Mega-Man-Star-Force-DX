@@ -1,0 +1,41 @@
+﻿###TextArchive:mess_0172
+###Script:0
+*quaaaaaaaaak!!*
+###--------
+Think you can hit me?
+Go ahead and try then!
+###--------
+###Script:1
+*quaaaaaaaaak!!*
+###--------
+###Script:2
+I-I've been BBQ'd!!
+###--------
+L-Lord Cygnus!!
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Heh, you got what you
+deserved!
+###--------
+###Script:4
+Quahahahaha!
+###--------
+What were you aiming at?
+Are your eyes OK?
+###--------
+###Script:5
+###Mugshot:0
+Argh! Alright, one more time!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Alright, looks like we can
+move forward now.
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Touch and slide the rocket
+up, or hold the A Button and
+press Up to fry some duck!
+###--------

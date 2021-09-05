@@ -1,0 +1,261 @@
+﻿###TextArchive:mess_0244
+###Script:0
+###Mugshot:Luna
+Mega Man!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+Luna!
+###--------
+###Script:2
+###Mugshot:MegaMan
+Are you OK!? I'm coming
+for you right now!!
+###--------
+###Script:3
+Heh heh heh!
+I don't think so!
+###--------
+###Script:4
+###Mugshot:Jammer
+I'll trade you the girl for
+the Andromeda Key.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+I'll never hand the key
+over to you!!
+###--------
+###Script:6
+###Mugshot:Jammer
+Heh heh heh... Then I
+suppose I must take it.
+###--------
+###Mugshot:Jammer
+But realize that if you
+lay a finger on me,
+###--------
+###Mugshot:Jammer
+she may not feel so
+well as a consequence.
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Nngh...
+###--------
+###Script:8
+###Mugshot:Luna
+Mega Man!!
+###--------
+###Script:9
+###Mugshot:Jammer
+Watch closely, little girl!
+###--------
+###Mugshot:Jammer
+Watch and see me defeat
+your mighty Mega Man!!
+###--------
+###Mugshot:Jammer
+Don't blink now!
+###--------
+###Script:10
+###Mugshot:Jammer
+Hi-yaaah!!
+###--------
+###Mugshot:Jammer
+Take this!!
+###--------
+###Mugshot:Jammer
+And this!!
+###--------
+*thud!*
+###--------
+###Script:11
+###Mugshot:MegaMan
+Oof!
+###--------
+###Mugshot:MegaMan
+Aaaah!!
+###--------
+###Script:12
+###Mugshot:Luna
+Mega Maaaan!!
+###--------
+###Mugshot:Luna
+Nooooooooo!!
+###--------
+###Script:13
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Heh heh heh!!
+Nothing beats the sound
+of a good punch.
+###--------
+###Mugshot:Jammer
+So, how was it?
+Did you like what you saw!?
+###--------
+###Script:14
+###Mugshot:Jammer
+Ha ha ha.
+Did she faint?
+###--------
+###Mugshot:Jammer
+I guess it was too much
+for her to handle!!
+###--------
+###Script:15
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Playtime is over.
+Time to finish this...
+###--------
+###Script:16
+###Mugshot:MegaMan
+Ooongh...
+###--------
+###Script:17
+###Mugshot:OmegaXis
+You fool!!
+Why didn't you fight back!?
+###--------
+###Script:18
+###Mugshot:MegaMan
+If I had, then Luna...
+she'd...
+###--------
+###Script:19
+###Mugshot:OmegaXis
+How far will you go for
+that girl!?
+###--------
+###Mugshot:OmegaXis
+Mnph! If you won't fight
+back, then I-
+###--------
+###Mugshot:MegaMan
+W-Wait... Mega...
+You can't...
+###--------
+###Mugshot:OmegaXis
+That guy's about to turn
+you into a smudge!!
+###--------
+###Mugshot:MegaMan
+Protect Luna...
+.<waitSkip>.<waitSkip>.<waitSkip>I promised I would!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:20
+###Mugshot:Jammer
+Heh heh. Is this what
+they call, "friendship"?
+###--------
+###Mugshot:Jammer
+But enough talk! Time for
+you to say goodbye!!
+###--------
+###Mugshot:Jammer
+The Andromeda Key is MINE!!!
+###--------
+###Script:21
+###Mugshot:MegaMan
+*gulp!*
+###--------
+###Script:22
+###Mugshot:MegaMan
+A guitar...
+###--------
+###Script:23
+###Mugshot:HarpNote
+Harp Note is live and
+onstage!!
+###--------
+###Mugshot:HarpNote
+That was a close one, huh?
+###--------
+###Script:24
+###Mugshot:HarpNote
+I saw the help signal and
+came to see what's up,
+###--------
+###Mugshot:HarpNote
+but I didn't think it would
+be that serious!
+###--------
+###Script:25
+###Mugshot:MegaMan
+Thanks, Harp Note!
+###--------
+###Script:26
+###Mugshot:Jammer
+Nngh... You got me good, but...
+###--------
+###Mugshot:Jammer
+EM humans! You know what
+to do with the girl!!
+###--------
+###Script:27
+Jammm!!
+###--------
+###Script:28
+###Mugshot:HarpNote
+Oh no you don't!
+###--------
+###Script:29
+###Mugshot:HarpNote
+Mega Man, he's all yours!
+###--------
+###Script:30
+###Mugshot:Jammer
+Tsk!!
+###--------
+###Mugshot:Jammer
+Lyra, huh?
+You traitorous scum!
+###--------
+###Script:31
+###Mugshot:MegaMan
+I'll take care of this guy!
+###--------
+###Mugshot:MegaMan
+Harp Note, you take
+care of Luna!
+###--------
+###Script:32
+###Mugshot:HarpNote
+OK!
+###--------
+###Script:33
+###Mugshot:OmegaXis
+Finally, we can give this
+creep what's coming!!
+###--------
+###Script:34
+###Mugshot:Jammer
+Curses!!
+###--------
+###Mugshot:Jammer
+Don't count your chickens
+before they hatch
+###--------
+###Mugshot:Jammer
+cause I'll be the one
+dishing out the pain!!
+###--------
+###Script:35
+###Mugshot:MegaMan
+Here we go!
+###--------
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------
+###Script:36
+###Mugshot:Jammer
+Just try and stop me!!
+###--------

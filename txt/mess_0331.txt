@@ -1,0 +1,34 @@
+﻿###TextArchive:mess_0331
+###Script:0
+Meanwhile, at AMAKEN...
+###--------
+###Script:1
+###Mugshot:2
+And that about wraps it up.
+###--------
+###Script:2
+###--------
+Aaron!! Aaron!!
+###--------
+###Script:3
+###Mugshot:3
+Aaron!! It's an emergency!!
+###--------
+###Script:4
+###Mugshot:2
+What's wrong, Tom?
+###--------
+###Script:5
+###Mugshot:3
+Follow me!!
+###--------
+###Script:6
+###Mugshot:3
+We picked this signal up
+from outer space!
+###--------
+###Script:7
+###Mugshot:2
+Th-This signal!
+It's...!!
+###--------

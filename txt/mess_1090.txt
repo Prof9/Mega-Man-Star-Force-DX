@@ -1,0 +1,50 @@
+﻿###TextArchive:mess_1090
+###Script:0
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+EVERY ONCE IN A WHILE
+YOU GET A HUMAN WHO
+CAN SEE US WAVES...
+###--------
+###Mugshot:MrHertz
+WHAT WOULD YOU CALL
+AN ABILITY LIKE THAT?
+WAVE SENSE?
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+IT'S A MYSTERY TO ME...
+*BEEP BEEP*
+###--------
+###Script:1
+###Mugshot:FighterNavi
+That thing they call a
+FlapPack, it really can fly!!
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+...Well, you know,
+that's what they say.
+###--------
+###Script:20
+###Mugshot:MrHertz
+*B-BEEP*...
+###--------
+###Mugshot:MrHertz
+IT'S... NO... USE...
+I... CAN'T... MOVE...
+###--------
+###Script:21
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Ugh...
+I can't... m-move my... body...
+###--------
+###Mugshot:FighterNavi
+It is... over...
+###--------

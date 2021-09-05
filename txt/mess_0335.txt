@@ -1,0 +1,57 @@
+﻿###TextArchive:mess_0335
+###Script:0
+###Mugshot:0
+###--------
+###Mugshot:0
+It's the pitching machine
+from Vista Point.
+###--------
+###Mugshot:0
+Hmm, looks like it's still
+got some power left.
+###--------
+###Mugshot:0
+I got it! I'll use this!
+###--------
+###Script:1
+###Mugshot:0
+All set!
+###--------
+###Mugshot:0
+"Pitcher Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:PitcherMan
+###--------
+###Mugshot:PitcherMan
+I'm ready to go anytime!
+Just press the button!
+###--------
+###Script:3
+###Mugshot:0
+Wait... A little more...
+###--------
+###Script:4
+###Mugshot:0
+Now, PitcherMan!
+###--------
+###Script:5
+###Mugshot:PitcherMan
+Batteeeer up!!
+###--------
+###Script:6
+###Mugshot:PitcherMan
+Striiiiiike!!
+###--------
+###Script:7
+###Mugshot:0
+Nice throw!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I've gotta hurry!
+The help signal is coming
+from just ahead.
+###--------

@@ -1,0 +1,70 @@
+﻿###TextArchive:mess_0251
+###Script:0
+###Mugshot:Geo
+Sorry, I hope you didn't
+have to wait too long...
+###--------
+###Script:1
+###Mugshot:Sonia
+It's OK.
+I just got here too.
+###--------
+###Mugshot:Sonia
+Well, you wanna get
+going to Nacys?
+###--------
+###Script:2
+###Mugshot:Geo
+O-OK.
+###--------
+###Script:3
+###Mugshot:Sonia
+What's wrong?
+You're kind of quiet...
+###--------
+###Script:4
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Um, well I don't really
+come here all that much,
+so I feel kinda lost...
+###--------
+###Script:5
+###Mugshot:Sonia
+Aww, you don't have to
+feel that way.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Just take a few
+deep breaths!
+Now come on!
+###--------
+###Script:6
+###Mugshot:Geo
+O-OK...
+###--------
+###Script:7
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Isn't that Sonia Strumm...?
+Why is Geo going shopping
+with her!?
+###--------
+###Mugshot:Luna
+I was going to invite him!!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+OK, calm down Luna...
+I can't let my pride get
+the better of me.
+###--------
+###Mugshot:Luna
+I can't let them see me
+following them!
+###--------

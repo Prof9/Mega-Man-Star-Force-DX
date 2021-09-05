@@ -1,0 +1,135 @@
+﻿###TextArchive:mess_0203
+###Script:0
+###Mugshot:0
+Hmm, mom's not around.
+###--------
+###Mugshot:0
+Did she go out?
+###--------
+###Script:1
+Ten minutes later...
+###--------
+###Script:2
+###Mugshot:2
+I'm home!
+###--------
+###Script:3
+###Mugshot:0
+You're back.
+###--------
+###Script:4
+###Mugshot:2
+Oh, Geo!
+###--------
+###Script:5
+###Mugshot:0
+Welcome back, mom.
+###--------
+###Mugshot:0
+Where'd you go?
+###--------
+###Script:6
+###Mugshot:2
+Well, actually...
+###--------
+###Script:7
+###Mugshot:0
+.<wait>.<wait>.<wait>You went to my school!?
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###--------
+###Script:8
+###Mugshot:2
+I met with your homeroom
+teacher.
+###--------
+###Mugshot:2
+I got a message from him
+asking how you were.
+###--------
+###Script:9
+###Mugshot:0
+......
+###--------
+###Script:10
+###Mugshot:2
+###--------
+###Mugshot:2
+It sounds like he's a new
+teacher. It was the first
+time I spoke with him.
+###--------
+###Mugshot:2
+He seems like a really
+nice person.
+###--------
+###Script:11
+###Mugshot:0
+......
+###--------
+###Script:12
+###Mugshot:2
+He was wondering how
+you were.
+###--------
+###Mugshot:2
+I'm sure you would like him.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+So, want to give it a try?
+Going to school, I mean...
+###--------
+###Script:13
+###Mugshot:0
+...I can't.
+###--------
+###Mugshot:2
+...Oh, OK.
+###--------
+###Mugshot:0
+Oh, I wanted to ask you.
+###--------
+###Script:14
+###Mugshot:0
+###--------
+###Mugshot:0
+I got this pendant from
+dad, but is it some sort
+of special device?
+###--------
+###Script:15
+###Mugshot:2
+Hmm, you know,
+I have no idea.
+###--------
+###Mugshot:2
+I know your dad found it
+when he was young,
+###--------
+###Mugshot:2
+but I don't know anything
+else beyond that.
+###--------
+###Script:16
+###Mugshot:0
+So you don't know
+either, huh?
+###--------
+###Script:17
+###Mugshot:2
+###--------
+###Mugshot:2
+I know! Why don't you
+show it to Mr. Boreal?
+###--------
+###Mugshot:2
+He knew your dad the
+longest. He might know!
+###--------
+###Script:18
+###Mugshot:0
+Mr. Boreal, huh?
+###--------

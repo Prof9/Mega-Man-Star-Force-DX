@@ -1,0 +1,344 @@
+﻿###TextArchive:mess_0262
+###Script:0
+###Mugshot:Luna
+Mega Man...
+###--------
+###Mugshot:Luna
+Mega... M-
+Geo!?
+###--------
+###Mugshot:Luna
+N-No way!!
+###--------
+###Script:1
+###Mugshot:Luna
+Th-This is a joke, right?
+.<waitSkip>.<waitSkip>.<waitSkip>
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###--------
+###Mugshot:Luna
+I can't believe that you.<waitSkip>.<waitSkip>.<waitSkip>
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###--------
+###Mugshot:Luna
+that you're Mega Man...
+###--------
+###Script:2
+###Mugshot:Geo
+I'm sorry...
+for not telling you...
+###--------
+###Script:3
+###Mugshot:Luna
+Do you mean it?
+###--------
+###Script:4
+###Mugshot:VaughnPlatz
+Oogh...
+###--------
+###Script:5
+###Mugshot:Luna
+Father!
+###--------
+###Script:6
+###Mugshot:VeilPlatz
+Nngh...
+###--------
+###Script:7
+###Mugshot:Luna
+Mother!
+###--------
+###Script:8
+###Mugshot:VaughnPlatz
+Luna...
+###--------
+###Script:9
+###Mugshot:VeilPlatz
+We had the strangest
+dream...
+###--------
+###Mugshot:VeilPlatz
+A dream where you were
+crying...
+###--------
+###Mugshot:VeilPlatz
+You were saying,
+"Look at the real me."
+###--------
+###Script:10
+###Mugshot:VaughnPlatz
+We were really hurt by you
+in the dream...
+###--------
+###Mugshot:VaughnPlatz
+We were being squeezed so
+hard that the pain was
+almost unbearable...
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+We were being choked by
+the chains of your
+suffering.
+###--------
+###Mugshot:VaughnPlatz
+We're not going to
+transfer you, Luna...
+###--------
+###Mugshot:VaughnPlatz
+We're really sorry...
+Forgive us...
+###--------
+###Script:11
+###Mugshot:Luna
+Father, mother...
+###--------
+###Script:12
+###Mugshot:Geo
+Looks like everything's
+gonna be OK,
+###--------
+###Mugshot:Geo
+so if you all will
+excuse me...
+###--------
+###Script:13
+###Mugshot:Luna
+Wait up, you!
+###--------
+###Script:14
+###Mugshot:Geo
+Y-Yes, madam.
+###--------
+###Script:15
+###Mugshot:Geo
+S-So how are your mom
+and dad?
+###--------
+###Script:16
+###Mugshot:Luna
+They're fine...
+###--------
+###Mugshot:Luna
+They're looking around at
+some of the shops...
+###--------
+###Mugshot:Luna
+What I want to say is...
+um.<waitSkip>.<waitSkip>.<waitSkip>
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###--------
+###Mugshot:Luna
+thanks for saving me...
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I still don't believe it,
+but you really are
+Mega Man... aren't you?
+###--------
+###Script:17
+###Mugshot:Geo
+Yeah.
+###--------
+###Script:18
+###Mugshot:Luna
+W-Well, don't get any
+funny ideas!!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I-I have always liked
+Mega Man and I will
+always like him.
+###--------
+###Mugshot:Luna
+But I have ZERO feelings
+for you, got it!?
+###--------
+###Script:19
+###Mugshot:Geo
+Got it!
+###--------
+###Script:20
+###Mugshot:Luna
+Wh-What are you smiling at!?
+###--------
+###Mugshot:Luna
+I knew it! You're thinking
+something weird!
+###--------
+###Script:21
+###Mugshot:Geo
+Wh-What!?
+I'm not thinking anything!!
+###--------
+###Script:22
+###Mugshot:Luna
+.<waitSkip>.<waitSkip>.<waitSkip>So you want to
+become one?
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###--------
+###Script:23
+###Mugshot:Geo
+Become a what?
+###--------
+###Script:24
+###Mugshot:Luna
+You're so dense!
+###--------
+###Mugshot:Luna
+A Brother!!
+What else!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+But it's a big responsibility!
+You'll know all of my secrets,
+so you'd better be serious!
+###--------
+###Script:25
+###Mugshot:Geo
+I-I understand.
+###--------
+###Mugshot:Geo
+You know my secret too,
+after all...
+###--------
+###Script:26
+Geo became Brothers
+with Luna Platz!!<wait>
+###Command:wait frames=60
+###--------
+###Script:27
+###Mugshot:Luna
+So... Brother to Brother...
+###--------
+###Mugshot:Luna
+That girl, Sonia Strumm.<waitSkip>.<waitSkip>.<waitSkip>
+Are you going out?
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###--------
+###Script:28
+###Mugshot:Geo
+Going out??
+###--------
+###Mugshot:Geo
+Ah, no! We're just friends,
+that's all!
+###--------
+###Script:29
+###Mugshot:Luna
+Oh? I see...
+Tee hee!
+###--------
+###Script:30
+###Mugshot:Geo
+Wh-What!?
+###--------
+###Mugshot:Geo
+And anyway, why did you
+come here, Luna!?
+###--------
+###Script:31
+###Mugshot:Luna
+Why should I have to
+tell you!?
+###--------
+###Mugshot:Luna
+I just felt like it!!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Oh, and before you forget,
+you're the teacher's helper
+tomorrow, so don't be late!
+###--------
+###Script:32
+###Mugshot:Geo
+I know already!
+###--------
+###Script:33
+###Mugshot:Luna
+As long as you know!
+Well, <wait>see you tomorrow!
+###Command:wait frames=30
+###--------
+###Script:34
+Geo, did you forget about
+me completely?
+###--------
+###Script:35
+###Mugshot:Geo
+Sonia!
+###--------
+###Mugshot:Geo
+Are you OK? What
+happened to the venom!?
+###--------
+###Script:36
+###Mugshot:Sonia
+Prof. Snake gave me an
+antidote, so I'm OK,
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+but if he had given it to me
+even a little later, he might
+not have made it in time!
+###--------
+###Script:37
+###Mugshot:Geo
+S-Sorry!!
+###--------
+###Script:38
+###Mugshot:Sonia
+What kind of Brother
+are you,
+###--------
+###Mugshot:Sonia
+to forget someone
+who was bitten by a
+venomous snake?
+###--------
+###Script:39
+###Mugshot:Geo
+Well, I didn't forget
+about you. I just...
+###--------
+###Mugshot:Geo
+I'm sorry!
+I'm really sorry!!
+###--------
+###Mugshot:Geo
+Please forgive me!!
+###--------
+###Script:40
+###Mugshot:Sonia
+Ha ha ha! Well, if you
+treat me to a sundae,
+###--------
+###Mugshot:Sonia
+then maybe I can forgive
+you this once!
+###--------
+###Script:41
+###Mugshot:Geo
+Whaaaa...?
+###--------

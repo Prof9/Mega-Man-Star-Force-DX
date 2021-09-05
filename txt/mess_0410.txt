@@ -1,0 +1,16 @@
+﻿###TextArchive:mess_0410
+###Script:0
+Temp message
+###--------
+###Script:5
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It looks like Queen Ophiuca's
+attack didn't do any
+lasting damage.
+###--------
+###Script:32
+###Mugshot:MegaMan
+I have to stop Luna!
+###--------

@@ -1,0 +1,341 @@
+﻿###TextArchive:mess_0206
+###Script:0
+###Mugshot:0
+A blue outfit with a
+stripe and a helmet...
+###--------
+###Mugshot:0
+And...
+###--------
+###Script:1
+###Mugshot:0
+A truck...
+###--------
+###Script:2
+###Mugshot:0
+A smashed-up mail box...
+###--------
+###Script:3
+###Mugshot:0
+What the heck is this
+play about?
+###--------
+###Mugshot:5
+Didn't we tell you already?
+###--------
+###Mugshot:5
+It's the Prez's idea!
+She made it all.
+###--------
+###Mugshot:5
+This is gonna go down
+in history!
+###--------
+###Script:4
+###Mugshot:6
+You're going to be so
+surprised when you hear.
+###--------
+###Script:5
+###Mugshot:4
+###--------
+###Mugshot:4
+OK, listen up. I'm only going
+to tell you this once.
+###--------
+###Mugshot:4
+The title of this play is...
+###--------
+###Mugshot:4
+"Mega Man Versus
+The Cow Man"!
+###--------
+###Script:6
+###Mugshot:0
+M-Mega Man!?
+###--------
+###Script:7
+###Mugshot:4
+Oh, you know of
+Mega Man?
+###--------
+###Script:8
+###Mugshot:0
+N-No, not really.
+###--------
+###Script:9
+###Mugshot:5
+Mega Man is this
+mysterious guy.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+Whenever we're in a jam,
+he shows up, beats up the
+bad monster, and vanishes.
+###--------
+###Mugshot:5
+He's my role-model!!
+###--------
+###Script:10
+###Mugshot:4
+I'll never forget his
+heroic deeds.
+###--------
+###Mugshot:4
+Mega Man has saved me
+twice now from harm.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+The first time was the
+incident with the truck,
+and then again at AMAKEN.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+He appears in a flash
+of light, just like a
+shooting star...
+###--------
+###Mugshot:4
+O, Mega Man! Wherefore
+art thou, Mega Man?
+###--------
+###Script:11
+###Mugshot:0
+...You remember?
+###--------
+###Script:12
+###Mugshot:4
+Huh?
+Did you say something?
+###--------
+###Script:13
+###Mugshot:0
+N-No, nothing!
+###--------
+###Script:14
+###Mugshot:4
+Anyway, this play is based
+on the truck incident.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+Me, the lead actress,
+has been abducted by the
+mad, menacing Cow Man...
+###--------
+###Mugshot:4
+And that's when Mega Man
+comes to save the fair
+maiden.
+###--------
+###Mugshot:4
+You see, it's a very
+moving story!
+###--------
+###Script:15
+###Mugshot:6
+The story itself is
+very popular,
+###--------
+###Mugshot:6
+but the student body
+thinks that Mega Man
+is just a character.
+###--------
+###Script:16
+###Mugshot:0
+Y-Yeah, I kinda think
+so too...
+###--------
+###Mugshot:0
+Aha ha ha...
+###--------
+###Script:17
+###Mugshot:4
+Zack! Don't tell me you
+think he's fake, too!
+###--------
+###Mugshot:4
+Mega Man saved you too,
+you know!?
+###--------
+###Script:18
+###Mugshot:6
+B-But I don't remember
+what happened.
+###--------
+###Mugshot:6
+Not the truck incident,
+or the one at AMAKEN.
+###--------
+###Script:19
+###Mugshot:5
+###--------
+###Mugshot:5
+I-I remember everything.
+That guy saved us at
+AMAKEN.
+###--------
+###Mugshot:5
+If he hadn't, I don't
+know what would've
+happened to us.
+###--------
+###Script:20
+###Mugshot:4
+###--------
+###Mugshot:4
+I believe in Mega Man!
+I know he is real and
+he is out there!
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+And he'll always help
+people in trouble!
+Because he's a real hero!
+###--------
+###Script:21
+###Mugshot:0
+H-Hero!?
+###--------
+###Script:22
+###Mugshot:4
+###--------
+###Mugshot:4
+What's with you? You've
+been acting kind of funny
+ever since I mentioned him.
+###--------
+###Mugshot:4
+Are you, by chance...
+###--------
+###Script:23
+###Mugshot:0
+*ba-dump*
+###--------
+###Script:24
+###Mugshot:4
+...a fan of Mega Man?
+###--------
+###Script:25
+###Mugshot:0
+Uh, aha ha ha...
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(Whew! I thought she was
+going to say something else...)
+###--------
+###Script:26
+###Mugshot:OmegaXis
+(Hey! Geo! Look out!
+Up there!!)
+###--------
+###Script:27
+###Mugshot:0
+Wha?
+###--------
+###Script:28
+*CRASH!*
+###--------
+###Script:29
+###Mugshot:0
+Th-That was close...
+###--------
+###Script:30
+###Mugshot:4
+What was that?
+A stage light!?
+###--------
+###Script:31
+###Mugshot:OmegaXis
+(Geo, your Visualizer.)
+###--------
+###Script:32
+###Mugshot:0
+(Oh, yeah.)
+###--------
+###Script:33
+###Mugshot:0
+(Ah!!)<waitOWVar>
+###Command:waitOWVar variable=2 value=1
+###--------
+###Script:34
+###Mugshot:0
+(Who or what is that??)
+###--------
+###Script:35
+###Mugshot:8
+...*grin*
+###--------
+###Script:36
+###Mugshot:OmegaXis
+(He grinned at us...)
+###--------
+###Mugshot:OmegaXis
+(Wait, that means...)
+###--------
+###Script:37
+###Mugshot:0
+(He grinned at us?)
+###--------
+###Script:38
+###Mugshot:OmegaXis
+(Alright, Geo,
+time to pulse in!)
+###--------
+###Script:39
+###Mugshot:0
+(We're fighting here?
+Now?)
+###--------
+###Script:40
+###Mugshot:OmegaXis
+(I'm telling you from
+experience,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+guys like that who pull off
+surprise attacks are a pain
+if you don't get them fast.)
+###--------
+###Mugshot:OmegaXis
+(If we let him get
+away now,
+###--------
+###Mugshot:OmegaXis
+we're gonna have to
+be ready for surprise
+attacks at any time.)
+###--------
+###Script:41
+###Mugshot:0
+(I guess you're right...)
+###--------
+###Script:42
+###Mugshot:4
+What are you mumbling to
+yourself about?
+###--------
+###Mugshot:4
+Don't tell me it hit you
+on the head...?
+###--------
+###Script:43
+###Mugshot:0
+Um... I need to go to
+the, uh... bathroom.
+###--------

@@ -1,0 +1,143 @@
+﻿###TextArchive:mess_0498
+###Script:0
+###Mugshot:12
+###--------
+###Mugshot:12
+I come here every week now
+out of habit, but I like it
+here. It's nice and relaxing.
+###--------
+###Script:1
+###Mugshot:11
+###--------
+###Mugshot:11
+Everything feels so high-tech
+around here, but it feels
+sort of homely as well.
+###--------
+###Script:2
+###Mugshot:10
+This telescope's getting to
+that point where if I don't
+give it a tune-up,
+###--------
+###Mugshot:10
+it won't work well.
+###--------
+###Script:5
+###Mugshot:12
+###--------
+###Mugshot:12
+You think it'd be bad if I
+didn't come here on Sunday
+too?
+###--------
+###Script:6
+###Mugshot:11
+Compared to the vastness
+of space,
+###--------
+###Mugshot:11
+me leaving the countryside
+seems like such a small thing.
+###--------
+###Script:7
+###Mugshot:10
+This telescope's tune-up'll
+take a little while.
+###--------
+###Script:30
+###Mugshot:12
+###--------
+###Mugshot:12
+I was thinking about going to
+Time Square, but I'm not sure
+if it's all that interesting.
+###--------
+###Script:31
+###Mugshot:11
+My eyes have gotten a little
+worse lately.
+###--------
+###Mugshot:11
+If they made the letters
+on these signs just a
+tad larger,
+###--------
+###Mugshot:11
+it would be such a help
+to me...
+###--------
+###Script:32
+###Mugshot:10
+You're asking if you can
+go back there?
+###--------
+###Mugshot:10
+###--------
+###Mugshot:10
+Sorry, but unless you've got
+some business, only
+authorized people are allowed.
+###--------
+###Script:35
+###Mugshot:12
+###--------
+###Mugshot:12
+Hey, Mister!
+Is there any way to get
+mail to travel faster?
+###--------
+###Mugshot:10
+Um, well...
+###--------
+###Script:36
+###Mugshot:11
+If there are 3 antennas
+here...
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+Do you think they would
+donate one to us folks
+out in the countryside?
+###--------
+###Script:100
+###Mugshot:20
+*beep whoo*
+###--------
+###Mugshot:20
+I'm on the watch for signals
+from space today too!
+###--------
+###Script:101
+###Mugshot:20
+*beep whoo*
+###--------
+###Mugshot:20
+###--------
+###Mugshot:20
+I deliver any fresh signals I
+catch straight to the lab, like
+salmon to the fish market...
+###--------
+###Mugshot:20
+Or something like that.
+Well, back to work!
+###--------
+###Script:102
+###Mugshot:20
+*beep whoo*
+###--------
+###Mugshot:20
+###--------
+###Mugshot:20
+You've gotta have super
+concentration abilities to
+catch signals from space!
+###--------
+###Mugshot:20
+Must focus, must focus...
+F-O-C-U-S!!
+###--------

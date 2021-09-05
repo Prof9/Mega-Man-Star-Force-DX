@@ -1,0 +1,282 @@
+﻿###TextArchive:mess_0585
+###Script:3
+A blue frog and a red fish.
+###--------
+All slick and shiny, they
+look kind of gross.
+###--------
+###Script:4
+A giraffe ride.
+###--------
+Put money in and it
+moves around violently.
+###--------
+###Script:7
+There's a bench.
+###--------
+If I laid down here, I'd
+probably fall asleep.
+###--------
+###Script:9
+###--------
+The eyes on this
+Mowai-themed game called
+"Mowai the Ride" are flashing.
+###--------
+###Script:10
+It's a crane game.
+###--------
+They're always harder
+than they look.
+###--------
+###Script:11
+Burger Shop menu.
+###--------
+The Double Cheese
+Mowai Burger is the best.
+###--------
+###Script:12
+A poster of the
+Dark Sword Vampire Hunter.
+###--------
+...Very cool.
+###--------
+###Script:15
+A baseball game.
+###--------
+###Script:16
+A baseball game.
+###--------
+Play it?
+###--------
+<positionOptionFromCenter><optionText>  Play  <optionText>  No
+###Command:positionOptionFromCenter width=65
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+"Play ball!!"
+###--------
+###Mugshot:Geo
+Oh! It started!
+###--------
+5 minutes later...
+###--------
+"Game set!!"
+###--------
+###Mugshot:Geo
+I-I lost... This is hard.
+###--------
+###Script:17
+###Mugshot:Geo
+Maybe I should just quit...
+###--------
+###Script:18
+###Mugshot:PitcherMan
+Wait!!
+###--------
+###Mugshot:PitcherMan
+When it comes to baseball,
+leave it to me.
+###--------
+"Play ball!!"
+###--------
+###Mugshot:PitcherMan
+It'll do exactly what we say!
+###--------
+5 minutes later...
+###--------
+"Game set!!"
+###--------
+###Mugshot:Geo
+We won!!
+###--------
+###Mugshot:PitcherMan
+Easy as pie!
+###--------
+###Mugshot:Geo
+Oh, a card came out.
+###--------
+Geo got
+"<printItem>"!!
+###Command:printItem item=49
+###--------
+###Script:20
+###--------
+A burger shop.
+Their most popular item...
+is the Mowai Galaxy Burger.
+###--------
+......
+###--------
+###Script:21
+###--------
+A burger shop.
+Their most popular item...
+is the Mowai Galaxy Burger.
+###--------
+......
+###--------
+###Mugshot:0
+Hi, do you have
+Coby Burgers?
+###--------
+###Mugshot:OldMan
+D-Did you just say...
+Coby Burger?
+###--------
+###Mugshot:0
+Y-Yes...?
+###--------
+###Mugshot:OldMan
+...Long has it been since
+I last heard that name...
+###--------
+###Mugshot:OldMan
+When I took over this
+shop many decades ago,
+that burger was so popular
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+that we were running out
+of the meat quicker than
+we could order it.
+###--------
+###Mugshot:OldMan
+In the end, I had to
+take it off the menu.
+###--------
+###Mugshot:OldMan
+Even then, we could barely
+keep up with the demand.
+###--------
+###Mugshot:OldMan
+But after months, the
+legend slowly began to fade.
+###--------
+###Mugshot:OldMan
+It had seemed as though
+people had finally forgotten.
+###--------
+###Mugshot:OldMan
+Or so I thought...
+###--------
+###Mugshot:0
+Well, a friend of mine has
+been dying to eat one.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+It sounds like there are
+still burger fans out there
+who crave Coby Burgers.
+###--------
+###Mugshot:OldMan
+Actually, I was getting
+nostalgic myself,
+###--------
+###Mugshot:OldMan
+so I just so happen to
+have the meat in stock...
+###--------
+###Mugshot:OldMan
+...Very well.
+###--------
+###Mugshot:OldMan
+Just this once, I'll make
+that legendary burger
+one more time.
+###--------
+###Mugshot:OldMan
+Give me just a second!
+###--------
+.<wait>.<wait>.<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Mugshot:OldMan
+Here you are, one
+piping hot Coby Burger!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=57
+###--------
+###Mugshot:OldMan
+Don't go telling
+everybody, now!
+###--------
+###Script:25
+The extremely popular
+"Mowa Mowa".
+###--------
+###--------
+If you get in and put in 100
+Zennys, it'll roll you around.
+But it looks a little scary.
+###--------
+###Script:26
+The extremely popular
+"Mowa Mowa".
+###--------
+###--------
+If you get in and put in 100
+Zennys, it'll roll you around.
+But it looks a little scary.
+###--------
+Oh...?
+###--------
+If you look real close,
+there's a wavehole here!
+###--------
+###Script:30
+A panda ride.
+###--------
+Pandas are really a kind
+of bear.
+###--------
+###Script:31
+A panda ride.
+###--------
+Pandas are really a kind
+of bear.
+###--------
+###--------
+Oh...?
+It's turned off.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whirr* *hum*
+###--------
+There's a wavehole here!
+###--------
+###Script:35
+This machine sells tickets
+to the Event Stage.
+###--------
+###Script:36
+It sells tickets to the
+Event Stage.
+###--------
+Oh...?
+What's this?
+###--------
+Geo got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printItem item=28
+###--------
+###Script:40
+A cat ride.
+It's really too big to
+be a cat.
+###--------

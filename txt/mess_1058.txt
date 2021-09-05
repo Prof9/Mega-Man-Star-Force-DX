@@ -1,0 +1,43 @@
+﻿###TextArchive:mess_1058
+###Script:0
+###Mugshot:6
+Welcome!
+###--------
+###Mugshot:6
+...Actually, I don't have
+anything for sale.
+###--------
+###Script:1
+###Mugshot:3
+WELCOME TO THE
+CARD SHOP, BIG WAVE!
+*BEEP*
+###--------
+###Script:5
+###Mugshot:6
+*phew*
+###--------
+###Mugshot:6
+If I see anyone shoplifting...
+###--------
+###Mugshot:6
+I'll sound the alarm and
+inform Mr. Suther!
+###--------
+###Script:6
+###Mugshot:3
+I'D LIKE TO SAY THAT
+OUR STOCK OF CARDS IS
+###--------
+###Mugshot:3
+THE MOST COMPLETE
+OF ANY CARD SHOP!
+MR. SUTHER GETS CARDS
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+FROM EVEN THE MOST
+DANGEROUS OF PLACES,
+...PERSONALLY!
+###--------

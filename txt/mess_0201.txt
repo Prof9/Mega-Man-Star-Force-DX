@@ -1,0 +1,39 @@
+﻿###TextArchive:mess_0201
+###Script:0
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Get your stylus ready!
+Here comes Harp Note's
+music attack!!
+###--------
+###Mugshot:OmegaXis
+Touch the Buster Button
+at your feet or press
+the +Control Pad to fire!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+OK, the attack has ceased
+for now.
+###--------
+###Mugshot:OmegaXis
+Let's keep on moving!!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Argh, we were caught
+napping.
+###--------
+###Mugshot:OmegaXis
+Do it right this time, kid!!
+###--------
+###Script:3
+###Mugshot:MegaMan
+Hey, I think something fell
+off that note.
+###--------
+Mega Man got:
+"<printBuffer> Zennys"!!
+###Command:printBuffer buffer=0 minLength=8 padMode=noPad
+###--------

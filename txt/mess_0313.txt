@@ -1,0 +1,31 @@
+﻿###TextArchive:mess_0313
+###Script:0
+###Mugshot:0
+OK, let's try moving this.
+###--------
+###Script:1
+###Mugshot:0
+"Shovel Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:ShovelMan
+*ker-klunk!*
+###--------
+###Mugshot:ShovelMan
+So you wanna move this
+out of the way?
+###--------
+###Mugshot:ShovelMan
+Then control this excavator
+with the lever!
+###--------
+###Mugshot:ShovelMan
+*ker-klunk!*
+###--------
+###Script:3
+###Mugshot:0
+###--------
+###Mugshot:0
+Alright. Onward!
+###--------

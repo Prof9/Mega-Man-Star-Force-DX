@@ -1,0 +1,298 @@
+﻿###TextArchive:mess_0205
+###Script:0
+###Mugshot:4
+So, how does it feel to
+be back after 3 years?
+###--------
+###Script:1
+###Mugshot:0
+###--------
+###Mugshot:0
+How does it feel?
+Well, I think the building
+itself changed a bit.
+###--------
+###Script:2
+###Mugshot:5
+###--------
+###Mugshot:5
+They remodeled it recently.
+It was the principal's
+idea, I think...
+###--------
+###Script:3
+Hey, children!
+What are you all doing?
+###--------
+###Script:4
+###Mugshot:2
+Really, what are you all
+doing here so late?
+###--------
+###Script:5
+###Mugshot:4
+Hi, Mr. Shepar!
+###--------
+###Script:6
+###Mugshot:2
+###--------
+###Mugshot:2
+School let out a long
+time ago. You kids
+should be home already!
+###--------
+###Script:7
+###Mugshot:4
+We know, but today's special!
+###--------
+###Script:8
+###Mugshot:5
+Please, Mr. Shepar!
+Just this once!
+###--------
+###Script:9
+###Mugshot:2
+Special?
+What do you mean...?
+###--------
+###Mugshot:2
+Hmm? Well, well.
+What do we have here?
+###--------
+###Mugshot:2
+This kid is...
+###--------
+###Script:10
+###Mugshot:2
+You're...
+###--------
+###Script:11
+###Mugshot:4
+He's Geo, Mr. Shepar!
+###--------
+###Script:12
+###Mugshot:2
+Oh! I thought it might
+be you, Geo!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Well, this is a pleasant
+surprise! I was just
+talking with your mom!
+###--------
+###Script:13
+###Mugshot:0
+Yeah, I heard from my mom.
+###--------
+###Script:14
+###Mugshot:2
+Oh, I forgot to introduce
+myself.
+###--------
+###Mugshot:2
+Mitch Shepar.
+I'm your homeroom teacher!
+###--------
+###Script:15
+###Mugshot:4
+Mr. Shepar, I'm happy to
+say it seems Geo is finally
+going to come to school!
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+And it's all thanks to my
+powers of persuasion!
+###--------
+###Script:16
+###Mugshot:0
+H-Hey! Hold on!!
+###--------
+###Mugshot:0
+You promised I only had
+to look at the set!
+###--------
+###Script:17
+###Mugshot:2
+Ahh, that's bullying,
+you know.
+###--------
+###Mugshot:2
+Luna, you forced him to
+come, didn't you?
+###--------
+###Script:18
+###Mugshot:4
+###--------
+###Mugshot:4
+That's because... I...
+I was doing it for
+Geo's sake...
+###--------
+###Script:19
+###Mugshot:0
+(Liar.)
+###--------
+###Script:20
+###Mugshot:5
+(Liar.)
+###--------
+###Script:21
+###Mugshot:6
+(Pants... er, skirt on fire.)
+###--------
+###Script:22
+###Mugshot:2
+###--------
+###Mugshot:2
+School is important, but
+you can't bully someone
+into going.
+###--------
+###Script:23
+###Mugshot:6
+Huh?
+###--------
+###Mugshot:6
+But you're a teacher!
+You should...
+###--------
+###Script:24
+###Mugshot:2
+You know...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+life is full of important
+things, lots more than just
+what you learn in school.
+###--------
+###Mugshot:2
+That's what I've always
+believed.
+###--------
+###Script:25
+###Mugshot:0
+(......)
+###--------
+###Script:26
+###Mugshot:2
+I think he's got something
+really important to him
+###--------
+###Mugshot:2
+right now that he has to
+do, right Geo?
+###--------
+###Mugshot:2
+Something more important
+than school...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+That's why I'm gonna wait
+until he's really ready
+to come to school.
+###--------
+###Script:27
+###Mugshot:5
+Wow, Mr. Shepar.
+You're really cool...
+###--------
+###Script:28
+###Mugshot:2
+Ha ha, maybe I said
+too much.
+###--------
+###Mugshot:2
+Oh! I have to get going!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I promised my kids I'd
+be home early and hang
+out with them today.
+###--------
+###Script:29
+###Mugshot:5
+Your kids?
+You have 6, right?
+###--------
+###Script:30
+###Mugshot:2
+Nah, 7!
+###--------
+###Script:31
+###Mugshot:6
+And you're surrounded
+by kids at work...
+###--------
+###Mugshot:6
+That's too many kids
+around you all the time.
+###--------
+###Script:32
+###Mugshot:2
+Nonsense! My kids are
+priceless treasures!
+###--------
+###Mugshot:2
+Even when they give
+me trouble, it's really
+no trouble at all.
+###--------
+###Mugshot:2
+That's how I feel, anyway.
+###--------
+###Mugshot:2
+And of course, the same
+with all of you.
+###--------
+###Mugshot:2
+Well, see you around, kids.
+###--------
+###Mugshot:2
+Make sure you all
+get yourselves home
+soon too, alright?
+###--------
+###Script:33
+###Mugshot:2
+###--------
+###Mugshot:2
+And Geo, if you ever
+want to talk, you know
+where I am.
+###--------
+###Mugshot:2
+See you around.
+###--------
+###Script:34
+###Mugshot:4
+###--------
+###Mugshot:4
+Mr. Shepar may feel that
+way, but I still think it's
+better for you to come.
+###--------
+###Mugshot:4
+It's not good for your
+classmates if every one
+of us isn't there.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+Plus, if you don't come,
+we can't do the play.
+###--------
+###Mugshot:4
+Anyway, go take a look
+at the set, for now.
+###--------

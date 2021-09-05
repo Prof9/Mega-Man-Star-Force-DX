@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0055
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleBoy
+Hello!
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:LittleBoy
+I love RCs!
+I play with mine every day!
+###--------
+###Script:4
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I really love playing
+with my RC, but there's
+one thing missing...
+###--------
+###Mugshot:LittleBoy
+Someone to play with.
+###--------
+###Mugshot:LittleBoy
+It's so hard to find a
+good RC flying partner!
+###--------
+###Mugshot:OmegaXis
+...You, don't you have one
+of those RCs?
+###--------
+###Mugshot:MegaMan
+...Yeah, but...
+###--------
+###Mugshot:OmegaXis
+Go on...!
+###--------
+###Mugshot:MegaMan
+...What?
+###--------
+###Mugshot:OmegaXis
+Be that kid's flying partner!
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+You're not such a cold
+guy after all. Let's go.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+...Man, you're pretty cold.
+###--------
+###Script:6
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I really love playing
+with my RC, but there's
+one thing missing...
+###--------
+###Mugshot:LittleBoy
+Someone to play with.
+###--------
+###Mugshot:LittleBoy
+It's so hard to find a
+good RC flying partner!
+###--------
+###Script:7
+###Mugshot:LittleBoy
+I finally have one...
+A flying partner!
+###--------
+###Mugshot:LittleBoy
+Oh yeah!
+My RC life just got
+a lot better!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

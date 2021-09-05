@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0345
+###Script:0
+The next morning...
+###--------
+###Script:1
+###Mugshot:0
+It's time...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+You leaving now?
+###--------
+###Script:3
+###Mugshot:0
+Yeah.
+###--------
+###Script:4
+###Mugshot:OmegaXis
+I... Uh...
+###--------
+###Script:5
+###Mugshot:0
+What's up?
+###--------
+###Script:6
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Um, I'm sorry that you...
+got caught up in this fight...
+###--------
+###Mugshot:OmegaXis
+And I'm sorry about your
+old man...
+###--------
+###Script:7
+###Mugshot:0
+Are you OK?
+This isn't like you at all!
+###--------
+###Mugshot:0
+Plus, this isn't just your
+fight anymore.
+###--------
+###Mugshot:0
+This is a fight for the
+fate of the whole Earth.
+###--------
+###Mugshot:0
+And I went along with
+everything...
+###--------
+###Mugshot:0
+because I wanted to see
+with my own eyes what
+happened to dad.
+###--------
+###Mugshot:0
+So say something happy
+like you always do!
+###--------
+###Script:8
+###Mugshot:OmegaXis
+Geo...
+###--------
+###Mugshot:OmegaXis
+Heh. Looks like I'm rubbing
+off on you!
+###--------
+###Mugshot:OmegaXis
+OK, let's get out there
+and mangle some FM-ians!
+###--------
+###Script:9
+###Mugshot:0
+Yeah!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Actually, before we go into
+space, there's someplace I
+want to go. Is that OK?
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Your usual spot?
+###--------
+###Script:11
+###Mugshot:0
+Yeah...
+###--------
+###Mugshot:0
+Oh, and we should say
+something to mom too.
+###--------
+###Script:12
+###Mugshot:0
+We've gotta hurry...
+###--------

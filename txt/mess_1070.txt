@@ -1,0 +1,365 @@
+﻿###TextArchive:mess_1070
+###Script:0
+###Mugshot:MrHertzGold
+I am a Star Guardian.
+###--------
+###Mugshot:MrHertzGold
+Do you wish to take
+my Star Trial?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:1
+###Mugshot:MrHertzGold
+I am a Star Guardian.
+###--------
+###Mugshot:MrHertzGold
+The Star Trials are a
+test for those who wish
+###--------
+###Mugshot:MrHertzGold
+to obtain the Star Force,
+power of the stars.
+###--------
+###Mugshot:MrHertzGold
+Do you wish to take
+my Star Trial?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:2
+###Mugshot:MrHertzGold
+I am a Star Guardian.
+###--------
+###Mugshot:MrHertzGold
+###--------
+###Mugshot:MrHertzGold
+If you wish to obtain the
+Star Force, you must first
+pass the Star Trials.
+###--------
+###Mugshot:MrHertzGold
+Do you wish to take
+my Star Trial?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:3
+###Mugshot:MrHertzGold
+I am a Star Guardian.
+###--------
+###Mugshot:MrHertzGold
+The Star Trials are trying
+on the soul.
+###--------
+###Mugshot:MrHertzGold
+Do you wish to take
+my Star Trial?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:4
+###Mugshot:MrHertzGold
+I am a Star Guardian.
+###--------
+###Mugshot:MrHertzGold
+Star Trials are for
+the Star Force...
+###--------
+###Mugshot:MrHertzGold
+Do you wish to take
+my Star Trial?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:5
+###Mugshot:MrHertzGold
+Masterfully played.
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=36
+###--------
+###Script:6
+###Mugshot:MrHertzGold
+Masterfully played.
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=37
+###--------
+###Script:7
+###Mugshot:MrHertzGold
+Masterfully played.
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=38
+###--------
+###Script:8
+###Mugshot:MrHertzGold
+Masterfully played.
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=39
+###--------
+###Script:9
+###Mugshot:MrHertzGold
+Masterfully played.
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=40
+###--------
+###Script:10
+###Mugshot:MrHertzGold
+Please proceed to the
+next trial.
+###--------
+###Script:11
+###Mugshot:MrHertzGold
+###--------
+###Mugshot:MrHertzGold
+There are still more trials.
+Give them your very best!
+###--------
+###Script:12
+###Mugshot:MrHertzGold
+Don't let your guard down...
+###--------
+###Script:13
+###Mugshot:MrHertzGold
+That was great.
+I have nothing else to say.
+###--------
+###Script:14
+###Mugshot:MrHertzGold
+May the light of the
+stars protect you.
+###--------
+###Script:15
+###Mugshot:MrHertzGold
+I see. Fear has you
+in its grasp.
+###--------
+###Script:16
+###Mugshot:MrHertzGold
+I see. Fear has you
+in its grasp.
+###--------
+###Script:17
+###Mugshot:MrHertzGold
+I see. Fear has you
+in its grasp.
+###--------
+###Script:18
+###Mugshot:MrHertzGold
+I see. Fear has you
+in its grasp.
+###--------
+###Script:19
+###Mugshot:MrHertzGold
+I see. Fear has you
+in its grasp.
+###--------
+###Script:40
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+*vroooooom* I always say
+it's best to get mail waves
+to their destinations fast!
+###--------
+###Mugshot:TruckNavi
+I'm gonna try to break
+my record today!
+*vroom*
+###--------
+###Script:41
+###Mugshot:InfoNavi
+*sigh*
+###--------
+###Mugshot:InfoNavi
+Ah, I really want to go
+into outer space...
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+That endless space, the
+sea of stars... I wanna
+travel and see it all.
+###--------
+###Mugshot:InfoNavi
+That's the dream of this
+little wave.
+###--------
+###Script:61
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Hmm... I wonder how I can
+get into space...?
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Even though I'm so busy, my
+head is filled with nothing but
+thoughts about space... *sigh*
+###--------
+###Script:80
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+*vroom*
+Argh, that annoying person!
+###--------
+###Mugshot:TruckNavi
+Don't they know it's
+dangerous to fly around!?
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+It was only for a second,
+but they made my arm
+go numb with fear.
+###--------
+###Script:81
+###Mugshot:InfoNavi
+Ack... What was that
+odd wave?
+###--------
+###Mugshot:InfoNavi
+It's headed for AMAKEN
+at any rate...
+###--------
+###Mugshot:InfoNavi
+Is it planning to take
+over AMAKEN?
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+I'm staying right here.
+No way am I getting
+caught up in all this.
+###--------
+###Script:150
+###Mugshot:MrHertz
+I'M GOING TO DELIVER
+THINGS TODAY TOO!
+###--------
+###Mugshot:MrHertz
+STUFF LIKE THIS!
+###--------
+###Mugshot:MrHertz
+I'M DELIVERING SECRET
+THINGS AGAIN TOO!
+###--------
+###Mugshot:MrHertz
+WISH I COULD SEE WHAT'S
+INSIDE!
+###--------
+###Mugshot:MrHertz
+C<wait>A<wait>N<wait>'<wait>T<wait> L<wait>O<wait>O<wait>K<wait>.<wait>.<wait>.<wait>
+M<wait>U<wait>S<wait>T<wait> N<wait>O<wait>T<wait> L<wait>O<wait>O<wait>K<wait>.<wait>.<wait>.<wait>
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+###Script:151
+###Mugshot:MrHertz
+SO THIS IS THE LAB!
+###--------
+###Mugshot:MrHertz
+IT'S SO LARGE!
+SO BIG!
+###--------
+###Mugshot:MrHertz
+I CAME FROM THE COUNTRY-
+SIDE, WHERE THERE'S A
+LOT OF SPACE,
+###--------
+###Mugshot:MrHertz
+BUT THIS TAKES THE CAKE!
+###--------
+###Script:152
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+*beep beep*
+The Wave World is
+undergoing some cleaning!
+###--------
+###Mugshot:TruckNavi
+Sorry to be a bother,
+but please move!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+I wouldn't want you to
+get washed away!
+*beep beep*
+###--------
+###Script:153
+###Mugshot:InfoNavi
+I'm looking over there,
+across the street.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Sometimes when I look,
+there's some green wave
+residue left behind.
+###--------
+###Mugshot:InfoNavi
+I wonder why it's there,
+or what causes it?
+###--------
+###Mugshot:InfoNavi
+Hmm, sounds like I need
+to investigate more...
+###--------

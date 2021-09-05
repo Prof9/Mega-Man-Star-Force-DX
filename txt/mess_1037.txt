@@ -1,0 +1,80 @@
+﻿###TextArchive:mess_1037
+###Script:0
+###Mugshot:3
+*BEEP BEEP*
+###--------
+###Mugshot:3
+G'DAY MATE!
+###--------
+###Mugshot:3
+IT COULD BE JUST MY
+IMAGINATION,
+###--------
+###Mugshot:3
+BUT I FEEL LIKE I'VE KNOWN
+YOU FOR A LONG TIME.
+###--------
+###Script:51
+###Mugshot:3
+INDEED, YOU HAVE HONORED
+YOUR END OF THE DEAL.
+###--------
+###Mugshot:3
+IN RETURN, I SHALL
+BESTOW THIS UPON THEE.
+###--------
+Mega Man got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printItem item=31
+###--------
+###Mugshot:3
+TAKE THIS WITH COURAGE
+AND FIGHT NOBLY...
+###--------
+###Script:52
+###Mugshot:3
+THE CARDS WHICH YOU
+HOLD ARE NOT SUFFICIENT...
+###--------
+###Script:53
+###Mugshot:3
+"<printCard>",
+"<printCard>", AND
+"<printCard>".
+###Command:printCard card=91
+###Command:printCard card=92
+###Command:printCard card=93
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+GIVE THEM UNTO ME AND
+I SHALL BESTOW UPON
+YOU FISTS OF VALOR.
+###--------
+###Mugshot:3
+"<printCard>",
+"<printCard>", AND
+"<printCard>".
+###Command:printCard card=91
+###Command:printCard card=92
+###Command:printCard card=93
+###--------
+###Mugshot:3
+GIVE THEM UNTO ME.
+###--------
+<positionOptionFromCenter><optionText>  Give  <optionText>  Don't
+###Command:positionOptionFromCenter width=82
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:3
+BE NOT BE DECEIVED
+BY QUICK GAINS.
+###--------
+###Script:54
+###Mugshot:3
+TAKE THIS WITH COURAGE
+AND FIGHT NOBLY...
+###--------

@@ -1,0 +1,181 @@
+﻿###TextArchive:mess_0193
+###Script:0
+Wait! Please!
+###--------
+###Script:1
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Geo, you were at
+Vista Point this morning,
+weren't you?
+###--------
+###Script:2
+###Mugshot:Geo
+.........
+###--------
+###Script:3
+###Mugshot:Zack
+Who was that person
+with you?
+###--------
+###Script:4
+###Mugshot:Geo
+.........
+###--------
+###Script:5
+###Mugshot:Zack
+Weren't you with
+Sonia Strumm!?
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+You have something to do
+with her concert getting
+cancelled, don't you?
+###--------
+###Script:6
+###Mugshot:Bud
+Hey, say something!
+What happened!?
+###--------
+###Mugshot:Bud
+This is a disaster,
+you know!?
+###--------
+###Script:7
+###Mugshot:Geo
+I-I don't know anything...
+###--------
+###Script:8
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+.<waitSkip>.<waitSkip>.<waitSkip>Hmm, well it's not like
+you know Sonia, so of
+course you wouldn't know.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:9
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Yeah, that's true.
+Besides, the real Sonia
+wouldn't hang out here.
+###--------
+###Mugshot:Bud
+Man, when it rains, it pours.
+They cancelled the concert,
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+and we're so going to get
+punished by the Prez
+for ditching yesterday...
+###--------
+###Script:10
+###Mugshot:Zack
+Hmm...
+###--------
+###Mugshot:Zack
+But that girl really looked
+a lot like Sonia.
+###--------
+###Mugshot:Zack
+I hope I didn't make
+any trouble when I told
+Sonia's manager
+###--------
+###Mugshot:Zack
+that I saw her get on
+a bus...
+###--------
+###Script:11
+###Mugshot:Geo
+......
+###--------
+###Script:12
+###Mugshot:Bud
+I wonder why she
+disappeared so suddenly?
+###--------
+###Script:13
+###Mugshot:Zack
+She's a big star!
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Maybe she thought Echo
+Ridge was too small for a
+super-star like her?
+###--------
+###Script:14
+###Mugshot:Geo
+You're wrong!
+###--------
+###Mugshot:Geo
+You don't know anything,
+so stop talking like you do!
+###--------
+###Script:15
+###Mugshot:Bud
+Oh? And what do you
+know about her!?
+###--------
+###Mugshot:Bud
+You hadn't even heard
+of her until yesterday!
+###--------
+###Script:16
+###Mugshot:Geo
+Well, I...
+###--------
+###Script:17
+###Mugshot:Zack
+I guess there are
+fans like you.
+###--------
+###Mugshot:Zack
+People who think they know
+all and pretend they do.
+###--------
+###Mugshot:Zack
+Well, we're fans too.
+We believe in Sonia.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+And we think some special
+circumstance caused the
+concert to be cancelled.
+###--------
+###Mugshot:Zack
+You've become a fan
+of hers, right?
+###--------
+###Mugshot:Zack
+Then don't be shy about
+it and say it!
+###--------
+###Script:18
+###Mugshot:Geo
+I'm... not a fan...
+###--------
+###Script:19
+###Mugshot:Bud
+Then don't go around saying
+stuff about her!
+###--------
+###Script:20
+###Mugshot:Geo
+.........
+###--------

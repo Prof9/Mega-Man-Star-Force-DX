@@ -1,0 +1,53 @@
+﻿###TextArchive:mess_0433
+###Script:0
+Temp message
+###--------
+###Script:48
+###Mugshot:1
+Why don't I go further in...?
+###--------
+###Script:49
+###Mugshot:1
+OK... Off to the
+Science Museum.
+###--------
+###Script:50
+###Mugshot:1
+Maybe I'll check out the
+museum's displays.
+###--------
+###Script:51
+###Mugshot:1
+Guess I'll head back to
+where Mr. Boreal is...
+###--------
+###Script:52
+###Mugshot:MegaMan
+Guess I'll go to the lab...
+###--------
+###Script:53
+###Mugshot:1
+A SpaceSim tour...
+###--------
+###Mugshot:1
+Guess I should head over
+to the Science Museum.
+###--------
+###Script:65
+###Mugshot:1
+###--------
+###Mugshot:1
+Something that can pull in
+EM waves... I think there
+was a display like that...
+###--------
+###Script:66
+###Mugshot:1
+It's fixed! Now I can get
+to the other side!
+###--------
+###Script:67
+###Mugshot:1
+I've got to get to the
+SpaceSim Comp!
+###--------

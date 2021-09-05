@@ -1,0 +1,280 @@
+﻿###TextArchive:mess_0011
+###Script:0
+Name    Face PicMessage Secret  FavoriteB.ComboEXIT    
+###--------
+###Script:1
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=leftPadSpaces
+###--------
+###Script:2
+<printBrotherBuffer1>
+<printBrotherBuffer2>
+<printBrotherBuffer3>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer3
+###--------
+###Script:3
+Hey! You didn't write anything!
+###--------
+###Script:4
+###Mugshot:Geo
+You can't edit or favorite
+the currently equipped folder.
+###--------
+###Script:10
+<printBuffer>/<printBuffer>/<printBuffer>:
+Beat the Antlion!
+To the mansion!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:11
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified Rymer
+and met Ursula!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:12
+<printBuffer>/<printBuffer>/<printBuffer>:
+Beat the Gold Chimera
+with Solar Gun Knight!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:13
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified the Poes
+and met Tove & co.!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:14
+<printBuffer>/<printBuffer>/<printBuffer>:
+Saved the injured Kay
+at the station!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:15
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified Stoker
+and met Ezra!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:16
+<printBuffer>/<printBuffer>/<printBuffer>:
+Got through New Culiacan!
+Next, the Dark Castle!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:17
+<printBuffer>/<printBuffer>/<printBuffer>:
+Beat Dumas!
+But...!?
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:18
+<printBuffer>/<printBuffer>/<printBuffer>:
+Cleared Normal Mode!
+Try Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:19
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified Rymer
+on Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:20
+<printBuffer>/<printBuffer>/<printBuffer>:
+Beat the Gold Chimera
+on Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:21
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified the Poes
+on Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:22
+<printBuffer>/<printBuffer>/<printBuffer>:
+Saved the injured Kay
+on Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:23
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified Stoker
+on Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:24
+<printBuffer>/<printBuffer>/<printBuffer>:
+Got through New Culiacan
+on Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:25
+<printBuffer>/<printBuffer>/<printBuffer>:
+Beat Dumas
+on Hard Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:26
+<printBuffer>/<printBuffer>/<printBuffer>:
+Cleared Hard Mode!
+Try Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:27
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified Rymer
+on Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:28
+<printBuffer>/<printBuffer>/<printBuffer>:
+Beat the Gold Chimera
+on Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:29
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified the Poes
+on Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:30
+<printBuffer>/<printBuffer>/<printBuffer>:
+Saved the injured Kay
+on Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:31
+<printBuffer>/<printBuffer>/<printBuffer>:
+Purified Stoker
+on Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:32
+<printBuffer>/<printBuffer>/<printBuffer>:
+Got through New Culiacan
+on Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:33
+<printBuffer>/<printBuffer>/<printBuffer>:
+Cleared the fiendish
+Nightmare Mode!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:34
+<printBuffer>/<printBuffer>/<printBuffer>:
+Got an S Rank on all
+boss battles!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:35
+<printBuffer>/<printBuffer>/<printBuffer>:
+Cleared Vambery,
+the tower lab!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:36
+<printBuffer>/<printBuffer>/<printBuffer>:
+Got all weapons!
+Time to enhance 'em!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:37
+<printBuffer>/<printBuffer>/<printBuffer>:
+Filled out the
+Accessory List!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:38
+<printBuffer>/<printBuffer>/<printBuffer>:
+Filled out the
+Hunt List!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:39
+<printBuffer>/<printBuffer>/<printBuffer>:
+Got an S Rank on all
+shooting battles!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:40
+<printBuffer>/<printBuffer>/<printBuffer>:
+Filled out the
+Quest List!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:41
+<printBuffer>/<printBuffer>/<printBuffer>:
+Filled out the
+Jukebox!
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadZeroes
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------

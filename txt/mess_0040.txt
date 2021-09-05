@@ -1,0 +1,133 @@
+﻿###TextArchive:mess_0040
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:3
+###Mugshot:Boy
+I'm the Supreme Collector!!
+###--------
+###Script:4
+###Mugshot:Boy
+O-Oh no...
+There's a card I don't have!?
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+At this rate my older
+brother will steal my title
+of Supreme Collector!!
+###--------
+###Mugshot:OmegaXis
+This guy looks worried
+about something.
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It looks like his brother's
+about to steal his title
+of Supreme Collector.
+###--------
+###Mugshot:OmegaXis
+What-ever...
+So help him or not?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+...Alright, let's do this
+and get it over with.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Yeah, let's just leave
+him be.
+###--------
+###Script:6
+###Mugshot:Boy
+O-Oh no...
+There's a card I don't have!?
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+At this rate my older
+brother will steal my title
+of Supreme Collector!!
+###--------
+###Script:7
+###Mugshot:Boy
+Hee hee hee.
+Once again, I am the
+Supreme Collector!!
+###--------
+###Mugshot:Boy
+Hee hee hee.
+###--------
+###Script:10
+###Mugshot:Boy
+I'm the Supreme Collector!!
+Welcome Brothers!
+###--------
+###Script:11
+This Transer is restricted.
+To view comments, you
+or one of your Brothers.
+###--------
+###--------
+must be registered on
+the Dragon Server.
+###--------
+Dragon server
+registration confirmed.
+###--------
+Access granted.
+###--------
+###Script:12
+This Transer is restricted.
+To view comments, you
+or one of your Brothers.
+###--------
+###--------
+must be registered on
+the Leo Server.
+###--------
+Leo server
+registration confirmed.
+###--------
+Access granted.
+###--------
+###Script:13
+This Transer is restricted.
+To view comments, you
+or one of your Brothers.
+###--------
+###--------
+must be registered on
+the Pegasus Server.
+###--------
+Pegasus server
+registration confirmed.
+###--------
+Access granted.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

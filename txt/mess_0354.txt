@@ -1,0 +1,61 @@
+﻿###TextArchive:mess_0354
+###Script:0
+###Mugshot:0
+###--------
+###Mugshot:0
+I can't get to the other side
+if I don't get this pile of
+stuff out of the way.
+###--------
+###Mugshot:0
+It looks like a lot,
+but I've gotta try...
+###--------
+###Mugshot:0
+Hmm...?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+What's up?
+###--------
+###Script:2
+###Mugshot:0
+*huff huff*
+It's kinda hard to breathe.
+###--------
+###Mugshot:0
+I thought there was
+supposed to be air in here.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Maybe there's a problem
+with the air system.
+###--------
+###Script:4
+###Mugshot:0
+That's not good. What am
+I supposed to do?
+###--------
+###Script:5
+###Mugshot:OmegaXis
+How should I know!?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+But it's gotta be something
+you can do by yourself, since
+you're the only one here.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you don't do something
+fast, you're gonna run
+out of air!
+###--------
+###Script:6
+###Mugshot:0
+What am I supposed to do?
+###--------

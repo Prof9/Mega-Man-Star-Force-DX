@@ -1,0 +1,34 @@
+﻿###TextArchive:mess_0601
+###Script:0
+###Mugshot:4
+The waves don't usually
+get this rough...
+###--------
+###Mugshot:4
+...Somethin's about to happen.
+###--------
+###Script:1
+###Mugshot:5
+Not many people come here,
+so it's relaxing.
+###--------
+###Script:5
+###Mugshot:4
+###--------
+###Mugshot:4
+I wonder if the sea knows
+that those aliens are
+getting close!
+###--------
+###Script:6
+###Mugshot:5
+No way! It's getting closer!
+###--------
+###Mugshot:5
+If that thing hits,
+it's all over for us!
+###--------
+###Mugshot:5
+Navis! What are we going
+to do!?
+###--------

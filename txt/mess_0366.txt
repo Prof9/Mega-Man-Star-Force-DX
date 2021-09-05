@@ -1,0 +1,289 @@
+﻿###TextArchive:mess_0366
+###Script:0
+###Mugshot:1
+Wow... The waves are really
+strong here!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+That means the FM King
+is nearby.
+###--------
+###Script:2
+Omega-Xis...
+###--------
+###--------
+While you are in that
+lowly body, you are
+of no threat to me.
+###--------
+###--------
+I grant you special
+permission to ascend those
+stairs and come before me.
+###--------
+Now come.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Heh, even if you hadn't
+"invited" me, I would've
+gone up there anyway.
+###--------
+###Mugshot:OmegaXis
+Come on, Geo.
+Let's go!
+###--------
+###Script:4
+###Mugshot:1
+Yeah!
+###--------
+###Script:5
+###Mugshot:Cepheus
+Well done...
+Mega Man, Omega-Xis.
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+So the enemy who
+appears before me is
+one of my own warriors.
+###--------
+###Mugshot:Cepheus
+Who would have thought it...?
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+So this is what is meant
+by "biting the hand
+that feeds you."
+###--------
+###Mugshot:Cepheus
+No AM-ian warrior was
+able to reach me,
+###--------
+###Mugshot:Cepheus
+however, one of my own
+was. I do commend you.
+###--------
+###Script:6
+###Mugshot:1
+###--------
+###Mugshot:1
+Your Majesty!
+Stop your attack on Earth!
+###--------
+###Script:7
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+Quiet! I will destroy all
+planets that wish harm
+upon my own.
+###--------
+###Script:8
+###Mugshot:1
+Harm...?
+###--------
+###Mugshot:1
+I think you misunderstood!
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+My dad came all the way out
+here just to form a Brother
+Band with Planet FM!
+###--------
+###Script:9
+###Mugshot:Cepheus
+Be quiet, you!
+Brother Band, indeed!
+Hmph!
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+Your real purpose
+was invasion!
+You won't trick me!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Hmph. Hopeless.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This isn't the first time
+that king's paranoia
+got the better of him.
+###--------
+###Mugshot:OmegaXis
+Geo, there's only one
+way to stop him.
+###--------
+###Script:11
+###Mugshot:Cepheus
+You have one way to
+stop me?
+###--------
+###Mugshot:Cepheus
+What are you talking about?
+###--------
+###Mugshot:Cepheus
+You have NO way of
+stopping me!
+###--------
+###Script:12
+###Mugshot:1
+We won't know unless
+we try!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Hey, Kingy...
+You were saying earlier...
+###--------
+###Mugshot:OmegaXis
+that no AM-ian had made it
+to you before, so...
+###--------
+###Mugshot:OmegaXis
+Well, I guess that makes
+me the first.
+###--------
+###Script:14
+###Mugshot:Cepheus
+You're... an AM-ian survivor?
+###--------
+###Script:15
+###Mugshot:1
+Wha!?
+###--------
+###Mugshot:1
+You're a survivor of
+Planet AM?
+###--------
+###Script:16
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Geo, remember how you
+said that I've never lost
+anyone before?
+###--------
+###Mugshot:OmegaXis
+Well, I didn't say it then,
+but everything that
+was precious to me
+###--------
+###Mugshot:OmegaXis
+was stolen by that guy.
+###--------
+###Mugshot:OmegaXis
+That's why I can say that...
+###--------
+###Mugshot:OmegaXis
+I understand how you feel...
+###--------
+###Mugshot:1
+Mega...
+###--------
+###Mugshot:OmegaXis
+If I don't do anything,
+###--------
+###Mugshot:OmegaXis
+then Earth's gonna end
+up just like my home
+planet, Planet AM.
+###--------
+###Mugshot:OmegaXis
+That's why we have to
+stop him now!
+###--------
+###Script:17
+###Mugshot:1
+Yeah!
+###--------
+###Script:18
+###Mugshot:Cepheus
+Ha ha ha ha ha!
+###--------
+###Mugshot:Cepheus
+What can one AM-ian and an
+Earthling boy possibly do!?
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+If you think you can stop
+me, then by all means,
+go ahead and try...
+###--------
+###Mugshot:Cepheus
+Awaken from your slumber,
+Andromeda!!
+###--------
+###Script:19
+###Mugshot:1
+Th-That's Andromeda...?
+###--------
+###Script:20
+###Mugshot:OmegaXis
+At its core, it's a ball
+of loneliness.
+###--------
+###Mugshot:OmegaXis
+It has an EM body,
+but all it does is,
+###--------
+###Mugshot:OmegaXis
+ever so lonely and sadly,
+eat other EM beings.
+###--------
+###Script:21
+###Mugshot:Cepheus
+Andromeda!
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+Have some hors d'oeuvre
+before I serve up the
+main course - Earth!
+###--------
+###Mugshot:Cepheus
+I will crush all those
+who oppose me!!
+###--------
+###Script:22
+###Mugshot:1
+Mega! This is it!
+The last battle!
+###--------
+###Script:23
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's show that untrusting
+brat of a king the power
+of our bond!
+###--------
+###Script:24
+###Mugshot:1
+Last Battle!
+Ride On!!
+###--------
+###Script:25
+###Mugshot:Cepheus
+You'll regret standing
+against me!!
+###--------
+###Mugshot:Cepheus
+Andromeda! Go!!
+###--------

@@ -1,0 +1,238 @@
+﻿###TextArchive:mess_0097
+###Script:0
+###Mugshot:Geo
+Choose a Brother to
+write to.
+###--------
+###Script:1
+###Mugshot:Geo
+Do you want to quit
+writing?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:2
+###Mugshot:Geo
+Choose an icon.
+###--------
+###Script:3
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>Send a present with
+the mail?
+###Command:optionButtonWide up=2 down=1 left=1 right=1 string="Send"
+###Command:optionButtonWide up=0 down=2 left=2 right=2 string="Don't send"
+###Command:optionButtonWide up=1 down=0 left=0 right=0 string="Change icon"
+###--------
+###Script:4
+###Mugshot:Geo
+Write a subject for
+the mail.
+###--------
+###Script:5
+###Mugshot:Geo
+Write the body of
+the mail.
+###--------
+###Script:6
+###Mugshot:Geo
+Send the mail?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:7
+###Mugshot:Geo
+Time to get writing!
+###--------
+###Script:8
+###Mugshot:Geo
+You didn't choose a
+Brother to write to yet!
+###--------
+###Script:9
+###Mugshot:Geo
+You didn't choose an icon!
+###--------
+###Script:10
+###Mugshot:Geo
+You didn't write a
+subject yet!
+###--------
+###Script:11
+###Mugshot:Geo
+You didn't write
+anything yet!
+###--------
+###Script:12
+###Mugshot:Geo
+Hey, looks like you
+forgot something!
+###--------
+###Script:13
+###Mugshot:Geo
+You can't send mail when
+you're not connected.
+###--------
+###Script:14
+###Mugshot:Geo
+Can't send to a stranger.
+Cancelling...
+###--------
+###Script:15
+###Mugshot:Geo
+Sending the mail now!
+###--------
+###Script:16
+###Mugshot:Geo
+Oops. There was a
+communication error...
+###--------
+###Script:17
+###Mugshot:Geo
+Mail sent!
+###--------
+###Script:18
+###Mugshot:Geo
+Guess the other person
+didn't get our mail.
+###--------
+###Mugshot:Geo
+If we send another one,
+this one will be overwritten.
+###--------
+###Mugshot:Geo
+Is that OK?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No!
+###Command:positionOptionFromCenter width=65
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:19
+###Mugshot:Geo
+The mailing has been
+cancelled.
+###--------
+###Script:20
+###Mugshot:Geo
+You don't have the card
+you want to send!
+###--------
+###Script:21
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide>You didn't choose a
+Brother to write to yet!
+###Command:optionButtonWide up=1 down=1 left=0 right=0 string="Choose a Brother"
+###Command:optionButtonWide up=0 down=0 left=1 right=1 string="Exit Compose"
+###--------
+###Script:22
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>You didn't choose an icon!
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Choose an icon"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Choose a Brother"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Exit Compose"
+###--------
+###Script:23
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>You didn't write a
+subject yet!
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Write a subject"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Choose a present"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Exit Compose"
+###--------
+###Script:24
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>You didn't write
+anything yet!
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Write something"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Rewrite subject"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Exit Compose"
+###--------
+###Script:25
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Rewrite the whole mail?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Rewrite!"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Hold it!"
+###--------
+###Script:26
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Save the mail?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:27
+###Mugshot:Geo
+Mail saved!
+###--------
+###Script:28
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Cancel icon selection?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:29
+###Mugshot:Geo
+Mail sent to the Satellite!
+###--------
+###Script:31
+Initializing backup data.
+Hang on a sec...
+###--------
+###Script:32
+Now saving... Don't turn
+off the power!
+###--------
+###Script:33
+Save complete.
+###--------
+###Script:34
+<optionButtonSmall><optionButtonSmall>The save failed. Do you
+want to try again?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:36
+Save failed...
+###--------
+###Script:37
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>Pick a different present?
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Choose a present"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Choose an icon"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Exit Compose"
+###--------
+###Script:38
+###Mugshot:Geo
+That person cannot
+get mail. Retry later.
+###--------
+###Script:41
+Sending mail. Don't turn
+off the power!
+###--------
+###Script:42
+Mail sent!
+###--------
+###Script:43
+###Mugshot:Geo
+Autosave after sending
+mail?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:44
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:45
+Mail sent to your
+Lunar Knights Brother!
+###--------

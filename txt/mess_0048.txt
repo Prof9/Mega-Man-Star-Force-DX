@@ -1,0 +1,95 @@
+﻿###TextArchive:mess_0048
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Man
+Hiya!
+Welcome to my Transer!
+###--------
+###Script:4
+###Mugshot:Man
+###--------
+###Mugshot:Man
+I'm an expert on space.
+Go ahead and ask me
+anything!
+###--------
+###Script:5
+###Mugshot:Man
+Lend me your ears,
+Brothers!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Lately, I've been
+experiencing love troubles!
+Oooh, what should I do!?
+###--------
+###Mugshot:OmegaXis
+What an emotional guy...
+###--------
+###Mugshot:MegaMan
+I guess that's what love
+does to you...
+###--------
+###Mugshot:OmegaXis
+...Well do you wanna help him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Alright, let's get this
+over with!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Yeah, we should let him
+work out his own problem.
+###--------
+###Script:7
+###Mugshot:Man
+Lend me your ears,
+Brothers!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Lately, I've been
+experiencing love troubles!
+Oooh, what should I do!?
+###--------
+###Script:8
+###Mugshot:Man
+Bros! A young boy with
+glasses brought me the
+perfect present
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+to give to Grace!
+I'm a step ahead of that
+gift counter boy now!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

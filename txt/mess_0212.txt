@@ -1,0 +1,750 @@
+﻿###TextArchive:mess_0212
+###Script:0
+###Mugshot:0
+I can't believe this pendant
+is a transmitter...
+###--------
+###Mugshot:0
+And that it reacts to
+Brother Bands...
+###--------
+###Mugshot:0
+Dad, what is this thing...?
+###--------
+###Mugshot:0
+Hm?
+###--------
+###Script:1
+###Mugshot:0
+I-It's glowing again!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+So is someone trying to
+contact us?
+###--------
+###Script:3
+###Mugshot:0
+D-Dad...?
+###--------
+###Script:4
+###Mugshot:0
+The light is getting brighter!
+###--------
+###Script:5
+###Mugshot:0
+Huh?
+###--------
+###Mugshot:0
+Did you just feel something?
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Hey, Geo.
+Sorry to cut you off,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+but there's a really
+strong EM wave coming
+right at us!
+###--------
+###Mugshot:OmegaXis
+At a very high speed too!
+###--------
+###Script:7
+###Mugshot:0
+Wh-What!?
+###--------
+###Script:8
+###Mugshot:0
+Aaaaaaah!!
+###--------
+###Mugshot:OmegaXis
+This is not good!
+###--------
+###Script:9
+###Mugshot:0
+What's going on!?
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Geo! Hurry and break
+that pendant!
+###--------
+###Script:11
+###Mugshot:0
+What!? Why!?
+###--------
+###Script:12
+###Mugshot:OmegaXis
+That thing is calling down
+who knows what!
+###--------
+###Mugshot:OmegaXis
+Hurry up and smash it
+before it's too late!
+###--------
+###Script:13
+###Mugshot:0
+N-No!!
+###--------
+###Mugshot:OmegaXis
+What!?
+###--------
+###Mugshot:0
+I-It's...
+###--------
+###Mugshot:0
+It's all I have left
+from my dad!!
+###--------
+###Mugshot:0
+Oof!!
+###--------
+###Script:14
+###Mugshot:0
+Wh-Whaaa!?
+###--------
+###Script:15
+###Mugshot:OmegaXis
+These guys!!
+###--------
+###Script:16
+###Mugshot:0
+They're the dark shadows
+I saw in my dream!
+###--------
+###Mugshot:0
+What are they doing here!?
+###--------
+###Script:17
+###Mugshot:PegasusMagicShadow
+You seem surprised, Geo.
+###--------
+###Script:18
+###Mugshot:DragonSkyShadow
+You seem surprised, Geo.
+###--------
+###Script:19
+###Mugshot:LeoKingdomShadow
+You seem surprised, Geo.
+###--------
+###Script:20
+###Mugshot:0
+Is this just another dream?
+###--------
+###Script:21
+###Mugshot:PegasusMagicShadow
+You are not dreaming.
+This is reality.
+###--------
+###Script:22
+###Mugshot:DragonSkyShadow
+We have words that must
+be conveyed.
+###--------
+###Script:23
+###Mugshot:0
+You mean you have things
+to tell me?
+###--------
+###Mugshot:0
+But... Who are you guys?
+###--------
+###Script:24
+###Mugshot:PegasusMagicShadow
+We are shadows of the
+3 Satellites' admins:
+###--------
+###Mugshot:PegasusMagicShadow
+Satellite Pegasus Admin,
+Pegasus Magic,
+###--------
+###Mugshot:LeoKingdomShadow
+Satellite Leo Admin,
+Leo Kingdom, and...
+###--------
+###Mugshot:DragonSkyShadow
+Satellite Dragon Admin,
+Dragon Sky.
+###--------
+###Mugshot:PegasusMagicShadow
+We cannot leave our
+Satellites,
+###--------
+###Mugshot:PegasusMagicShadow
+so we have taken these
+forms to speak with you.
+###--------
+###Mugshot:OmegaXis
+The admins of the Satellites?
+###--------
+###Mugshot:OmegaXis
+These guys have
+EM bodies, just like me.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Why would they protect a
+bunch of Earth Satellites?
+###--------
+###Mugshot:0
+The Satellites' admins...
+Here...?
+###--------
+###Mugshot:DragonSkyShadow
+The time to fight draws near.
+###--------
+###Mugshot:DragonSkyShadow
+We came to prepare you...
+###--------
+###Mugshot:0
+Prepare us for a fight?
+###--------
+###Mugshot:PegasusMagicShadow
+A bond which you must
+protect has been born.
+###--------
+###Mugshot:PegasusMagicShadow
+Is that not correct?
+###--------
+###Mugshot:PegasusMagicShadow
+That is the signal.
+###--------
+###Script:25
+###Mugshot:0
+###--------
+###Mugshot:0
+Bond?
+Are you talking about
+the Brother Band?
+###--------
+###Script:26
+###Mugshot:PegasusMagicShadow
+Correct.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Your pendant informed
+us that you have made
+a Brother.
+###--------
+###Mugshot:PegasusMagicShadow
+We have waited for you
+to form a Brother Band.
+###--------
+###Mugshot:0
+Whaa!?
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Humans gain true power only
+when they have something
+they must protect.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+How we have waited for
+this day, when you would
+obtain that power.
+###--------
+###Mugshot:DragonSkyShadow
+A grave danger to this
+planet draws near.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+If it were to descend onto
+Earth, you would lose
+all those you hold dear.
+###--------
+###Mugshot:DragonSkyShadow
+Your newborn bond would
+be severed.
+###--------
+###Mugshot:0
+A grave danger??
+###--------
+###Mugshot:PegasusMagicShadow
+Yes.
+###--------
+###Mugshot:PegasusMagicShadow
+And you must stand and
+face that danger.
+###--------
+###Mugshot:0
+Why us?
+###--------
+###Mugshot:DragonSkyShadow
+It was written into the
+fate of this planet.
+###--------
+###Mugshot:DragonSkyShadow
+From the moment the child
+of the man who owned
+that pendant was born
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+unto planet Earth, the
+fate of the world was
+sealed as it were.
+###--------
+###Script:27
+###Mugshot:0
+The owner...
+You mean my dad!?
+###--------
+###Mugshot:0
+You know my dad!?
+###--------
+###Script:28
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+We cooperated with your
+father to give birth
+to the Brother Band.
+###--------
+###Mugshot:0
+You... You made the
+Brother Band with my dad...
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+He was a kind man who
+treasured relationships
+above all else.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+The Visualizer and pendant
+you possess now
+###--------
+###Mugshot:DragonSkyShadow
+were used by your father
+to communicate with us.
+###--------
+###Mugshot:0
+......He talked with you
+Satellite admins?
+###--------
+###Mugshot:PegasusMagicShadow
+With your father, Kelvin
+Stelar, at the center,
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+we are bound by the threads
+of fate, Geo... and you
+as well, Omega-Xis.
+###--------
+###Script:31
+###Mugshot:PegasusMagicShadow
+Only the two of you can
+stand up to the calamity.
+###--------
+###Mugshot:PegasusMagicShadow
+The fate of this planet
+lies with you.
+###--------
+###Script:32
+###Mugshot:0
+The fate of the planet...?
+###--------
+###Mugshot:0
+Hey, isn't that a bit
+drastic!?
+###--------
+###Mugshot:PegasusMagicShadow
+Hardly.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+It would be fine if we could
+fight, however, we can
+not stand up to this.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+The only thing that can is
+the power you and Omega-Xis
+hold when you fuse.
+###--------
+###Mugshot:PegasusMagicShadow
+In other words, the
+power of Mega Man.
+###--------
+###Script:33
+###Mugshot:LeoKingdomShadow
+In preparation for the
+fated day's coming,
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+we felt that we needed
+to confer upon you a
+certain special power...
+###--------
+###Mugshot:LeoKingdomShadow
+The power of the stars...
+The Star Force!
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+But for us to give this
+power, you must know the
+value of your Brothers
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+and must possess a strong
+heart that is willing to
+protect all that is dear to it.
+###--------
+###Mugshot:OmegaXis
+Heh, but if you just need
+a human who can change
+into wave form
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and has a Brother, then
+there's also Harp Note.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you give them the
+Star Force, wouldn't that
+be enough for you guys?
+###--------
+###Mugshot:DragonSkyShadow
+Unfortunately, only you can
+receive our powers.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+The frequency of the
+FM-ian known as Lyra is
+too different from our own.
+###--------
+###Mugshot:DragonSkyShadow
+However, even as an
+FM-ian, Omega-Xis,
+###--------
+###Mugshot:DragonSkyShadow
+your wave frequency is
+surprisingly similar to ours.
+###--------
+###Mugshot:DragonSkyShadow
+Therefore, it must be you
+two or no one else.
+###--------
+###Script:34
+###Mugshot:OmegaXis
+You say that like...
+Wait a sec, here...
+###--------
+###Mugshot:OmegaXis
+You can't possibly be...
+survivors of Planet AM!?
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+...Indeed.
+We are survivors of
+Planet AM.
+###--------
+###Mugshot:0
+Um, what?
+Planet AM??
+###--------
+###Mugshot:OmegaXis
+Planet AM was Planet FM's
+neighbor, kid.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The AM-ians, who had EM
+bodies just like FM-ians,
+lived on that planet.
+###--------
+###Mugshot:OmegaXis
+The twin planets lived in
+peace a long time ago,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+but when the current
+FM King ascended, a war
+broke out all of a sudden.
+###--------
+###Mugshot:OmegaXis
+Actually, you can't really
+call that a war.
+###--------
+###Mugshot:OmegaXis
+It was one attack from
+Planet FM on Planet AM,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and at the end of the
+attack, Planet FM
+brought it out...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Their ultimate weapon.<waitSkip>.<waitSkip>.<waitSkip>
+Andromeda.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Before the terrible power of
+Andromeda, the people of
+Planet AM were wiped out.
+###--------
+###Mugshot:OmegaXis
+I didn't think anyone
+survived.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+So why would you AM-ians
+want to give me, your
+enemy, any power at all?
+###--------
+###Mugshot:PegasusMagicShadow
+Omega-Xis, allow me to
+pose a question to you.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Why would an FM-ian such
+as yourself, turn traitor
+on your own planet?
+###--------
+###Mugshot:0
+(That's true...
+Why would Mega do that?)
+###--------
+###Mugshot:OmegaXis
+Tsk! That's my business!
+###--------
+###Mugshot:PegasusMagicShadow
+Then do not question
+what is our business.
+###--------
+###Mugshot:OmegaXis
+Hmph! Fine then.
+Do what you want!
+###--------
+###Script:35
+###Mugshot:PegasusMagicShadow
+.<waitSkip>.<waitSkip>.<waitSkip>Now then, before we
+confer the power unto you,
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:PegasusMagicShadow
+we must state one thing
+very clearly.
+###--------
+###Mugshot:PegasusMagicShadow
+You are weak.
+###--------
+###Script:36
+###Mugshot:OmegaXis
+WHAT!?
+###--------
+###Script:37
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+We have seen how easily
+you were crushed by
+that colossal Jammer.
+###--------
+###Script:38
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That's because he got the
+drop on us, literally!
+Right, Geo!?
+###--------
+###Script:39
+###Mugshot:0
+That's...
+###--------
+###Script:40
+###Mugshot:LeoKingdomShadow
+Do not avoid the point,
+Omega-Xis.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Further, it is not certain
+that you two can
+receive our powers.
+###--------
+###Script:41
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+To obtain the Star Force,
+you must first undergo
+the Star Trials.
+###--------
+###Mugshot:PegasusMagicShadow
+At your current level,
+we are not 100% certain
+you can pass.
+###--------
+###Mugshot:PegasusMagicShadow
+However, if you cannot
+pass even these trials,
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+then the future of this
+planet is grave indeed...
+###--------
+###Script:42
+###Mugshot:0
+I... I can't prop the
+whole world up!!
+###--------
+###Mugshot:OmegaXis
+Stop your cowering, Geo!
+###--------
+###Mugshot:OmegaXis
+...And you guys!
+Don't underestimate us!
+###--------
+###Mugshot:OmegaXis
+We'll pass your silly tests!
+You'll see!
+###--------
+###Script:43
+###Mugshot:0
+###--------
+###Mugshot:0
+M-Mega! Calm down!
+You don't need to get
+so worked up!!
+###--------
+###Script:44
+###Mugshot:DragonSkyShadow
+Then let the trials begin.
+###--------
+###Mugshot:DragonSkyShadow
+Survey the area with
+your Visualizer.
+###--------
+###Script:45
+###Mugshot:0
+...Hmm?
+###--------
+###Script:46
+###Mugshot:0
+What are those things?
+###--------
+###Script:47
+###Mugshot:LeoKingdomShadow
+Those are the
+Star Guardians.
+###--------
+###Mugshot:LeoKingdomShadow
+They are scattered
+throughout this area.
+###--------
+###Script:48
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+There are 5 in total.
+Defeat them all with
+the power you posses.
+###--------
+###Script:49
+###Mugshot:PegasusMagicShadow
+Godspeed to you.
+###--------
+###Script:50
+###Mugshot:OmegaXis
+...Alright, let's do this!
+###--------
+###Mugshot:OmegaXis
+Come on, Geo!
+###--------
+###Mugshot:0
+......
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Hey, what's wrong, Geo?
+###--------
+###Script:52
+###Mugshot:0
+###--------
+###Mugshot:0
+I'm just thinking...
+This trial is like a
+connection with my dad.
+###--------
+###Mugshot:0
+So if I can pass this,
+I'm 1 step closer to him.
+###--------
+###Mugshot:0
+...That's how I see it.
+###--------
+###Script:53
+###Mugshot:OmegaXis
+.<waitSkip>.<waitSkip>.<waitSkip>Well, maybe, yeah!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:OmegaXis
+Then let's not waste any
+more time! Pulse in!!
+###--------
+###Script:54
+###Mugshot:0
+Roger!
+###--------

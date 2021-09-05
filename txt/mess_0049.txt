@@ -1,0 +1,104 @@
+﻿###TextArchive:mess_0049
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I'm Tuggy McGrav.
+I'm working in this country
+as an engineer.
+###--------
+###Script:3
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+In this country I learn the
+scientific technological fields.
+###--------
+###Script:4
+###Mugshot:Worker
+Hey, I'm having a problem.
+The black hole generator,
+it's broken again.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I wish I could do
+something before I
+tell Mr. Boreal.
+###--------
+###Mugshot:MegaMan
+It looks like something's
+broken.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+It could be the work
+of an FM-ian. Let's ask
+him what's going on!
+###--------
+###Mugshot:MegaMan
+Uhh...
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes   <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's mash this FM-ian!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Aw man!
+But I'm feeling frisky.
+###--------
+###Script:6
+###Mugshot:Worker
+Hey, I'm having a problem.
+The black hole generator,
+it's broken again.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I wish I could do
+something before I
+tell Mr. Boreal.
+###--------
+###Script:7
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+It's amazing! A mysterious
+boy appeared and fixed
+the black hole generator.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+The elementary school
+children in this country all
+must have genius powers.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

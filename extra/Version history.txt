@@ -1,0 +1,210 @@
+Ver. 1.1.5 - 4 July 2021
+ *  On Legend Mode, fixed Andromeda's Meteors sometimes not being Fire Elemental
+    when you're in Green Dragon form.
+ *  Fixed a developer cheat accidentally being left on in Ver. 1.1.4 which put
+    the bonus boss in a non-attacking state.
+ *  Fixed TraderMan's sprite in Scrapyard 1 being cut off at the top.
+
+Ver. 1.1.4 - 3 July 2021
+ *  On Legend Mode, changed Gemini Heal from 50% HP recovery to 25% HP recovery.
+ *  On Legend Mode, slightly decreased the rate at which Andromeda attacks and
+    reduced the status effect duration for Paralysis and Gravity somewhat.
+ *  On Legend Mode, when you destroy Dragon Sky's Leaf Tornado with a screen-
+    dimming attack, the tornado now fades away during the screen dim.
+ *  On Legend Mode, adjusted Gemini Spark's timings a little bit.
+ *  On Legend Mode, fixed Dragon Sky's Leaf Tornado breaking through shields,
+    which was unintended.
+ *  Fixed an oversight where if you swap a Star Card in the Card Box with a Mega
+    Card in the Folder, it could bypass the 5 Star Card limit.
+ *  Fixed a glitch in the Pegasus Magic battles on Legend Mode where each time
+    he used Ice Edge, his range of movement was restricted by 1 panel.
+ *  Fixed a glitch where summoned viruses would appear in the wrong position if
+    a screen-dimming card was used at the exact moment the virus appears.
+ *  Fixed a glitch where Green Dragon's Shield Counter invulnerability timer
+    would continue to count down during screen-dimming attacks.
+ *  Fixed a glitch where if you collided with an attack during Green Dragon's
+    Shield Counter invulnerability while you had Counter frames active, it would
+    erroneously be treated as a Counter Hit for the opponent (Enemy Counter).
+ *  Fixed a glitch where, after beating Andromeda Infinity for the first time,
+    using a Card Trader in that same play session would freeze the game.
+ *  Fixed a glitch in the base game where if you try to summon a JunkCube in the
+    middle column and the panel is occupied, it would always only try to summon
+    it on the left rather than trying left and right in a random order.
+ *  Adjusted the script for Kelvin's Transer so you can no longer pick it up
+    multiple times when mashing the A Button.
+ *  Minor script fixes.
+
+Ver. 1.1.3 - 20 June 2021
+ *  Fixed a crash that occurs in a certain cutscene during the Harp Note
+    scenario.
+ *  When you leave the Living Module, the next time you come back, Omega-Xis
+    will now prompt you to save again when you attempt to pulse into the final
+    wavehole.
+ *  Adjusted the new Transer quests for Sonia, Luna, Bud and Zack so that they
+    now become available after the credits rather than right before the final
+    boss. (If you already started the quest in a previous version, you can
+    finish it as normal.)
+ *  Fixed a glitch in the base game where you could pick up multiples of the
+    snakes from Prof. Snake's Transer quest when mashing the A Button. (When you
+    upgrade to this version, the extra snakes will be removed from Key Items.)
+ *  Fixed Grabity family viruses taking too much damage from JunkCube cards.
+
+Ver. 1.1.2 - 18 June 2021
+ *  Reduced the required Attack Power for the Best Combo Jammer.
+ *  When you get Countered by an enemy, it will now show an ENEMY COUNTER!
+    pop-up message at the top of the screen.
+ *  Adjusted the Quiz King's quiz to account for Legend Mode.
+ *  Added sound effects to more quizzes and disabled the B Button on quiz menus.
+ *  During the PitcherMan cutscene in Chapter 3, Geo now has his Visualizer on
+    and PitcherMan's face portrait is now shown in the text box (for
+    consistency).
+ *  You can now touch the "EQUIP" button in the Transer screen with the stylus
+    to switch to that page.
+ *  When you delete a Study Wave in School Comps, the step counter is now
+    reset to what it was when you stepped on the arrow panel, similar to other
+    Comp gimmicks that temporarily disable encounters.
+ *  In Robo Snake Comps, made it so that your step counter is now reset
+    correctly after helping a Mr. Hertz.
+ *  Fixed the quest icon showing up on Teresa Tudor's Transer one chapter before
+    you can accept the quest.
+ *  Fixed a visual bug in the final chapter where Geo would briefly appear as
+    Mega Man in the real world after certain cutscenes.
+ *  Fixed a glitch where under specific circumstances, you would get the Legend
+    Mode reward Cipher mail after the credits even if you turned off Legend Mode
+    at some point.
+ *  Fixed On Air -> Enter a Number being pre-filled with two spaces when no
+    number is set yet.
+ *  Fixed the fade in color when exiting from Connect -> Wi-Fi Settings.
+ *  Fixed a glitch in the base game where you couldn't walk on a certain part of
+    the road in Station Comp 4.
+
+Ver. 1.1.1 - 10 June 2021
+ *  Fixed a race condition that can occur when playing on a flash card where the
+    game locks up when you try to save your clear data after the credits.
+
+Ver. 1.1.0 - 9 June 2021
+ *  Ice Pegasus Mega Man now has a new ability: Flash Step, which grants brief
+    invisibility at the start and end of every Mega Attack.
+ *  Ice Pegasus Mega Man now keeps his Mega Buster charge when using Mega
+    Attacks with Auto-Lock.
+ *  The Data Library now shows which Battle Cards have Star Card versions, and
+    tracks which ones you've collected so far. If you're upgrading from a
+    previous version of MMSF DX, you can register the Star Cards in Extra
+    Folders you've already obtained by switching to a different Extra Folder and
+    switching back.
+ *  Wave Roads now have a pulsing semi-transparency effect when seen as Geo,
+    just like in MMSF2. This should make it easier to see characters and Transer
+    icons which are obscured by the Wave Road.
+ *  During battle, the "Battle Start" and screen-dimming card name pop-up now
+    has a bounce effect, similar to MMSF2/3.
+ *  During battle, when you use a screen-dimming card in single player, the card
+    name pop-up is now faster.
+ *  During battle, when you use a screen-dimming card, the name always appears
+    at the top of screen, just like in MMSF3.
+ *  During battle, pop-up messages like COUNTER HIT! and DOUBLE DELETE! now have
+    a scroll in and out effect, just like in MMSF3.
+ *  Improved the rewards for a certain level of bosses.
+ *  Streamlined the process of mailing items to Lunar Knights Brothers by
+    automatically filling out the mail subject and body when you attach a
+    present.
+ *  Lunar Knights Brothers now have a very small chance to send their Mega
+    Weapon even if they are lower than LV. 60, when they receive an item.
+ *  Lunar Knights Brothers now have a small chance to send the Mega Weapon from
+    a different character if you got their own Mega Weapon already.
+ *  In School Comp, destroying all of the Study Waves in the area will now show
+    a cutscene of the door to the next area opening automatically.
+ *  Adjusted some cutscenes so that when Geo transforms into Mega Man or vice
+    versa, it now updates the portrait on the top screen.
+ *  When you use a certain item, it now tells you your progress in a certain
+    quest.
+ *  When you finish all Transer quests, you will now get the e-mail from Shin
+    upon the next area transition. (Previously, you only got it if you went back
+    to Echo Ridge.)
+ *  Andromeda on Legend Mode will now follow up gravity status with Radar
+    Missile, which can be shielded, rather than an elemental meteor - similar to
+    how he already did for paralysis, freeze and bubble status.
+ *  Fixed Mega Man (Geo color) not having the updated hair polygon in battle.
+ *  Fixed Geo (not) having his Visualizer on in some cutscenes.
+ *  Fixed a glitch where hitting certain objects (e.g. RockCubes) during a
+    screen dim would cause their visual position to drift off-center.
+ *  Fixed a glitch in the base game where in Scrap Comp, using the Rescue Sonar
+    also flashes your active Sub Card icons.
+ *  Fixed a glitch where defeating an SP Boss with a certain item on would also
+    count as deleting a certain other level of that boss.
+ *  Fixed a glitch where if you hard reset before receiving the "DX Complete!"
+    mail, one of the mails in your inbox changes into a Dummy mail. If this
+    happened to you, you can fix it by sorting your mail.
+ *  Fixed a glitch with Lunar Knights Brothers sometimes not leveling up as much
+    as they were supposed to when you send them rare armor items.
+ *  Fixed a glitch with Lunar Knights Brothers not updating their Link Abilities
+    for LV. 100 (HP+220) when they level up by receiving a rare armor item at
+    LV. 95. If this happened to you, you can fix the Link Ability by deleting,
+    then reforming the Brother Band.
+ *  Flipped the way Cancer Bubble's claws return to his model so that on Legend
+    Mode, the claw returning to his model matches the one that fired.
+ *  Fixed Swill Waters not having a Transer popup during the AMAKEN blackout
+    segment.
+ *  Fixed a very minor sprite error on Mega Man's face picture.
+ *  Fixed a rare softlock that could occur at the end of a wave in the 1000 note
+    challenge.
+ *  Fixed Mitch Shepar's Transer message changing for Barry Square's Transer
+    quest too early.
+ *  Fixed Teresa Tudor's Transer quest becoming available before you have the
+    Navi Card needed to complete it.
+ *  Fixed deleting LuPelvis in a certain boss fight on Legend Mode not counting
+    towards the EM Database.
+ *  Moved the Truck Navi in BIG WAVE EM-Road so he's no long covering a certain
+    something when you have the Visualizer on.
+ *  Fixed certain sprites on the overworld disappearing when standing in
+    specific spots during some parts of the story, when there are too many
+    sprites on the screen at once.
+ *  Fixed a small animation glitch on Leo Kingdom's Magma Ball in Legend Mode.
+ *  Fixed Old Data not being removed from your Key Items after finishing the
+    associated quest. Note: it will be automatically removed if you load your
+    old save file, if you already finished the quest.
+
+Ver. 1.0.7 - 31 May 2021
+ *  Fixed a crash that can rarely occur when playing on a flash cart when too
+    many sound effects are playing at the same time during a battle.
+
+Ver. 1.0.6 - 31 May 2021
+ *  Fixed a crash when you open a Card Trader after viewing a Lunar Knights
+    Brother's message.
+
+Ver. 1.0.5 - 31 May 2021
+ *  Fixed the difficulty selection not appearing when you press NEW GAME with
+    the stylus (as opposed to using the A Button or START).
+ *  Fixed the display of Share Stars attack bonus on Battle Cards in the Folder
+    edit screen.
+ *  Share Stack attack bonus is now also shown in the Folder selection screen,
+    just like in MMSF2/MMSF3.
+ *  Star Cards are now treated as Standard Cards for the purposes of On Air
+    Share Stars. Meaning, if you have a Star Card in your Folder and go On Air,
+    it will power up the Standard Card version of that card for your Brothers.
+    On the other hand, Star Cards no longer gain Share Stars.
+ *  Share Stars are now disabled in Time Trials.
+
+Ver. 1.0.4 - 30 May 2021
+ *  Fixed a crash when receiving a mail from a Real Brother who is On Air.
+ *  Fixed Cancer Bubble's Boomerang Cutter sometimes failing to travel all the
+    way to your row.
+ *  Fixed an issue in the base game where the Mega Screen would lag while
+    scrolling left or right when playing on a flash cart.
+ *  Added an extra Battle Tip.
+
+Ver. 1.0.3 - 30 May 2021
+ *  Fixed an infinite loop that could occur when registering a Copy Brother.
+ *  Fixed an issue where the battle music could stop playing when there are too
+    many sound effects playing at once.
+
+Ver. 1.0.2 - 29 May 2021
+ *  Fixed a crash during the Crown Thunder boss fight when playing on Legend
+    Mode.
+ *  Fixed a minor script error in Chapter 1.
+
+Ver. 1.0.1 - 29 May 2021
+ *  Fixed a crash during the Libra Scales scenario when you interrupt his Libra
+    Swing or Heavy Weight attack.
+
+Ver. 1.0.0 - 29 May 2021
+ *  Initial release

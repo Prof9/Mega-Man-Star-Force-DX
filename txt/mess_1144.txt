@@ -1,0 +1,94 @@
+﻿###TextArchive:mess_1144
+###Script:50
+###Mugshot:TruckNavi
+Yo, sorry there!
+Just in a bit of a rush!
+###--------
+###Script:51
+###Mugshot:InfoNavi
+After I collect these,
+I have to look at those,
+and then it's off to...
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Phew, there is so much
+data that I'm constantly
+busy, busy, busy!
+###--------
+###Script:70
+###Mugshot:TruckNavi
+Sounds like quite the ruckus
+down there...
+###--------
+###Mugshot:TruckNavi
+But we're way too busy
+up here for all that!
+###--------
+###Mugshot:TruckNavi
+So move aside, buddy!
+###--------
+###Script:71
+###Mugshot:InfoNavi
+W-W-What!?
+###--------
+###Mugshot:InfoNavi
+How unusual...
+It's never like this...
+###--------
+###Mugshot:InfoNavi
+I wonder what's going on...?
+###--------
+###Script:80
+###Mugshot:20
+Say what!? A fight!?
+Hmm...
+###--------
+###Mugshot:20
+But even if we were human,
+we can't stop it.
+###--------
+###Mugshot:20
+If I actually had blood,
+it'd be boiling!
+###--------
+###Script:81
+###Mugshot:21
+The humans are being
+abnormal.
+###--------
+###Mugshot:21
+Is this the start of
+something!?
+###--------
+###Script:85
+###Mugshot:20
+The fight's over?
+How lame!
+###--------
+###Mugshot:20
+Guess it's back to work I go!
+###--------
+###Script:86
+###Mugshot:21
+It seems things have calmed
+down.
+###--------
+###Script:90
+###Mugshot:20
+Wow, it's been a while since
+I've been so pumped!
+###--------
+###Mugshot:20
+Come on, buddy! One battle!
+How about it? No?
+###--------
+###Script:91
+###Mugshot:21
+###--------
+###Mugshot:21
+I'm sorry I couldn't do any-
+thing, but I am the intellectual
+type, and can't fight at all.
+###--------

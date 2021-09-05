@@ -1,0 +1,19 @@
+﻿###TextArchive:mess_0303
+###Script:0
+###Mugshot:0
+Ah!
+###--------
+###Script:1
+###Mugshot:0
+It's another one of
+Gemini's lackeys.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Let's get him, and fix
+the Wave Road!
+###--------
+###Script:3
+###Mugshot:0
+Yeah!
+###--------

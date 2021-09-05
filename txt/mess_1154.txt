@@ -1,0 +1,101 @@
+﻿###TextArchive:mess_1154
+###Script:100
+###Mugshot:MegaMan
+Excuse me...
+Are you Aaron?
+###--------
+###Mugshot:Aaron
+Huh? ...Yeah, are you a
+human from this world?
+###--------
+###Mugshot:Aaron
+Why do you know about me?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Um, I'm Mega Man...
+Actually, Lucian asked me
+to look for you.
+###--------
+###Mugshot:Aaron
+Huh!? Lucian did?
+###--------
+###Mugshot:Aaron
+...Oh yeah, wonder what
+happened with Rymer...?
+###--------
+###Mugshot:MegaMan
+Well, about that...
+###--------
+###Mugshot:MegaMan
+That Rymer guy got away.
+That was my fault...
+###--------
+###Mugshot:MegaMan
+After that, Lucian said he
+was going to follow him.
+###--------
+###Mugshot:Aaron
+And then you came
+looking for me, huh.
+###--------
+###Mugshot:Aaron
+.........
+###--------
+###Mugshot:MegaMan
+...What's the matter?
+###--------
+###Mugshot:Aaron
+###--------
+###Mugshot:Aaron
+Truth is... my weapon,
+the Solar Gun, is pretty
+much out of energy.
+###--------
+###Mugshot:Aaron
+It'll take a bit more
+time to charge.
+###--------
+###Mugshot:Aaron
+......Ah!!
+###--------
+###Mugshot:MegaMan
+W-What's wrong!?
+###--------
+###Mugshot:Aaron
+I can feel Rymer's presence!
+###--------
+###Mugshot:Aaron
+...Near the sea...
+I see a large antenna...
+###--------
+###Mugshot:Aaron
+Darn it, I still can't use
+my Solar Gun...
+###--------
+###Mugshot:MegaMan
+Leave it to me, Aaron!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've got a good idea of
+where Rymer is, so I'll
+take him down for you!
+###--------
+###Mugshot:Aaron
+###--------
+###Mugshot:Aaron
+Sorry! I'll catch up to you
+as soon as my Solar Gun
+is done charging!
+###--------
+###Script:101
+###Mugshot:Aaron
+###--------
+###Mugshot:Aaron
+I'll be right there as
+soon as my Solar Gun
+is done charging!
+###--------

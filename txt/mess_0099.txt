@@ -1,0 +1,68 @@
+﻿###TextArchive:mess_0099
+###Script:0
+###Mugshot:Geo
+You can't use that menu
+while we're On Air.
+###--------
+###Script:1
+###Mugshot:Geo
+You can't use that
+menu yet.
+###--------
+###Script:2
+###Mugshot:Geo
+You have to save before
+you can enter this menu.
+###--------
+###Mugshot:Geo
+Do you want to save?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:3
+Initializing backup data...
+###--------
+###Script:4
+Now saving... Don't turn
+off the power, OK?
+###--------
+###Script:5
+Save complete.
+###--------
+###Script:6
+The save failed.
+Wanna try again?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:8
+Save failed...
+###--------
+###Script:9
+###Mugshot:Geo
+Is it OK for me to
+overwrite?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  Quit
+###Command:positionOptionFromCenter width=71
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:10
+###Mugshot:Geo
+Can't use that folder.
+I will switch to spare.
+###--------
+###Script:11
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------

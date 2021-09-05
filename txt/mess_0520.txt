@@ -1,0 +1,253 @@
+﻿###TextArchive:mess_0520
+###Script:0
+###Mugshot:AaronBoreal
+So what do you think?
+###--------
+###Mugshot:AaronBoreal
+The SpaceSim is something
+you can experience only
+at AMAKEN!
+###--------
+###Script:1
+###Mugshot:AaronBoreal
+So what do you think?
+###--------
+###Mugshot:AaronBoreal
+The SpaceSim is something
+you can experience only
+at AMAKEN!
+###--------
+###Script:2
+###Mugshot:Luna
+It's almost as if I'm really
+in space!
+###--------
+###Mugshot:Luna
+Isn't that such a romantic
+thought?
+###--------
+###Script:3
+###Mugshot:Luna
+It's almost as if I'm really
+in space!
+###--------
+###Mugshot:Luna
+Isn't that such a romantic
+thought?
+###--------
+###Script:4
+###Mugshot:Zack
+This is my first time
+wearing a spacesuit.
+###--------
+###Mugshot:Zack
+But it sort of doesn't fit
+me quite right...
+###--------
+###Mugshot:Zack
+It feels like it's just
+floating around.
+###--------
+###Script:5
+###Mugshot:Zack
+This spacesuit doesn't fit
+me quite right...
+###--------
+###Mugshot:Zack
+It feels like it's just
+floating around.
+###--------
+###Script:6
+###Mugshot:Bud
+It's neat we get to try
+out zero G, but...
+###--------
+###Mugshot:Bud
+I wanna know if we get
+to try some space food!
+###--------
+###Script:7
+###Mugshot:Bud
+It's neat we get to try
+out zero G, but...
+###--------
+###Mugshot:Bud
+I wanna know if we get
+to try some space food!
+###--------
+###Script:8
+###Mugshot:Woman
+The SpaceSim tour will
+start shortly.
+###--------
+###Mugshot:Woman
+Please take a look around
+until then.
+###--------
+###Script:9
+###Mugshot:Woman
+The SpaceSim tour will
+start shortly.
+###--------
+###Mugshot:Woman
+Please take a look around
+until then.
+###--------
+###Script:10
+###Mugshot:OldMan
+I can't believe I'm really in
+outer space...
+###--------
+###Script:11
+###Mugshot:OldMan
+I can't believe I'm really in
+outer space...
+###--------
+###Script:12
+###Mugshot:OldWoman
+This isn't the real thing,
+dear.
+###--------
+###Script:13
+###Mugshot:OldWoman
+This isn't the real thing,
+dear.
+###--------
+###Script:14
+###Mugshot:Woman
+I'm so dizzy...
+I can't take much more...
+###--------
+###Mugshot:0
+(I'm sure she's the one
+who shut the door...)
+###--------
+###Mugshot:0
+(Please excuse me as I
+look in your pockets...)
+###--------
+###Mugshot:0
+Ah! This is it!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=14
+###--------
+###Script:15
+###Mugshot:Woman
+I'm so dizzy...
+I can't take much more...
+###--------
+###Script:16
+###Mugshot:0
+If I go any further,
+I'm gonna get lost.
+###--------
+###Script:17
+###Mugshot:AaronBoreal
+M-My body...
+It's moving all by itself...
+###--------
+###Mugshot:AaronBoreal
+And my oxygen...
+###--------
+###Script:18
+###Mugshot:Luna
+Wha-What's going on!?
+###--------
+###Mugshot:Luna
+Someone! Heeelp!
+###--------
+###Script:19
+###Mugshot:Zack
+Waaaaaaaah!
+###--------
+###Script:20
+###Mugshot:Bud
+My stomach...!
+###--------
+###Script:21
+###Mugshot:OldMan
+Hoooneeeyyy!!
+###--------
+###Script:22
+###Mugshot:OldWoman
+Deeeaaaarrrr!!
+###--------
+###Script:50
+###Mugshot:InfoNavi
+Look over yonder at
+that planet.
+###--------
+###Mugshot:InfoNavi
+What are those rings,
+I wonder.
+###--------
+###Mugshot:InfoNavi
+Be they donuts?
+###--------
+###Mugshot:InfoNavi
+If they are, then large
+amounts of flour was used,
+###--------
+###Mugshot:InfoNavi
+and they should be eaten
+by the "Best By" date.
+###--------
+###Mugshot:InfoNavi
+What!?
+###--------
+###Mugshot:InfoNavi
+Knave! No single Navi can
+eat such a donut!!
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Hmm... How many Navis
+would it take to eat one,
+I wonder?
+###--------
+###Script:51
+###Mugshot:InfoNavi
+Look over yonder at
+that planet.
+###--------
+###Mugshot:InfoNavi
+What are those rings,
+I wonder?
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+Disgusting.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+What is all this rubbish that
+interrupts my thoughts?
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+!
+###--------
+###Mugshot:InfoNavi
+Could it be that this dust...
+###--------
+###Mugshot:InfoNavi
+is a clue to the composition
+of those rings?
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+How absolutely disgusting.
+###--------

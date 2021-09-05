@@ -1,0 +1,79 @@
+﻿###TextArchive:mess_0033
+###Script:0
+L.M. Shin
+###--------
+###Script:1
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Welcome to the Legendary
+Transer of Master Shin!!
+I can see you!
+###--------
+###Script:2
+###Mugshot:LegendaryMasterShin
+My sensors pick up
+Z waves!
+###--------
+###Mugshot:LegendaryMasterShin
+I can see the Wave World
+through my Visualizer,
+###--------
+###Mugshot:LegendaryMasterShin
+which was made using
+NAZA technology.
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+My Transer is white!
+I don't belong to any
+of the Satellites!
+###--------
+###Script:10
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+To be honest...<wait>
+I'm not very<wait> good at fighting.
+###Command:wait frames=8
+###Command:wait frames=8
+###--------
+###Mugshot:LegendaryMasterShin
+I, myself, don't do
+any fighting.
+###--------
+###Mugshot:LegendaryMasterShin
+Let's just say...<wait> that my
+role is a supporting one!
+###Command:wait frames=8
+###--------
+###Mugshot:LegendaryMasterShin
+It's a Legendary Secret!
+###--------
+###Script:11
+###Mugshot:LegendaryMasterShin
+Legendary!
+I'm the Legendary
+Master Shin!!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+My sensors pick up Z waves!
+###--------
+###Mugshot:LegendaryMasterShin
+I can see the Wave World
+through my Visualizer,
+###--------
+###Mugshot:LegendaryMasterShin
+which was made using
+NAZA technology.
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+My Transer is white!
+I don't belong to any
+of the Satellites!
+###--------

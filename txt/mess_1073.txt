@@ -1,0 +1,152 @@
+﻿###TextArchive:mess_1073
+###Script:0
+###Mugshot:MrHertz
+HUH?
+WHAT AM I DOING HERE?
+###--------
+###Mugshot:MrHertz
+RIGHT, YEAH, I WAS...
+###--------
+###Mugshot:MrHertz
+...HUH!?
+###--------
+###Mugshot:MrHertz
+YOU THOUGHT I WAS...?
+ME? LOAFING OFF!?
+###--------
+###Mugshot:MrHertz
+W-WHAT WOULD MAKE
+YOU THINK THAT?
+###--------
+###Mugshot:MrHertz
+I WAS JUST IN THE
+MIDDLE OF DELIVERING
+SOME MAIL...
+###--------
+###Mugshot:MrHertz
+YEAH, BUT, YOU KNOW...
+HOW SHOULD I SAY...
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I WAS KINDA TAKING
+A BREAK. AND I FEEL
+GREAT NOW!
+###--------
+###Mugshot:MrHertz
+SO, I WAS JUST ABOUT
+TO GET BACK TO WORK!
+###--------
+###Mugshot:MrHertz
+PLEASE DON'T BE ANGRY,
+OK?
+###--------
+###Script:1
+###Mugshot:MrHertz
+SO, I WAS JUST ABOUT
+TO GET BACK TO WORK!
+###--------
+###Mugshot:MrHertz
+PLEASE DON'T BE ANGRY,
+OK?
+###--------
+###Script:10
+###Mugshot:Jammer
+Heh heh heh...
+I'm rich!
+###--------
+###Mugshot:Jammer
+Who'd imagine finding
+this kind of data here?
+###--------
+###Mugshot:MegaMan
+You must be the one who
+stole the "<printItem>" data!
+###Command:printItem item=84
+###--------
+###Mugshot:Jammer
+Finders keepers!
+###--------
+###Mugshot:Jammer
+You want it so badly?
+Come and get it!
+###--------
+###Script:20
+###Mugshot:MegaMan
+What the!? What's this
+wave ball doing here?
+###--------
+###Mugshot:MegaMan
+!<wait>
+###Command:wait frames=10
+###--------
+###Mugshot:MegaMan
+It's connected to another
+dimension!
+###--------
+###Script:21
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+.<wait>.<wait>.<wait>H<wait>e<wait>l<wait>l<wait>o!
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###--------
+OK! I'm connected!
+###--------
+Hello! I'm Lucian!
+###--------
+I crossed over from
+another dimension to
+get here!
+###--------
+Let's be Brothers!
+###--------
+###Mugshot:MegaMan
+Should I?
+
+###--------
+###Mugshot:MegaMan
+<positionOptionFromCenter><optionText>  Of course!
+<positionOptionFromCenter><optionText>  ...No thanks.
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:23
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+But, it's too faint to
+make out the words.
+###--------
+###Script:200
+###Mugshot:CommonNavi
+<optionButtonSmall><optionButtonSmall>Hey, take a look at
+these goods.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+Please come back again
+sometime!
+###--------
+###Script:202
+###Mugshot:CommonNavi
+Sorry, I'm all sold out...
+###--------

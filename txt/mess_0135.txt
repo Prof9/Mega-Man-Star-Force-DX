@@ -1,0 +1,10 @@
+﻿###TextArchive:mess_0135
+###Script:0
+###Mugshot:MegaMan
+Alright!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+The next wave is it, kid.
+Don't get lax here!
+###--------

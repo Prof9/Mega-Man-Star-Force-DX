@@ -1,0 +1,61 @@
+﻿###TextArchive:mess_0191
+###Script:0
+###Mugshot:MegaMan
+Alright, looks like the
+power's back on!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Now what? Are you going
+to go home?
+###--------
+###Mugshot:MegaMan
+No, I've got to go back
+to where they were.
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've got to give them
+an answer...
+About being Brothers...
+###--------
+###Mugshot:OmegaXis
+OK, sounds like a plan.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Speaking of her, that
+Sonia's a girl, but she
+smells like danger...
+###--------
+###Mugshot:OmegaXis
+Don't let your guard down.
+###--------
+###Script:2
+###Mugshot:MegaMan
+Danger? As in?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+I don't know. But I just
+have the feeling, kid.
+###--------
+###Script:4
+###Mugshot:MegaMan
+......
+###--------
+###Mugshot:MegaMan
+Anyway, let's get back
+to Mr. Boreal.
+###--------
+###Mugshot:MegaMan
+I've gotta give them
+an answer.
+......
+###--------
+###Mugshot:MegaMan
+I don't think I can deal
+with a Brother yet...
+###--------

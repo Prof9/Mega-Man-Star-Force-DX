@@ -1,0 +1,37 @@
+﻿###TextArchive:mess_0364
+###Script:0
+###Mugshot:QueenOphiuca
+Your Majesty...
+Forgive me!!
+###--------
+###Mugshot:QueenOphiuca
+You... accursed Omega-Xis...
+Androme...
+###--------
+###Mugshot:QueenOphiuca
+Aaaaaaaah!!
+###--------
+###Script:1
+###Mugshot:0
+All that's left is
+the FM King...
+###--------
+###Mugshot:0
+...and Andromeda!
+###--------
+###Mugshot:0
+We've gotta hurry!
+###--------
+###Script:2
+###Mugshot:0
+The last lock is open.
+###--------
+###Script:3
+###Mugshot:0
+This is it.
+The final battle!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Right!
+###--------

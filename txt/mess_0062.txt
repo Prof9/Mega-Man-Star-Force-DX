@@ -1,0 +1,107 @@
+﻿###TextArchive:mess_0062
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleBoy
+Thanks, everyone,
+for visiting my Transer!
+###--------
+###Mugshot:LittleBoy
+Whoo, it's hot in here!
+###--------
+###Script:3
+###Mugshot:LittleBoy
+I'm #4 Lei Zeek, the Ace!
+And I'm HOT!
+###--------
+###Script:4
+###Mugshot:LittleBoy
+Maan! This isn't how I
+normally pitch!
+###--------
+###Mugshot:LittleBoy
+The Ace must be in a slump.
+###--------
+###Mugshot:LittleBoy
+At this rate, we'll lose the
+game for sure!
+###--------
+###Mugshot:LittleBoy
+Ohhh, what should I do?
+###--------
+###Mugshot:OmegaXis
+Is it just me, or is it
+hot in here?
+###--------
+###Mugshot:MegaMan
+Well he IS "on fire",
+you know.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Speaking of burning
+pitches, do you still have
+that PitcherMan card?
+###--------
+###Mugshot:MegaMan
+Yeah, I have it.
+###--------
+###Mugshot:OmegaXis
+Wanna use it to
+help him out?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's do it!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+...Oh, well.
+Was just a thought.
+###--------
+###Script:6
+###Mugshot:LittleBoy
+Maan! This isn't how I
+normally pitch!
+###--------
+###Mugshot:LittleBoy
+At this rate, we'll lose the
+game for sure!
+###--------
+###Mugshot:LittleBoy
+Ohhh, what should I do?
+###--------
+###Script:7
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I've done it!
+I finally pitched a 150
+mile-an-hour fastball!
+###--------
+###Mugshot:LittleBoy
+Whoo!
+Now I'm ready to win!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

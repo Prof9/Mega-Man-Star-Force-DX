@@ -1,0 +1,23 @@
+###TextArchive:mess_0004
+###Script:0
+<printPlayerName1>
+<printPlayerName2>
+###Command:printPlayerName1
+###Command:printPlayerName2
+###--------
+###Script:1
+<printBuffer>/<printBuffer>
+###Command:printBuffer buffer=0 minLength=4 padMode=leftPadSpaces
+###Command:printBuffer buffer=1 minLength=4 padMode=leftPadSpaces
+###--------
+###Script:2
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=leftPadSpaces
+###--------
+###Script:3
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=1 padMode=leftPadSpaces
+###--------
+###Script:4
+Bro.
+###--------

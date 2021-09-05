@@ -1,0 +1,39 @@
+﻿###TextArchive:mess_1027
+###Script:0
+###Mugshot:MrHertz
+THE MISSES IS DRESSED
+NICELY TODAY, AS ALWAYS.
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP BEEP*
+###--------
+###Script:5
+###Mugshot:MrHertz
+*BEEP BEEP!*
+###--------
+###Mugshot:MrHertz
+I AM IN CHARGE OF
+SECURITY IN THIS HOUSE!
+###--------
+###Mugshot:MrHertz
+I'LL SOUND THE ALARM IF
+ANYONE BREAKS IN HERE!
+###--------
+###Script:50
+###Mugshot:MrHertz
+*BEEP BEEP!*
+###--------
+###Mugshot:MrHertz
+I'M WORRIED.
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+THE BOY WHO LIVES HERE,
+HE DOESN'T SEEM TO HAVE
+A LOT OF FRIENDS...
+###--------
+###Mugshot:MrHertz
+HMM... YOU KNOW, YOU LOOK
+A BIT LIKE THAT BOY.
+###--------

@@ -1,0 +1,87 @@
+﻿###TextArchive:mess_0050
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Woman
+Hiya!
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:Woman
+In the spacesuit I wear,
+it's like being in a sauna
+all day long.
+###--------
+###Mugshot:Woman
+I'm literally burning up.
+###--------
+###Script:4
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Lately, I've been getting
+the feeling that someone
+is watching me.
+###--------
+###Mugshot:MegaMan
+She feels like someone
+is watching her.
+###--------
+###Mugshot:OmegaXis
+Well, I could care less.
+So, it's up to you.
+###--------
+###Mugshot:OmegaXis
+Do you want to help her?
+###--------
+###Mugshot:MegaMan
+Hmm...
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Well, alrighty then...
+Let's go and talk to her.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Yeah, I second that.
+###--------
+###Script:6
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Lately, I've been getting
+the feeling that someone
+is watching me.
+###--------
+###Script:7
+###Mugshot:Woman
+I don't feel those eyes
+on me anymore.
+###--------
+###Mugshot:Woman
+I wonder if I've lost
+my appeal.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

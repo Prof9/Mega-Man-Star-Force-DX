@@ -1,0 +1,70 @@
+﻿###TextArchive:mess_0160
+###Script:0
+###Mugshot:4
+*huff, huff*
+###--------
+###Mugshot:4
+The person on that monitor...
+###--------
+###Mugshot:4
+Is that Mega Man?
+That incident...
+wasn't a dream?
+###--------
+###Script:1
+###Mugshot:CygnusWing
+I was betrayed.
+###--------
+###Script:2
+###Mugshot:CygnusWing
+The FlapPack is MY
+invention!
+###--------
+###Mugshot:CygnusWing
+Aaron... He...!
+###--------
+###Mugshot:CygnusWing
+He claimed it was his own!!
+###--------
+###Script:3
+###Mugshot:AaronBoreal
+Th-That's not true!
+###--------
+###Script:4
+###Mugshot:AaronBoreal
+I never claimed that!
+I swear!!
+###--------
+###Script:5
+###Mugshot:CygnusWing
+Hmm?
+You can hear us, Aaron?
+###--------
+###Mugshot:CygnusWing
+Hmph, those were some
+ugly lies you just spewed.
+###--------
+###Script:6
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+But it's the truth!
+I absolutely, positively
+never claimed that!
+###--------
+###Mugshot:AaronBoreal
+I would never steal
+anyone's invention!
+###--------
+###Script:7
+###Mugshot:CygnusWing
+###--------
+###Mugshot:CygnusWing
+Aaron, I want to thank you.
+Because you are the
+one who made me realize
+###--------
+###Mugshot:CygnusWing
+that betrayal is the
+essence of society!!
+###--------

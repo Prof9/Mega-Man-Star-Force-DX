@@ -1,0 +1,59 @@
+﻿###TextArchive:mess_1087
+###Script:50
+###Mugshot:CommonNavi
+Where am I?
+What am I going to do??
+###--------
+###Mugshot:CommonNavi
+It looks like a bunch of
+top-secret stuff.
+###--------
+###Mugshot:CommonNavi
+If someone found out that
+I knew, I'd be deleted!
+###--------
+###Mugshot:CommonNavi
+I've got to get out of here!
+FAST!
+###--------
+###Mugshot:CommonNavi
+Where's the exit!?
+###--------
+###Script:51
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+Oh no!! Something bad's going
+on, and I have no idea how
+to get out of here!!
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+Huh?
+The oxygen is running out?
+###--------
+###Mugshot:CommonNavi
+I have no idea what
+you're talking about!
+###--------
+###Mugshot:CommonNavi
+All I care about is
+where the exit is!
+###--------
+###Script:52
+###Mugshot:MrHertz
+WOW! *BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+WILL THAT REALLY FLY?
+I WANNA TAKE A RIDE!
+###--------
+###Mugshot:MrHertz
+HUH? YOU CAN'T SEE IT?
+IT'S THAT COOL THING!
+###--------
+###Mugshot:MrHertz
+I RECOMMEND GETTING
+CLOSER TO TAKE A LOOK!
+###--------

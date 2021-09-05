@@ -1,0 +1,70 @@
+﻿###TextArchive:mess_1069
+###Script:50
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+I'M THE MR. HERTZ IN
+CHARGE OF TRANSPORTING
+THIS LAB'S DATA FILES.
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+AH, BUT I'M SO CURIOUS!
+I WONDER WHAT'S IN THESE
+TOP SECRET DOCS?
+###--------
+###Mugshot:MrHertz
+I'M SO CURIOUS I
+CAN'T MOVE!!
+*BEEP BEEP*
+###--------
+###Script:51
+###Mugshot:MrHertz
+RIGHT SIDE, ALL CLEAR!
+###--------
+###Mugshot:MrHertz
+LEFT SIDE, ALL CLEAR!
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP!?*
+###--------
+###Mugshot:MrHertz
+YOU THERE!
+STATE YOUR NAME
+AND BUSINESS HERE!
+###--------
+###Mugshot:MrHertz
+HUH? YOU'RE NOT A WAVE?
+YOU'RE A HUMAN?
+###--------
+###Mugshot:MrHertz
+HMM...
+###--------
+###Mugshot:MrHertz
+I'M SUPPOSED TO REMOVE
+ALL UNAUTHORIZED WAVES,
+###--------
+###Mugshot:MrHertz
+BUT I DON'T KNOW ABOUT
+HUMANS...
+###--------
+###Mugshot:MrHertz
+HMM...
+###--------
+###Script:52
+###Mugshot:TruckNavi
+Phew...
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Hmm?
+Never seen you before.
+###--------
+###Mugshot:TruckNavi
+This is AMAKEN's wave,
+and I deliver data from
+the next town over!
+###--------

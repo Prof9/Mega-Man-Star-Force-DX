@@ -1,0 +1,14 @@
+﻿###TextArchive:mess_1206
+###Script:200
+###Mugshot:Jammer
+<optionButtonSmall><optionButtonSmall>Yo, check these goods out...
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+Come again, OK?
+###--------
+###Script:202
+###Mugshot:Jammer
+Sorry, I'm all sold out...
+###--------

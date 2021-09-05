@@ -1,0 +1,88 @@
+﻿###TextArchive:mess_0036
+###Script:1
+###Mugshot:Boy
+It's good of you to
+come to my Transer.
+###--------
+###Script:3
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I want to show off
+my super card collection
+to everyone! Hehe!
+###--------
+###Script:4
+###Mugshot:Boy
+Aw, man!
+I can't believe there's
+a card I don't have.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+At this rate, my little
+brother will steal my title
+of Supreme Collector!
+###--------
+###Mugshot:OmegaXis
+This guy looks shook up
+about something.
+###--------
+###Mugshot:MegaMan
+There seems to be a
+card he wants.
+###--------
+###Mugshot:MegaMan
+I wonder if I should help him...
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+If you wanna help him,
+let's go talk to him.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+You're right, let's just
+leave him be.
+###--------
+###Script:6
+###Mugshot:2
+Aw, man... Why don't I
+have that card...?
+###--------
+###Script:7
+###Mugshot:Boy
+Haha!
+###--------
+###Mugshot:Boy
+With this, I am the
+Supreme Collector!!
+###--------
+###Mugshot:Boy
+Haha!
+###--------
+###Script:10
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

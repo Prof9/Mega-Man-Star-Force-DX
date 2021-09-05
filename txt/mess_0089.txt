@@ -1,0 +1,97 @@
+﻿###TextArchive:mess_0089
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:ProfSnake
+Welcome to my Transssser!
+###--------
+###Script:2
+###Mugshot:ProfSnake
+I'm always looking for
+new and rare breeds
+of sssnakesss!
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+It'sss ssso sssatisssfying
+to sssurround myssself
+with sssnakesss!
+###--------
+###Script:3
+###Mugshot:ProfSnake
+I'm always looking for
+new and rare breeds
+of sssnakesss!
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+It'sss ssso sssatisssfying
+to sssurround myssself
+with sssnakesss!
+###--------
+###Script:10
+###Mugshot:ProfSnake
+Thisss is terrible!
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Sssome of my
+preciousss sssnakesss
+have esssscaped!
+###--------
+###Mugshot:MegaMan
+Oh, no! That guy's
+snakes got away!
+###--------
+###Mugshot:MegaMan
+Should I do something?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Snakes aren't really
+my cup of tea...
+Oh well.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:ProfSnake
+Thisss is terrible!
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Sssome of my
+preciousss sssnakesss
+have esssscaped!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+...
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

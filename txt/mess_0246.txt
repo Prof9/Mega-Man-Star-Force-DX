@@ -1,0 +1,284 @@
+﻿###TextArchive:mess_0246
+###Script:0
+###Mugshot:Geo
+Phew, I'm beat.
+###--------
+###Script:1
+###Mugshot:Geo
+Oh, yeah. Thanks for the
+save today, Sonia.
+###--------
+###Mugshot:Geo
+If you hadn't shown up...
+###--------
+###Script:2
+###Mugshot:Sonia
+Aww, it's nothing.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+We're Brothers after all,
+right? And that's what
+Brothers do!
+###--------
+###Script:3
+###Mugshot:Geo
+Sonia...
+###--------
+###Script:4
+Unngh...
+###--------
+###Script:5
+###Mugshot:Sonia
+Looks like she's coming
+around...
+###--------
+###Script:6
+###Mugshot:Sonia
+Well, I think I should go.
+I wouldn't want her to
+suffer another shock
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+when she wakes up with
+Sonia Strumm in her room.
+###--------
+###Mugshot:Sonia
+I'll wait outside.
+We can talk more later.
+###--------
+###Script:7
+###Mugshot:Geo
+OK, got it.
+I'll see you later, then.
+###--------
+###Script:8
+###Mugshot:Sonia
+And don't get any funny
+ideas, about Luna, OK!?
+###--------
+###Script:9
+###Mugshot:Geo
+I won't!!
+###--------
+###Script:10
+###Mugshot:Sonia
+Ha ha, I was just joking!
+###--------
+###Mugshot:Sonia
+OK, later!
+###--------
+###Script:11
+###Mugshot:Geo
+Yeah.
+###--------
+###Script:12
+Oongh...
+###--------
+Huh? Where...?
+My room...?
+###--------
+Mega... Man...?
+###--------
+###Script:13
+###Mugshot:Geo
+Did I disturb you?
+###--------
+###Mugshot:Geo
+Are you OK?
+Are you hurt anywhere?
+###--------
+###Mugshot:Geo
+Ah, you probably shouldn't
+try to sit up yet.
+###--------
+###Script:14
+###Mugshot:Luna
+Mega Man...
+###--------
+###Mugshot:Luna
+No, wait... Geo!?!?
+###--------
+###Mugshot:Luna
+What are YOU doing in
+my room!?
+###--------
+###Script:15
+###Mugshot:Geo
+Um, well, you see, please
+don't get angry, but...
+###--------
+###Mugshot:Geo
+well, you were
+unconscious, and I had
+to take you home...
+###--------
+###Mugshot:Geo
+so I kinda looked in
+your Transer...
+###--------
+###Script:16
+###Mugshot:Luna
+YOU WHAT!?
+###--------
+###Mugshot:Luna
+You looked into my Transer!?
+How could you!?
+###--------
+###Mugshot:Luna
+You're the worst kind of
+person, ever! Pervert!!
+###--------
+###Script:17
+###Mugshot:Geo
+No, please! I only looked
+up your address!!
+###--------
+###Script:18
+###Mugshot:Luna
+...Ack!!
+###--------
+###Mugshot:Luna
+I just realized!
+Where's Mega Man!?
+###--------
+###Mugshot:Luna
+Where is he!?
+###--------
+###Mugshot:Luna
+He got hurt trying to
+protect me...
+###--------
+###Script:19
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I didn't see him or
+anything, but I think
+he's probably OK.
+###--------
+###Mugshot:Geo
+I mean, we're OK, so
+he must be too, right?
+###--------
+###Mugshot:Geo
+Aha ha ha...
+###--------
+###Script:20
+###Mugshot:Luna
+Don't give me a silly laugh!!
+Hmph!!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Mega Man is no laughing
+matter! I believe in what he
+says and he will save us all!
+###--------
+###Script:21
+###Mugshot:Geo
+Didn't mean to offend you...
+###--------
+###Mugshot:Geo
+I guess I should get home...
+###--------
+###Mugshot:Geo
+Is your mom gonna be
+home soon?
+###--------
+###Script:22
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+My mom and dad are
+really busy, so I'm usually
+home alone.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+It's been like this ever
+since nursery school,
+so I'm used to it.
+###--------
+###Script:23
+###Mugshot:Geo
+Oh...
+###--------
+###Mugshot:Geo
+Then maybe I should wait
+until someone...
+###--------
+###Script:24
+###Mugshot:Luna
+I'll be fine by myself!
+###--------
+###Mugshot:Luna
+So you don't need to feel
+sorry for me!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I'm used to being alone,
+so you can just go home.
+###--------
+###Script:25
+###Mugshot:Geo
+...O-OK...
+###--------
+###Mugshot:Geo
+Well, take it easy, OK?
+###--------
+###Script:26
+###Mugshot:Luna
+U-Um!!
+###--------
+###Script:27
+###Mugshot:Luna
+I know Mega Man was the
+one who saved us, but...
+###--------
+###Mugshot:Luna
+you really tried hard too...
+###--------
+###Mugshot:Luna
+so... th-thanks...
+###--------
+###Script:28
+###Mugshot:Geo
+...No prob.
+###--------
+###Script:29
+###Mugshot:Luna
+W-Well? What are you
+waiting for?
+###--------
+###Mugshot:Luna
+Get going!
+###--------
+###Script:30
+###Mugshot:Geo
+Yeah, well, see you.
+###--------
+###Script:31
+###Mugshot:Luna
+Why am I getting all
+flustered over HIM!?
+###--------
+###Mugshot:Luna
+This must be from the
+shock of the incident!
+###--------
+###Mugshot:Luna
+Yes, that's it!
+That must be it!
+###--------
+###Mugshot:Luna
+Argh, he really knows how
+to get on my nerves!
+###--------

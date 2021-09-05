@@ -1,0 +1,90 @@
+﻿###TextArchive:mess_0368
+###Script:0
+###Mugshot:OmegaXis
+Hurry, Geo!!
+###--------
+###Mugshot:OmegaXis
+The station's beginning
+to fall apart!!
+###--------
+###Script:1
+###Mugshot:0
+I know!
+###--------
+###Mugshot:0
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+......
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Script:2
+###Mugshot:0
+Aah!
+###--------
+###Script:3
+###Mugshot:0
+No!! The wavehole is...!!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I can't go back to
+Earth now...
+Wh-What now...?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Tsk, now this is a jam...
+###--------
+###Script:5
+Over here, Geo!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+What is it?
+###--------
+###Script:7
+###Mugshot:0
+I thought I heard my
+dad's voice just now.
+###--------
+###Mugshot:0
+He said to go over here...
+###--------
+###Script:8
+###Mugshot:0
+This switch...
+###--------
+###Mugshot:0
+I think I can disconnect
+this module!
+###--------
+###Mugshot:0
+Maybe we can get back
+to Earth, Mega!!
+###--------
+###Script:9
+###Mugshot:OmegaXis
+Um, but do you know
+how to fly this thing?
+###--------
+###Script:10
+###Mugshot:0
+My dad showed me this
+space station's control
+panel once a long time ago...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+So I think I can...
+###--------
+###Mugshot:0
+Closing hatch...
+###--------
+###Script:11
+###Mugshot:0
+Now launching the
+emergency escape module!
+###--------

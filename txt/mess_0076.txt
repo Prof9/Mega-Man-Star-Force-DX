@@ -1,0 +1,106 @@
+﻿###TextArchive:mess_0076
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Riddle me, riddle me,
+welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Quizzes are my favorite
+pastime! I'm thinking of
+one right now!!
+###--------
+###Script:4
+###Mugshot:BusinessMan
+Quizzes are my favorite
+pastime!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+All comers are now welcome
+to challenge my latest and
+most difficult quiz yet.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+The first person to
+answer all of my questions
+will win a fabulous prize!
+###--------
+###Mugshot:MegaMan
+Quiz? Should I give it a try?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK! Let's go and get
+that fabulous prize!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:MegaMan
+I'm curious about the
+prize, but oh well...
+###--------
+###Script:6
+###Mugshot:BusinessMan
+Quizzes are my favorite
+pastime!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+All comers are now welcome
+to challenge my latest and
+most difficult quiz yet.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+The first person to
+answer all of my questions
+will win a fabulous prize!
+###--------
+###Script:7
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+I-I can't believe he won!
+Who is that kid!?
+###--------
+###Mugshot:BusinessMan
+I must concede that
+he's no ordinary kid!
+###--------
+###Mugshot:BusinessMan
+Who in the blazes
+could he be!?
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,197 @@
+﻿###TextArchive:mess_0290
+###Script:0
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+My bus goes the other
+direction, so this is
+where I say goodbye.
+###--------
+###Mugshot:Pat
+I had a lot of fun today.
+###--------
+###Mugshot:Pat
+Thank you.
+###--------
+###Script:1
+###Mugshot:0
+Yeah, me too.
+###--------
+###Mugshot:0
+Well, see you...
+###--------
+###Script:2
+###Mugshot:0
+......
+###--------
+###Script:3
+###Mugshot:Pat
+...?
+###--------
+###Script:4
+###Mugshot:Pat
+What is it, Geo?
+###--------
+###Script:5
+###Mugshot:0
+Well, I've been thinking...
+###--------
+###Mugshot:0
+ever since you told me
+your story...
+###--------
+###Mugshot:0
+Uh... Um...
+###--------
+###Mugshot:0
+Will...
+###--------
+###Mugshot:0
+Will you become Brothers
+with me?
+###--------
+###Script:6
+###Mugshot:Pat
+B-Brothers!?
+###--------
+###Script:7
+###Mugshot:0
+Yeah.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+It's like you said.
+Our situations are
+kinda alike.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+We understand each other's
+pain, I think... So...
+###--------
+###Script:8
+###Mugshot:Pat
+...Geo.
+###--------
+###Script:9
+###Mugshot:0
+We don't have to...
+###--------
+###Script:10
+###Mugshot:Pat
+Thank you, Geo.
+I'm happy you asked.
+###--------
+###Script:11
+###Mugshot:0
+Then you will?
+###--------
+###Script:12
+###Mugshot:Pat
+I've never made a
+Brother Band before...
+###--------
+###Mugshot:Pat
+So I'm very touched that
+you are offering.
+###--------
+###Mugshot:Pat
+...However.
+###--------
+###Script:13
+###Mugshot:0
+However?
+###--------
+###Script:14
+###Mugshot:Pat
+However... I...
+###--------
+###Mugshot:Pat
+It's hard for me to say
+this, but...
+###--------
+###Mugshot:Pat
+I have a very important
+secret.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Something other than
+the fact that I was
+abandoned...
+###--------
+###Script:15
+###Mugshot:0
+Something else?
+###--------
+###Script:16
+###Mugshot:Pat
+It's something that is
+very precious to me.
+###--------
+###Mugshot:Pat
+If we became Brothers, I
+would have to tell you,
+###--------
+###Mugshot:Pat
+but if you knew what my
+secret was...
+###--------
+###Mugshot:Pat
+you would probably
+hate me...
+###--------
+###Script:17
+###Mugshot:0
+No way!
+###--------
+###Mugshot:0
+No matter what,
+I won't hate you!
+###--------
+###Script:18
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+It's not that I don't believe
+you, I just don't have the
+courage to say it.
+###--------
+###Script:19
+###Mugshot:0
+Pat...
+###--------
+###Script:20
+###Mugshot:Pat
+......
+###--------
+###Mugshot:Pat
+...One day.
+###--------
+###Mugshot:Pat
+Please give me one day
+to think about it.
+###--------
+###Mugshot:Pat
+I will try to decide in
+that time...
+###--------
+###Script:21
+###Mugshot:0
+Yeah, don't worry about it.
+Take your time!
+###--------
+###Script:22
+###Mugshot:Pat
+Thank you so much, Geo.
+###--------
+###Mugshot:Pat
+Alright, it's time to really
+head home now!
+###--------
+###Script:23
+*honk honk*
+###--------

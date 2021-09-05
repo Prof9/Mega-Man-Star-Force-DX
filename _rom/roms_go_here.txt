@@ -1,0 +1,22 @@
+Place the following ROMs here:
+
+ *  pegasus-us.nds
+    Mega Man Star Force: Pegasus (US)
+
+ *  leo-us.nds
+    Mega Man Star Force: Leo (US)
+
+ *  dragon-us.nds
+    Mega Man Star Force: Dragon (US)
+
+ *  mmsf2.nds
+    Mega Man Star Force 2: Zerker x Saurian (US), or
+    Mega Man Star Force 2: Zerker x Ninja (US), or
+    Ryusei no Rockman 2: Berserk x Dinosaur (JP), or
+    Ryusei no Rockman 2: Berserk x Shinobi (JP)
+
+ *  mmsf3.nds
+    Mega Man Star Force 3: Black Ace (US), or
+    Mega Man Star Force 3: Red Joker (US), or
+    Ryusei no Rockman 3: Black Ace (JP), or
+    Ryusei no Rockman 3: Red Joker (JP)

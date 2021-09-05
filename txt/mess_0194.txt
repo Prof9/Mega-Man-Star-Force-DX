@@ -1,0 +1,234 @@
+﻿###TextArchive:mess_0194
+###Script:0
+###Mugshot:ChrysGolds
+Sonia!!
+###--------
+###Mugshot:ChrysGolds
+You've really done it now!
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+You're going to pay back all
+these damages with your
+singing! Do you understand!?
+###--------
+###Script:1
+###Mugshot:Sonia
+N-No! I don't want to sing!
+###--------
+###Mugshot:Sonia
+I don't want to sing
+for money!
+###--------
+###Mugshot:Sonia
+My songs are only for
+making mama happy!
+###--------
+###Script:2
+###Mugshot:ChrysGolds
+How long are you going
+to say that gibberish?
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Your song is a product!
+I raised you so I could
+get cash for your singing
+###--------
+###Mugshot:ChrysGolds
+and if you don't sing,
+I can't eat!
+###--------
+###Mugshot:ChrysGolds
+Sing! Sing! SING!!
+###--------
+###Script:3
+###Mugshot:Sonia
+Noooooooooo!!
+###--------
+###Script:4
+###Mugshot:Sonia
+*huff, huff*
+No... Help me...
+Mama...
+###--------
+###Mugshot:Sonia
+I don't want to sing
+anymore...
+###--------
+###Script:5
+Hee hee...
+###--------
+Making you sing so he
+can get money...
+###--------
+What a terrible adult,
+isn't he?
+###--------
+###Script:6
+###Mugshot:Sonia
+Who's there!?
+###--------
+###Script:7
+Hee hee.
+Over here...
+###--------
+###Script:8
+###Mugshot:Lyra
+I'm Lyra and I am a
+lover of music.
+###--------
+###Mugshot:Lyra
+You are a chosen one,
+Sonia.
+###--------
+###Mugshot:Lyra
+You have the ability to
+turn your music into
+your strength...
+###--------
+###Mugshot:Lyra
+Your music is your own.
+###--------
+###Mugshot:Lyra
+If you were able to
+dispose those who want
+to use your song,
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+or make money off of it,
+then your music would be
+yours.
+###--------
+###Mugshot:Lyra
+And then, you can keep
+your memory of your
+mama and you pristine...
+###--------
+###Mugshot:Lyra
+You must protect your song
+with your own hands.
+###--------
+###Script:9
+###Mugshot:Sonia
+I must protect my song...
+###--------
+###Mugshot:Sonia
+But how can I do that?
+###--------
+###Script:10
+###Mugshot:Lyra
+Please take me within you.
+###--------
+###Mugshot:Lyra
+Once you do, I will lend
+you my powers.
+###--------
+###Mugshot:Lyra
+Powers to protect
+your music.
+###--------
+###Script:11
+###Mugshot:Sonia
+.........
+###--------
+###Script:12
+###Mugshot:ChrysGolds
+Sonia!!
+###--------
+###Script:13
+###Mugshot:ChrysGolds
+You won't get away from
+me again.
+###--------
+###Mugshot:ChrysGolds
+Because now you are in
+some serious debt.
+###--------
+###Script:14
+###Mugshot:Sonia
+.........
+###--------
+###Script:15
+###Mugshot:Lyra
+Hee hee hee.
+Take me inside yourself,
+###--------
+###Mugshot:Lyra
+and get your revenge
+through the power of music.
+###--------
+###Script:16
+###Mugshot:ChrysGolds
+Sonia! Let's go!
+###--------
+###Mugshot:ChrysGolds
+You must prepare for
+your next concert!!
+###--------
+###Script:17
+###Mugshot:Sonia
+...No...
+###--------
+###Script:18
+###Mugshot:ChrysGolds
+How dare you!?
+###--------
+###Mugshot:ChrysGolds
+You'll sing when I tell you to!
+###--------
+###Mugshot:ChrysGolds
+You got that!?
+So sing!!
+###--------
+###Script:19
+###Mugshot:Sonia
+...No!!
+###--------
+###Script:20
+###Mugshot:ChrysGolds
+Wh-What is going on!?
+###--------
+###Script:21
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+Thank you for listening
+to me, Sonia.
+It makes me very happy.
+###--------
+###Mugshot:Lyra
+Now let's show this foolish
+man the power of music!
+###--------
+###Script:22
+###Mugshot:ChrysGolds
+I don't know what you're
+up to, but let's go!
+###--------
+###Script:23
+###Mugshot:HarpNote
+Revenge!!
+###--------
+###Script:24
+###Mugshot:ChrysGolds
+Aaaaaaaaaaaah!!
+###--------
+###Script:25
+###Mugshot:Lyra
+Hee hee...
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+Time to deal with the
+fans - those that would
+dirty your precious song!
+###--------
+###Mugshot:Lyra
+Hee hee hee...
+###--------

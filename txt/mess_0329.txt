@@ -1,0 +1,411 @@
+﻿###TextArchive:mess_0329
+###Script:0
+A week since the
+incident with Gemini...
+###--------
+###Script:1
+###Mugshot:0
+.........
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Hey, Geo, you haven't
+gone to school lately...
+###--------
+###Mugshot:OmegaXis
+Are you still upset
+about Pat?
+###--------
+###Script:3
+###Mugshot:0
+.........
+###--------
+###Script:4
+###Mugshot:OmegaXis
+(Not good. At this rate,
+he won't be able to
+fight at all.)
+###--------
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:OmegaXis
+(If we were to get
+attacked right now...)
+###--------
+###Mugshot:0
+.........
+###--------
+###Mugshot:OmegaXis
+.<waitSkip>.<waitSkip>.<waitSkip>Yeesh. How long are
+you gonna mope?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:OmegaXis
+Be a man and put it
+behind you already!
+###--------
+###Script:5
+###Mugshot:0
+You have no idea
+how I feel, Mega.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+You don't know what it
+feels like to have your
+friend stab you in the back...
+###--------
+###Script:6
+###Mugshot:0
+Pat betrayed me.
+###--------
+###Mugshot:0
+I can't trust anyone
+anymore.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I knew that getting into
+relationships with people would
+have its ups and downs,
+###--------
+###Mugshot:0
+so why did I try to make
+friends anyway?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Hmph!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You've been acting like
+some sort of tragic hero
+this whole time.
+###--------
+###Mugshot:OmegaXis
+Put on your Visualizer.
+###--------
+###Script:8
+###Mugshot:0
+What is it now?
+###--------
+###Script:9
+###Mugshot:OmegaXis
+Listen up kid, and
+listen good!
+###--------
+###Mugshot:OmegaXis
+I've fought with you until
+now, and I think you've
+
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+become a pretty good
+person since we met, but
+I guess I thought wrong!
+###--------
+###Mugshot:OmegaXis
+Even an FM-ian wouldn't
+want a pathetic host
+like you.
+###--------
+###Mugshot:OmegaXis
+Sorry, but I'm gonna
+have to bail.
+###--------
+###Mugshot:OmegaXis
+Have fun in your
+oh-so-tragic world!
+###--------
+###Script:10
+###Mugshot:0
+W-Wait a sec! "Bail"?
+###--------
+###Mugshot:0
+You don't really mean
+you're leaving...
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Heh, what do YOU think!?
+###--------
+###Mugshot:OmegaXis
+Before I go, I'm gonna
+say one thing.
+###--------
+###Mugshot:OmegaXis
+Something bad's gonna
+happen to this planet soon,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and when that happens,
+I suggest you find a
+very good place to hide.
+###--------
+###Mugshot:OmegaXis
+Well, see you around, kid.
+Bye!
+###--------
+###Script:12
+###Mugshot:0
+Mega...
+###--------
+###Mugshot:0
+Why... Why does this...
+only happen to me...?
+###--------
+###Script:13
+###Mugshot:Hope
+Geo?
+###--------
+###Script:14
+###Mugshot:Hope
+Can I come in?
+###--------
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+Your friends are here,
+and they're really
+worried about you.
+###--------
+###Script:15
+###Mugshot:0
+Sorry, but I don't want
+to see them...
+###--------
+###Script:16
+###Mugshot:Bud
+Hey, hey, hey!!
+###--------
+###Mugshot:Bud
+What's with not coming to
+school for a week!?
+###--------
+###Mugshot:Bud
+You trying to make
+the Prez go gray!?
+###--------
+###Script:17
+###Mugshot:Zack
+And it's not just you.
+Pat's missing too.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+He stopped coming a week
+ago too. Did you two have
+a fight or something?
+###--------
+###Script:18
+###Mugshot:0
+Stay out of my business.
+###--------
+###Mugshot:0
+...Sorry, but can you please
+just go home?
+###--------
+###Script:19
+###Mugshot:Bud
+What!?
+###--------
+###Mugshot:Bud
+You not coming to school's
+got the Prez all...
+###--------
+###Script:20
+###Mugshot:Luna
+Stop it, Bud.
+###--------
+###Script:21
+###Mugshot:Luna
+Geo... I don't know what
+happened,
+###--------
+###Mugshot:Luna
+but if there's something we
+can do, we can help you.
+###--------
+###Script:22
+###Mugshot:0
+###--------
+###Mugshot:0
+Then you can help me by
+going home and leaving me
+alone...
+###--------
+###Script:23
+###Mugshot:Luna
+But we came here to
+see you!
+###--------
+###Mugshot:Luna
+You can at least tell us
+what's wrong.
+###--------
+###Script:24
+###Mugshot:0
+There's nothing to
+talk about.
+###--------
+###Mugshot:0
+You don't need to worry
+about me.
+###--------
+###Script:25
+###Mugshot:Luna
+We're Brothers, aren't we?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Aren't we supposed to
+help each other at times
+like this?
+###--------
+###Script:26
+###Mugshot:Zack
+Huh?
+###--------
+###Mugshot:Zack
+Geo and the Prez are
+Brothers?
+###--------
+###Script:27
+###Mugshot:Bud
+When did that happen??
+###--------
+###Mugshot:Bud
+And why with a guy like him?
+###--------
+###Script:28
+Excuse me!
+###--------
+###Script:29
+###Mugshot:Bud
+There's someone coming...
+###--------
+###Script:30
+###Mugshot:Zack
+That voice...
+I've heard it before...
+###--------
+###Script:31
+###Mugshot:Sonia
+How have you been, Luna?
+###--------
+###Script:32
+###Mugshot:Luna
+Oh, Sonia.
+It's been a while.
+###--------
+###Mugshot:Luna
+I guess you're here for
+the same reason...
+###--------
+###Script:33
+###Mugshot:Sonia
+Yeah...
+###--------
+###Mugshot:Sonia
+I'm here because Geo
+is my Brother.
+###--------
+###Script:34
+###Mugshot:Bud
+What the...??
+I must be dreaming...
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Sonia Strumm in Geo's room,
+and she and the Prez are
+talking like old buds...
+###--------
+###Script:35
+###Mugshot:Zack
+That, and Sonia is Geo's
+Brother...?
+###--------
+###Mugshot:Zack
+Aaaaah! I think my brain
+just got fried!
+###--------
+###Script:36
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+(Geo, I saw Mega flying
+off just now.)
+###--------
+###Mugshot:Sonia
+(Did something happen?)
+###--------
+###Script:37
+###Mugshot:0
+.........
+###--------
+###Mugshot:0
+He took off on his own
+and we're through.
+###--------
+###Script:38
+###Mugshot:Sonia
+But what if he runs into
+them by himself?
+###--------
+###Mugshot:Sonia
+We should hurry up and
+go look for him.
+###--------
+###Script:39
+###Mugshot:0
+Look, everyone just
+go home!!
+###--------
+###Mugshot:0
+And from now on,
+leave me alone!
+###--------
+###Mugshot:0
+Now go!
+Please!
+###--------
+###Script:40
+###Mugshot:Luna
+I guess we really
+should leave...
+###--------
+###Script:41
+###Mugshot:Sonia
+Yeah...
+###--------
+###Script:42
+###Mugshot:Luna
+Bud, Zack, let's go.
+###--------
+###Script:43
+###Mugshot:Bud
+Y-Yeah...
+###--------
+###Script:44
+###Mugshot:Zack
+Y-Yes, madam!
+###--------
+###Script:45
+###Mugshot:0
+Friends. Hmph...
+###--------

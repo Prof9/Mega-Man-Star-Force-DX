@@ -1,0 +1,26 @@
+﻿###TextArchive:mess_0620
+###Script:0
+###Mugshot:0
+It won't accept any of
+my commands...
+###--------
+###Mugshot:0
+But I've got to get this
+door open...
+###--------
+###Mugshot:OmegaXis
+I guess we have to open
+it from the Wave World.
+###--------
+###Mugshot:0
+Hmm...
+Gotta find a wavehole.
+###--------
+###Script:10
+###Mugshot:0
+###--------
+###Mugshot:0
+It looks like this door can
+only be opened from the
+Wave World...
+###--------

@@ -1,0 +1,36 @@
+﻿###TextArchive:mess_0540
+###Script:0
+An elevator switch.
+###--------
+###Script:1
+Everyone's essays are
+displayed here.
+###--------
+###Script:2
+###--------
+Touch the display switch
+without permission and the
+teacher will get angry.
+###--------
+###Script:3
+Hit this switch and...
+Wait, better not do that.
+###--------
+###Script:4
+A very large speaker.
+###--------
+###Script:5
+A poster of a tree.
+What kind could it be?
+###--------
+###Script:6
+A long sink.
+###--------
+Water comes out automatically
+when you put your hands
+under the faucets.
+###--------
+###Script:7
+A mirror.
+Your hair looks fine.
+###--------

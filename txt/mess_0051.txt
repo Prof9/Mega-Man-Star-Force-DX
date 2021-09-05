@@ -1,0 +1,80 @@
+﻿###TextArchive:mess_0051
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:OldWoman
+Oh, my!
+Please come in!
+###--------
+###Script:3
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Dear me! My hip's been
+acting up lately, so I
+can't get around too well.
+###--------
+###Script:4
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Oh, dear... I have a delivery
+to make, but I can hardly
+move with this pain in my hip!
+###--------
+###Mugshot:MegaMan
+It looks like that old
+lady needs help.
+###--------
+###Mugshot:OmegaXis
+Well, whaddaya say?
+Help her?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's go find out
+what she needs.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+...You're more heartless
+than I thought.
+###--------
+###Script:6
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Dear me! My hip's been
+acting up lately, so I
+can't get around too well.
+###--------
+###Script:7
+###Mugshot:OldWoman
+An adorable boy lent me
+a hand today!
+###--------
+###Mugshot:OldWoman
+Those kids at Echo
+Elementary are swell.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

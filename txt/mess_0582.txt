@@ -1,0 +1,173 @@
+﻿###TextArchive:mess_0582
+###Script:0
+###Mugshot:5
+Take just 1 step in and
+you feel like you're in a
+real jungle!
+###--------
+###Mugshot:5
+Ah, my grandchild will love it!
+###--------
+###Script:1
+###Mugshot:6
+Snakes! Snaaaaakes!!
+Big snaaaaakes!
+###--------
+###Mugshot:6
+Aaaaaaaaaaaah!!
+###--------
+###Script:2
+###Mugshot:8
+So this is Mowa Mowa...
+###--------
+###Mugshot:8
+###--------
+###Mugshot:8
+My son really loves this char-
+acter, but I don't know what
+he sees in it, I suppose.
+###--------
+###Script:3
+###Mugshot:16
+I feel so ill...
+###--------
+###Mugshot:16
+That's the first time I've
+ever been cornered by
+snakes like that...
+###--------
+###Script:4
+###Mugshot:17
+It's nice to see a pretty
+landscape from a mountaintop,
+###--------
+###Mugshot:17
+###--------
+###Mugshot:17
+but the cityscape from a
+rooftop isn't all that bad
+either, don't you agree?
+###--------
+###Script:5
+###Mugshot:5
+Nnngh...
+###--------
+###Script:6
+###Mugshot:6
+Grandpa! Grandpa!!
+###--------
+###Script:7
+###Mugshot:8
+A-Aaaaaah...
+###--------
+###Script:8
+###Mugshot:16
+N-No more snakes!!
+PLEASE!!
+###--------
+###Script:9
+###Mugshot:17
+I... I don't deal well with
+snakes...
+###--------
+###Script:10
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Script:11
+###Mugshot:5
+###--------
+###Mugshot:5
+Th-The lady disappeared...
+Are my eyes playing
+tricks on me...?
+###--------
+###Script:12
+###Mugshot:6
+Mowa Mowa!
+Mowa Mowa!
+###--------
+###Script:13
+###Mugshot:8
+I swear I saw a monster
+for a second there!
+###--------
+###Mugshot:8
+You saw it too, didn't you!?
+###--------
+###Script:14
+###Mugshot:16
+I'm going to eat something
+good and try to forget
+###--------
+###Mugshot:16
+all about that icky thing
+with the snakes!
+###--------
+###Script:15
+###Mugshot:17
+Hmm? Why the long face?
+###--------
+###Script:20
+###Mugshot:5
+###--------
+###Mugshot:5
+My grandson is so cute.
+Sometimes, he moves me
+to tears!
+###--------
+###Script:21
+###Mugshot:6
+###--------
+###Mugshot:6
+Should I ride the panda,
+the cat, or the giraffe?
+Ohh, I can't decide!
+###--------
+###Script:22
+###Mugshot:5
+###--------
+###Mugshot:5
+Hmm... Now where did my
+grandson run off to?
+###--------
+###Script:23
+###Mugshot:6
+###--------
+###Mugshot:6
+Hey, my grandpa isn't here!
+Where'd he go?
+###--------
+###Script:24
+###Mugshot:5
+###--------
+###Mugshot:5
+A fight you say?
+Can't you do anything
+to stop it?
+###--------
+###Script:25
+###Mugshot:6
+###--------
+###Mugshot:6
+It's kinda noisy out there.
+I wonder what's going on.
+###--------
+###Script:26
+###Mugshot:7
+###--------
+###Mugshot:7
+Hmm... I wonder if we
+can host something
+more festive...?
+###--------
+###Mugshot:7
+It's time to do some
+brainstorming.
+###--------
+###Script:27
+###Mugshot:7
+It is becoming quite noisy
+around here...
+###--------

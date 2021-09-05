@@ -1,0 +1,115 @@
+﻿###TextArchive:mess_0611
+###Script:2
+The stack of tires is
+blocking the way.
+###--------
+###Script:3
+A stack of old tires...
+###--------
+###--------
+Cars nowadays float, so
+you hardly see cars with
+tires on them anymore.
+###--------
+###Script:4
+###--------
+There are car doors just
+casually lying about with
+their windows broken.
+###--------
+###Script:5
+###--------
+Here's a very old car
+waiting to one day be
+scrapped.
+###--------
+###Script:6
+Old-school communication
+terminals.
+###--------
+Before Transers, almost
+everyone had one.
+###--------
+###Script:7
+Old drum cans.
+###--------
+They look to be pretty
+much empty.
+###--------
+###Script:9
+###Mugshot:0
+A Card Trader SP.
+Put in 10 cards?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:0
+<optionText>  Yes!  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+It's the pitching machine!
+###--------
+It's still in pretty good
+working order.
+###--------
+###Script:15
+###--------
+A lot of drum cans, and
+one stack of tires...
+What gives?
+###--------
+###Script:16
+###--------
+A lot of drum cans, and
+one stack of tires...
+What gives?
+###--------
+Oh...?
+What's this?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=113
+###--------
+###Script:29
+###Mugshot:11
+You there! I'm TraderMan SP!
+###--------
+###Mugshot:11
+Give me 10 cards! Then I'll
+let you have 1 of mine.
+###--------
+###Mugshot:11
+You down with that?
+
+###--------
+###Mugshot:11
+<positionOptionFromCenter><optionText>  Give  <optionText>  No
+###Command:positionOptionFromCenter width=66
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:31
+###Mugshot:0
+I don't have enough
+Battle Cards in my box.
+###--------
+###Script:32
+###Mugshot:11
+What the...!?
+Gonna renege, are ya!
+###--------
+###Mugshot:11
+Git outta here, and don't
+ever come 'round here again!
+###--------
+###Script:33
+###Mugshot:11
+###--------
+###Mugshot:11
+Ah! Ah! Ah! Ya don't havanuff
+Battle Cards in your box!
+Git outta here!
+###--------

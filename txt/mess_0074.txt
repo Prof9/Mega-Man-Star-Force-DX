@@ -1,0 +1,120 @@
+﻿###TextArchive:mess_0074
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Welcome to the Transer of
+the world-class gourmand!
+###--------
+###Script:3
+###Mugshot:LittleGirl
+I am pretty picky when it
+comes to food.
+###--------
+###Mugshot:LittleGirl
+I'm always on the lookout
+for unique tastes!
+###--------
+###Script:4
+###Mugshot:LittleGirl
+Hey, what gives?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I'm a world-class gourmand...
+Yet apparently there's
+something I haven't tried.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+They say it's popular
+among sweets-lovers.
+Why haven't I tried it yet?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Looks like the world-class
+gourmand is having a
+problem.
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+You mean there's something
+that the world-class
+gourmand hasn't eaten?
+###--------
+###Mugshot:MegaMan
+Should we find out what it is?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Yeah, I'm kinda curious.
+###--------
+###Mugshot:MegaMan
+OK, let's go talk to
+the gourmand!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Awww...
+I was kind of curious....
+###--------
+###Script:6
+###Mugshot:LittleGirl
+Hey, what gives?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I'm a world-class gourmand...
+Yet apparently there's
+something I haven't tried.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+They say it's popular
+among sweets-lovers.
+Why haven't I tried it yet?
+###--------
+###Script:7
+###Mugshot:LittleGirl
+It was Shooting-Star Cake!
+###--------
+###Mugshot:LittleGirl
+I'm moving up in the world!
+###--------
+###Mugshot:LittleGirl
+I'm going to go get
+one more!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

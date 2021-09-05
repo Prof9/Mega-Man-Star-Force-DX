@@ -1,0 +1,45 @@
+﻿###TextArchive:mess_0154
+###Script:0
+###Mugshot:0
+Wow!
+###--------
+###Script:1
+###Mugshot:0
+The Wave World exists
+even in space...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Of course!
+There are EM waves in
+space too.
+###--------
+###Mugshot:OmegaXis
+But...
+###--------
+###Script:3
+###Mugshot:OmegaXis
+It's no good. There aren't
+any waveholes here.
+###--------
+###Mugshot:OmegaXis
+We can't pulse in if there
+aren't any.
+###--------
+###Script:4
+###Mugshot:0
+Then...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We've gotta bust our way
+outta here, and find a
+wavehole somewhere!
+###--------
+###Script:6
+###Mugshot:0
+Outside? Hmm, the door is
+somewhere...
+###--------

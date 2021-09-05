@@ -1,0 +1,92 @@
+﻿###TextArchive:mess_1061
+###Script:0
+###Mugshot:TruckNavi
+Hey, man!
+How are you?
+###--------
+###Mugshot:TruckNavi
+That Suther guy,
+always talking about
+big waves and stuff,
+###--------
+###Mugshot:TruckNavi
+makes me want to catch
+a wave!
+###--------
+###Script:1
+###Mugshot:TruckNavi
+Yo, man...
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Like this is... nuts...
+I'm like shaking all over...
+###--------
+###Mugshot:TruckNavi
+And the Wave Road
+is all abuzz...
+###--------
+###Script:10
+###Mugshot:MegaMan
+What the!? What's this
+wave ball doing here?
+###--------
+###Mugshot:MegaMan
+!<wait>
+###Command:wait frames=10
+###--------
+###Mugshot:MegaMan
+It's connected to another
+dimension!
+###--------
+###Script:11
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+.<wait>.<wait>.<wait>H<wait>e<wait>l<wait>l<wait>o!
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###--------
+OK! I'm connected!
+###--------
+Hello! I'm Lisbeth!
+###--------
+I crossed over from
+another dimension to
+get here!
+###--------
+Let's be Brothers!
+###--------
+###Mugshot:MegaMan
+Should I?
+
+###--------
+###Mugshot:MegaMan
+<positionOptionFromCenter><optionText>  Of course!
+<positionOptionFromCenter><optionText>  ...No thanks.
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:13
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+But, it's too faint to
+make out the words.
+###--------

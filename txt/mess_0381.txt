@@ -1,0 +1,142 @@
+﻿###TextArchive:mess_0381
+###Script:0
+###Mugshot:Lucian
+This is as far as
+you go, Rymer...
+###--------
+###Script:1
+###Mugshot:MargraveRymer
+Bwah hah hah...
+###--------
+###Script:2
+###Mugshot:0
+An FM-ian!?
+###--------
+###Script:3
+###Mugshot:0
+Y-You're human?
+###--------
+###Script:4
+###Mugshot:MargraveRymer
+There's my chance!!
+###--------
+###Script:5
+###Mugshot:0
+H-He's gone...
+###--------
+###Script:6
+###Mugshot:Lucian
+You're a human from
+this world?
+###--------
+###Script:7
+###Mugshot:0
+Y-Yeah...
+###--------
+###Script:8
+###Mugshot:Lucian
+You really got in my
+way there...
+......
+###--------
+###Script:9
+###Mugshot:0
+Ah...
+###--------
+###Script:10
+###Mugshot:0
+So you're a vampire hunter
+from another world,
+###--------
+###Mugshot:0
+who came here chasing
+that guy from earlier.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+And that guy was a
+dangerous vampire, who only
+thinks of humans as food...
+###--------
+###Script:11
+###Mugshot:Lucian
+And I would've taken him
+down if you hadn't shown up.
+###--------
+###Script:12
+###Mugshot:0
+S-Sorry...
+I really messed up.
+###--------
+###Mugshot:0
+Lucian, let me help you out!
+###--------
+###Script:13
+###Mugshot:Lucian
+Hmph.
+That's what I was thinking.
+###--------
+###Mugshot:Lucian
+If we don't find Rymer
+before he gains too
+much power,
+###--------
+###Mugshot:Lucian
+we're going to have
+a big problem.
+###--------
+###Script:14
+###Mugshot:0
+So, what should I do?
+###--------
+###Script:15
+###Mugshot:Lucian
+I'll take care of tracking
+down Rymer.
+###--------
+###Mugshot:Lucian
+I want you to look for
+a certain someone.
+###--------
+###Script:16
+###Mugshot:0
+A certain someone?
+###--------
+###Script:17
+###Mugshot:Lucian
+###--------
+###Mugshot:Lucian
+One who wields the Solar Gun
+that can wipe out vampires...
+###--------
+###Mugshot:Lucian
+...His name is Aaron.
+###--------
+###Script:18
+###Mugshot:0
+Aaron, huh?
+###--------
+###Script:19
+###Mugshot:Lucian
+###--------
+###Mugshot:Lucian
+As for Aaron...
+He's probably in a place
+where people gather,
+###--------
+###Mugshot:Lucian
+where the sun shines down
+the strongest.
+###--------
+###Mugshot:Lucian
+Like on a rooftop or
+something.
+###--------
+###Mugshot:Lucian
+I'm counting on you...
+###--------
+###Script:20
+###Mugshot:0
+I-I got it!
+###--------

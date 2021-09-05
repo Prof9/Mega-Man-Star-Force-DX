@@ -1,0 +1,282 @@
+﻿###TextArchive:mess_1230
+###Script:2
+<optionButtonSmall><optionButtonSmall>First question
+First question
+First question
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Correct"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Wrong"
+###--------
+###Script:3
+<optionButtonSmall><optionButtonSmall>Second question
+Second question
+Second question
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Correct"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Wrong"
+###--------
+###Script:5
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="7"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="8"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="9"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="10"
+###--------
+###Mugshot:QuizSheet
+13 [-] ? = 5
+###--------
+###Script:6
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="13"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="14"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="15"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="16"
+###--------
+###Mugshot:QuizSheet
+? [-] 2 = 13
+###--------
+###Script:7
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="10 and 8"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="15 and 3"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="6 and 12"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="7 and 12"
+###--------
+###Mugshot:QuizSheet
+? + ? = 19
+###--------
+###Script:8
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="1"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="8"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="9"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="10"
+###--------
+###Mugshot:QuizSheet
+999 [-] 888 [-] 110 = ?
+###--------
+###Script:9
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="15"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="16"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="17"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="18"
+###--------
+###Mugshot:QuizSheet
+1 + 1 + 15 = ?
+###--------
+###Script:10
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="16 + 8"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="14 [-] 9"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="21 + 1"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="30 [-] 7"
+###--------
+###Mugshot:QuizSheet
+Which will give you the
+answer "23"?
+###--------
+###Script:11
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="4 + 3"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="9 + 1"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="10 [-] 1"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="9 [-] 1"
+###--------
+###Mugshot:QuizSheet
+Which will give you the
+answer "8"?
+###--------
+###Script:12
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="5 + 3 + 2"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="4 + 6 + 1"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="8 + 1 [-] 1"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="9 + 2 + 1"
+###--------
+###Mugshot:QuizSheet
+Which will give you the
+answer "10"?
+###--------
+###Script:13
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Stroll"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Roll"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Cook"
+###--------
+###Mugshot:QuizSheet
+Stop, drop, and...
+###--------
+###Script:14
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Hatdog"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Corndog"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Catnip"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Spoon"
+###--------
+###Mugshot:QuizSheet
+What is something you
+can eat?
+###--------
+###Script:15
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Bob"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Uncle"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Cat"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Me"
+###--------
+###Mugshot:QuizSheet
+"Uncle Bob's cat loves fish."
+What is the subject?
+###--------
+###Script:16
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="13"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="14"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="15"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="16"
+###--------
+###Mugshot:QuizSheet
+UUUUUUUUUUUUUUU
+How many U's are there?
+###--------
+###Script:17
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Farewell"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Strong"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Enemy"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="I"
+###--------
+###Mugshot:QuizSheet
+Which has the least
+number of letters?
+###--------
+###Script:18
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Phone"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Toast"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Cable"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Monitor"
+###--------
+###Mugshot:QuizSheet
+Which one doesn't belong?
+###--------
+###Script:19
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Feb."
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="July"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Sept."
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Dec."
+###--------
+###Mugshot:QuizSheet
+30 days hath...
+###--------
+###Script:20
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Turtles"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Imps"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Bees"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Snakes"
+###--------
+###Mugshot:QuizSheet
+What comes out from
+under brush?
+###--------
+###Script:21
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Crab"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Whale"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Dolphin"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Shrimp"
+###--------
+###Mugshot:QuizSheet
+Which of these is the
+largest?
+###--------
+###Script:22
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Crab"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Octopus"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Squid"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Turtle"
+###--------
+###Mugshot:QuizSheet
+Which of these has the
+most number of legs?
+###--------
+###Script:23
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Human"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Cheetah"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Lion"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Turtle"
+###--------
+###Mugshot:QuizSheet
+Which animal is the fastest?
+###--------
+###Script:24
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Shed"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Chew"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Rip"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Push"
+###--------
+###Mugshot:QuizSheet
+What do reptiles do to
+their skin when they grow?
+###--------
+###Script:25
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="North"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="East"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="West"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="South"
+###--------
+###Mugshot:QuizSheet
+From where does the
+sun rise?
+###--------
+###Script:26
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Liver"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Stomach"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Heart"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Kidney"
+###--------
+###Mugshot:QuizSheet
+What organ sends blood
+throughout your body?
+###--------
+###Script:27
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall><optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=2 down=2 left=1 right=1 string="Scarab"
+###Command:optionButtonSmall up=3 down=3 left=0 right=0 string="Stinkbug"
+###Command:optionButtonSmall up=0 down=0 left=3 right=3 string="Beetle"
+###Command:optionButtonSmall up=1 down=1 left=2 right=2 string="Skunkbug"
+###--------
+###Mugshot:QuizSheet
+Which bug gives off a
+bad smell when in danger?
+###--------

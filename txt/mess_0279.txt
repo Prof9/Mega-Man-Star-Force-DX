@@ -1,0 +1,49 @@
+﻿###TextArchive:mess_0279
+###Script:0
+###Mugshot:Jammer
+Waaaaaah!!
+###--------
+###Script:1
+###Mugshot:1
+Alright!
+###--------
+###Script:2
+###Mugshot:LittleGirl
+Huh?
+###--------
+###Mugshot:LittleGirl
+What am I doing?
+###--------
+###Script:3
+###Mugshot:Girl
+I think I was really mad
+about something...
+###--------
+###Script:4
+###Mugshot:OldMan
+...?
+###--------
+###Mugshot:OldMan
+What are you so upset
+about, my dear?
+###--------
+###Script:5
+###Mugshot:OldWoman
+I'm not sure...
+What about you?
+###--------
+###Script:6
+###Mugshot:1
+###--------
+###Mugshot:1
+Phew. That takes care
+of that, I hope.
+###--------
+###Script:7
+###Mugshot:OmegaXis
+That would be nice...
+###--------
+###Script:8
+###Mugshot:1
+Let's pulse out for now...
+###--------

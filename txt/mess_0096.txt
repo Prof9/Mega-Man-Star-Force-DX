@@ -1,0 +1,201 @@
+﻿###TextArchive:mess_0096
+###Script:0
+###Mugshot:Geo
+Hmm, which mail should
+I read?
+###--------
+###Script:1
+###Mugshot:Geo
+Looks like I got new mail...
+###--------
+###Script:2
+###Mugshot:Geo
+I don't have a single
+piece of mail...
+###--------
+###Script:3
+###Mugshot:Geo
+Looks like I got new mail.
+Better take a look...
+###--------
+###Mugshot:Geo
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:Geo
+Subject: <printMailSubjectBuffer>
+Body:
+###Command:printMailSubjectBuffer
+###--------
+###Mugshot:Geo
+<printBrotherBuffer1>
+<printBrotherBuffer2>
+<printBrotherBuffer3>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer3
+###--------
+###Mugshot:Geo
+Should I save this e-mail?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:4
+###Mugshot:Geo
+Where should I save it to?
+###--------
+###Script:5
+###Mugshot:Geo
+Overwrite other saved
+e-mail?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:6
+###Mugshot:Geo
+Save complete!
+###--------
+###Script:7
+###Mugshot:Geo
+Saving mail will save
+your game as well.
+###--------
+###Mugshot:Geo
+Continue?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:8
+###Mugshot:0
+<printBrotherBuffer1>
+<printBrotherBuffer2>
+<printBrotherBuffer3>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer3
+###--------
+###Script:9
+Present:
+"<printItemBuffered>"
+###Command:printItemBuffered buffer=0
+###--------
+Geo got:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=0
+###--------
+###Mugshot:Geo
+Save the e-mail?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:10
+Present:
+"<printCardBuffered>"
+###Command:printCardBuffered buffer=0
+###--------
+Geo got:
+"<printCardBuffered>"!!
+###Command:printCardBuffered buffer=0
+###--------
+###Mugshot:Geo
+Save the e-mail?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+###Mugshot:Geo
+Cancel the save?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+###Mugshot:Geo
+This e-mail will disappear
+if you don't save it.
+###--------
+###Mugshot:Geo
+Delete this e-mail?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:13
+###Mugshot:Geo
+Now saving!
+###--------
+###Script:14
+Initializing backup data...
+###--------
+###Script:15
+Now saving... Don't turn
+off the power!
+###--------
+###Script:16
+Save complete.
+###--------
+###Script:17
+The save failed.
+Try again?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:19
+The save failed.
+###--------
+###Script:20
+###Mugshot:Geo
+What should I do with
+this mail?
+<positionOptionFromCenter><optionText>  Read  <optionText>  Delete
+###Command:positionOptionFromCenter width=92
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:21
+###Mugshot:Geo
+Sure you want me to
+delete it?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:22
+###Mugshot:Geo
+Do you want to save this?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:23
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:24
+###Mugshot:Geo
+Now saving!
+###--------

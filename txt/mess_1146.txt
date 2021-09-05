@@ -1,0 +1,39 @@
+﻿###TextArchive:mess_1146
+###Script:0
+###Mugshot:Jammer
+Gwahaha...
+###--------
+###Mugshot:MegaMan
+What are you doing!?
+###--------
+###Mugshot:Jammer
+What the? You?
+###--------
+###Mugshot:Jammer
+We are enjoying this
+EM wave storm.
+###--------
+###Mugshot:Jammer
+We won't allow you to
+interfere!!
+###--------
+###Mugshot:OmegaXis
+Here they come, get ready!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+OK, this should improve the
+reception.
+###--------
+###Mugshot:MegaMan
+That guy's phone will probably
+work now...
+###--------
+###Script:2
+###Mugshot:Jammer
+Gwahahaha...
+###--------
+###Script:3
+###Mugshot:Jammer
+Eheh heh heh...
+###--------

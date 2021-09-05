@@ -1,0 +1,27 @@
+﻿###TextArchive:mess_0556
+###Script:0
+###Mugshot:3
+I'm in charge of cleaning
+today.
+###--------
+###Mugshot:3
+I'm gonna make sure there's
+no litter anywhere!
+###--------
+###Script:1
+###Mugshot:LittleGirl
+Ack! There's dust in here!!
+###--------
+###Mugshot:LittleGirl
+I've gotta clean better!
+It's my duty, after all!
+###--------
+###Script:2
+###Mugshot:LittleGirl
+Base times height,
+divided by 2...
+###--------
+###Mugshot:LittleGirl
+Base times height,
+divided by 2...
+###--------

@@ -1,0 +1,53 @@
+﻿###TextArchive:mess_0535
+###Script:1
+It's the boy's room, but I
+don't need to go now.
+###--------
+###Script:2
+The poster says we
+shouldn't waste water.
+###--------
+###Script:3
+The sinks here are all
+automatic.
+###--------
+###Script:4
+A poster of a sunflower.
+So typical...
+###--------
+###Script:5
+It's a really big speaker.
+###--------
+###Script:6
+If I push this button...
+Hmm...
+###--------
+Then again, that may not
+be the best idea...
+###--------
+###Script:7
+It's the switch for the
+monitor.
+###--------
+But if I touch it, some
+teacher is gonna be mad.
+###--------
+###Script:8
+Everyone's drawings are
+displayed here.
+###--------
+###Script:9
+It's the elevator's call button.
+###--------
+###Script:20
+It's the girl's room.
+Boys can't go inside.
+###--------
+###Script:21
+There's something in front
+of the door...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=61
+###--------

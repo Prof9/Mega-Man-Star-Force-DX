@@ -1,0 +1,37 @@
+﻿###TextArchive:mess_0618
+###Script:1
+The elevator is operating
+properly...
+###--------
+###Script:2
+Attention:
+No unauthorized persons
+beyond this point.
+###--------
+###--------
+...NAZA.
+###--------
+###Script:3
+###--------
+The controls have been
+badly damaged, definitely
+evidence of a crash...
+###--------
+###Script:4
+Machine parts are strewn
+all about...
+###--------
+###Script:5
+Can't get by with all of
+this junk in the way.
+###--------
+###Script:6
+No longer functional cords
+dangle and hang.
+###--------
+###Script:10
+###--------
+This is the "Peace" space
+station's communication
+system.
+###--------

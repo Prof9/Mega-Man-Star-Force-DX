@@ -1,0 +1,321 @@
+﻿###TextArchive:mess_0140
+###Script:0
+A few days later...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Hey.
+###--------
+###Script:2
+###Mugshot:0
+......
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Hey, Geo!
+###--------
+###Script:4
+###Mugshot:0
+What? I hear you!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+You've been nice to let
+me watch how you live,
+###--------
+###Mugshot:OmegaXis
+but there's 1 thing I've
+noticed and wanna ask
+about.
+###--------
+###Mugshot:OmegaXis
+Do you really like the
+sky that much?
+###--------
+###Script:6
+###Mugshot:0
+###--------
+###Mugshot:0
+...Yeah, I like it. I like the
+stars twinkling at night,
+and the shooting stars...
+###--------
+###Mugshot:0
+And I hope...
+Just maybe...
+###--------
+###Mugshot:0
+I can see my dad...
+......
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Sorry, but I'm tired of
+staring at it.
+###--------
+###Mugshot:OmegaXis
+How about you show me
+something else now?
+###--------
+###Script:8
+###Mugshot:0
+You're so ungrateful...
+###--------
+###Mugshot:0
+What happened to telling
+me about my dad?
+###--------
+###Mugshot:0
+When are you going to
+"feel like it"?
+###--------
+###Script:9
+###Mugshot:OmegaXis
+Meh, who knows?
+###--------
+###Script:10
+###Mugshot:0
+Not that line again.
+###--------
+###Script:11
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Look, what's important now
+is that you're more prepared
+when you leave your house.
+###--------
+###Mugshot:OmegaXis
+You never know when an
+FM-ian is gonna show.
+###--------
+###Mugshot:OmegaXis
+One could drop from the
+sky onto us right now!
+###--------
+###Script:12
+###Mugshot:0
+From the sky, huh?
+###--------
+###Script:13
+###Mugshot:0
+...Hmm?
+###--------
+###Script:14
+###Mugshot:7
+Waaaaaaaa!!<wait>
+###Command:wait frames=90
+###--------
+###Script:15
+*CRASH!*
+###--------
+###Script:16
+###Mugshot:0
+What was that!?
+###--------
+###Script:17
+###Mugshot:OmegaXis
+Be careful.
+###--------
+###Script:18
+###Mugshot:0
+Why?
+What's wrong?
+###--------
+###Script:19
+###Mugshot:OmegaXis
+I know an FM-ian with
+wings just like that.
+###--------
+###Mugshot:OmegaXis
+That may well have been...
+###--------
+###Script:20
+###Mugshot:0
+You think that was
+an FM-ian?
+###--------
+###Script:21
+###Mugshot:7
+Ooongh...
+###--------
+###Script:22
+###Mugshot:7
+Ow-www...
+###--------
+###Script:23
+###Mugshot:7
+I knew it.
+It won't stabilize in the air...
+###--------
+###Mugshot:7
+Oof.
+###--------
+###Script:24
+###Mugshot:0
+Hey!
+He took his wings off!
+###--------
+###Script:25
+###Mugshot:7
+Huh?
+###--------
+###Script:26
+###Mugshot:7
+Ack!
+Y-You saw!?
+###--------
+###Script:27
+###Mugshot:0
+Oh, uh... yeah...
+###--------
+###Mugshot:7
+R-Really?
+###--------
+###Mugshot:0
+Yeah, really...
+###--------
+###Script:28
+###Mugshot:7
+That was so careless
+of me.
+###--------
+###Script:29
+###Mugshot:0
+Careless?
+###--------
+###Script:30
+###Mugshot:7
+N-Nothing.
+###--------
+###Mugshot:7
+###--------
+###Mugshot:7
+I-I thought no one came to
+Vista Point except at night...
+###--------
+###Mugshot:7
+......
+###--------
+###Mugshot:7
+A-Anyway, sorry to have
+disturbed you.
+###--------
+###Mugshot:7
+I-I guess my experiment
+was a failure...
+###--------
+###Script:31
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+("Experiment"?
+That wing-thingy, right?)
+###--------
+###Script:32
+###Mugshot:OmegaXis
+(Yeah. I guess he's not
+an FM-ian.)
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(But more importantly...
+That "thingy" looks awfully
+interesting.)
+###--------
+###Mugshot:OmegaXis
+(Let's go take a look!)
+###--------
+###Script:33
+###Mugshot:0
+Huh?
+###--------
+###Script:34
+###Mugshot:0
+(Ack! W-Wait!! Wait a sec!!
+OK! We'll look!)<wait>
+###Command:wait frames=30
+###--------
+###Script:35
+###Mugshot:0
+###--------
+###Mugshot:0
+Yeesh.
+Only because you
+asked so "nicely"...
+###--------
+###Mugshot:7
+...?
+###--------
+###Mugshot:7
+Y-Yes?
+What is it?
+###--------
+###Script:36
+###Mugshot:0
+Um, well... I was wondering
+about your wing-thi...
+###--------
+###Script:37
+###Mugshot:7
+...!!
+###--------
+###Mugshot:7
+Eh, um, this is...
+It's... Uh...
+###--------
+###Mugshot:7
+It's, um... I call it my
+FlapPack.
+###--------
+###Script:38
+###Mugshot:0
+...FlapPack?
+###--------
+###Script:39
+###Mugshot:7
+!!
+###--------
+###Script:40
+###Mugshot:0
+Huh?
+###--------
+###Script:41
+###Mugshot:7
+Ah, please don't stare
+at it, OK?
+###--------
+###Mugshot:7
+I-I don't like it when
+people do that.
+###--------
+###Mugshot:7
+I don't like to show
+people my inventions...
+###--------
+###Script:42
+###Mugshot:0
+O-Oh...
+###--------
+###Mugshot:0
+(He doesn't want to
+show it to us.)
+###--------
+###Mugshot:0
+(We should let it go,
+Mega.)
+###--------
+###Script:43
+###Mugshot:OmegaXis
+(What a bizarre guy...)
+###--------
+###Script:44
+###Mugshot:0
+(If we stay here any
+longer, we'll get in his way.)
+###--------
+###Mugshot:0
+(Let's go home, OK?)
+###--------

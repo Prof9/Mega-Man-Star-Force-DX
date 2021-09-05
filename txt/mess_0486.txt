@@ -1,0 +1,24 @@
+﻿###TextArchive:mess_0486
+###Script:0
+###Mugshot:4
+Oof...
+I've been just feeding
+this thing cards...
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+If I could just get one
+outrageously good card,
+it'd be worth it.
+###--------
+###Script:50
+###Mugshot:6
+Thanks to you, BIG WAVE
+is off to a good start!
+###--------
+###Script:51
+###Mugshot:3
+WELCOME, WELCOME!
+COME IN AND LOOK AROUND!
+###--------

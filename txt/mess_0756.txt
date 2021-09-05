@@ -1,0 +1,31 @@
+﻿###TextArchive:mess_0756
+###Script:1
+I guess this is the
+control panel...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Oh! Yep, it's got a virus!
+###--------
+###Mugshot:MegaMan
+So that's what's
+wrong with it.
+###--------
+###Mugshot:OmegaXis
+OK, let's get in there
+and kick some virus!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Whoa, it's got a virus!
+###--------
+###Mugshot:MegaMan
+Dang, this thing sure is
+vulnerable to viruses.
+###--------
+###Mugshot:OmegaXis
+OK, let's get rid of
+that virus!
+###--------

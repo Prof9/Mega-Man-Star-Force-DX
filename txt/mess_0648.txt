@@ -1,0 +1,127 @@
+﻿###TextArchive:mess_0648
+###Script:0
+###Mugshot:0
+I'll restore the control panel...
+###--------
+Geo restored the
+control panel!!
+###--------
+###--------
+Something came out of the
+hatch in the control panel...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=5
+###--------
+###Script:1
+###Mugshot:0
+I'll restore the control panel...
+###--------
+Geo restored the
+control panel!!
+###--------
+###--------
+Something came out of the
+hatch in the control panel...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=6
+###--------
+###Script:2
+###Mugshot:0
+I'll restore the control panel...
+###--------
+Geo restored the
+control panel!!
+###--------
+###--------
+Something came out of the
+hatch in the control panel...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=7
+###--------
+###Script:3
+###Mugshot:0
+I'll restore the control panel...
+###--------
+Geo restored the
+control panel!!
+###--------
+###--------
+Something came out of the
+hatch in the control panel...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=8
+###--------
+###Script:4
+Security in operation.
+###--------
+Please present your
+4 TetraKeys.
+###--------
+###Script:5
+Security in operation.
+###--------
+Please present your
+4 TetraKeys.
+###--------
+###Script:6
+The control system that
+drives this truck.
+###--------
+###Script:10
+This control panel is
+operating normally.
+###--------
+###Script:14
+###--------
+Security in operation.
+Please present your
+4 TetraKeys.
+###--------
+Geo used
+"<printItem>",
+"<printItem>",
+###Command:printItem item=5
+###Command:printItem item=6
+###--------
+"<printItem>", and
+"<printItem>"!!
+###Command:printItem item=7
+###Command:printItem item=8
+###--------
+4 TetraKeys have been
+verified...
+###--------
+Security has been
+deactivated.
+###--------
+###Script:15
+###--------
+Security in operation.
+Please present your
+4 TetraKeys.
+###--------
+Geo used
+"<printItem>",
+"<printItem>",
+###Command:printItem item=5
+###Command:printItem item=6
+###--------
+"<printItem>", and
+"<printItem>"!!
+###Command:printItem item=7
+###Command:printItem item=8
+###--------
+4 TetraKeys have been
+verified...
+###--------
+Security has been
+deactivated.
+###--------

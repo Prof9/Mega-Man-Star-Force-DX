@@ -1,0 +1,131 @@
+﻿###TextArchive:mess_0280
+###Script:0
+###Mugshot:0
+Home sounds good right
+about now...
+###--------
+###Script:1
+*riiiiiiiiing!!*<wait>
+###Command:wait frames=40
+###--------
+###Script:2
+###Mugshot:0
+Hello?
+###--------
+###Script:3
+So? Did you enjoy
+watching Brothers fight?
+###--------
+###Script:4
+###Mugshot:0
+It's the person from before!
+###--------
+###Script:5
+But this sort of thing
+isn't all that shocking.
+###--------
+###--------
+As you just saw, all I'm
+doing is exposing the
+fake things in this world.
+###--------
+Fake things like
+Brother Bands, for example.
+###--------
+###Script:6
+###Mugshot:0
+Who in the world are you!?
+###--------
+###Script:7
+...Me?
+###--------
+I'm "Rey".
+###--------
+...
+###--------
+*click!*<wait>
+*beep beep beep*<wait>
+###Command:wait frames=30
+###Command:wait frames=120
+###--------
+###Script:8
+###Mugshot:0
+He hung up...
+###--------
+###Script:9
+###Mugshot:OmegaXis
+Hey, you ever heard of
+this "Rey" person?
+###--------
+###Script:10
+###Mugshot:0
+No, never.
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Then there's nothing we
+can really do, huh?
+###--------
+###Mugshot:OmegaXis
+This is about all we can
+do for today...
+###--------
+###Script:12
+###Mugshot:0
+###--------
+###Mugshot:0
+Yeah...
+###--------
+###Script:13
+*beep, beep, beep*<wait>
+
+###Command:wait frames=46
+###--------
+*beep, beep, beep*<wait>
+###Command:wait frames=46
+###--------
+###Script:14
+###Mugshot:0
+What now?<wait>
+.<wait>.<wait>.<wait>Mail?
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Mugshot:OmegaXis
+Hey, Geo...
+Check it out.
+###--------
+###Mugshot:OmegaXis
+It's from one of those
+Satellite admin guys.
+###--------
+###Mugshot:DragonSkyShadow
+Geo Stelar...
+###--------
+###Mugshot:DragonSkyShadow
+It appears that you
+have formed yet
+another Brother Band.
+###--------
+###Mugshot:DragonSkyShadow
+Allow me to test how
+much you have grown.
+###--------
+###Mugshot:DragonSkyShadow
+I will be waiting for you
+at the AMAKEN rooftop
+Wave Road.
+###--------
+###Mugshot:0
+The AMAKEN rooftop, huh?
+###--------
+###Mugshot:OmegaXis
+That's where we did
+those Star Trials.
+###--------
+###Mugshot:OmegaXis
+Alright, no time like
+the present!
+###--------

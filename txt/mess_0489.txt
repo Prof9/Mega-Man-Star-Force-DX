@@ -1,0 +1,241 @@
+﻿###TextArchive:mess_0489
+###Script:0
+It's the store's
+welcome mat.
+###--------
+It plays the sound of
+waves at the shore.
+###--------
+###Script:1
+Colorful Battle Card boxes.
+These are for storing
+your card collection.
+###--------
+###--------
+You can also put little
+trinkets inside.
+###--------
+###Script:2
+The latest product info
+is displayed here.
+###--------
+###Script:3
+There are all kinds of
+cards on display.
+###--------
+You can't help but
+look at them all.
+###--------
+###Script:5
+The register...
+Inside is...
+I'd better not say.
+###--------
+###Script:6
+It's the bargain bin!
+Super cheap cards galore!
+###--------
+###Script:7
+The showcase is full of
+special and rare cards.
+###--------
+###Script:8
+A homely table, if you will.
+###--------
+It's a place for customers
+to trade cards.
+###--------
+The shopkeeper sure knows
+how to set up shop!
+###--------
+###Script:9
+You can tell the shopkeeper
+likes his palm tree.
+###--------
+###Script:10
+Ken'll get mad if I
+randomly touch things.
+###--------
+###Script:12
+It's the store's stock
+of Battle Cards.
+###--------
+Ken'll get mad if I
+randomly touch things.
+###--------
+###Script:13
+###Mugshot:0
+Put 3 cards into the
+Card Trader 3?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:0
+<optionText>  Yes!  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:14
+###Mugshot:12
+Hey, hey! I'm TraderMan 3!
+At your service!
+###--------
+###Mugshot:12
+Give me 3 Battle Cards
+to trade for 1 of mine!
+###--------
+###Mugshot:12
+So how about it?
+Wanna trade?
+
+###--------
+###Mugshot:12
+<positionOptionFromCenter><optionText>  Yes!  <optionText>  No
+###Command:positionOptionFromCenter width=65
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:15
+These are the shopkeeper's
+surf boards.
+###--------
+###Script:16
+These are the shopkeeper's
+surf boards.
+###--------
+Huh? Something is lying
+on the ground.
+###--------
+Geo got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printItem item=22
+###--------
+###Script:20
+###Mugshot:2
+Surf's up!
+Got some good stuff,
+so take a look!
+###--------
+###Mugshot:2
+Huh?
+"Tropical Tea"?
+###--------
+###Mugshot:2
+Oh! You want that!?
+###--------
+###Mugshot:2
+A single sip whisks you
+away to a tropical paradise.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+It's happiness in liquid form,
+sparkling like the sun on
+the ocean waves.
+###--------
+###Mugshot:2
+That's the tea you're
+looking for, right?
+###--------
+###Mugshot:2
+What? I don't have any
+in the store?
+###--------
+###Mugshot:2
+Well, I'm all out today,
+but I've some of my own.
+###--------
+###Mugshot:2
+Huh? You want me to
+give you my stash?
+###--------
+###Mugshot:2
+Aw, come on, dude!
+I was gonna save it
+for tonight.
+###--------
+###Mugshot:2
+...You're giving it as a
+present to an old man?
+###--------
+###Mugshot:2
+Oh, alright.
+I'll cut you a deal, man.
+###--------
+###Mugshot:2
+3000 Zennys.
+How about it?
+###--------
+###Script:21
+###Mugshot:2
+Remember to come back,
+OK dude?
+###--------
+###Script:22
+###Mugshot:2
+Sorry, but I ran out
+of those, man.
+###--------
+###Script:23
+###Mugshot:2
+Surf's up!
+Got some good stuff,
+so take a look!
+###--------
+<positionOptionFromCenter><optionText>  Look  <optionText>  Don't
+###Command:positionOptionFromCenter width=86
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:24
+###Mugshot:2
+I'll sell you my Tropical Tea
+for 3000 Zennys.
+###--------
+###Script:25
+<positionOptionFromCenter><optionText>  Buy  <optionText>  Don't
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+OK, enjoy the tea!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=59
+###--------
+###Mugshot:2
+Enjoy that tea!
+###--------
+###Script:26
+###Mugshot:2
+No problem, dude.
+Maybe later?
+###--------
+###Script:27
+###Mugshot:2
+Sorry, but you don't
+have moola, man.
+###--------
+###Script:31
+###Mugshot:0
+Looks like we don't have
+enough cards.
+###--------
+###Script:32
+###Mugshot:12
+Hey! Now why did you
+go and quit like that!?
+###--------
+###Script:33
+###Mugshot:12
+Hey hey hey hey!
+You don't have enough
+cards!
+###--------
+###Mugshot:12
+Scram and get some
+cards, kid!
+###--------

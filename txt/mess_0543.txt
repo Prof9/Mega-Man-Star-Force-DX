@@ -1,0 +1,35 @@
+﻿###TextArchive:mess_0543
+###Script:10
+###Mugshot:5
+I'm the fish monitor for
+this week.
+###--------
+###Mugshot:5
+If I don't check the water
+quality and temperature,
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+they will delete, and we'll
+have to start all over
+again from eggs.
+###--------
+###Script:11
+###Mugshot:7
+###--------
+###Mugshot:7
+I need to organize my
+teacher's podium...
+No, you can't look.
+###--------
+###Script:20
+###Mugshot:5
+*shiver*...
+I'm scared...
+###--------
+###Script:21
+###Mugshot:7
+We'll be fine as long as
+we stay here.
+###--------

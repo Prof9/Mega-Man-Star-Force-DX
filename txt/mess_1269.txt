@@ -1,0 +1,60 @@
+﻿###TextArchive:mess_1269
+###Script:0
+###Mugshot:MegaMan
+...Huh?
+It got dark all of a sudden.
+###--------
+###Mugshot:OmegaXis
+...!!
+###--------
+###Mugshot:OmegaXis
+Geo, move!
+Now!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+What the!?
+###--------
+###Mugshot:MegaMan
+That was way too close!
+###--------
+###Mugshot:OmegaXis
+Tsk!
+Who's there!?
+###--------
+###Mugshot:OmegaXis
+Hey, coward!
+How about you show
+your ugly mug already!?
+###--------
+###Script:2
+###Mugshot:MegaMan
+Who are you!?
+###--------
+###Mugshot:Hollow
+......
+###--------
+###Mugshot:Hollow
+My name is of no
+importance.
+###--------
+###Mugshot:Hollow
+Now then...
+Allow me to see just
+how powerful you are.
+###--------
+###Mugshot:OmegaXis
+That's no FM-ian...
+###--------
+###Mugshot:OmegaXis
+Well, if you're looking for
+a fight, you've got one!
+###--------
+###Mugshot:OmegaXis
+Let's drop his sorry
+behind, kid!
+###--------
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------

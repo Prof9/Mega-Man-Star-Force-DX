@@ -1,0 +1,148 @@
+﻿###TextArchive:mess_0330
+###Script:0
+###Mugshot:0
+Friends... I should've
+never made any.
+###--------
+###Script:1
+I figured you'd be here!
+###--------
+###Script:2
+###Mugshot:0
+I told you to leave
+me alone.
+###--------
+###Script:3
+###Mugshot:Sonia
+What in the world
+happened, Geo?
+###--------
+###Mugshot:Sonia
+Is it something you can't
+tell even to us?
+###--------
+###Mugshot:Sonia
+(Plus, we really should
+go look for Mega...)
+###--------
+###Script:4
+###Mugshot:Luna
+Isn't it times like these,
+###--------
+###Mugshot:Luna
+when you can't talk
+to anyone, you can talk
+with your Brothers?
+###--------
+###Mugshot:Luna
+I looked up some stuff
+about your father.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+He believes in the strength
+of the Brother Band more
+than anyone else in the world.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I'm sure if your father saw
+you like this, he'd be really
+disappointed in you.
+###--------
+###Script:5
+###Mugshot:0
+I don't want to hear
+it anymore.
+###--------
+###Mugshot:0
+The deeper you let someone
+into your heart,
+###--------
+###Mugshot:0
+the more it hurts when they
+betray you or go away.
+###--------
+###Mugshot:0
+I don't want to be hurt by
+anyone anymore!!
+###--------
+###Mugshot:0
+So I...
+###--------
+###Mugshot:0
+I won't be close with
+anyone ever again.
+###--------
+###Script:6
+###Mugshot:Sonia
+Geo...
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Do you still remember
+when you made your
+Brother Band with me?
+###--------
+###Mugshot:Sonia
+You said you would find
+a new you, right?
+###--------
+###Mugshot:Sonia
+And I became stronger
+because of you.
+###--------
+###Script:7
+###Mugshot:0
+That's enough!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+If the Brother Band never
+existed... then I wouldn't
+have to suffer any pain!
+###--------
+###Mugshot:0
+I don't need the
+Brother Band anymore!!
+###--------
+###Script:8
+###Mugshot:Luna
+Ah!!
+###--------
+###Mugshot:Luna
+You... You want to cut
+our Brother Band...
+###--------
+###Mugshot:Luna
+...You coward!!
+###--------
+###Script:9
+###Mugshot:Sonia
+You can cut
+Brother Bands,
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+but you can't cut your
+relationships with people
+that easily!
+###--------
+###Mugshot:Sonia
+Please, give it some
+thought.
+###--------
+###Mugshot:Sonia
+I'm going to go look
+for Mega...
+###--------
+###Script:10
+###Mugshot:0
+I... What am I supposed
+to do...?
+###--------

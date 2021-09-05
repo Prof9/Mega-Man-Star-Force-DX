@@ -1,0 +1,121 @@
+﻿###TextArchive:mess_0292
+###Script:0
+###Mugshot:Rey
+What!?
+###--------
+###Mugshot:Rey
+You can't be serious, Pat.
+###--------
+###Script:1
+###Mugshot:Pat
+Of course I am.
+###--------
+###Mugshot:Pat
+I want to be Brothers
+with Geo.
+###--------
+###Script:2
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+Did you forget?
+We were thrown away by
+our parents.
+###--------
+###Mugshot:Rey
+Basically, we're no better
+than garbage!
+###--------
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+Things like relationships
+mean nothing to people
+like us!
+###--------
+###Mugshot:Rey
+Am I right!?
+###--------
+###Script:3
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I didn't forget that we
+were abandoned...
+It'll always be in my mind.
+###--------
+###Mugshot:Pat
+It's the source of my hatred
+for my parents...
+###--------
+###Mugshot:Pat
+and it gave birth to you,
+the other "me"...
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+If I could forget,
+I would choose to forget
+it all right away!
+###--------
+###Script:4
+###Mugshot:Rey
+Then give up on this
+foolish Brother idea.
+###--------
+###Script:5
+###Mugshot:Pat
+But I...
+###--------
+###Mugshot:Pat
+I really like Geo!
+###--------
+###Script:6
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+You idiot!!
+Have you gone mad, Pat!?
+###--------
+###Mugshot:Rey
+I don't approve of this!
+Absolutely not!
+###--------
+###Script:7
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Please, Rey!
+This is the first time
+I've liked someone!
+###--------
+###Script:8
+###Mugshot:Rey
+This isn't funny!!
+###--------
+###Mugshot:Rey
+.<wait>.<wait>.<wait>Hold on.
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:Rey
+...Hmm.
+###--------
+###Mugshot:Rey
+Alright, if you really want
+to that badly...
+###--------
+###Script:9
+###Mugshot:Pat
+Really?
+###--------
+###Script:10
+###Mugshot:Rey
+Yeah, I changed my mind.
+Go on, be Brothers.
+###--------
+###Mugshot:Rey
+...*grin*
+###--------

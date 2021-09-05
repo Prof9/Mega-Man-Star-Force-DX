@@ -1,0 +1,31 @@
+﻿###TextArchive:mess_0301
+###Script:0
+###Mugshot:Jammer
+L-Lord Gemini!
+###--------
+###Mugshot:Jammer
+Aaaaaaaah!!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Alright, let's fix that
+Wave Road.
+###--------
+###Script:2
+###Mugshot:0
+Yeah!
+###--------
+###Script:3
+###Mugshot:0
+This is it!
+###--------
+###Script:4
+*whoooooon*
+###--------
+###Script:5
+###Mugshot:OmegaXis
+That should do the trick.
+###--------
+###Mugshot:OmegaXis
+Alright, pulse out, Geo!
+###--------

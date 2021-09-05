@@ -1,0 +1,112 @@
+﻿###TextArchive:mess_0112
+###Script:0
+###Mugshot:0
+There, you happy?
+Now I'm going home.
+###--------
+###Mugshot:0
+Plus, it's about time you
+told me about my dad!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Alright, alright.
+###--------
+###Mugshot:OmegaXis
+But before I do, I want
+to see something else.
+###--------
+###Script:2
+###Mugshot:0
+NOW where do you
+wanna go?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Inside a Transer.
+###--------
+###Script:4
+###Mugshot:0
+You wanna go where!?
+###--------
+###Script:5
+###Mugshot:OmegaXis
+I say inside a Transer,
+###--------
+###Mugshot:OmegaXis
+but what I really want
+to see is an Earthling's
+personal page.
+###--------
+###Mugshot:OmegaXis
+If you look at a person's
+personal page, which is
+usually not shown to
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+strangers, you can find
+out what that person
+is really like.
+###--------
+###Mugshot:OmegaXis
+Plus...
+###--------
+###Mugshot:0
+Plus...?
+###--------
+###Mugshot:OmegaXis
+Oh, nothing!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+But peeping into
+someone's personal page...
+That's not right.
+###--------
+###Mugshot:OmegaXis
+You realize even if you
+say no, I can force you...
+###--------
+###Script:6
+###Mugshot:0
+OK, OK!
+###--------
+###Mugshot:0
+But if you act up
+inside the Transer...
+###--------
+###Mugshot:0
+*sigh*
+OK, so what do I do?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We'll enter Transers just like
+how you entered that train's
+Comp Space yesterday.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+So put on your glasses,
+find a wavehole, and
+change into wave form!
+###--------
+###Script:8
+###Mugshot:0
+Man, if someone sees me
+changing into wave form,
+###--------
+###Mugshot:0
+they're so going to think
+I'm a ghost, or worse!
+###--------
+###Mugshot:0
+Better be careful and
+not let anyone see me.
+###--------

@@ -1,0 +1,118 @@
+﻿###TextArchive:mess_0165
+###Script:0
+Mr. Dubius woke up a
+few hours later.
+###--------
+###--------
+His memory of what happened
+was spotty, and he was a
+little confused.
+###--------
+But he clearly remembered
+what Mr. Boreal said.
+###--------
+"Relationships are the
+essence of society."
+###--------
+.<waitSkip>.<waitSkip>.<waitSkip>And then...
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:1
+###Mugshot:2
+I am very sorry about
+what happened today.
+###--------
+###Mugshot:2
+I didn't mean to put you
+guys in danger.
+###--------
+###Script:2
+###Mugshot:6
+I know you didn't.
+###--------
+###Script:3
+###Mugshot:5
+That was great!
+###--------
+###Script:4
+###Mugshot:2
+Well, come back and
+visit anytime!
+###--------
+###Script:5
+###Mugshot:4
+Yes, of course!
+###--------
+###Mugshot:4
+Good-bye!
+###--------
+###Script:6
+###Mugshot:0
+I should get going too...
+###--------
+###Script:7
+###Mugshot:2
+Oh, tell your mom I said hi!
+###--------
+###Script:8
+###Mugshot:2
+And another thing...
+###--------
+###Script:9
+###Mugshot:0
+Yes?
+###--------
+###Script:10
+###Mugshot:2
+"Relationships are the
+essence of society."
+###--------
+###Script:11
+###Mugshot:0
+...?
+###--------
+###Script:12
+###Mugshot:2
+###--------
+###Mugshot:2
+I heard that... from my
+mentor when I worked
+at NAZA.
+###--------
+###Mugshot:2
+It was your dad.
+###--------
+###Script:13
+###Mugshot:0
+My dad...?
+He said that...?
+###--------
+###Script:14
+###Mugshot:2
+###--------
+###Mugshot:2
+How about it?
+Think you can let those
+words into your heart?
+###--------
+###Script:15
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+(Dad, I...)
+###--------
+###Script:16
+###Mugshot:5
+Heeeeeeey!!
+###--------
+###Script:17
+###Mugshot:4
+Come on!!
+###--------
+###Script:18
+###Mugshot:0
+Ack! Wait up!!
+###--------

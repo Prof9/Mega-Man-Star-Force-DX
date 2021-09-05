@@ -1,0 +1,125 @@
+﻿###TextArchive:mess_0045
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Man
+Checkitout!
+Welcome to the Mann's
+Transer!
+###--------
+###Mugshot:Man
+Please make yourself
+at home!
+###--------
+###Script:3
+###Mugshot:Man
+Checkitout!
+Know why I'm the Mann?
+###--------
+###Mugshot:Man
+Cuz my motto has always
+been "Keep it real."
+###--------
+###Script:4
+###Mugshot:Man
+Checkitout!
+You know I'm the Mann.
+###--------
+###Mugshot:Man
+But, lately there's this
+one girl that's got me
+buggin'!
+###--------
+###Mugshot:Man
+If I only knew a little
+bit more about her,
+###--------
+###Mugshot:Man
+maybe I could approach her
+and say how I feel...
+###--------
+###Mugshot:Man
+I'm just tryin' to keep
+it real, yo.
+###--------
+###Mugshot:OmegaXis
+That guy's very
+...er, um, passionate.
+###--------
+###Mugshot:MegaMan
+Well, he IS the
+Mann, right?
+###--------
+###Mugshot:OmegaXis
+...Well, wanna help him out?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK. Let's get over there
+and talk to him!
+###--------
+###Mugshot:MegaMan
+O-OK...
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Yeah, I guess he should
+handle that by himself.
+###--------
+###Script:6
+###Mugshot:Man
+Checkitout!
+You know I'm the Mann.
+###--------
+###Mugshot:Man
+But, lately there's this
+one girl that's got me
+buggin'!
+###--------
+###Mugshot:Man
+If I only knew a little
+bit more about her,
+###--------
+###Mugshot:Man
+maybe I could approach her
+and say how I feel...
+###--------
+###Mugshot:Man
+I'm just tryin' to keep
+it real, yo.
+###--------
+###Script:7
+###Mugshot:Man
+Checkitout!
+I just found out that
+###--------
+###Mugshot:Man
+Grace, the girl I'm in
+love with, likes to cook!
+###--------
+###Mugshot:Man
+That's all I need to know!
+We have to hook up now.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

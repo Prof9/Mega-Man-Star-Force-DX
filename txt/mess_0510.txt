@@ -1,0 +1,128 @@
+﻿###TextArchive:mess_0510
+###Script:0
+###Mugshot:6
+A long time ago, Pluto used
+to be a planet,
+###--------
+###Mugshot:6
+but then one day, it
+suddenly stopped being one.
+###--------
+###Mugshot:6
+Did it explode or something?
+###--------
+###Script:1
+###Mugshot:7
+The shape of a rocket...
+###--------
+###Mugshot:7
+A rocket just won't fly
+if it's not this shape,
+you know.
+###--------
+###Script:2
+###Mugshot:10
+Wow, what a large meteor!!
+###--------
+###Mugshot:10
+I wonder what'd happen if
+it hit the Earth?
+###--------
+###Mugshot:10
+Man, that's scary when
+you think about it.
+###--------
+###Script:3
+###Mugshot:11
+I knew it... The length... Hmm...
+*mumble mumble*
+###--------
+###Script:10
+###Mugshot:6
+###--------
+###Mugshot:6
+Pluto itself didn't blow up
+or anything when it stopped
+being a planet.
+###--------
+###Mugshot:6
+Try looking for it next time!
+###--------
+###Script:11
+###Mugshot:7
+I want to work at NAZA
+someday.
+###--------
+###Mugshot:7
+But I have to get better
+at what I do first.
+###--------
+###Script:12
+###Mugshot:10
+###--------
+###Mugshot:10
+A meteor might bring alien
+plant or animal life to Earth!
+Isn't that amazing!?
+###--------
+###Script:13
+###Mugshot:11
+If I increase the length...
+*mumble mumble*
+###--------
+###Mugshot:11
+At any rate... in space...
+*mumble mumble*
+###--------
+###Script:30
+###Mugshot:7
+###--------
+###Mugshot:7
+Each piece of machinery has
+its own quirk, and a good
+engineer can sense them.
+###--------
+###Script:31
+###Mugshot:10
+###--------
+###Mugshot:10
+Hey...
+Long ago, there weren't
+any Transers, right?
+###--------
+###Mugshot:10
+I wonder how people lived
+without them?
+###--------
+###Mugshot:10
+Please tell me if you know!
+###--------
+###Script:32
+###Mugshot:11
+Hmm...
+###--------
+###Mugshot:11
+Hmmmm......
+###--------
+###Mugshot:11
+I'm so close... I know I've
+got the right idea.
+###--------
+###Script:35
+###Mugshot:7
+When you're as good as me,
+you can just tell.
+###--------
+###Mugshot:7
+This rocket, for example,
+is well-tempered.
+###--------
+###Script:36
+###Mugshot:10
+Huh? You went to
+Dream Island?
+###--------
+###Mugshot:10
+I wanna go too!
+Take me next time, OK?
+###--------

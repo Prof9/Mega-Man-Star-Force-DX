@@ -1,0 +1,28 @@
+﻿###TextArchive:mess_1139
+###Script:50
+###Mugshot:SpeedNavi
+Darn it. I need to get to
+the other side...
+###--------
+###Mugshot:SpeedNavi
+But the roads here look
+so complicated.
+###--------
+###Mugshot:SpeedNavi
+Ah, what should I do?
+###--------
+###Script:51
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+I made it all the way here
+alright, but the roads are
+so complicated.
+###--------
+###Mugshot:SpeedNavi
+I don't know how to
+get back.
+###--------
+###Mugshot:SpeedNavi
+Ah, what should I do now?
+###--------

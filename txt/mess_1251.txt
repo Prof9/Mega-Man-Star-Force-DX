@@ -1,0 +1,13 @@
+###TextArchive:mess_1251
+###Script:0
+White
+###--------
+###Script:1
+Yellow
+###--------
+###Script:2
+Blue
+###--------
+###Script:3
+Red
+###--------

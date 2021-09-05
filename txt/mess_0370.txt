@@ -1,0 +1,87 @@
+﻿###TextArchive:mess_0370
+###Script:0
+Meanwhile on Earth...
+###--------
+###Script:1
+###Mugshot:Luna
+Yes, we got to Vista Point.
+###--------
+###Script:2
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+The module Geo is riding
+in has drastically deviated
+from its course.
+###--------
+###Mugshot:AaronBoreal
+We have no way to find
+it from here.
+###--------
+###Mugshot:AaronBoreal
+But because you are
+Brothers, if you send
+out a signal,
+###--------
+###Mugshot:AaronBoreal
+Geo might receive it
+out in space!
+###--------
+###Script:3
+###Mugshot:Pat
+But I didn't become a
+Brother with him yet...
+###--------
+###Mugshot:Pat
+Do you think I can
+still reach him?
+###--------
+###Script:4
+###Mugshot:AaronBoreal
+A Brother Band is
+something that connects
+two people's hearts
+###--------
+###Mugshot:AaronBoreal
+no matter where they are!
+###--------
+###Mugshot:AaronBoreal
+If your wish to find him
+is strong enough,
+I'm sure it'll reach Geo!
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+Alright, now.
+###--------
+###Mugshot:AaronBoreal
+Everyone lift your
+Transer to the sky!!
+###--------
+###Script:5
+###Mugshot:Sonia
+Please, I hope this
+finds Geo!
+###--------
+###Script:6
+###Mugshot:Luna
+And I told him to come
+straight home!
+###--------
+###Mugshot:Luna
+Hurry and come back to us!
+###--------
+###Script:7
+###Mugshot:Bud
+Geo, come back!!
+###--------
+###Script:8
+###Mugshot:Zack
+Please, Geo!
+Come back safe and sound!!
+###--------
+###Script:9
+###Mugshot:Pat
+We're waiting for you, Geo!!
+###--------

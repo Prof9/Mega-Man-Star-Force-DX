@@ -1,0 +1,161 @@
+﻿###TextArchive:mess_0529
+###Script:0
+###Mugshot:0
+There's nothing special over
+there.
+###--------
+###Script:1
+###Mugshot:0
+They're still having class...
+###--------
+###Script:2
+###Mugshot:0
+No good! I'll be seen if I
+go any further!
+###--------
+###Script:4
+###Mugshot:0
+I'll say a word to Mr. Shepar
+before I go...
+###--------
+###Script:10
+###Mugshot:Girl
+Oh, hello. Did you need me
+for something?
+###--------
+###Mugshot:Girl
+...What? Am I having trouble
+with a student?
+###--------
+###Mugshot:Girl
+Yes, that's right.
+His name is Lei.
+###--------
+###Mugshot:Girl
+He's always late, and never
+does his work.
+###--------
+###Mugshot:Girl
+It is my duty as a
+senior member of the
+student council
+###--------
+###Mugshot:Girl
+to give him a stern
+talking to...
+###--------
+###Mugshot:Girl
+Rats! He got away again.
+###--------
+###Mugshot:Girl
+Where in the world could
+he be?
+###--------
+###Mugshot:Girl
+I think he took off towards
+the Gym...
+###--------
+###Mugshot:Girl
+Would you go find him for me?
+###--------
+###Script:11
+###Mugshot:Girl
+The student I'm worried
+about's name is Lei.
+###--------
+###Mugshot:Girl
+It is my duty as a
+senior member of the
+student council
+###--------
+###Mugshot:Girl
+to give him a stern
+talking to...
+###--------
+###Mugshot:Girl
+I think he took off towards
+the Gym...
+###--------
+###Mugshot:Girl
+Would you go find him for me?
+###--------
+###Script:12
+###Mugshot:Girl
+You found Lei?
+###--------
+###Mugshot:Girl
+...What?
+He told you to "buzz off"!?
+###--------
+###Mugshot:Girl
+That's unacceptable!
+###--------
+###Mugshot:Girl
+...What else did he say?
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+What? He said to tell me that
+I'll never find a husband!?
+Why that little...!
+###--------
+###Mugshot:Girl
+What does he know anyway!?
+###--------
+###Mugshot:Girl
+Lei is...
+###--------
+###Mugshot:Girl
+......
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+...Huh?
+My face is all red?
+###--------
+###Mugshot:Girl
+I-It's just your imagination!
+###--------
+###Mugshot:Girl
+I-I'm going to go deal with
+him myself now!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=139
+###--------
+###Mugshot:Girl
+A husband, huh?
+###--------
+###Script:13
+###Mugshot:Girl
+A husband, huh?
+###--------
+###Script:20
+###Mugshot:0
+###--------
+###Mugshot:0
+I have to hurry and get
+to class or I'll be late.
+###--------
+###Script:21
+###Mugshot:0
+###--------
+###Mugshot:0
+I have to go back to my
+classroom and get ready
+to go home.
+###--------
+###Script:22
+###Mugshot:0
+I have to go to the Studio.
+###--------
+###Script:100
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Don't you have someplace to
+be besides the Wave World?
+###--------

@@ -1,0 +1,33 @@
+﻿###TextArchive:mess_0615
+###Script:0
+An old drum can.
+###--------
+The color is a rusted
+orange in places.
+###--------
+###Script:1
+###--------
+This old iron tower looks
+like it could fall down at
+any time.
+###--------
+###Script:3
+This backhoe has a powerful
+arm to move garbage.
+###--------
+###Script:5
+###Mugshot:0
+The backhoe, it moved...
+###--------
+###Mugshot:0
+Press SELECT to put
+the card in and maybe...!!
+###--------
+###Script:6
+###Mugshot:0
+Looks like the backhoe
+moves...
+###--------
+###Mugshot:0
+...Alright!!
+###--------

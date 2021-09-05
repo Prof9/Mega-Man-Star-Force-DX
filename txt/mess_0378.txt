@@ -1,0 +1,205 @@
+﻿###TextArchive:mess_0378
+###Script:50
+###Mugshot:PegasusMagic
+Well done.
+You have become quite
+skillful, chosen one.
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+To you I bestow a
+fragment of my power.
+###--------
+###Script:51
+###Mugshot:PegasusMagic
+Splendid.
+I see that your strength
+is true, chosen one.
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+To you I bestow a
+fragment of my power.
+###--------
+###Script:52
+###Mugshot:PegasusMagic
+Excellent.
+You have passed all
+the tests, chosen one.
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+To you I bestow a
+fragment of my power.
+###--------
+###Script:60
+###Mugshot:MegaMan
+What is this...?
+###--------
+###Script:61
+###Mugshot:MegaMan
+This is...
+###--------
+###Script:62
+###Mugshot:MegaMan
+This is...
+###--------
+###Script:70
+Mega Man got:
+"PegaFldr"!!<waitOWVar>
+###Command:waitOWVar variable=1 value=5
+###--------
+###Script:80
+###Mugshot:PegasusMagic
+This folder contains the
+essence of my power.
+###--------
+###Mugshot:PegasusMagic
+You may find it useful in
+the battles to come.
+###--------
+###Mugshot:MegaMan
+The battles to come...?
+There's more?
+###--------
+###Mugshot:PegasusMagic
+Indeed. I am not the
+only one who wishes to
+do battle with you.
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+Return here with another
+power in hand, and the
+next admin shall face you.
+###--------
+###Script:81
+###Mugshot:PegasusMagic
+This folder contains the
+essence of my power.
+###--------
+###Mugshot:PegasusMagic
+Use it however you see fit.
+###--------
+###Mugshot:PegasusMagic
+One more admin remains.
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+Return here with the final
+power in hand, and the
+last test shall begin.
+###--------
+###Script:82
+###Mugshot:PegasusMagic
+You who now holds
+our power,
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+use it to kindle the six
+stars and conquer the
+truly lonely evil giant.
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Six stars...?
+...Truly evil giant...?
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+Chosen one, even now...
+we will continue to watch
+over you.
+###--------
+###Script:90
+###Mugshot:MegaMan
+He's gone!
+###--------
+###Mugshot:OmegaXis
+Heh, so the other admins
+want a fight too, huh?
+###--------
+###Mugshot:OmegaXis
+But what did he mean by
+"another power in hand"?
+###--------
+###Mugshot:OmegaXis
+Guess we should figure it
+out and come back here.
+###--------
+###Mugshot:MegaMan
+Alright.
+We'll definitely pass
+those tests!
+###--------
+###Script:91
+###Mugshot:MegaMan
+There he goes.
+###--------
+###Mugshot:OmegaXis
+We just gotta beat one
+more admin.
+###--------
+###Mugshot:OmegaXis
+Should be a piece
+of cake for us!
+###--------
+###Mugshot:MegaMan
+Yeah!
+Let's do it!
+###--------
+###Script:92
+###Mugshot:MegaMan
+He's gone.
+###--------
+###Mugshot:OmegaXis
+Heh, and he left us
+with some gibberish.
+###--------
+###Mugshot:MegaMan
+Six stars...
+and a truly evil giant...
+###--------
+###Mugshot:MegaMan
+What in the world is
+that all about?
+###--------
+###Mugshot:OmegaXis
+Hmph, somehow I just
+don't get it.
+###--------
+###Mugshot:OmegaXis
+But I'm sure we'll figure
+it out eventually.
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Yeah... Not much point in
+trying to figure it out
+right now, I guess.
+###--------
+###Mugshot:OmegaXis
+Besides, it looks like we
+passed all the tests,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+so let's go home and get
+some well deserved rest!
+###--------
+###Mugshot:MegaMan
+I'm with you on that one!
+###--------

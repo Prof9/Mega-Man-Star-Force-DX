@@ -1,0 +1,60 @@
+﻿###TextArchive:mess_1145
+###Script:0
+###Mugshot:TruckNavi
+Move! Move!
+###--------
+###Mugshot:TruckNavi
+So many things to deliver!
+So little time!!
+###--------
+###Mugshot:TruckNavi
+So move it!
+###--------
+###Script:1
+###Mugshot:InfoNavi
+After I look at this,
+I have to research it,
+and then... Oh!
+###--------
+###Mugshot:InfoNavi
+Before that, I have that
+to take care of.!!
+###--------
+###Mugshot:InfoNavi
+Today's another
+busy, busy day!
+###--------
+###Script:2
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+IT'S SO BUSY HERE,
+UNLIKE THE COUNTRYSIDE.
+###--------
+###Mugshot:MrHertz
+SO BUSY THAT EVEN I'M
+GETTING DIZZY!
+*BEEP*
+###--------
+###Script:20
+###Mugshot:TruckNavi
+I can't believe...
+it's come to this...
+###--------
+###Mugshot:TruckNavi
+What... should I do...?
+###--------
+###Script:21
+###Mugshot:InfoNavi
+This... This is...
+###--------
+###Mugshot:InfoNavi
+The end of... the world...
+###--------
+###Script:22
+###Mugshot:MrHertz
+H...E...L...P...
+*BEEP*
+HELP... ME...
+###--------

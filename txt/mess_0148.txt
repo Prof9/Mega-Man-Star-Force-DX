@@ -1,0 +1,141 @@
+﻿###TextArchive:mess_0148
+###Script:0
+###Mugshot:2
+So this is the lab's
+front foyer.
+###--------
+###Script:1
+###Mugshot:2
+Over there is the
+Science Museum.
+###--------
+###Mugshot:2
+It's where various exhibits
+are displayed.
+###--------
+###Script:2
+###Mugshot:2
+And this over here leads
+to the staff area.
+###--------
+###Mugshot:2
+...Hmm?
+###--------
+###Script:3
+###Mugshot:2
+He is my assistant.
+###--------
+###Mugshot:2
+You met him yesterday,
+didn't you, Geo?
+###--------
+###Mugshot:2
+Heeeeeey!!
+###--------
+###Script:4
+###Mugshot:2
+Over here!!
+###--------
+###Script:5
+###Mugshot:2
+I'll introduce him to everyone.
+###--------
+###Mugshot:2
+This is my assistant,
+Mr. Tom Dubius.
+###--------
+###Mugshot:2
+Hey, Tom.
+###--------
+###Mugshot:2
+Are you OK?
+You look a little pale.
+###--------
+###Script:6
+###Mugshot:3
+U-Uh, yes...
+###--------
+###Script:7
+###Mugshot:2
+You look like you worked
+until real late last night.
+###--------
+###Mugshot:2
+You've got to watch out
+for your health!
+###--------
+###Mugshot:3
+Y-You don't need to
+worry about me.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Oh? Alright.
+Let's continue then.
+###--------
+###Script:8
+###Mugshot:2
+Today is a very special day.
+###--------
+###Script:9
+###Mugshot:2
+I'm letting you guys take
+a look around for free!
+###--------
+###Mugshot:2
+So go on and have fun
+in the museum!
+###--------
+###Script:10
+###Mugshot:5
+Yay!
+###--------
+###Script:11
+###Mugshot:6
+What luck!
+###--------
+###Script:12
+###Mugshot:4
+Thank you so very much!
+###--------
+###Script:13
+###Mugshot:2
+I think you guys will enjoy
+a lot of what you see.
+###--------
+###Mugshot:2
+Oh, and one more thing.
+###--------
+###Mugshot:2
+I'll show you all my personal
+lab later, too. You'll get
+to see something no one
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+has ever seen before!
+It's my latest project!
+###--------
+###Script:14
+###Mugshot:3
+......
+###--------
+###Script:15
+###Mugshot:3
+(He's going to show them
+his latest project?)
+###--------
+###Mugshot:3
+(My FlapPack is in
+that room too...)
+###--------
+###Mugshot:3
+(Would he...?)
+###--------
+###Script:16
+Geo got:
+"<printItem>"!!
+###Command:printItem item=11
+###--------

@@ -1,0 +1,121 @@
+﻿###TextArchive:mess_0041
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Girl
+I'm like totally into email
+and stuff. Are you?
+###--------
+###Script:3
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+Duh! Like as if email isn't
+the best thing ever!
+###--------
+###Script:4
+###Mugshot:Girl
+My email like won't go through!
+###--------
+###Mugshot:Girl
+This is like the worst
+situation I've ever been in.
+###--------
+###Mugshot:OmegaXis
+...Yo.
+###--------
+###Mugshot:MegaMan
+Hm?
+###--------
+###Mugshot:OmegaXis
+Why does she talk like that?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It's some kind of dialect
+that was popular about
+200 years ago.
+###--------
+###Mugshot:OmegaXis
+I dunno whether that
+makes me want to say
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+humans' level of language
+ability is high or low.
+###--------
+###Mugshot:OmegaXis
+But I think she said
+something's wrong
+with her mail...
+###--------
+###Mugshot:MegaMan
+You've got me there...
+###--------
+###Mugshot:MegaMan
+Anyways, should we help
+her with her situation?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's like go down
+and talk to her.
+###--------
+###Mugshot:MegaMan
+...Yeah, OK.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Let her sort out her
+own issues.
+###--------
+###Script:6
+###Mugshot:Girl
+My email like won't go through!
+###--------
+###Mugshot:Girl
+This is like the worst
+situation I've ever been in.
+###--------
+###Script:7
+###Mugshot:Girl
+I'm so sure!
+Like is my mail really
+back working again?
+###--------
+###Mugshot:Girl
+That's like way cool
+to the max!
+###--------
+###Mugshot:OmegaXis
+I dunno whether that
+makes me want to say
+###--------
+###Mugshot:OmegaXis
+humans' level of language
+ability is high or low.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

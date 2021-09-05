@@ -1,0 +1,44 @@
+﻿###TextArchive:mess_0546
+###Script:0
+###Mugshot:LittleGirl
+Let's see...
+today's classes are...
+###--------
+###Mugshot:LittleGirl
+math and English and...
+###--------
+###Mugshot:LittleGirl
+...and what were the other
+ones?
+###--------
+###Script:5
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Maaaaan... Why can't I
+remember math formulas?
+###--------
+###Mugshot:LittleGirl
+Is it 'cause I don't have
+the knack for it!?
+###--------
+###Script:100
+###Mugshot:11
+###--------
+###Mugshot:11
+Oh!
+My next class is science!
+###--------
+###Mugshot:11
+I have to get my
+experiment data ready!
+###--------
+###Script:101
+###Mugshot:11
+I have to get my teaching
+data all set up......
+###--------
+###Mugshot:11
+I'm sure we'll use it in
+math class today.
+###--------

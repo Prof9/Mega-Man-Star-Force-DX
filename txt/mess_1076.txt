@@ -1,0 +1,82 @@
+﻿###TextArchive:mess_1076
+###Script:10
+###Mugshot:MegaMan
+A wave ball!
+OK, let's go take care of it!
+###--------
+###Mugshot:MegaMan
+Hah!
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Looks like we got them all
+in this area.
+###--------
+###Script:50
+###Mugshot:FighterNavi
+Hup, 2, 3, 4...
+I'm on patrol!
+###--------
+###Mugshot:FighterNavi
+I'm keeping all suspicious
+people and waves
+out, out, OUT!
+###--------
+###Mugshot:FighterNavi
+Gotta keep a sharp
+lookout, you know!
+###--------
+###Script:70
+###Mugshot:FighterNavi
+Hey! What's going on?
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+I can't believe this is
+happening! I was keeping
+an extra-sharp lookout!
+###--------
+###Script:90
+###Mugshot:FighterNavi
+Man, I don't know what
+happened that time,
+###--------
+###Mugshot:FighterNavi
+but I've got to focus and
+think about my patrol!
+###--------
+###Script:150
+###Mugshot:TruckNavi
+Hey, Bluey! I've got some
+good deals here!
+###--------
+###Mugshot:TruckNavi
+This is a limited time offer,
+you know!
+###--------
+###Mugshot:TruckNavi
+All these super-cheap
+souvenirs can be yours!
+###--------
+###Script:151
+###Mugshot:FighterNavi
+*sigh*...
+###--------
+###Mugshot:FighterNavi
+Ah...
+###--------
+###Mugshot:FighterNavi
+...
+###--------
+###Mugshot:FighterNavi
+...Hmm?
+###--------
+###Mugshot:FighterNavi
+I'm gazing at that wonderful
+receptionist.
+###--------
+###Mugshot:FighterNavi
+*sigh* Long hair really
+suits her, doesn't it?
+###--------

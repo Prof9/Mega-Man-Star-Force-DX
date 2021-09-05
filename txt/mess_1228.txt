@@ -1,0 +1,246 @@
+﻿###TextArchive:mess_1228
+###Script:2
+<optionButtonSmall><optionButtonSmall>First question
+First question
+First question
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Correct"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Wrong"
+###--------
+###Script:3
+<optionButtonSmall><optionButtonSmall>Second question
+Second question
+Second question
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Correct"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Wrong"
+###--------
+###Script:5
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="4"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="0"
+###--------
+###Mugshot:QuizSheet
+1 + 3 = ?
+###--------
+###Script:6
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="9"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="10"
+###--------
+###Mugshot:QuizSheet
+5 + 5 = ?
+###--------
+###Script:7
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="6"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="7"
+###--------
+###Mugshot:QuizSheet
+10 [-] 3 = ?
+###--------
+###Script:8
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="14"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="0"
+###--------
+###Mugshot:QuizSheet
+7 + 7 = ?
+###--------
+###Script:9
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="4"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="2"
+###--------
+###Mugshot:QuizSheet
+2 + 1 [-] 1 = ?
+###--------
+###Script:10
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="7"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="1"
+###--------
+###Mugshot:QuizSheet
+6 + 1 = ?
+###--------
+###Script:11
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="4"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="8"
+###--------
+###Mugshot:QuizSheet
+7 [-] 3 = ?
+###--------
+###Script:12
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="6"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="5"
+###--------
+###Mugshot:QuizSheet
+1 + 1 + 1 + 1 + 1 = ?
+###--------
+###Script:13
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Hello"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Good-bye"
+###--------
+###Mugshot:QuizSheet
+What do you say when
+you greet someone?
+###--------
+###Script:14
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="1493"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="1492"
+###--------
+###Mugshot:QuizSheet
+In ____, Columbus sailed
+the ocean blue.
+###--------
+###Script:15
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Dinner"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Lunch"
+###--------
+###Mugshot:QuizSheet
+What do you eat at night?
+###--------
+###Script:16
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Safe"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Out"
+###--------
+###Mugshot:QuizSheet
+Three strikes and
+you're ____?
+###--------
+###Script:17
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yellow"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Green"
+###--------
+###Mugshot:QuizSheet
+What color is the sun?
+###--------
+###Script:18
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Nice"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Bad"
+###--------
+###Mugshot:QuizSheet
+What is the opposite
+of "good"?
+###--------
+###Script:19
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="GRAET"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="GREAT"
+###--------
+###Mugshot:QuizSheet
+Read this backwards:
+"TAERG"
+###--------
+###Script:20
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="SFORCE"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="SFORSE"
+###--------
+###Mugshot:QuizSheet
+"SAFAOARACAE"
+Take out all the A's
+and you get?
+###--------
+###Script:21
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Toadpole"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Tadpole"
+###--------
+###Mugshot:QuizSheet
+What's a baby frog called?
+###--------
+###Script:22
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Water"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Trees"
+###--------
+###Mugshot:QuizSheet
+Fish live in...?
+###--------
+###Script:23
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="The sun"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="The moon"
+###--------
+###Mugshot:QuizSheet
+What's up during the day
+but not at night?
+###--------
+###Script:24
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Leaves"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Roots"
+###--------
+###Mugshot:QuizSheet
+From where does a plant
+absorb water?
+###--------
+###Script:25
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="6"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="4"
+###--------
+###Mugshot:QuizSheet
+How many legs does a
+beetle have?
+###--------
+###Script:26
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="2"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="4"
+###--------
+###Mugshot:QuizSheet
+How many wing pieces
+does a butterfly have?
+###--------
+###Mugshot:QuizSheet
+
+###--------
+###Script:27
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Reptile"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Mammal"
+###--------
+###Mugshot:QuizSheet
+What is a snake?
+###--------
+###Script:28
+###Mugshot:QuizSheet
+<optionButtonSmall><optionButtonSmall>
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="6"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="4"
+###--------
+###Mugshot:QuizSheet
+How many legs does an
+ant have?
+###--------

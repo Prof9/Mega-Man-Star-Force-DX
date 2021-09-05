@@ -1,0 +1,132 @@
+﻿###TextArchive:mess_0487
+###Script:0
+###Mugshot:4
+Hmm...
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+I think I've run out of cards
+to put into the trader.
+Now what should I do?
+###--------
+###Script:5
+###Mugshot:4
+I bought more cards to put
+into the trader.
+###--------
+###Mugshot:4
+I'm not going to run out
+of cards now!
+###--------
+###Script:10
+###Mugshot:4
+###--------
+###Mugshot:4
+Even if the world blows up,
+I'm gonna keep trying to get
+cards from the trader!!
+###--------
+###Script:20
+###Mugshot:2
+Dude!
+How'd you get back here!?
+###--------
+###Script:21
+###Mugshot:2
+Dude!
+How'd you get back here!?
+###--------
+###Mugshot:2
+Huh?
+"Tropical Tea"?
+###--------
+###Mugshot:2
+Oh! You want that!?
+###--------
+###Mugshot:2
+A single sip whisks you
+away to a tropical paradise.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+It's happiness in liquid form,
+sparkling like the sun on
+the ocean waves.
+###--------
+###Mugshot:2
+That's the tea you're
+looking for, right?
+###--------
+###Mugshot:2
+What? I don't have any
+in the store?
+###--------
+###Mugshot:2
+Well, I'm all out today,
+but I've some of my own.
+###--------
+###Mugshot:2
+Huh? You want me to
+give you my stash?
+###--------
+###Mugshot:2
+Aw, come on, dude!
+I was gonna save it
+for tonight.
+###--------
+###Mugshot:2
+...You're giving it as a
+present to an old man?
+###--------
+###Mugshot:2
+Oh, alright.
+I'll cut you a deal, man.
+###--------
+###Mugshot:2
+3000 Zennys.
+How about it?
+###--------
+###Script:22
+###Mugshot:2
+I'll sell you my Tropical Tea
+for 3000 Zennys.
+###--------
+###Script:23
+###Mugshot:2
+No problem, dude.
+Maybe later?
+###--------
+###Script:24
+###Mugshot:2
+Sorry, but you don't
+have moola, man.
+###--------
+###Script:25
+###Mugshot:2
+Sorry, dude, but can you
+not be back here?
+###--------
+###Script:26
+<positionOptionFromCenter><optionText>  Buy  <optionText>  Don't
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+OK, enjoy the tea!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=59
+###--------
+###Mugshot:2
+Enjoy that tea!
+###--------
+###Mugshot:2
+...And how did you get back
+here anyway...?
+###--------
+###Mugshot:2
+Heh, whatever...
+###--------

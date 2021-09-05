@@ -1,0 +1,68 @@
+﻿###TextArchive:mess_0133
+###Script:0
+###Mugshot:0
+School, huh...
+###--------
+###Script:1
+*BEEP, BEEP, BEEP*<wait>
+
+###Command:wait frames=46
+###--------
+*BEEP, BEEP, BEEP*<wait>
+###Command:wait frames=46
+###--------
+###Script:2
+###Mugshot:0
+Mail?
+###--------
+###Mugshot:0
+I wonder who it's from...?
+###--------
+###Mugshot:0
+.<waitSkip>.<waitSkip>.<waitSkip>Ugh.
+It's from the "Prez".
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Hi, Geo!
+It's your Class President,
+Luna Platz.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I didn't like your attitude,
+but I can forgive you,
+if you come to school!
+###--------
+###Mugshot:2
+We have some Brother Band
+homework today.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I've attached a new version
+of the Brother Band
+program we use in class,
+###--------
+###Mugshot:2
+so make sure you do
+your homework!
+###--------
+###Mugshot:2
+Oh, and one more thing<waitSkip>.<waitSkip>.<waitSkip>.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:2
+COME TO SCHOOL!
+###--------
+NOW INITIALIZING
+PERSONAL PAGE EDITOR...
+###--------

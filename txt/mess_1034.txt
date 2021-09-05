@@ -1,0 +1,36 @@
+﻿###TextArchive:mess_1034
+###Script:0
+###Mugshot:MrHertz
+THAT MR. COPPER MAN WAS
+TALKING ABOUT Z WAVES
+OR SOME OTHER THING
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+JUST NOW. BUT I WANT TO
+ASSURE YOU I'M A NORMAL
+WAVE... *BEEP BEEP*
+###--------
+###Script:10
+###Mugshot:MrHertz
+A LOT OF PEOPLE HAVE
+BEEN COMING BY LATELY...
+###--------
+###Script:20
+###Mugshot:MrHertz
+*BEEP BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+I DON'T KNOW WHAT KIND
+OF WAVE IT IS,
+###--------
+###Mugshot:MrHertz
+BUT A REALLY STRONG
+WAVE CAME IN FROM
+OUTSIDE.
+###--------
+###Mugshot:MrHertz
+WE SHOULD PROBABLY
+LEAVE IT ALONE. *BEEP*
+###--------

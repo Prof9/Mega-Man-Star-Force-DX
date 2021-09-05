@@ -1,0 +1,20 @@
+﻿###TextArchive:mess_0307
+###Script:0
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I-It's terrible!
+Everyone's...
+###--------
+###Script:1
+###Mugshot:Luna
+I never liked you guys!!
+###--------
+###Script:2
+###Mugshot:Bud
+Me neither!
+###--------
+###Script:3
+###Mugshot:Zack
+That's right!
+###--------

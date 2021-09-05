@@ -1,0 +1,2868 @@
+﻿###TextArchive:mess_0095
+###Script:0
+This week, we studied
+about Transers.
+###--------
+Transers are the mobile
+terminals everyone wears
+on their arms.
+###--------
+They have a variety of
+functions, such as email
+and phone.
+###--------
+###--------
+They also store your
+Personal Page and other
+info.
+###--------
+By pushing SELECT, you can
+switch between the different
+screens of your Transer
+###--------
+###--------
+###--------
+to display such things as
+your Personal Card, Brother
+Card, and Navi Cards.
+###--------
+If your Transer is
+displaying a Navi Card,
+###--------
+it means that Navi is
+currently in your Transer.
+###--------
+If you swipe a Navi Card
+through your Transer, you will
+activate an incredible power.
+###--------
+###--------
+###--------
+Navis are your indispensable
+friends, so talk to them once
+in a while with the L Button!
+###--------
+Lastly, all Transers are
+registered to 1 of 3
+Satellites up in outer space:
+###--------
+###--------
+###--------
+Pegasus, Leo, or Dragon.
+Thanks to these Satellites,
+###--------
+Transers on the same
+Satellite can communicate
+with each other.
+###--------
+Also, the very symbol
+of our modern age,
+###--------
+the Brother Band, is made
+possible thanks to them.
+###--------
+###Script:1
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Hi, Geo!
+It's your Class President,
+Luna Platz.
+###--------
+###Mugshot:Luna
+This is a review of what
+we just did for homework.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+The Brother Band is a system
+that connects two friends
+through EM waves.
+###--------
+###Mugshot:Luna
+Once you become Brothers
+with someone, you can
+send email and data,
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+and look at each other's
+Personal Pages wherever
+you may happen to be!
+###--------
+###Mugshot:Luna
+A Personal Page is where
+things like your profile
+###--------
+###Mugshot:Luna
+and favorite Battle
+Cards are shown.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+If you're going to form any
+Brother Bands, you're going
+to need a Personal Page.
+###--------
+###Mugshot:Luna
+Now, here's what is
+actually on your Page.
+###--------
+###Mugshot:Luna
+First off, your Face
+Icon, Name, and Level.
+###--------
+###Mugshot:Luna
+Under that, your battle
+data is displayed.
+###--------
+###Mugshot:Luna
+The Favorites box displays
+the 6 cards you've selected
+to be your favorite ones.
+###--------
+###Mugshot:Luna
+Cards you have marked
+as Favorites can be
+used by your Brothers,
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+so make sure you
+pick strong ones!
+###--------
+###Mugshot:Luna
+Let's see...<wait>
+Best Combo...
+###Command:wait frames=16
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I don't actually know much
+about that... But we don't
+need it right now anyway.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Link Abilities are powers you
+and your Brother give to
+each other as a boost!
+###--------
+###Mugshot:Luna
+Lastly, messages and
+secrets!
+###--------
+###Mugshot:Luna
+Messages are notes to
+your Brothers.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+You can write about what
+you did recently, brag,
+or whatever you'd like!
+###--------
+###Mugshot:Luna
+Secrets are just that:
+things you can't tell a
+stranger,
+###--------
+###Mugshot:Luna
+but you can tell to
+your Brothers!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+When you become Brothers
+with someone, they can see
+your secret. So be honest!
+###--------
+###Mugshot:Luna
+That's it for
+Personal Pages!
+By the way...
+###--------
+###Mugshot:Luna
+If you have Real friends and
+you want to form a Brother
+Band bond with them,
+###--------
+###Mugshot:Luna
+you can only become
+Real Brothers with 3
+people at first.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+But... if, one day, you
+achieve some thing great,
+###--------
+###Mugshot:Luna
+the number of Brothers
+you can have will grow!
+###--------
+###Mugshot:Luna
+Well, see you at school!
+###--------
+###Script:2
+Hello. This is a message
+from NAZA.
+###--------
+Currently, there are
+invaders approaching
+Earth from outer space.
+###--------
+###--------
+We are conducting an
+investigation,
+###--------
+and we strongly urge
+citizens to be on the alert.
+###--------
+###Script:3
+Recently, there has been
+a rash of red items
+###--------
+being broken all throughout
+Echo Ridge.
+###--------
+These incidents have been
+occurring late at night.
+###--------
+###--------
+People living in the vicinity
+should not go out at
+night unless necessary.
+###--------
+###Script:4
+###Mugshot:KenSuther
+Hey, all you fine surfers
+of Echo Ridge!
+###--------
+###Mugshot:KenSuther
+My card shop, BIG WAVE,
+is now open!
+###--------
+###Mugshot:KenSuther
+I've got all the most
+gnarly cards!
+###--------
+###Mugshot:KenSuther
+You won't find any wash-ups!
+I mean it!
+###--------
+###Mugshot:KenSuther
+So if you're into ridin'
+the waves, then ride on
+into my card shop!
+###--------
+###Mugshot:KenSuther
+Cowabunga!
+###--------
+###Script:5
+###Mugshot:PegasusMagicShadow
+I will review how to use
+the Pegasus Star Force.
+###--------
+###Mugshot:PegasusMagicShadow
+If you choose the Star
+Force card you put into
+your folder from the
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Custom Screen, you will
+instantly be changed into
+Ice Pegasus Mega Man.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+If you have a Brother
+who is registered on the
+Pegasus Satellite,
+###--------
+###Mugshot:PegasusMagicShadow
+you can choose their
+Brother Card to use
+the Star Force too.
+###--------
+###Mugshot:PegasusMagicShadow
+As Ice Pegasus Mega Man,
+you will possess incredible
+speed and be able to
+###--------
+###Mugshot:PegasusMagicShadow
+move around panels faster.
+Moreover, cards will auto-
+matically lock on to enemies,
+###--------
+###Mugshot:PegasusMagicShadow
+and you will be invisible
+for a brief moment when
+using Mega Attacks.
+###--------
+###Mugshot:PegasusMagicShadow
+The Charged Shot will change
+to Ice Slash, an Aqua attack
+that freezes enemies solid.
+###--------
+###Mugshot:PegasusMagicShadow
+But if you are hit by an
+Elec attack, you will revert
+back into Mega Man.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+One more thing. Normally,
+when a Counter is performed,
+a Bonus Card will appear.
+###--------
+###Mugshot:PegasusMagicShadow
+However, while you
+are transformed,
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+it will change into a
+Star Force Big Bang,
+or SFB.
+###--------
+###Mugshot:PegasusMagicShadow
+Ice Pegasus' SFB
+is Magician's Freeze!
+It is an attack where
+###--------
+###Mugshot:PegasusMagicShadow
+a giant magic circle
+shoots large spikes of
+ice up into your foes.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Use the Pegasus Star Force
+well, and it will help you
+protect those you love.
+###--------
+###Script:6
+###Mugshot:LeoKingdomShadow
+I will review how to use
+the Leo Star Force.
+###--------
+###Mugshot:LeoKingdomShadow
+If you choose the Star
+Force card you put into
+your folder from the
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Custom Screen, you will
+instantly be changed into
+Fire Leo Mega Man.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+If you have a Brother
+who is registered on the
+Leo Satellite,
+###--------
+###Mugshot:LeoKingdomShadow
+you can choose their
+Brother Card to use
+the Star Force too.
+###--------
+###Mugshot:LeoKingdomShadow
+As Fire Leo Mega Man,
+you will possess
+devastating firepower.
+###--------
+###Mugshot:LeoKingdomShadow
+While you are in this
+form, the Mega Buster's
+Attack Power is doubled!
+###--------
+###Mugshot:LeoKingdomShadow
+The Charged Shot will change
+to Flame Burner, a Fire
+attack with immense power.
+###--------
+###Mugshot:LeoKingdomShadow
+Moreover, both the Mega
+Buster and Charged Shot
+will break through shields!
+###--------
+###Mugshot:LeoKingdomShadow
+However, if you are hit
+by an Aqua attack, you will
+revert back into Mega Man.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Fire Leo's SFB
+is Atomic Blazer!
+###--------
+###Mugshot:LeoKingdomShadow
+It is an awesome
+attack of fiery fury
+upon your foes!
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Use the Leo Star Force
+well, and it will help you
+protect those you love.
+###--------
+###Script:7
+###Mugshot:DragonSkyShadow
+I will review how to use
+the Dragon Star Force.
+###--------
+###Mugshot:DragonSkyShadow
+If you choose the Star
+Force card you put into
+your folder from the
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Custom Screen, you will
+instantly be changed into
+Green Dragon Mega Man.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+If you have a Brother
+who is registered on the
+Dragon Satellite,
+###--------
+###Mugshot:DragonSkyShadow
+you can choose their
+Brother Card to use
+the Star Force too.
+###--------
+###Mugshot:DragonSkyShadow
+As Green Dragon Mega Man,
+you will possess
+formidable defenses.
+###--------
+###Mugshot:DragonSkyShadow
+Blocking an enemy's attack
+with your shield will cause
+you to recover some HPs.
+###--------
+###Mugshot:DragonSkyShadow
+With good timing, you will
+also be able to deliver
+###--------
+###Mugshot:DragonSkyShadow
+an unstoppable counter-
+attack with a Battle Card
+or Charged Shot!
+###--------
+###Mugshot:DragonSkyShadow
+Moreover, status conditions
+such as paralysis or blind
+will have no effect on you.
+###--------
+###Mugshot:DragonSkyShadow
+The Charged Shot will change
+to Woody Shot, a Wood rapid-
+fire attack with wide range.
+###--------
+###Mugshot:DragonSkyShadow
+Be careful. If you are hit
+by a Fire attack, you will
+revert back into Mega Man.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Green Dragon's SFB
+is Elemental Cyclone!
+It is an attack where
+###--------
+###Mugshot:DragonSkyShadow
+I personally create a
+large cyclone to blow
+your foes away!
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Use the Dragon Star Force
+well, and it will help you
+protect those you love.
+###--------
+###Script:8
+###Mugshot:Sonia
+Thank you so much for
+all you did for me!
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I feel like I've become just a
+little stronger since becoming
+Brothers with you, Geo!
+###--------
+###Mugshot:Sonia
+You try your best to
+become stronger too, OK?
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I'm writing a new song now.
+When I'm done, you'll be the
+first to hear it! I promise!
+###--------
+###Script:9
+###Mugshot:Sonia
+I heard from Lyra that
+another FM-ian showed
+up in Echo Ridge!
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Are you OK?
+I hope you're doing alright...
+###--------
+###Script:10
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+It's too bad our shopping trip
+was interrupted like that,
+but there's always next time!
+###--------
+###Mugshot:Sonia
+And maybe someplace
+a little quieter...
+###--------
+###Script:11
+###Mugshot:Luna
+I've got a bad feeling
+about this, so be careful!
+###--------
+###Mugshot:Luna
+Don't make a Brother
+worry, you hear!?
+###--------
+###Script:12
+###Mugshot:AaronBoreal
+I have something I
+would like to tell you.
+###--------
+###Mugshot:AaronBoreal
+Can you come to my
+lab right away?
+###--------
+###Script:13
+Hello, all you stargazers
+out there!
+###++++++++
+Today, we're bringing you
+the latest and greatest
+AMAKEN news!
+###++++++++
+Recently, our radio tower
+picked up a strange signal...
+###++++++++
+Unfortunately, upon closer
+examination, we found
+###++++++++
+that the source of the
+disturbance was coming
+from inside the tower.
+###++++++++
+The problem was quickly
+fixed, and our search of
+the cosmos continues.
+###++++++++
+...But still, what could have
+caused those odd waves?
+###++++++++
+That's all for this issue.
+Until next time, keep your
+eyes glued to the sky!
+###--------
+###Script:14
+###Mugshot:Luna
+I won't be able to lecture
+you if you don't get back
+safe and sound, so...
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+...be careful, OK?
+###--------
+###Script:15
+###Mugshot:Bud
+Hang tough, man!
+###--------
+###Mugshot:Bud
+I believe in you!
+You can save the Earth!
+###--------
+###Mugshot:Bud
+So go get 'em, Brother!!
+###--------
+###Script:16
+###Mugshot:Zack
+Please give it your all, Geo.
+###--------
+###Mugshot:Zack
+Remember, I'll be
+cheering for you!
+###--------
+###Script:17
+###Mugshot:PegasusMagicShadow
+Geo. You used the
+Star Force well to
+save your friend.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+I now bestow yet another
+power you can use to
+protect this planet with.
+###--------
+###Mugshot:PegasusMagicShadow
+The name of this power
+is the Best Combo!
+###--------
+###Mugshot:PegasusMagicShadow
+If you are able to
+create a combo of 3
+or more cards which
+###--------
+###Mugshot:PegasusMagicShadow
+cause more than 300
+points of damage during
+1 turn of a battle
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+with an EX or SP enemy,
+that combo will become
+a Best Combo.
+###--------
+###Mugshot:PegasusMagicShadow
+However, Mega and Giga
+Class cards do not count,
+###++++++++
+###Mugshot:PegasusMagicShadow
+and neither do cards
+which have been enhanced
+with Star Power.
+###--------
+###Mugshot:PegasusMagicShadow
+Best Combos are just that;
+a good combo of cards.
+###--------
+###Mugshot:PegasusMagicShadow
+You can store up
+to 7 Best Combos.
+###--------
+###Mugshot:PegasusMagicShadow
+You can choose 1 of
+them to be your
+Personal Best Combo.
+###--------
+###Mugshot:PegasusMagicShadow
+If both you and a Real
+Brother are On Air
+at the same time,
+###--------
+###Mugshot:PegasusMagicShadow
+and they use your
+Brother Card, it won't
+be a card roulette,
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+but your Personal Best
+Combo will appear instead!
+###--------
+###Mugshot:PegasusMagicShadow
+Also, there is a person who
+can change Best Combos into
+Battle Cards, I have heard...
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+If you would like to use your
+Best Combos, I suggest
+you seek this person out.
+###--------
+###Mugshot:PegasusMagicShadow
+Remember, you and
+your Brothers' powers
+can increase,
+###--------
+###Mugshot:PegasusMagicShadow
+but only if you help
+each other.
+###--------
+###Script:18
+###Mugshot:LeoKingdomShadow
+Geo and Omega-Xis.
+A great calamity is
+upon this planet.
+###--------
+###Mugshot:LeoKingdomShadow
+As you have formed
+a Brother Band on
+the Leo Satellite,
+###--------
+###Mugshot:LeoKingdomShadow
+I can now grant you a
+fragment of my power.
+###--------
+###Mugshot:LeoKingdomShadow
+This will surely help you
+in the battles to come.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Come to the AMAKEN
+rooftop Wave Road
+once you are prepared.
+###--------
+###Script:19
+###Mugshot:DragonSkyShadow
+Geo Stelar...
+###--------
+###Mugshot:DragonSkyShadow
+It appears that you
+have formed yet
+another Brother Band.
+###--------
+###Mugshot:DragonSkyShadow
+Allow me to test how
+much you have grown.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+I will be waiting for you
+at the AMAKEN rooftop
+Wave Road.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+So this is what you
+Earthlings call e-mail.
+###--------
+###Mugshot:OmegaXis
+It's a pretty nice and
+useful system.
+###--------
+###Mugshot:OmegaXis
+I am so bored since
+you went to bed, Geo.
+###--------
+###Mugshot:OmegaXis
+Figured I'd keep myself
+entertained writing.
+###--------
+###Mugshot:OmegaXis
+Actually, I forgot to tell
+you a few things during
+today's battle, so I'll
+###--------
+###Mugshot:OmegaXis
+send that to you too.
+Oh, and you can use
+e-mail as a way
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+to leave notes for
+yourself too.
+Useful, huh?
+###--------
+###Mugshot:OmegaXis
+Anyway, you don't have
+to read everything now.
+###--------
+###Mugshot:OmegaXis
+You can read all of
+my e-mails in your
+spare time.
+###--------
+###Mugshot:OmegaXis
+I'm gonna send you the
+rest of my e-mails now.
+###--------
+###Script:21
+###Mugshot:OmegaXis
+The first thing you'll see
+when you encounter an
+enemy is the Custom
+###--------
+###Mugshot:OmegaXis
+Screen. On the bottom
+screen, 6 of the 30
+Battle Cards you put
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+into your folder will
+be shown.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+But you can't pick just any
+cards you want. Got rules
+for that kind of stuff.
+###--------
+###Mugshot:OmegaXis
+First, cards in the same
+row or column can be picked
+together. Next, cards
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+that are the same can be
+picked together regardless
+of where they are.
+###--------
+###Mugshot:OmegaXis
+The exception are
+white cards,
+###--------
+###Mugshot:OmegaXis
+which can be paired with
+any card anywhere on
+the screen.
+###--------
+###Mugshot:OmegaXis
+White cards are kind of
+rare, but if you set a
+card as a Favorite,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+then it'll turn into a
+white one in battle.
+###--------
+###Mugshot:OmegaXis
+Let's see...
+What else...?
+###--------
+###Mugshot:OmegaXis
+Use the L Button to
+run away, and
+###--------
+###Mugshot:OmegaXis
+the R Button or
+X Button to see
+card descriptions.
+###--------
+###Mugshot:OmegaXis
+That about wraps up
+the Custom Screen.
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Let's go over how
+to battle next.
+###--------
+###Mugshot:OmegaXis
+You can move left
+and right using the
++Control Pad,
+###--------
+###Mugshot:OmegaXis
+and use a card by
+pressing the A Button.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Holding down the B Button
+will fire the Mega Buster,
+a rapid-fire attack.
+###--------
+###Mugshot:OmegaXis
+And this is the thing
+I forgot to say.
+###--------
+###Mugshot:OmegaXis
+Not pressing the
+B Button for a while
+will let the Mega Buster
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+charge up. Once it does,
+fire with the B Button
+for a Charged Shot!
+###--------
+###Mugshot:OmegaXis
+Speaking of charging,
+once the Custom Gauge fills,
+###--------
+###Mugshot:OmegaXis
+press the L Button or
+R Button to see the
+Custom Screen.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you can remember
+this much, you should
+be OK for battle, kid.
+###--------
+###Mugshot:OmegaXis
+By the way, you can
+change the properties
+of the Mega Buster's
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+attacks by finding various
+weapons I can equip.
+###--------
+###Mugshot:OmegaXis
+You can see and change
+these items
+###--------
+###Mugshot:OmegaXis
+by picking Mega Screen
+from the Menu Screen.
+###--------
+###Mugshot:OmegaXis
+If you ever find any
+items, check them out
+there!
+###--------
+###Script:23
+###Mugshot:OmegaXis
+Oh, I forgot one more
+thing about battling.
+###--------
+###Mugshot:OmegaXis
+Press the Y Button
+to put up a shield.
+###--------
+###Mugshot:OmegaXis
+You can use the shield
+to block attacks.
+###--------
+###Mugshot:OmegaXis
+The enemies you're
+facing now are nothing,
+###--------
+###Mugshot:OmegaXis
+but there'll be attacks
+you can't dodge by just
+moving left or right.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That's when you're gonna
+have to use the shield
+to guard.
+###--------
+###Mugshot:OmegaXis
+But you can't block
+everything, you know.
+###--------
+###Mugshot:OmegaXis
+You can't block an
+enemy's bodily attack,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and some attacks can
+break through your shield,
+so be careful.
+###--------
+###Script:24
+###Mugshot:OmegaXis
+Do you remember the
+Mega Attack? When you
+have the cards you can
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+use, press Down on
+the +Control Pad and I'll
+switch into lock-on mode.
+###--------
+###Mugshot:OmegaXis
+When I'm in that mode,
+a sight will be shown
+###--------
+###Mugshot:OmegaXis
+on any enemies in front
+of or diagonal to us.
+###--------
+###Mugshot:OmegaXis
+If you use a card when
+a sight is on,
+###--------
+###Mugshot:OmegaXis
+we'll rush right up to
+the enemy for an attack!
+###--------
+###Mugshot:OmegaXis
+But keep in mind that
+some cards, such as
+recovery cards, and
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+cards that dim the
+screen cannot be used
+with lock-on mode.
+###--------
+###Mugshot:OmegaXis
+Oh, and if you don't
+like the camera changing
+on you when you do
+###--------
+###Mugshot:OmegaXis
+a Mega Attack, you
+can turn the camera
+on or off
+###--------
+###Mugshot:OmegaXis
+by pressing START
+during a battle.
+###--------
+###Mugshot:OmegaXis
+Remember, kid.
+You don't have to use
+the Mega Attack in
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+every fight you're in,
+but your battles will
+be cooler if you do.
+###--------
+###Script:25
+###Mugshot:OmegaXis
+Last, we've got countering
+and Bonus Cards.
+###--------
+###Mugshot:OmegaXis
+If you land a card attack
+on an enemy just as
+they're about to attack,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+that's a Counter.
+That'll catch them off-guard
+and they will be stunned.
+###--------
+###Mugshot:OmegaXis
+Also, you'll get 1 Bonus
+Card at that time.
+###--------
+###Mugshot:OmegaXis
+Usually, you can only
+use cards you chose on
+the Custom Screen,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+but if you land a Counter,
+then you'll get an extra
+card you can use.
+###--------
+###Mugshot:OmegaXis
+Bonus Cards are picked from
+your Card Folder at random,
+###--------
+###Mugshot:OmegaXis
+but they're nice because you
+don't have to wait for the
+Custom Gauge to fill up
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+before kicking some
+virus butt!
+###--------
+###Mugshot:OmegaXis
+So, here's something else
+I forgot to say.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Counters can only be per-
+formed with attack cards
+that don't dim the screen.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Also, you won't get another
+Bonus Card if you pull off a
+Counter with a Bonus Card.
+###--------
+###Mugshot:OmegaXis
+So it's not like you can
+get an unlimited chain of
+cards.
+###++++++++
+###Mugshot:OmegaXis
+Additionally, on the
+Mega Screen, you can
+see which enemies
+###++++++++
+###Mugshot:OmegaXis
+you've performed a Counter
+on in the EM Database.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Timing a Counter is tough,
+but it'd be real cool if you
+can pull them off.
+###--------
+###Mugshot:OmegaXis
+Practice a little and
+give it a try!
+###--------
+###Script:26
+You have collected 150
+of the S fragments.
+###--------
+We bestow this unto you...
+###--------
+###--------
+Geo got:
+"<printCard>", "<printCard>"
+and "<printCard>"!!
+###Command:printCard card=232
+###Command:printCard card=237
+###Command:printCard card=242
+###--------
+###Script:27
+###Mugshot:OmegaXis
+Guess it's a good time to
+tell you about Star Cards.
+###--------
+###Mugshot:OmegaXis
+When particularly strong
+viruses get hold of a
+Battle Card,
+###--------
+###Mugshot:OmegaXis
+it'll sometimes change
+into a Star Card.
+###--------
+###Mugshot:OmegaXis
+Each Star Card has a
+special Star Power effect.
+###--------
+###Mugshot:OmegaXis
+If you use a Star Power
+in battle, the card will
+get powered up,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+along with all the other
+cards in the Custom Screen
+that have the same name!
+###--------
+###Mugshot:OmegaXis
+You can place up to 5
+Star Cards in the Folder,
+###++++++++
+###Mugshot:OmegaXis
+and there can be multiple
+copies of the same card.
+###--------
+###Mugshot:OmegaXis
+But you can only use one
+Star Power per turn,
+###--------
+###Mugshot:OmegaXis
+and each Star Power
+can only be used once
+per battle.
+###--------
+###Mugshot:OmegaXis
+Think about how many to
+bring and when to use 'em.
+###--------
+###Mugshot:OmegaXis
+Each of these Star Cards
+has a different effect,
+and you can pull off some
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+fancy moves with them,
+so grab as many as
+you can, kid!
+###--------
+###Script:28
+###Mugshot:OmegaXis
+Okay, look. This might be
+kinda overdue... but better
+late than never, right!?
+###++++++++
+###Mugshot:OmegaXis
+So I'm gonna go ahead and
+explain Extra Folders.
+###++++++++
+###Mugshot:OmegaXis
+No doubt you've seen the
+"XtraFldr" in the Battle
+Card Screen before.
+###++++++++
+###Mugshot:OmegaXis
+It's a special Folder that
+can't be edited.
+###++++++++
+###Mugshot:OmegaXis
+You can swap between any
+Extra Folders you've found
+with the "Change" option.
+###++++++++
+###Mugshot:OmegaXis
+Collecting cards is
+such a pain, you know?
+###++++++++
+###Mugshot:OmegaXis
+So with an Extra Folder,
+you can easily try out
+new strategies.
+###++++++++
+###Mugshot:OmegaXis
+Oh, and here's a hot tip
+from yours truly!
+###++++++++
+###Mugshot:OmegaXis
+Whenever you obtain
+an Extra Folder,
+###++++++++
+###Mugshot:OmegaXis
+all of its cards are
+registered in the
+Data Library.
+###++++++++
+###Mugshot:OmegaXis
+Might be a good way to
+get info on cards you
+couldn't get otherwise!
+###--------
+###Script:29
+I... I haven't lost yet...
+###--------
+E...Echo Ridge
+Wave... Road...
+Battle...
+###--------
+...Mrrrrgh...
+###--------
+###Script:30
+###Mugshot:OmegaXis
+I guess while I'm telling
+you about stuff, I should
+tell you about Cipher Mail!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Looks like it's a hidden
+system within the mail
+system where if you
+###--------
+###Mugshot:OmegaXis
+write a mail and set your
+Satellite as the recipient,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+write "Cipher" as the
+subject of your mail,
+###--------
+###Mugshot:OmegaXis
+and then enter a secret
+message in the body,
+something will happen...
+###--------
+###Mugshot:OmegaXis
+There don't seem to be
+too many of these secret
+messages or words, and
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+they're unusual enough
+that if you find an
+odd-looking word,
+###--------
+###Mugshot:OmegaXis
+you should try sending it
+in a Cipher Mail!
+###--------
+###Script:31
+###Mugshot:LegendaryMasterShin
+It's Legendary!
+###++++++++
+###Mugshot:LegendaryMasterShin
+You've fully completed
+Mega Man Star Force!
+###++++++++
+###Mugshot:LegendaryMasterShin
+I... I admit it!
+You're even more
+legendary than me!
+###++++++++
+###Mugshot:LegendaryMasterShin
+I'm sure tales of your
+legendary deeds have
+###++++++++
+###Mugshot:LegendaryMasterShin
+reached even the
+farthest Wave Roads
+of outer space...
+###++++++++
+###Mugshot:LegendaryMasterShin
+Come see me later!
+I'll be waiting on the
+AMAKEN rooftop!
+###++++++++
+###Mugshot:LegendaryMasterShin
+Keep it Legendary!
+###--------
+###Script:32
+###Mugshot:MrFamous
+Let me explain again
+how Power Up data
+works!
+###++++++++
+###Mugshot:MrFamous
+Power Up boosts your
+stats and abilities.
+###++++++++
+###Mugshot:MrFamous
+The more enemies you've
+landed a Counter on,
+the stronger you'll get!
+###++++++++
+###Mugshot:MrFamous
+You can manage your
+Power Up data on the third
+page of the Mega Screen.
+###++++++++
+###Mugshot:MrFamous
+When enabled, you will also
+start battles in a certain
+Star Force form,
+###++++++++
+###Mugshot:MrFamous
+even when you don't
+have a Brother on
+that Satellite!
+###++++++++
+###Mugshot:MrFamous
+And if, someday, you
+become connected to
+a different Satellite,
+###++++++++
+###Mugshot:MrFamous
+your Power Up data
+will keep its current
+Star Force form.
+###++++++++
+###Mugshot:MrFamous
+Come see me whenever
+you want to update
+your Power Up data;
+###++++++++
+###Mugshot:MrFamous
+I'll be at BIG WAVE
+as always. See you
+around!
+###--------
+###Script:33
+###Mugshot:MargraveRymer
+It looks like you've made
+a friend from the world
+of Lunar Knights...
+###++++++++
+###Mugshot:MargraveRymer
+With this, you'll be able
+to use the terrennials'
+power too.
+###++++++++
+###Mugshot:MargraveRymer
+Now that our worlds
+have been connected,
+###++++++++
+###Mugshot:MargraveRymer
+you may find special Battle
+Cards, as well as Sub Card
+items in Mystery Waves.
+###++++++++
+###Mugshot:MargraveRymer
+These Sub Card items
+cannot be used by yourself,
+###++++++++
+###Mugshot:MargraveRymer
+but perhaps they may
+be of some use to
+your Brother.
+###++++++++
+###Mugshot:MargraveRymer
+When you find such an item,
+you should try sending mail
+to your Brother.
+###++++++++
+###Mugshot:MargraveRymer
+As the ties between
+our worlds grow even
+more numerous,
+###++++++++
+###Mugshot:MargraveRymer
+these special items may
+appear more frequently,
+too.
+###++++++++
+###Mugshot:MargraveRymer
+Moreover... Have you
+played Lunar Knights
+yourself?
+###++++++++
+###Mugshot:MargraveRymer
+If you have, tell your
+Brother the secret
+password.
+###++++++++
+###Mugshot:MargraveRymer
+You might just be
+glad you did!
+###++++++++
+###Mugshot:MargraveRymer
+In the world of Lunar
+Knights, the terrennials are
+a force to be reckoned with.
+###++++++++
+###Mugshot:MargraveRymer
+Use their power wisely!
+###--------
+###Script:34
+###Mugshot:MrFamous
+Congratulations!!
+###++++++++
+###Mugshot:MrFamous
+You've defeated every
+last DX Boss...
+For real this time!
+###++++++++
+###Mugshot:MrFamous
+I always knew you could
+do it, Geo and Mega.
+###++++++++
+###Mugshot:MrFamous
+You know, you two
+remind me of a certain
+other pair of battlers
+###++++++++
+###Mugshot:MrFamous
+that I knew a long,
+long time ago...
+###++++++++
+###Mugshot:MrFamous
+I wonder how things
+might have turned out
+if you had met?
+###++++++++
+###Mugshot:MrFamous
+...Oh, never mind me!
+Just a bit of reminiscing
+about the past.
+###++++++++
+###Mugshot:MrFamous
+Well, it's not much, but
+I do have a little
+something extra for you.
+###++++++++
+###Mugshot:MrFamous
+You'll find it attached
+to this e-mail.
+###++++++++
+###Mugshot:MrFamous
+Oh, and be sure to
+drop by BIG WAVE
+later, too!
+###++++++++
+###Mugshot:MrFamous
+I also went and upgraded
+your DX Card when you
+weren't looking.
+###++++++++
+###Mugshot:MrFamous
+It's now sending out
+a stronger signal.
+###++++++++
+###Mugshot:MrFamous
+Who knows? It might even
+reach the farthest Wave
+Roads in outer space...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=89
+###--------
+You can enable the
+Color Change from
+Key Items.<wait>
+###Command:wait frames = 60
+###--------
+###Script:57
+###Mugshot:Woman
+There's a cute guy in
+Echo Ridge.
+###--------
+###Mugshot:Woman
+I think his name is Chase
+or something like that.
+###--------
+###Mugshot:Woman
+I wonder how old he is!
+###--------
+###Mugshot:Geo
+Place:
+Echo Ridge
+###--------
+###Script:58
+###Mugshot:Boy
+Aw, man!
+I can't believe there's
+a card I don't have.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+At this rate, my little
+brother will steal my title
+of Supreme Collector!
+###--------
+###Mugshot:Geo
+Place:
+Echo Ridge
+###--------
+###Script:59
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I keep seeing it...
+That blue, fluffy
+floating thing.
+###--------
+###Mugshot:LittleBoy
+I think it wants to take
+me to the netherworld.
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+W-W-What should I do?
+It's really giving me
+the creeps.
+###--------
+###Mugshot:Geo
+Place:
+Echo Ridge
+###--------
+###Script:60
+###Mugshot:OldMan
+Now I've done it.
+###--------
+###Mugshot:OldMan
+Boohoo...
+I lost the money...
+###--------
+###Mugshot:OldMan
+Boo hoo...
+That I was going to
+give to...
+###--------
+###Mugshot:OldMan
+Boo hoo...
+My grandson...
+###--------
+###Mugshot:OldMan
+Oh, honey...
+What should I do?
+###--------
+###Mugshot:Geo
+Place:
+Echo Ridge
+###--------
+###Script:61
+###Mugshot:Man
+I wonder if the kid with
+glasses I gave the RC to
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+is getting any good at it,
+and if my PropellerMan
+is helping.
+###--------
+###Mugshot:Geo
+Place:
+Echo Ridge
+###--------
+###Script:62
+###Mugshot:Boy
+O-Oh no...
+There's a card I don't have!?
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+At this rate my older
+brother will steal my title
+of Supreme Collector!!
+###--------
+###Mugshot:Geo
+Place:
+BIG WAVE
+###--------
+###Script:63
+###Mugshot:Girl
+My email like won't go through!
+###--------
+###Mugshot:Girl
+This is like the worst
+situation I've ever been in.
+###--------
+###Mugshot:Geo
+Place:
+AMAKEN Grounds
+###--------
+###Script:64
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I cannot understand these
+big-city ee'lekronik machines
+for the life of me.
+###--------
+###Mugshot:OldWoman
+How can I get on
+that Brother Band
+whatchamacallit?
+###--------
+###Mugshot:OldWoman
+Will I be able to make it
+all alone here?
+###--------
+###Mugshot:OldWoman
+I just want to go back
+to the country.
+###--------
+###Mugshot:Geo
+Place:
+AMAKEN Grounds
+###--------
+###Script:65
+###Mugshot:Worker
+Sumar is in quite a pinch.
+I know not why, yet
+there seems to be a
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+strange occurrence with
+this device. Someone
+please assist me!
+###--------
+###Mugshot:Geo
+Place:
+AMAKEN Grounds
+###--------
+###Script:66
+###Mugshot:Woman
+I don't know what to do.
+###--------
+###Mugshot:Woman
+The ticket machine isn't
+working, and I'm terrible
+with machines.
+###--------
+###Mugshot:Woman
+What am I going to do
+if someone complains?
+###--------
+###Mugshot:Geo
+Place:
+AMAKEN Foyer
+###--------
+###Script:67
+###Mugshot:Man
+Checkitout!
+You know I'm the Mann.
+###--------
+###Mugshot:Man
+But, lately there's this
+one girl that's got me
+buggin'!
+###--------
+###Mugshot:Man
+If I only knew a little
+bit more about her,
+###--------
+###Mugshot:Man
+maybe I could approach her
+and say how I feel...
+###--------
+###Mugshot:Man
+I'm just tryin' to keep
+it real, yo.
+###--------
+###Mugshot:Geo
+Place:
+AMAKEN Foyer
+###--------
+###Script:68
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Ohh...
+I'm sooo parched!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+But I'm fed up with the
+selection here in these
+vending machines...
+###--------
+###Mugshot:Geo
+Place:
+AMAKEN Foyer
+###--------
+###Script:69
+###Mugshot:LittleGirl
+I'm in a pickle! I got some
+homework about space
+that I don't understand!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I'm not really into space
+and stuff, you know.
+###--------
+###Mugshot:Geo
+Place:
+Science Museum
+###--------
+###Script:70
+###Mugshot:Man
+Lend me your ears
+Brothers!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Lately, I've been
+experiencing love troubles!
+Oooh, what should I do!?
+###--------
+###Mugshot:Geo
+Place:
+Science Museum
+###--------
+###Script:71
+###Mugshot:Worker
+Hey, I'm having a problem.
+The black hole generator,
+it's broken again.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I wish I could do
+something before I
+tell Mr. Boreal.
+###--------
+###Mugshot:Geo
+Place:
+Science Museum
+###--------
+###Script:72
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Lately, I've been getting
+the feeling that someone
+is watching me.
+###--------
+###Mugshot:Geo
+Place:
+SpaceSim
+###--------
+###Script:73
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Oh, dear... I have a delivery
+to make, but I can hardly
+move with this pain in my hip!
+###--------
+###Mugshot:Geo
+Place:
+School Foyer
+###--------
+###Script:74
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+I'm a senior member of the
+Echo Ridge Elementary
+Student Council,
+###--------
+###Mugshot:Girl
+and quite frankly, I'm
+having a problem with
+habitually tardy students.
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+There is a certain
+egregious offender
+in particular.
+###--------
+###Mugshot:Geo
+Place:
+School Foyer
+###--------
+###Script:75
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+A-hem!
+I am the Principal
+of Echo Elementary.
+###--------
+###Mugshot:Principal
+I am finishing the new
+school song.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+But I am having just a
+little trouble with a few
+of the lyrics.
+###--------
+###Mugshot:Geo
+Place:
+1F Hallway
+###--------
+###Script:76
+###Mugshot:Boy
+This school sure has a
+lot of light fixtures.
+###--------
+###Mugshot:Boy
+I'm trying to change all
+of the light bulbs,
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+but there's no way I
+can get all of them
+changed by myself.
+###--------
+###Mugshot:Boy
+Boy, am I in trouble.
+###--------
+###Mugshot:Geo
+Place:
+1F Hallway
+###--------
+###Script:77
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I really love playing
+with my RC, but there's
+one thing missing...
+###--------
+###Mugshot:LittleBoy
+Someone to play with.
+###--------
+###Mugshot:LittleBoy
+It's so hard to find a
+good RC flying partner!
+###--------
+###Mugshot:Geo
+Place:
+2F Hallway
+###--------
+###Script:78
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Ohh...
+I can't take it.
+###--------
+###Mugshot:Man
+Maybe I should just quit...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+How can I ever become
+a popular teacher like
+Mitch Shepar?
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+But there's no way I
+could even hold a
+candle to him.
+###--------
+###Mugshot:Geo
+Place:
+2F Hallway
+###--------
+###Script:79
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I love quizzes!
+I'm looking for someone
+to take my latest quiz!
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+The first person to
+answer all of my questions
+will win a fabulous prize!
+###--------
+###Mugshot:Geo
+Place:
+Class 1-A
+###--------
+###Script:80
+###Mugshot:Woman
+Brrr...
+It's c-cold.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+S-Something's wrong with
+the temperature c-control
+system in my classroom.
+###--------
+###Mugshot:Woman
+I don't want my darling
+students t-to catch cold!
+###--------
+###Mugshot:Woman
+S-Somebody please d-do
+something...
+###--------
+###Mugshot:Geo
+Place:
+Class 1-A
+###--------
+###Script:81
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Oh, no!
+Help me, Bros!
+###--------
+###Mugshot:LittleGirl
+I can't find it!
+###--------
+###Mugshot:LittleGirl
+How am I supposed to
+open that without it?
+###--------
+###Mugshot:LittleGirl
+I'm a complete bonehead!
+###--------
+###Mugshot:Geo
+Place:
+Class 1-B
+###--------
+###Script:82
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Yo! Lately I've been
+all wired up and
+can't get to sleep!
+###--------
+###Mugshot:LittleBoy
+At least that's what I'd
+like to tell you...
+###--------
+###Mugshot:LittleBoy
+but the truth is I can
+hardly stay awake.
+###--------
+###Mugshot:LittleBoy
+I hear some kind of lullaby
+music in my head...
+###--------
+###Mugshot:LittleBoy
+My eyes...are
+...getting heavy......
+###--------
+###Mugshot:LittleBoy
+Zzzzzzzzz
+###--------
+###Mugshot:Geo
+Place:
+Class 5-A
+###--------
+###Script:83
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+It's not that I'm a dirty
+person, but I am really
+bad at cleaning.
+###--------
+###Mugshot:LittleGirl
+No matter how hard I
+try, this room won't
+get clean!
+###--------
+###Mugshot:Geo
+Place:
+Class 5-B
+###--------
+###Script:84
+###Mugshot:LittleBoy
+Maan! This isn't how I
+normally pitch!
+###--------
+###Mugshot:LittleBoy
+At this rate, we'll lose the
+game for sure!
+###--------
+###Mugshot:LittleBoy
+Ohhh, what should I do?
+###--------
+###Mugshot:Geo
+Place:
+Gym
+###--------
+###Script:85
+###Mugshot:Boy
+Hello everyone!
+###--------
+###Mugshot:Boy
+Recently, there's been
+a lot of interference in
+our broadcast signal.
+###--------
+###Mugshot:Boy
+Anyone who notices
+something suspicious
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+should notify the school
+radio station right away.
+###--------
+###Mugshot:Geo
+Place:
+Studio
+###--------
+###Script:86
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Well this is just great...
+I can't get a signal
+on my cell phone!
+###--------
+###Mugshot:BusinessMan
+How am I supposed to get
+in touch with my clients?
+###--------
+###Mugshot:BusinessMan
+They will be expecting
+my call...
+###--------
+###Mugshot:BusinessMan
+It's over! I'm going to
+lose my job!
+###--------
+###Mugshot:BusinessMan
+Somebody help me!
+###--------
+###Mugshot:Geo
+Place:
+Time Square
+###--------
+###Script:87
+###Mugshot:Man
+I am such a worrywart.
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Lately I've been worried
+that my girlfriend is...
+you know, hiding something.
+###--------
+###Mugshot:Man
+I can't go on worrying
+like this.
+###--------
+###Mugshot:Geo
+Place:
+Time Square
+###--------
+###Script:88
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Now I've done it...
+What am I going to do?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I lost something my
+boyfriend gave me as
+a present... Boo-boo!
+###--------
+###Mugshot:Woman
+It has a lot of
+sentimental value to me!
+###--------
+###Mugshot:Woman
+What'll I do if I don't find it?
+Boo-hoo!!
+###--------
+###Mugshot:Geo
+Place:
+Time Square
+###--------
+###Script:89
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+I love quizzes!
+I'm looking for someone
+to take my latest quiz!
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+The first person to
+answer all of my questions
+will win a fabulous prize!
+###--------
+###Mugshot:Geo
+Place:
+Time Square
+###--------
+###Script:90
+###Mugshot:Woman
+I work at Nacys in
+Time Square.
+Please drop by.
+###--------
+###Mugshot:Woman
+I've been thinking
+about remodeling the
+front entrance,
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+but I'm having trouble
+deciding what kind of
+automatic doors to put in...
+###--------
+###Mugshot:Geo
+Place:
+Nacys 1F
+###--------
+###Script:91
+###Mugshot:OldWoman
+Oh, my!
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+This store is big. I might
+never be able to find my
+way around this place.
+###--------
+###Mugshot:Geo
+Place:
+Nacys 1F
+###--------
+###Script:92
+###Mugshot:BusinessMan
+Recently there have been
+sightings...
+###--------
+###Mugshot:BusinessMan
+You know, those blue
+fluffy inhabitants of
+the netherworld.
+###--------
+###Mugshot:BusinessMan
+They sometimes cross
+over to...
+###--------
+###Mugshot:BusinessMan
+Observe us!
+###--------
+###Mugshot:BusinessMan
+How c-creepy!
+Aaagh!
+###--------
+###Mugshot:Geo
+Place:
+Nacys 1F
+###--------
+###Script:93
+###Mugshot:OldMan
+Boy, I'm in a fix and I
+dunno what to do.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+My grandson's birthday is
+coming soon, and I have
+no idea what to get him...
+###--------
+###Mugshot:Geo
+Place:
+Nacys Roof
+###--------
+###Script:94
+###Mugshot:LittleBoy
+Man! I just can't win!
+###--------
+###Mugshot:LittleBoy
+I'm gonna keep trying
+till I beat this game!
+###--------
+###Mugshot:LittleBoy
+Because I'm gonna be
+a big-leaguer!
+###--------
+###Mugshot:Geo
+Place:
+Nacys Roof
+###--------
+###Script:95
+###Mugshot:LittleGirl
+Hey, what gives?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I'm a world-class gourmand...
+Yet apparently there's
+something I haven't tried.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+They say it's popular
+among sweets-lovers.
+Why haven't I tried it yet?
+###--------
+###Mugshot:Geo
+Place:
+Dream Island
+###--------
+###Script:96
+###Mugshot:OldWoman
+What a headache...
+###--------
+###Mugshot:OldWoman
+No matter what I try,
+I can't get this to work...
+###--------
+###Mugshot:OldWoman
+I wonder if it's got a
+virus or something.
+###--------
+###Mugshot:Geo
+Place:
+Dream Island
+###--------
+###Script:97
+###Mugshot:BusinessMan
+Quizzes are my favorite
+pastime!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+All comers are now welcome
+to challenge my latest and
+most difficult quiz yet.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+The first person to
+answer all of my questions
+will win a fabulous prize!
+###--------
+###Mugshot:Geo
+Place:
+Dream Island
+###--------
+###Script:98
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I love nature...
+But woe is me...
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+Cause someone who
+doesn't give a hoot
+left trash in the park...
+###--------
+###Mugshot:OldMan
+There's just too much for
+me to pick by myself.
+###--------
+###Mugshot:Geo
+Place:
+Dream Park
+###--------
+###Script:99
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Oh, no!
+This robot is acting
+up again!
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I'm good at working with my
+hands, but I'm hopeless when
+it comes to these robots!
+###--------
+###Mugshot:Worker
+Aww man, my supervisor's
+going to be mad!
+###--------
+###Mugshot:Geo
+Place:
+City Dump
+###--------
+###Script:100
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+Oh, dear...
+The fridge is acting funny.
+###--------
+###Mugshot:Hope
+If I don't get it fixed,
+all the food inside will
+go bad.
+###--------
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+At times like these,
+I wish you were here, Geo!
+###--------
+###Mugshot:Geo
+Place:
+Geo's Living Room
+###--------
+###Script:101
+###Mugshot:KenSuther
+BIG WAVE is like a
+state of mind that
+splashes your feelings
+###--------
+###Mugshot:KenSuther
+to create like the
+total non-bummer!
+###--------
+###Mugshot:KenSuther
+###--------
+###Mugshot:KenSuther
+Feel free to par-lay with me
+anytime about the big wave!
+Cowabunga, dude!
+###--------
+###Mugshot:Geo
+Place:
+BIG WAVE
+###--------
+###Script:102
+###Mugshot:Luna
+There are some cards I
+really need right now,
+###++++++++
+###Mugshot:Luna
+but I've no idea where
+to even begin looking.
+###++++++++
+###Mugshot:Luna
+I can't believe someone
+like me is having trouble
+finding recovery cards!
+###--------
+###Mugshot:Geo
+Place:
+Vista Point
+###--------
+###Script:103
+###Mugshot:Bud
+There's this legendary
+burger I've never been
+able to get my hands on...
+###++++++++
+###Mugshot:Bud
+Aaaargh, just thinking
+about it is enough to
+keep me up at night!!
+###--------
+###Mugshot:Geo
+Place:
+Vista Point
+###--------
+###Script:104
+###Mugshot:Zack
+All this time, Geo has been
+protecting us from danger
+during those incidents...
+###++++++++
+###Mugshot:Zack
+But I can't do anything
+to help him.
+###++++++++
+###Mugshot:Zack
+I'm just completely
+useless, aren't I?
+###--------
+###Mugshot:Geo
+Place:
+Vista Point
+###--------
+###Script:105
+###Mugshot:0
+Transer Event
+(Dummy Text)
+###--------
+###Script:106
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Baby!
+Money makes the
+world go 'round!
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Ever since Sonia left,
+I've been low on work
+and low on MONEY!
+###--------
+###Mugshot:ChrysGolds
+Can't somebody help me
+find a new STAR!?
+###--------
+###Mugshot:Geo
+Place:
+AMAKEN Grounds
+###--------
+###Script:107
+###Mugshot:0
+Transer Event
+(Dummy Text)
+###--------
+###Script:108
+###Mugshot:TomDubius
+Hah hah...
+###--------
+###Mugshot:TomDubius
+I'm going to upgrade
+my invention...
+###--------
+###Mugshot:TomDubius
+Hah hah...
+###--------
+###Mugshot:Geo
+Place:
+Science Museum
+###--------
+###Script:109
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Sometimes memories from
+the past come flooding
+back to me all at once.
+###--------
+###Mugshot:Pat
+......
+###--------
+###Mugshot:Geo
+Place:
+Boreal's Lab
+###--------
+###Script:110
+###Mugshot:MitchShepar
+Actually...
+I have a problem.
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+I made a promise to my
+kids that I can't keep!
+###--------
+###Mugshot:MitchShepar
+Ohh, I'm so sorry,
+my children!
+###--------
+###Mugshot:MitchShepar
+Brothers please, help me!
+###--------
+###Mugshot:Geo
+Place:
+Studio
+###--------
+###Script:111
+###Mugshot:BobCopper
+Investigation notes...
+###--------
+###Mugshot:BobCopper
+High Z wave levels
+confirmed in the vicinity,
+###--------
+###Mugshot:BobCopper
+however, no other actionable
+clues have been found.
+###--------
+###Mugshot:BobCopper
+An immediate investigation
+is necessary.
+###--------
+###Mugshot:Geo
+Place:
+Time Square
+###--------
+###Script:112
+###Mugshot:VeilPlatz
+Ever since that incident,
+I've understood the
+importance of family.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I know that I should try
+to do more for Luna,
+###--------
+###Mugshot:VeilPlatz
+but I never was really
+good at... you know...
+Oh, I need help.
+###--------
+###Mugshot:Geo
+Place:
+Nacys 1F
+###--------
+###Script:113
+###Mugshot:VaughnPlatz
+Ever since that incident,
+I've understood the
+importance of family.
+###--------
+###Mugshot:VaughnPlatz
+But I just don't ever
+have any time.
+###--------
+###Mugshot:VaughnPlatz
+I wish it weren't
+always like this.
+I'm sorry, Luna.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+We'll spend time together
+after I take care of this.
+###--------
+###Mugshot:Geo
+Place:
+Nacys Roof
+###--------
+###Script:114
+###Mugshot:ProfSnake
+Thisss is terrible!
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Sssome of my
+preciousss sssnakesss
+have esssscaped!
+###--------
+###Mugshot:Geo
+Place:
+Event Stage
+###--------
+###Script:115
+###Mugshot:0
+Transer Event
+(Dummy Text)
+###--------
+###Script:116
+###Mugshot:0
+Transer Event
+(Dummy Text)
+###--------
+###Script:117
+###Mugshot:Sonia
+There's this song I've
+been trying to write...
+###++++++++
+###Mugshot:Sonia
+But I just can't seem to
+find the right words.
+###++++++++
+###Mugshot:Sonia
+I just feel so uninspired...
+###--------
+###Mugshot:Geo
+Place:
+Scrapyard2
+###--------
+###Script:118
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+OK!
+Today I'll show Geo
+that thing!
+###--------
+###Mugshot:AaronBoreal
+Ha ha ha.
+I know he'll be surprised!
+###--------
+###Mugshot:Geo
+Place:
+Island Underground
+###--------
+###Script:119
+###Mugshot:LegendaryMasterShin
+It's Legendary!
+###--------
+###Mugshot:LegendaryMasterShin
+I've been watching you.
+###--------
+###Mugshot:LegendaryMasterShin
+I'm really moved by how you
+go into people's Transers
+and help those in need!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+So I'm going to
+give you this card!
+###--------
+###Mugshot:LegendaryMasterShin
+OK, keep it Legendary!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=DestrMissl
+###--------

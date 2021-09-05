@@ -1,0 +1,107 @@
+﻿###TextArchive:mess_0627
+###Script:0
+An electric generator...
+###--------
+It supplies this station
+with power.
+###--------
+###Script:1
+Power levels of each module
+are displayed here.
+###--------
+###Script:2
+###--------
+This system distributes power
+to each of the modules.
+###--------
+###Script:3
+###--------
+This space station gets its
+power to move from this
+generator.
+###--------
+###Script:6
+###--------
+This monitor displays
+information needed to
+operate the EVA robot.
+###--------
+###Script:8
+This control panel operates
+the EVA robot.
+###--------
+###Mugshot:0
+Good grief...
+It looks hard to operate...
+###--------
+###Mugshot:0
+EVA stands for
+Extra Vehicular Activity,
+right?
+###--------
+###Mugshot:0
+...If it can fly around
+outside, then...
+###--------
+###Script:9
+This control panel operates
+the EVA robot.
+###--------
+###Script:11
+This door is shut tight...
+###--------
+###Script:12
+###Mugshot:0
+...Hmm?
+There's a note.
+###--------
+###Mugshot:0
+"Kelvin, please repair the
+power supply lines."
+###--------
+###Mugshot:0
+"This door won't open
+unless the power
+malfunction is fixed."
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+"The EVA robot is on
+standby outside."
+###--------
+###Mugshot:0
+"Use the control panel to
+maneuver it. Thanks!
+-Steve"
+###--------
+###Mugshot:0
+This was written for
+my dad...
+###--------
+###Mugshot:0
+EVA robot? Outside repairs?
+Anyways...
+###--------
+###Mugshot:0
+Guess I'd better check out
+the control panel.
+###--------
+###Script:13
+There's a note on the door...
+###--------
+"Kelvin, please repair the
+power supply lines."
+###--------
+"This door won't open
+unless the power
+malfunction is fixed."
+###--------
+###--------
+"The EVA robot is on
+standby outside."
+###--------
+"Use the control panel to
+maneuver it. Thanks!
+-Steve"
+###--------

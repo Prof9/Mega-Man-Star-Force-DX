@@ -1,0 +1,203 @@
+﻿###TextArchive:mess_0435
+###Script:0
+Temp message
+###--------
+###Script:15
+###Mugshot:MegaMan
+Let's call it a day...
+###--------
+###Script:16
+###Mugshot:MegaMan
+Let's turn in early today...
+###--------
+###Script:17
+###Mugshot:MegaMan
+I've gotta get back to
+Time Square.
+###--------
+###Mugshot:MegaMan
+Sonia's there waiting.
+###--------
+###Script:18
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I can't just leave Sonia,
+I've gotta go back to
+Time Square.
+###--------
+###Script:50
+###Mugshot:MegaMan
+Guess I'll call it a day.
+###--------
+###Script:51
+###Mugshot:MegaMan
+I've gotta find out what
+that wave really is!
+###--------
+###Script:60
+###Mugshot:MegaMan
+I'd better pulse out.
+###--------
+###Script:61
+###Mugshot:MegaMan
+I should head for the
+AMAKEN rooftop Wave Road.
+###--------
+###Script:62
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've gotta get to
+Dream Island.
+I'd better pulse out.
+###--------
+###Script:63
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Let's go to the park.
+I have to pulse out.
+###--------
+###Script:64
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Let's follow Pat...
+I have to pulse out.
+###--------
+###Script:65
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Let's do as we were told
+and keep going.
+I'd better pulse out.
+###--------
+###Script:66
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+There's something at
+the City Dump...
+I'd better pulse out.
+###--------
+###Script:67
+###Mugshot:MegaMan
+I guess I should be
+getting home.
+###--------
+###Script:68
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I'd better find the guy
+controlling the SorterBot!
+###--------
+###Script:69
+###Mugshot:MegaMan
+I'd better pulse out.
+###--------
+###Script:70
+###Mugshot:MegaMan
+Let's go home.
+###--------
+###Script:71
+###Mugshot:MegaMan
+Guess I'll go home and get
+some sleep.
+###--------
+###Script:75
+###Mugshot:MegaMan
+Let's go to Time Square.
+###--------
+###Script:76
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've gotta follow Pat...
+Let's go inside the
+City Dump.
+###--------
+###Script:77
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've gotta think of a way
+to move this backhoe out
+of the way.
+###--------
+###Script:78
+###Mugshot:MegaMan
+Let's look for the
+ShovelMan card!
+###--------
+###Script:79
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've gotta give the ShovelMan
+card to that one guy.
+###--------
+###Script:80
+###Mugshot:MegaMan
+Let's move that backhoe
+out of the way.
+###--------
+###Script:81
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've gotta follow Pat...
+Let's go inside the
+City Dump.
+###--------
+###Script:82
+###Mugshot:MegaMan
+I bet I can take the
+Wave Road!
+###--------
+###Script:83
+###Mugshot:MegaMan
+I'd better pulse into the
+Scrap Comp!
+###--------
+###Script:84
+###Mugshot:MegaMan
+I'll restore the Scrap Comp!
+###--------
+###Script:85
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I bet I can keep going
+using the Wave Road
+on Dream Island!
+###--------
+###Script:86
+###Mugshot:MegaMan
+I'd better pulse into the
+Scrap Comp!
+###--------
+###Script:87
+###Mugshot:MegaMan
+I'll restore the Scrap Comp!
+###--------
+###Script:88
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I bet I can keep going
+using the Wave Road
+on Dream Island!
+###--------
+###Script:89
+###Mugshot:MegaMan
+Let's head for the
+Scrap Comp where Pat is.
+###--------
+###Script:90
+###Mugshot:MegaMan
+Let's head for the
+Scrap Comp where Pat is.
+###--------

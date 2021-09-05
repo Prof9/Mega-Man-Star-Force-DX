@@ -1,0 +1,83 @@
+﻿###TextArchive:mess_1104
+###Script:49
+###Mugshot:TruckNavi
+It's terrible! The kids are
+all stuck in a daze!
+###--------
+###Mugshot:TruckNavi
+OK, that's it!
+Fruit juice for all of you!
+###--------
+###Mugshot:TruckNavi
+We're gonna get you nice
+and healthy again!
+###--------
+###Script:50
+###Mugshot:TruckNavi
+Hey, outta the way!
+###--------
+###Mugshot:TruckNavi
+I'm the Delivery Navi that
+busses the menu data!
+###--------
+###Mugshot:TruckNavi
+Let's see...
+tomorrow's lunch is...
+###--------
+###Script:51
+###Mugshot:TruckNavi
+"Super Spicy Curry"!
+###--------
+###Mugshot:TruckNavi
+It's so hot, you'll wish you
+were eating a jalapeno
+pepper instead!
+###--------
+###Script:52
+###Mugshot:TruckNavi
+Hamburgers!
+###--------
+###Mugshot:TruckNavi
+Made fresh from Echo Ridge's
+very own cows!
+###--------
+###Script:53
+###Mugshot:TruckNavi
+Whole baked fish!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+There's tons of DHA in fish,
+so you'll be smart enough
+to pass anything!!
+###--------
+###Script:54
+###Mugshot:FighterNavi
+Just between you and me...
+###--------
+###Mugshot:FighterNavi
+That's not a real camera.
+It's a fake.
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+If something were to happen,
+the culprit would get off,
+scot-free!
+###--------
+###Script:55
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Oh no... Something bad's
+happening, huh?
+###--------
+###Mugshot:FighterNavi
+But this camera is a fake,
+so it's useless...
+###--------
+###Mugshot:FighterNavi
+Oh man...
+###--------

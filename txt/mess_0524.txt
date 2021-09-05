@@ -1,0 +1,189 @@
+﻿###TextArchive:mess_0524
+###Script:0
+###Mugshot:Woman
+Oh, you're Mr. Boreal's
+guest, aren't you?
+###--------
+###Mugshot:Woman
+Welcome to the SpaceSim!
+###--------
+###Script:1
+###Mugshot:0
+I shouldn't stray too far,
+or I'll get lost.
+###--------
+###Script:2
+###Mugshot:Woman
+Oh, my...
+A blackout...?
+###--------
+###Script:3
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+It looks like the power's
+back on, but there's
+hardly a difference...
+###--------
+###Script:10
+###Mugshot:Woman
+...Uh?
+Is something bothering me?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Why, yes!
+You're very perceptive!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+The truth is recently, I feel
+like someone's watching me...
+but only in the SpaceSim...
+###--------
+###Mugshot:Woman
+Could it be a stalker or
+someone like that?
+###--------
+###Script:11
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Lately I honestly feel like
+someone's watching me...
+but only in the SpaceSim...
+###--------
+###Mugshot:Woman
+Could it be a stalker or
+someone like that?
+###--------
+###Script:12
+###Mugshot:Woman
+What? You took care of
+that problem for me?
+###--------
+###Mugshot:Woman
+Really? So, what was it?
+###--------
+###Mugshot:Woman
+It's a secret?
+###--------
+###Mugshot:Woman
+I don't get it.
+But, that's OK.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Thank you very much!
+Here, take this!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=147
+###--------
+###Mugshot:Woman
+Now I can finally
+concentrate on work.
+###--------
+###Script:13
+###Mugshot:Woman
+Now I can finally
+concentrate on work.
+###--------
+###Script:50
+###Mugshot:9
+Hey, you can see me!?
+That's a surprise!!
+###--------
+###Mugshot:9
+Perhaps we were meant to
+run into each other like this.
+###--------
+###Mugshot:9
+See, I've got this very
+rare item. It's called a
+"<printItem>"!
+###Command:printItem item=19
+###--------
+###Mugshot:9
+###--------
+###Mugshot:9
+Now, normally, this baby'd
+cost you 50,000 Z's,
+###--------
+###Mugshot:9
+but today only, it's just
+2000 Zennys!
+So how about it?
+###--------
+<positionOptionFromCenter><optionText>  Buy  <optionText>  Don't
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:9
+Well, thanks anyway, buddy!
+###--------
+###Script:51
+###Mugshot:9
+Pleasure doing business
+with you!!
+###--------
+###Mugshot:9
+Here you go.
+###--------
+Geo got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printItem item=19
+###--------
+###Mugshot:9
+You won't be disappointed!
+###--------
+###Script:52
+###Mugshot:9
+Aww, looks like you don't
+have enough moola...
+###--------
+###Script:53
+###Mugshot:9
+Hey, if it isn't the boy
+who can see me!
+###--------
+###Mugshot:9
+Looks like fate brought us
+together again.
+###--------
+###Mugshot:9
+You see, I've got this very
+rare item. It's called a
+"<printItem>"!
+###Command:printItem item=19
+###--------
+###Mugshot:9
+###--------
+###Mugshot:9
+Now, normally, this baby'd
+cost you 100,000 Z's,
+###--------
+###Mugshot:9
+but today only, it's just
+2000 Zennys!
+So how about it?
+###--------
+<positionOptionFromCenter><optionText>  Buy  <optionText>  Don't
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:9
+Well, thanks anyway, buddy!
+###--------
+###Script:54
+###Mugshot:9
+Opportunities for business
+can arise anywhere.
+###--------

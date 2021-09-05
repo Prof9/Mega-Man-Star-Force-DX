@@ -1,0 +1,28 @@
+﻿###TextArchive:mess_0533
+###Script:10
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Making the rounds after
+school is my responsibility.
+###--------
+###Script:11
+###Mugshot:6
+###--------
+###Mugshot:6
+Today it's my turn to sweep
+the halls... I didn't have to
+do this at my old school...
+###--------
+###Script:20
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+I'm worried about the
+students... I hope they're
+all alright...
+###--------
+###Script:21
+###Mugshot:6
+I-I'm afraid...
+###--------

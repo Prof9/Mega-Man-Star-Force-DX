@@ -1,0 +1,65 @@
+﻿###TextArchive:mess_1258
+###Script:0
+###Mugshot:1
+The AMAKEN rooftop...
+This is the place.
+###--------
+<wait>
+###Command:wait frames=60
+###--------
+Geo Stelar and Omega-Xis...
+Or should I say Mega Man.
+###++++++++
+It is good of you to
+have come.
+###--------
+###Script:1
+###Mugshot:DragonSkyShadow
+There is no greater power
+than the will to protect
+those closest to you.
+###++++++++
+###Mugshot:DragonSkyShadow
+Brother Bands are the
+embodiment of that power.
+###++++++++
+###Mugshot:DragonSkyShadow
+You have formed a
+second Brother Band,
+###++++++++
+###Mugshot:DragonSkyShadow
+and in doing so, you
+have become linked to
+the Dragon Satellite.
+###++++++++
+###Mugshot:DragonSkyShadow
+As its admin, I am now able
+to grant you a new power
+to protect this planet.
+###++++++++
+###Mugshot:DragonSkyShadow
+...However...
+###--------
+###Script:2
+###Mugshot:DragonSkyShadow
+First, I will ascertain whether
+you are also ready to
+accept that power.
+###--------
+###Mugshot:OmegaXis
+So basically, you want
+us to beat you, right?
+###++++++++
+###Mugshot:OmegaXis
+Sounds like the pep talk
+is over. Get ready, Geo!
+###--------
+###Script:3
+###Mugshot:1
+Dragon Sky...
+I'll show you my strength!
+###++++++++
+###Mugshot:1
+Wave Battle!
+Ride On!!
+###--------

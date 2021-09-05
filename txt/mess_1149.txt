@@ -1,0 +1,28 @@
+﻿###TextArchive:mess_1149
+###Script:0
+###Mugshot:FighterNavi
+I'm supposed to be doing
+guard duty, but my eyes keep
+wandering to THAT person.
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Oh! I know! Could you let me
+guard your house instead?
+###--------
+###Script:20
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Ugh... Something is wrong...
+My body seems to be
+impaired.
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+...It might have something to
+do with whatever that thing is
+that's headed towards Earth...
+###--------

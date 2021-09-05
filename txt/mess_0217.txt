@@ -1,0 +1,285 @@
+﻿###TextArchive:mess_0217
+###Script:0
+###Mugshot:0
+I wonder what my
+classmates are like.
+###--------
+###Mugshot:0
+I really hope they aren't
+all like the Prez...
+###--------
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+I'm so nervous.
+###--------
+###Script:1
+###Mugshot:2
+Now, I have some good
+news for you, kids.
+###--------
+###Mugshot:2
+I'd like you all to meet
+your new classmate.
+###--------
+###Script:2
+###Mugshot:2
+Come on in!
+###--------
+###Script:3
+###Mugshot:2
+This is Geo Stelar.
+###--------
+###Mugshot:2
+He's coming back to school
+starting today.
+###--------
+###Mugshot:2
+I hope you all will make
+him feel welcome.
+###--------
+###Mugshot:2
+Well, Geo, why don't you
+say hi?
+###--------
+###Script:4
+###Mugshot:0
+Hi, I'm Geo Stelar.
+###--------
+###Mugshot:0
+Uh, um...
+###--------
+###Mugshot:0
+Nice to meet everyone.
+###--------
+###Script:5
+*clap clap clap*
+###--------
+###Script:6
+###Mugshot:11
+Yo-!
+###--------
+###Script:7
+###Mugshot:10
+Nice to meet ya!
+###--------
+###Script:8
+###Mugshot:0
+Y-Yeah...
+###--------
+###Script:9
+###Mugshot:4
+Mr. Shepaaaar!
+###--------
+###Script:10
+###Mugshot:2
+Yes, Luna?
+###--------
+###Script:11
+###Mugshot:4
+I have some news for
+everyone too.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+Geo is going to play a part
+in our play for the school
+event! Yes, that part!
+###--------
+###Script:12
+*whisper*
+*whisper*
+###--------
+###Script:13
+###Mugshot:11
+"That" part...
+###--------
+###Script:14
+###Mugshot:10
+You really think...?
+###--------
+###Mugshot:0
+(Is the part I'm playing
+really that important?)
+###--------
+###Script:15
+###Mugshot:2
+###--------
+###Mugshot:2
+Alright now, settle down. You
+can all talk about the play
+during afternoon practice.
+###--------
+###Mugshot:2
+Right now, we've gotta find
+Geo a seat...
+###--------
+###Script:16
+###Mugshot:2
+Why don't you go sit at
+that empty desk?
+###--------
+###Script:17
+###Mugshot:0
+Yes, sir.
+###--------
+###Script:18
+###Mugshot:3
+Hey, Geo.
+###--------
+###Script:19
+###Mugshot:0
+Oh, hey Pat.
+###--------
+###Script:20
+###Mugshot:3
+I'm glad to see you again.
+###--------
+###Script:21
+###Mugshot:0
+Y-Yeah, same here!
+###--------
+###Script:22
+###Mugshot:2
+...Now then.
+###--------
+###Script:23
+###Mugshot:2
+Let's start first period.
+###--------
+###Script:24
+###Mugshot:5
+###--------
+###Mugshot:5
+Mr. Shepar!
+Please tell us an
+interesting story first!
+###--------
+###Script:25
+###Mugshot:2
+Bud, Bud. Didn't I just
+spend a whole day telling
+you kids stories yesterday?
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Scary ones at that!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+But Geo's here today...
+So I guess I can make
+an exception!
+###--------
+###Mugshot:2
+Alright, close your books,
+everyone.
+###--------
+###Script:26
+###Mugshot:5
+Yaaaay!!
+###--------
+###Script:27
+###Mugshot:6
+Yes!!
+###--------
+###Script:28
+###Mugshot:0
+Huh? Close our books?
+###--------
+###Script:29
+###Mugshot:3
+Mr. Shepar's classes are
+different.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+We hardly ever use our
+books, and instead, he
+tells us interesting stories.
+###--------
+###Script:30
+###Mugshot:0
+Wow...
+###--------
+###Script:31
+###Mugshot:3
+###--------
+###Mugshot:3
+Mr. Shepar likes to say it's
+not good for kids to grow up
+only knowing how to study.
+###--------
+###Script:32
+###Mugshot:2
+OK, I'll tell you a story
+about Brother Bands.
+###--------
+###Mugshot:2
+You all know what a
+Brother Band is, right?
+###--------
+###Script:33
+###Mugshot:2
+...Or in other words,
+###--------
+###Script:34
+###Mugshot:2
+No matter how
+advanced we get,
+###--------
+###Mugshot:2
+we must never forget
+the importance of
+relationships.
+###--------
+###Mugshot:2
+And that's the hope the
+Brother Band represents.
+###--------
+###Script:35
+*ding dong
+      ding dong*
+###--------
+###Script:36
+###Mugshot:2
+Ah, good timing.
+###--------
+###Mugshot:2
+Well, that's the end
+of my story.
+###--------
+###Mugshot:2
+Now go have some fun
+on your break!
+###--------
+###Script:37
+###Mugshot:OmegaXis
+(So this is what a class
+is like. Interesting stuff...)
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(If I'd known it was this
+much fun, I'd have dragged
+you here earlier.
+###--------
+###Script:38
+###Mugshot:0
+(I never thought YOU'D
+find it interesting.)
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(Oh yeah...
+Guess I should say hi
+to all my classmates.)
+###--------

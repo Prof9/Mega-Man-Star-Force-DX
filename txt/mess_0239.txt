@@ -1,0 +1,308 @@
+﻿###TextArchive:mess_0239
+###Script:0
+###Mugshot:0
+Everything's all packed and
+I'm ready to go...
+###--------
+###Script:1
+Did you and Mr. Shepar
+finish already?
+###--------
+###Script:2
+###Mugshot:Luna
+So, what did he want to
+talk to you about?
+###--------
+###Script:3
+###Mugshot:0
+It's none of your business...
+###--------
+###Script:4
+###Mugshot:Luna
+Oh? Booooring.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+How do you expect to ever
+become friends if you keep
+on saying things like that?
+###--------
+###Script:5
+###Mugshot:0
+Friends?
+###--------
+###Script:6
+###Mugshot:Luna
+You still don't know how
+to make friends, do you?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+School's only half as fun
+when you don't have any
+friends.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Well, I guess I can let you
+join my group, since you
+look so pitiful all the time...
+###--------
+###Script:7
+###Mugshot:0
+Me, join your group?
+###--------
+###Script:8
+###Mugshot:Luna
+That's right!
+###--------
+###Mugshot:Luna
+I also told Bud and Zack
+to be nice to you!
+###--------
+###Mugshot:Luna
+So, aren't you happy!?
+###--------
+###Mugshot:Luna
+If you are, you should
+say something!!
+###--------
+###Script:9
+###Mugshot:0
+###--------
+###Mugshot:0
+...I'm happy, but I don't
+really know if I can be a
+good friend to anyone yet...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+So... I'm sorry.
+###--------
+###Script:10
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+H-Hmph!! Turning down my
+invitations is definitely NOT
+the way to becoming friends!
+###--------
+###Mugshot:Luna
+See if I ever invite you
+again!!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+If you want to re-think
+things, I suggest you do
+it now!
+###--------
+###Script:11
+*slam!!*
+###--------
+###Script:12
+###Mugshot:Luna
+You scared me, opening the
+door like that!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+And by the way, how
+are the Math problems
+coming along?
+###--------
+###Script:13
+###Mugshot:Bud
+.........
+###--------
+###Script:14
+###Mugshot:Zack
+.........
+###--------
+###Script:15
+###Mugshot:Luna
+I don't think you two can
+finish that quickly...
+###--------
+###Mugshot:Luna
+Are you slacking off!?
+###--------
+###Script:16
+###Mugshot:Bud
+.........
+###--------
+###Script:17
+###Mugshot:Zack
+.........
+###--------
+###Script:18
+###Mugshot:Luna
+Well, say something!
+###--------
+###Mugshot:Luna
+Am I right, so you're not
+going to say anything?
+###--------
+###Script:19
+###Mugshot:OmegaXis
+Tsk, they're an annoying
+bunch, aren't they?
+###--------
+###Script:20
+###Mugshot:0
+###--------
+###Mugshot:0
+You mean the Prez's
+goon squad? I don't even
+know where to begin...
+###--------
+###Script:21
+###Mugshot:OmegaXis
+No! That's not what I
+meant at all!
+###--------
+###Script:22
+###Mugshot:0
+Then what!?
+###--------
+###Script:23
+###Mugshot:Luna
+Aaaaah!!
+###--------
+###Script:24
+###Mugshot:Luna
+Wh-What are you doing!?
+###--------
+###Mugshot:Luna
+What's the meaning of this!?
+###--------
+###Script:25
+###Mugshot:Bud
+Jam-m-m-m...
+Mmmaaaaaaah!!
+###--------
+###Script:26
+###Mugshot:Zack
+Marmarmarmar!!
+###--------
+###Script:27
+###Mugshot:Luna
+Aaaaaaah!!
+###--------
+###Script:28
+JammmJammmm!!
+###--------
+###Script:29
+###Mugshot:Luna
+Eeeeek!!
+###--------
+###Script:30
+###Mugshot:Luna
+B-Bud and Zack turned into
+m-m-m-monsters!!
+###--------
+###Script:31
+###Mugshot:0
+Luna! Get back!
+Those two are imposters!!
+###--------
+Heh heh heh!!
+###--------
+You're in quite the dilemma,
+Geo Stelar!!
+###--------
+###Mugshot:0
+Wh-Who's there!?
+###--------
+###Script:32
+Heh heh heh!!
+Over here!!
+###--------
+###Script:33
+###Mugshot:Jammer
+Did you miss me!?
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Let me introduce you to
+my newest creations!
+The EM humans!!
+###--------
+###Mugshot:Jammer
+They're a little low on
+brain, but guess what?
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+If humans stay near them
+for too long, they become
+just like the EM humans!!
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Now, if you quietly hand
+the Andromeda Key over
+to me, I'll let you go.
+###--------
+###Mugshot:Jammer
+If not, I think you know
+what's going to happen.
+###--------
+###Script:34
+###Mugshot:0
+(Argh!!)
+###--------
+###Mugshot:0
+(I can't change into
+Mega Man in front of Luna!)
+###--------
+###Script:35
+###Mugshot:Luna
+Hey, wait! Who are you
+talking to!?
+###--------
+###Script:36
+###Mugshot:Jammer
+I see. You have no
+intentions of giving it
+to me.
+###--------
+###Mugshot:Jammer
+That's fine. I can pry
+it from you.
+###--------
+###Mugshot:Jammer
+Go, my EM humans!!
+###--------
+###Script:37
+###Mugshot:Luna
+Aaah! They're coming right
+for us!!
+###--------
+###Script:38
+###Mugshot:0
+All we can do right now is
+retreat!
+###--------
+###Mugshot:0
+So first, let's get out
+of the school!!
+###--------
+###Mugshot:0
+Come on, Luna!
+RUN!!
+###--------
+###Script:39
+###Mugshot:Luna
+You don't have to tell
+me twice!
+###--------

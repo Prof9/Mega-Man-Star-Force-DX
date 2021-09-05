@@ -1,0 +1,250 @@
+﻿###TextArchive:mess_0544
+###Script:10
+###Mugshot:LittleBoy
+...Huh?
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+You're very perceptive to
+have figured out that I am
+a lover of quizzes!
+###--------
+###Mugshot:LittleBoy
+OK, then. Something special
+just for you!
+###--------
+###Mugshot:LittleBoy
+I will now sing the
+Quiz Theme Song,
+###--------
+###Mugshot:LittleBoy
+which has been passed down
+for the past 200 years!
+*ahem*
+###--------
+###Mugshot:LittleBoy
+Who called Mr. Quiz!
+Who called Mr. Quiz!
+###--------
+###Mugshot:LittleBoy
+It's OK to say!
+It's OK to play!
+###--------
+###Mugshot:LittleBoy
+Hey Hey! Ho Ho!
+Quiz Power!
+It's time to go!
+###--------
+###Mugshot:LittleBoy
+Care to try a
+Quiz Battle with me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+###Mugshot:LittleBoy
+Care to try a Quiz Battle
+with me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+###Mugshot:LittleBoy
+OK, here we go with
+Question #1.
+###--------
+###Mugshot:LittleBoy
+Which shoes would you
+wear in the rain?
+###--------
+<positionOptionFromCenter><optionText>  Sandals
+<positionOptionFromCenter><optionText>  Slippers
+<positionOptionFromCenter><optionText>  Galoshes
+###Command:positionOptionFromCenter width=50
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=50
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=50
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleBoy
+Correct!!
+###--------
+###Mugshot:LittleBoy
+And now on to Question #2.
+###--------
+###Mugshot:LittleBoy
+What is the Attack Power
+of PlasmaGun1?
+###--------
+<positionOptionFromCenter><optionText>  20
+<positionOptionFromCenter><optionText>  30
+<positionOptionFromCenter><optionText>  40
+###Command:positionOptionFromCenter width=15
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=15
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=15
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleBoy
+Correct!!
+###--------
+###Mugshot:LittleBoy
+And now for Question #3.
+###--------
+###Mugshot:LittleBoy
+Where are we right now?
+###--------
+<positionOptionFromCenter><optionText>  1-A
+<positionOptionFromCenter><optionText>  1-B
+<positionOptionFromCenter><optionText>  5-A
+###Command:positionOptionFromCenter width=19
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=19
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=19
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleBoy
+Correct!!
+###--------
+###Mugshot:LittleBoy
+And now for Question #4.
+###--------
+###Mugshot:LittleBoy
+The "<printItem>" Sub Card
+recovers how many HPs?
+###Command:printItem item=96
+###--------
+<positionOptionFromCenter><optionText>  10
+<positionOptionFromCenter><optionText>  50
+<positionOptionFromCenter><optionText>  150
+###Command:positionOptionFromCenter width=21
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=21
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=21
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleBoy
+Correct!!
+###--------
+###Mugshot:LittleBoy
+And here's the final question,
+Question #5.
+###--------
+###Mugshot:LittleBoy
+What does a snake do?
+###--------
+<positionOptionFromCenter><optionText>  Purr
+<positionOptionFromCenter><optionText>  Growl
+<positionOptionFromCenter><optionText>  Hiss
+###Command:positionOptionFromCenter width=30
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=30
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=30
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleBoy
+Wow! I didn't think you'd get
+them ALL right!
+###--------
+###Mugshot:LittleBoy
+Y-You're pretty amazing.
+###--------
+###Mugshot:LittleBoy
+Well, here's your prize.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=72
+###--------
+###Mugshot:LittleBoy
+I'll have to think up some
+new questions.
+###--------
+###Script:13
+###Mugshot:LittleBoy
+Huuuh! Why!?
+###--------
+###Script:14
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Nope! I'm sorry! That was
+an incorrect answer!
+###--------
+###Script:15
+###Mugshot:LittleBoy
+I'll have to think up some
+new questions.
+###--------
+###Script:20
+###Mugshot:Woman
+...Uh? Why do I look troubled?
+###--------
+###Mugshot:Woman
+Wow, you really know how
+a lady is feeling!
+###--------
+###Mugshot:Woman
+Well, it's this classroom.
+It's so cold in here.
+###--------
+###Mugshot:Woman
+I don't want my lovely
+students to catch colds.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Do you think there could
+be something wrong with
+the temperature control...?
+###--------
+###Script:21
+###Mugshot:Woman
+It's so cold in this classroom.
+###--------
+###Mugshot:Woman
+I don't want my lovely
+students to catch colds.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Do you think there could
+be something wrong with
+the temperature control...?
+###--------
+###Script:22
+###Mugshot:ThermoMan
+W-W-Whooosh!
+###--------
+###Mugshot:ThermoMan
+Having a cooling problem?
+W-W-Whooosh!
+###--------
+###Mugshot:Woman
+I know that voice...
+It's ThermoMan!
+###--------
+###Mugshot:Woman
+Your timing is impeccable.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Can you use that card to
+do something about the
+temperature in here?
+###--------

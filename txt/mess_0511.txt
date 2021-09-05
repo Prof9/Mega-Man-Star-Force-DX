@@ -1,0 +1,66 @@
+﻿###TextArchive:mess_0511
+###Script:0
+###Mugshot:7
+There's something running
+around in here.
+###--------
+###Script:1
+###Mugshot:11
+That wave Mr. Boreal found
+yesterday...
+###--------
+###Mugshot:11
+Was that what I think
+it was?
+###--------
+###Script:10
+###Mugshot:7
+Aaaaah!
+Wh-What was that just now?
+###--------
+###Script:11
+###Mugshot:11
+###--------
+###Mugshot:11
+That world that was on the
+ceiling... I feel like I've seen
+it before.
+###--------
+###Script:20
+###Mugshot:7
+###--------
+###Mugshot:7
+At the order of Mr. Boreal,
+the Science Museum is
+temporarily closed.
+###--------
+###Script:21
+###Mugshot:11
+###--------
+###Mugshot:11
+Mr. Boreal seems busy lately,
+so I have to do what I can
+to help him out.
+###--------
+###Script:30
+###Mugshot:7
+I never thought aliens would
+try to target Earth.
+###--------
+###Mugshot:7
+I've been stupid to not
+realize it could happen.
+###--------
+###Script:31
+###Mugshot:11
+Aliens...
+###--------
+###Mugshot:11
+So that incident wasn't a
+dream after all...
+###--------
+###Script:32
+###Mugshot:10
+I-I think I'll be safe here...
+Maybe...
+###--------

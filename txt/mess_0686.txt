@@ -1,0 +1,59 @@
+﻿###TextArchive:mess_0686
+###Script:0
+###Mugshot:MrHertz
+S-SUDDEN...LY...
+VENOM... SNAKE...
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Hang on!
+I'll be right back with
+the Antidote!
+###--------
+###Script:1
+###Mugshot:MrHertz
+NNNNGH...
+NO GOOD...
+###--------
+###Mugshot:MegaMan
+I'll be back in a sec
+with the Antidote!
+###--------
+###Script:2
+###Mugshot:MrHertz
+P... PAIN...
+###--------
+###Mugshot:MegaMan
+Hang on! I'm getting you
+the Antidote now!
+###--------
+###Script:5
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:6
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:10
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+MANY DANGERS LIE AHEAD!
+SO PLEASE BE CAREFUL!
+###--------
+###Script:11
+###Mugshot:MrHertz
+DON'T LET THE SNAKES
+GET YOU!
+###--------
+###Script:12
+###Mugshot:MrHertz
+MORE OF OUR FRIENDS
+ARE BACK THERE!
+###--------
+###Mugshot:MrHertz
+PLEASE HELP THEM
+AS WELL!
+###--------

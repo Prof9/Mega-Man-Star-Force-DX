@@ -1,0 +1,105 @@
+﻿###TextArchive:mess_1150
+###Script:0
+###Mugshot:MrHertz
+AH, I AM SO GORGEOUS...
+###--------
+###Mugshot:MrHertz
+I HAVE SUCH A GREAT
+FIGURE.
+###--------
+###Mugshot:MrHertz
+THE SIGHT OF MY
+REFLECTION IN THE
+MIRROR IS...
+###--------
+###Mugshot:MrHertz
+...INTOXICATING.
+###--------
+###Mugshot:MrHertz
+WHAT? YOU SAY I'M
+INTERFERING YOUR
+SHOPPING?
+###--------
+###Mugshot:MrHertz
+WELL, I'M SORRRY!
+###--------
+###Mugshot:MrHertz
+I GET CARRIED AWAY WHEN
+I LOOK AT MYSELF.
+###--------
+###Mugshot:MrHertz
+...SO MAYBE YOU SHOULD
+JUST BE PATIENT.
+###--------
+###Script:1
+###Mugshot:MrHertz
+I GET CARRIED AWAY WHEN
+I LOOK AT MYSELF.
+###--------
+###Mugshot:MrHertz
+...SO MAYBE YOU SHOULD
+JUST BE PATIENT.
+###--------
+###Script:10
+###Mugshot:MegaMan
+What the!? What's this
+wave ball doing here?
+###--------
+###Mugshot:MegaMan
+!<wait>
+###Command:wait frames=10
+###--------
+###Mugshot:MegaMan
+It's connected to another
+dimension!
+###--------
+###Script:11
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+.<wait>.<wait>.<wait>H<wait>e<wait>l<wait>l<wait>o!
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###Command:wait frames=3
+###--------
+OK! I'm connected!
+###--------
+Hello! I'm Aaron!
+###--------
+I crossed over from
+another dimension to
+get here!
+###--------
+Let's be Brothers!
+###--------
+###Mugshot:MegaMan
+Should I?
+
+###--------
+###Mugshot:MegaMan
+<positionOptionFromCenter><optionText>  Of course!
+<positionOptionFromCenter><optionText>  ...No thanks.
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=68
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:13
+A voice echoes from
+inside the wave ball...
+###--------
+.<wait>.<wait>.
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+But, it's too faint to
+make out the words.
+###--------

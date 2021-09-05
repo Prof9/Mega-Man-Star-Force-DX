@@ -1,0 +1,47 @@
+﻿###TextArchive:mess_0349
+###Script:0
+###Mugshot:1
+This is the space station?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Yeah.
+Look down there.
+###--------
+###Script:2
+###Mugshot:1
+Wow, we're really in
+outer space.
+###--------
+###Mugshot:1
+Oh yeah...
+What about air?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+While you're in wave form,
+you don't need air.
+###--------
+###Mugshot:OmegaXis
+But who knows if there
+is any in the Real World.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I think there might be some
+left, but without pulsing
+out, we won't know...
+###--------
+###Script:4
+###Mugshot:1
+I hope there will be...
+###--------
+###Mugshot:1
+But then, I can't turn
+back now!
+###--------
+###Mugshot:1
+Forward is the only way
+I can go!
+###--------

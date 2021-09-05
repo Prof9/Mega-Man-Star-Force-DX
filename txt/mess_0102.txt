@@ -1,0 +1,127 @@
+﻿###TextArchive:mess_0102
+###Script:0
+ Pointed Fangs 
+###--------
+###Script:1
+ Slashing Claws
+###--------
+###Script:2
+PorcuNeedles
+###--------
+###Script:3
+   Bear Ring   
+###--------
+###Script:4
+  Cobra Fangs  
+###--------
+###Script:5
+ Blinding Eye  
+###--------
+###Script:6
+Thief's Armband
+###--------
+###Script:7
+  Power Ring   
+###--------
+###Script:8
+  Demon's Eye  
+###--------
+###Script:9
+Rapid-Fire Claw
+###--------
+###Script:10
+   Paralyzer   
+###--------
+###Script:11
+  Bubble Fist  
+###--------
+###Script:12
+ Hammer Glove  
+###--------
+###Script:13
+ Zenny Finder  
+###--------
+###Script:14
+  Card Finder  
+###--------
+###Script:15
+ Sweet Mirage  
+###--------
+###Script:16
+ Kaiser Knuckle
+###--------
+###Script:17
+ Magic Breath  
+###--------
+###Script:18
+  FM Bracelet  
+###--------
+###Script:19
+StarForce Power
+###--------
+###Script:20
+B.Net Blaster
+###--------
+###Script:21
+P.Fangs Desc.
+###--------
+###Script:22
+S.Claws Desc.
+###--------
+###Script:23
+P.Needles Desc.
+###--------
+###Script:24
+BearRing Desc.
+###--------
+###Script:25
+C.Fangs Desc.
+###--------
+###Script:26
+B.Eye Desc.
+###--------
+###Script:27
+T.Armbnd Desc.
+###--------
+###Script:28
+P.Ring Desc.
+###--------
+###Script:29
+D.Eye Desc.
+###--------
+###Script:30
+R-F Claw Desc.
+###--------
+###Script:31
+Paralyzr Desc.
+###--------
+###Script:32
+BublFist Desc.
+###--------
+###Script:33
+H.Glove Desc.
+###--------
+###Script:34
+Z.Finder Desc.
+###--------
+###Script:35
+C.Finder Desc.
+###--------
+###Script:36
+S.Mirage Desc.
+###--------
+###Script:37
+K.Knckle Desc.
+###--------
+###Script:38
+M.Breath Desc.
+###--------
+###Script:39
+FMBraclt Desc.
+###--------
+###Script:40
+SF Power Desc.
+###--------
+###Script:41
+BN Blstr Desc.
+###--------

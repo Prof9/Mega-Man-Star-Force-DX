@@ -1,0 +1,186 @@
+﻿###TextArchive:mess_0127
+###Script:0
+Aaaaaaaah!!
+###--------
+###Script:1
+###Mugshot:0
+I recognize that scream!
+###--------
+###Script:2
+###Mugshot:2
+Wh-Where are we!?
+Bud??
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+What were you thinking,
+bringing us to a place
+like this!?
+###--------
+###Script:3
+###Mugshot:TaurusFire
+Mmrr...Mmrrrgh!!
+###--------
+###Mugshot:TaurusFire
+I'm gonna crush that punk,
+Geo!
+###--------
+###Mugshot:TaurusFire
+I'll show not just him,
+but you too, Prez!
+###--------
+###Mugshot:TaurusFire
+I'll show you both how
+strong I am!
+###--------
+###Mugshot:TaurusFire
+Mmmrrrrgh!!
+Now where is he hiding!?
+###--------
+###Script:4
+###Mugshot:2
+H-Hey! Are you listening!?
+Answer me!!
+###--------
+###Script:5
+###Mugshot:3
+Eek!
+###--------
+###Script:6
+###Mugshot:Taurus
+Mmmrrrrgh!!
+###--------
+###Mugshot:Taurus
+Don't waste your breath,
+sweetie.
+###--------
+###Mugshot:Taurus
+Right now, he's completely
+under my control!!
+###--------
+###Script:7
+###Mugshot:2
+Eek...
+###--------
+###Mugshot:2
+Wh-Who are you!?
+###--------
+###Mugshot:2
+You-You changed Bud
+into this, didn't you?
+###--------
+###Mugshot:2
+Please! Change him back!!
+###--------
+###Script:8
+###Mugshot:Taurus
+Mmmrrrrgh!! Now, now.
+###--------
+###Mugshot:Taurus
+Let me set a few facts
+straight for you.
+###--------
+###Mugshot:Taurus
+While I did, in fact,
+give him powers,
+###--------
+###Mugshot:Taurus
+you, Prez, are the one
+responsible for his misery.
+###--------
+###Script:9
+###Mugshot:2
+Wh-What!?
+###--------
+###Mugshot:2
+I said I would cut our
+Brother Band, but I...
+###--------
+###Script:10
+###Mugshot:Taurus
+Mmmrrrrgh!!
+###--------
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+That's enough out of you.
+I don't care to hear any
+more of your screams,
+###--------
+###Mugshot:Taurus
+so it's naptime for the
+two of you!
+Mmmrrrrgh!!
+###--------
+###Script:11
+###Mugshot:2
+Aaaaaah!!
+###--------
+###Script:12
+###Mugshot:3
+Aaargh!!
+###--------
+###Script:13
+###Mugshot:0
+Looks like something's
+going on back there...
+###--------
+###Mugshot:0
+But what are those two
+doing in Comp Space!?
+###--------
+###Script:14
+###Mugshot:OmegaXis
+FM-ians can change humans
+into waves.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Those two were too close
+to the FM-ian, so they were
+dragged along for the ride...
+###--------
+###Mugshot:OmegaXis
+They got picked up by
+a real nasty one, too.
+###--------
+###Script:15
+###Mugshot:0
+A nasty one?
+###--------
+###Script:16
+###Mugshot:OmegaXis
+That's Taurus.
+###--------
+###Mugshot:OmegaXis
+He's one brutal guy who
+charges at things like the
+bull-headed cow he is.
+###--------
+###Script:17
+###Mugshot:0
+And you want me to fight
+a scary guy like him??
+###--------
+###Script:18
+###Mugshot:OmegaXis
+He's strong, but he moves
+in straight lines.
+###--------
+###Mugshot:OmegaXis
+If you keep your cool,
+he's a pushover!
+###--------
+###Mugshot:OmegaXis
+You want to save those
+two, then have some guts!!
+###--------
+###Mugshot:OmegaXis
+Let's go!
+###--------
+###Script:19
+###Mugshot:0
+Y-Yeah!
+###--------

@@ -1,0 +1,55 @@
+﻿###TextArchive:mess_0602
+###Script:10
+###Mugshot:OldMan
+What the!?
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+Dagnabbit!!
+Who'ndhec's been leavin'
+garbage in the park!?
+###--------
+###Mugshot:OldMan
+There's just too much of
+it to clean up.
+###--------
+###Mugshot:OldMan
+Won't somebody come up
+with a good idea...?
+###--------
+###Script:11
+###Mugshot:OldMan
+There's just too much of
+it to clean up.
+###--------
+###Mugshot:OldMan
+Won't somebody come up
+with a good idea...?
+###--------
+###Script:12
+###Mugshot:ShovelMan
+*bam!*
+###--------
+###Mugshot:ShovelMan
+It looks like someone's
+having a trash problem.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+Ohh!
+That's the ShovelMan card!
+###--------
+###Mugshot:OldMan
+Are you gonna use that
+to move this garbage?
+###--------
+###Script:100
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Don't you have other places
+to be besides the
+Wave World?
+###--------

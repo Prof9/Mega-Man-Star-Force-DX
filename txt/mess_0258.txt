@@ -1,0 +1,151 @@
+﻿###TextArchive:mess_0258
+###Script:0
+###Mugshot:Geo
+Queen Ophiuca!!
+###--------
+###Script:1
+###Mugshot:QueenOphiuca
+Aren't you a persistent one?
+###--------
+###Mugshot:QueenOphiuca
+No matter. Try as you like,
+you won't stop me.
+###--------
+###Mugshot:QueenOphiuca
+If you make one move,
+those snakes will be
+helping themselves
+###--------
+###Mugshot:QueenOphiuca
+###--------
+###Mugshot:QueenOphiuca
+to some tasty
+Sonia Strumm!
+###--------
+###Script:2
+###Mugshot:Geo
+I'm not going to let you
+get away with anything!
+###--------
+###Mugshot:Geo
+"Thermo Card"
+Card In!
+###--------
+###Script:3
+###Mugshot:ThermoMan
+Whoooooooooop!!
+###--------
+###Mugshot:ThermoMan
+Let's crank up the chill!
+Brrr!
+###--------
+###Script:4
+###Mugshot:QueenOphiuca
+No! The temperature
+is dropping!
+###--------
+###Mugshot:QueenOphiuca
+My babies!
+###--------
+###Script:5
+###Mugshot:QueenOphiuca
+###--------
+###Mugshot:QueenOphiuca
+You made my precious
+snakes go into hibernation
+by lowering the temperature!?
+###--------
+###Mugshot:QueenOphiuca
+You have a lot of nerve!!
+###--------
+###Script:6
+###Mugshot:ThermoMan
+Temperature regulation
+complete!
+###--------
+###Script:7
+###Mugshot:Geo
+Queen Ophiuca...
+###--------
+###Mugshot:Geo
+No, I mean Luna.
+Please, stop!!
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+All of your snakes are
+asleep now. You can't use
+them to hurt anyone anymore!
+###--------
+###Mugshot:Geo
+So please...
+###--------
+###Script:8
+###Mugshot:QueenOphiuca
+Shut up!
+Shut up!
+Shut up!
+###--------
+###Mugshot:QueenOphiuca
+I won't let you or
+anyone stop me!!
+###--------
+###Script:9
+###Mugshot:Geo
+She's gone!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+She ran off into that
+giant robo-snake's Comp.
+###--------
+###Mugshot:OmegaXis
+After her!
+###--------
+###Script:11
+###Mugshot:Geo
+What about Sonia...?
+###--------
+###Script:12
+###Mugshot:OmegaXis
+The snakes here aren't
+a threat anymore.
+###--------
+###Mugshot:OmegaXis
+Sleeping beauty can stay
+where she is for now!
+###--------
+###Mugshot:OmegaXis
+Her Royal Snakeness
+comes first!!
+###--------
+###Script:13
+###Mugshot:Geo
+Roger!
+###--------
+###Script:14
+###Mugshot:ThermoMan
+TheeeermoMan is in
+the house!
+###--------
+###Mugshot:ThermoMan
+So what'll it be?
+Hotter or colder?
+###--------
+###Script:15
+###Mugshot:OmegaXis
+You fool!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you turn up the heat,
+the snakes'll get even
+more worked up!!
+###--------
+###Script:16
+###Mugshot:OmegaXis
+What are you-!?
+You don't need wind now!!
+###--------

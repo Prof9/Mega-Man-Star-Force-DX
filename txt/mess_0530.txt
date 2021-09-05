@@ -1,0 +1,201 @@
+﻿###TextArchive:mess_0530
+###Script:0
+It's an umbrella stand.
+###--------
+###Script:1
+Trophies and plaques fill
+the display case.
+###--------
+It's all a part of this
+school's glorious legacy.
+###--------
+###Script:2
+This board displays info
+for students.
+###--------
+###Script:3
+The Teachers' Room.
+Students aren't allowed.
+###--------
+###Script:4
+Info about the school is
+shown on this monitor.
+###--------
+###Script:6
+It's the switch for the
+monitors.
+###--------
+Students aren't allowed
+to touch it.
+###--------
+###Script:7
+A refrigerated case packed
+with milk boxes.
+###--------
+###Script:8
+###--------
+It's the snack shop.
+We can buy all sorts of
+goodies here.
+###--------
+###Script:9
+These are some really nice
+plants!
+###--------
+###Script:10
+Students usually eat here
+during lunch period.
+###--------
+###Script:11
+Just outside the window
+is the school garden.
+###--------
+###Script:12
+It's the switch for the
+bulletin board.
+###--------
+Touch this and a teacher
+is sure to lecture you.
+###--------
+###Script:13
+Write what foods you'd
+like them to sell,
+###--------
+and the snack shop lady
+will try to get it for you.
+###--------
+###Script:15
+###Mugshot:OldWoman
+Welcome!
+###--------
+###Mugshot:OldWoman
+How about trying today's
+special?
+###--------
+###Script:20
+###Mugshot:OldWoman
+How about trying today's
+special?
+###--------
+###Mugshot:OldWoman
+Huh? You want to help with
+my snack shop?
+###--------
+###Mugshot:OldWoman
+Why, that'd be swell of you,
+sonny.
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Age is catching up with me,
+and I get tired easily, so
+I'd love to have your help.
+###--------
+###Mugshot:OldWoman
+Let's see...
+It's not much, but...
+###--------
+###Mugshot:OldWoman
+I run a delivery service on
+the side.
+###--------
+###Mugshot:OldWoman
+Can you bring this ham
+sandwich to my customer,
+please?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=45
+###--------
+###Mugshot:OldWoman
+The customer is somewhere
+in Echo Ridge.
+###--------
+###Script:21
+###Mugshot:OldWoman
+Can you deliver this
+ham sandwich?
+###--------
+###Mugshot:OldWoman
+The customer is somewhere
+in Echo Ridge.
+###--------
+###Script:22
+###Mugshot:OldWoman
+Oh, you've delivered it,
+I see.
+###--------
+###Mugshot:OldWoman
+Thank you so much!
+You've been a big help.
+###--------
+###Mugshot:OldWoman
+Here's something for your
+time, sonny.
+###--------
+Geo got:
+"2500 Zennys"!!
+###--------
+###Mugshot:OldWoman
+Maybe I'll call on your
+help again!
+###--------
+###Script:25
+It's a statue of the first
+principal of Echo Elementary.
+###--------
+###--------
+He was a magnificent
+educator. He's a bit of a
+legend among teachers.
+###--------
+###Script:26
+It's a statue of the first
+principal of Echo Elementary.
+###--------
+Hmm?
+###--------
+If you look real closely,
+there's a wavehole here!
+###--------
+###Script:30
+###Mugshot:13
+Morning, sonny.
+###--------
+###Mugshot:13
+Hurry up to class or
+you'll be late.
+###--------
+###Script:31
+###Mugshot:13
+Don't goof off and head
+straight home.
+###--------
+###Script:32
+###Mugshot:13
+###--------
+###Mugshot:13
+I heard there was quite
+the commotion. Did
+something happen?
+###--------
+###Script:33
+###Mugshot:13
+When school is out,
+I organize the inventory.
+###--------
+###Script:40
+###Mugshot:13
+I think this is the most
+peaceful place...
+###--------
+###Script:41
+###Mugshot:13
+###--------
+###Mugshot:13
+I don't know what'll happen,
+but I know this is where
+I belong...
+###--------

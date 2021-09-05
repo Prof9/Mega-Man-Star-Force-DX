@@ -1,0 +1,415 @@
+﻿###TextArchive:mess_0226
+###Script:0
+###Mugshot:Geo
+Where am I?
+###--------
+###Mugshot:Geo
+Oh, I get it. That guy
+must've sent me here...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Hey, you're not that
+far gone.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Is it supposed to be this
+empty...?
+###--------
+###Script:3
+Geo...
+###--------
+###Script:4
+###Mugshot:PegasusMagicShadow
+After coming all this way,
+are you giving up?
+###--------
+###Script:5
+###Mugshot:DragonSkyShadow
+After coming all this way,
+are you giving up?
+###--------
+###Script:6
+###Mugshot:LeoKingdomShadow
+After coming all this way,
+are you giving up?
+###--------
+###Script:7
+###Mugshot:Geo
+That shadow...
+###--------
+###Script:8
+###Mugshot:OmegaXis
+It's that guy from before!!
+###--------
+###Script:9
+###Mugshot:PegasusMagicShadow
+You are not this weak.
+Of this we are sure.
+###--------
+###Script:10
+###Mugshot:DragonSkyShadow
+You are not this weak.
+Of this we are sure.
+###--------
+###Script:11
+###Mugshot:LeoKingdomShadow
+You are not this weak.
+Of this we are sure.
+###--------
+###Script:12
+###Mugshot:Geo
+You keep talking about
+my power.
+###--------
+###Mugshot:Geo
+But what in the world can
+I do about anything??
+###--------
+###Script:13
+###Mugshot:PegasusMagicShadow
+Will you truly give up here?
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+Can you not hear them?
+The voices that cry out
+for you.
+###--------
+###Script:14
+###Mugshot:DragonSkyShadow
+Will you truly give up here?
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+Can you not hear them?
+The voices that cry out
+for you.
+###--------
+###Script:15
+###Mugshot:LeoKingdomShadow
+Will you truly give up here?
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+Can you not hear them?
+The voices that cry out
+for you.
+###--------
+###Script:16
+###Mugshot:Geo
+Voices?
+###--------
+###Script:17
+...lp...
+###--------
+###Script:18
+###Mugshot:Geo
+Huh?
+###--------
+###Script:19
+...elp.
+###--------
+###Script:20
+###Mugshot:4
+Help...
+###--------
+###Mugshot:4
+Help us, Mega Man...
+###--------
+###Script:21
+###Mugshot:Geo
+Luna...
+###--------
+###Script:22
+###Mugshot:Geo
+Stop!
+###--------
+###Mugshot:Geo
+Please, don't put me in
+any more danger!
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I'm not that strong!
+I'm not a hero!
+###--------
+###Mugshot:Geo
+I'm... I'm just an ordinary,
+weak elementary kid.
+###--------
+###Mugshot:Geo
+So...
+###--------
+###Script:23
+###Mugshot:PegasusMagicShadow
+That child believes in you.
+###--------
+###Mugshot:PegasusMagicShadow
+She will believe until
+the bitter end.
+###--------
+###Script:24
+###Mugshot:DragonSkyShadow
+That child believes in you.
+###--------
+###Mugshot:DragonSkyShadow
+She will believe until
+the bitter end.
+###--------
+###Script:25
+###Mugshot:LeoKingdomShadow
+That child believes in you.
+###--------
+###Mugshot:LeoKingdomShadow
+She will believe until
+the bitter end.
+###--------
+###Script:26
+###Mugshot:Geo
+Nngh...
+###--------
+###Script:27
+###Mugshot:PegasusMagicShadow
+I ask once more.
+###--------
+###Mugshot:PegasusMagicShadow
+Geo, will you give up here?
+###--------
+###Script:28
+###Mugshot:DragonSkyShadow
+I ask once more.
+###--------
+###Mugshot:DragonSkyShadow
+Geo, will you give up here?
+###--------
+###Script:29
+###Mugshot:LeoKingdomShadow
+I ask once more.
+###--------
+###Mugshot:LeoKingdomShadow
+Geo, will you give up here?
+###--------
+###Script:30
+###Mugshot:Geo
+......
+###--------
+###Mugshot:Geo
+...I...
+###--------
+###Mugshot:Geo
+...I want to protect...
+###--------
+###Script:31
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+That girl that believes in me...
+I want to protect her!!
+###--------
+###Script:32
+###Mugshot:PegasusMagicShadow
+Finally...
+###--------
+###Mugshot:PegasusMagicShadow
+Finally those words pass
+your lips.
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+If you fight for someone
+important to you, your
+strength becomes unrivaled.
+###--------
+###Mugshot:PegasusMagicShadow
+That is the mark of
+a "human".
+###--------
+###Script:33
+###Mugshot:DragonSkyShadow
+Finally...
+###--------
+###Mugshot:DragonSkyShadow
+Finally those words pass
+your lips.
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+If you fight for someone
+important to you, your
+strength becomes unrivaled.
+###--------
+###Mugshot:DragonSkyShadow
+That is the mark of
+a "human".
+###--------
+###Script:34
+###Mugshot:LeoKingdomShadow
+Finally...
+###--------
+###Mugshot:LeoKingdomShadow
+Finally those words pass
+your lips.
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+If you fight for someone
+important to you, your
+strength becomes unrivaled.
+###--------
+###Mugshot:LeoKingdomShadow
+That is the mark of
+a "human".
+###--------
+###Script:35
+###Mugshot:Geo
+Fighting for someone...?
+###--------
+###Script:36
+###Mugshot:PegasusMagicShadow
+The preparations are
+complete!
+###--------
+###Mugshot:PegasusMagicShadow
+###--------
+###Mugshot:PegasusMagicShadow
+The power of the stars,
+the Star Force, is now
+accessible to you!
+###--------
+###Script:37
+###Mugshot:DragonSkyShadow
+The preparations are
+complete!
+###--------
+###Mugshot:DragonSkyShadow
+###--------
+###Mugshot:DragonSkyShadow
+The power of the stars,
+the Star Force, is now
+accessible to you!
+###--------
+###Script:38
+###Mugshot:LeoKingdomShadow
+The preparations are
+complete!
+###--------
+###Mugshot:LeoKingdomShadow
+###--------
+###Mugshot:LeoKingdomShadow
+The power of the stars,
+the Star Force, is now
+accessible to you!
+###--------
+###Script:39
+*ba-dump*
+###--------
+###Script:40
+###Mugshot:Geo
+My body...!
+###--------
+###Script:41
+###Mugshot:8
+Wh-What!?
+What's happening!?
+###--------
+###Mugshot:8
+Where is that power
+coming from...!?
+###--------
+###Script:42
+###Mugshot:1
+I'll... I'll protect her!!
+###--------
+###Script:43
+###Mugshot:8
+Gnnnnngh!!
+###--------
+###Script:44
+###Mugshot:1
+Just watch me!
+###--------
+###Script:45
+###Mugshot:8
+I-Impossible!
+###--------
+###Script:46
+###Mugshot:1
+Aaaaaaaaaarrrh!!
+###--------
+###Script:47
+###Mugshot:IcePegasusMegaMan
+*huff huff*
+###--------
+###Script:48
+###Mugshot:GreenDragonMegaMan
+*huff huff*
+###--------
+###Script:49
+###Mugshot:FireLeoMegaMan
+*huff huff*
+###--------
+###Script:50
+###Mugshot:8
+Whoooa!!
+###--------
+###Script:51
+###Mugshot:IcePegasusMegaMan
+This...
+###--------
+###Mugshot:IcePegasusMegaMan
+This is the Star Force!
+###--------
+###Mugshot:IcePegasusMegaMan
+With this, I can beat him!!
+###--------
+###Script:52
+###Mugshot:GreenDragonMegaMan
+This...
+###--------
+###Mugshot:GreenDragonMegaMan
+This is the Star Force!
+###--------
+###Mugshot:GreenDragonMegaMan
+With this, I can beat him!!
+###--------
+###Script:53
+###Mugshot:FireLeoMegaMan
+This...
+###--------
+###Mugshot:FireLeoMegaMan
+This is the Star Force!
+###--------
+###Mugshot:FireLeoMegaMan
+With this, I can beat him!!
+###--------
+###Script:54
+###Mugshot:8
+...Interesting.
+###--------
+###Script:55
+###Mugshot:IcePegasusMegaMan
+###--------
+###Mugshot:IcePegasusMegaMan
+This time... I won't lose!!
+###--------
+###Script:56
+###Mugshot:GreenDragonMegaMan
+###--------
+###Mugshot:GreenDragonMegaMan
+This time... I won't lose!!
+###--------
+###Script:57
+###Mugshot:FireLeoMegaMan
+###--------
+###Mugshot:FireLeoMegaMan
+This time... I won't lose!!
+###--------

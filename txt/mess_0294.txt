@@ -1,0 +1,391 @@
+﻿###TextArchive:mess_0294
+###Script:0
+###Mugshot:0
+I guess I must be early...
+###--------
+###Script:1
+Geo!
+###--------
+###Script:2
+###Mugshot:0
+Pat!
+###--------
+###Script:3
+###Mugshot:Pat
+Were you waiting long?
+###--------
+###Script:4
+###Mugshot:0
+I just got here, actually.
+###--------
+###Script:5
+###Mugshot:Pat
+You seem a little anxious...
+###--------
+###Script:6
+###Mugshot:0
+Ah, yeah, a little...
+###--------
+###Script:7
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I'm really nervous. You're
+my first Brother ever.
+###--------
+###Script:8
+###Mugshot:0
+I'm nervous too.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+W-Well... let's do this,
+shall we?
+###--------
+###Script:9
+###Mugshot:Pat
+OK.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+The first thing we have
+to do is to tell each
+other our biggest secret...
+###--------
+###Mugshot:Pat
+...right?
+###--------
+###Script:10
+###Mugshot:0
+Yeah.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Um, Pat...
+Are you really OK with
+telling me your secret?
+###--------
+###Script:11
+###Mugshot:Pat
+It's OK.
+###--------
+###Mugshot:Pat
+I've decided I want to
+tell you everything...
+###--------
+###Script:12
+###Mugshot:0
+Pat...
+###--------
+###Script:13
+###Mugshot:Pat
+My secret is.<wait>.<wait>.<wait>
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###--------
+###Mugshot:Pat
+...Uuugh!!
+###--------
+###Script:14
+###Mugshot:Pat
+...Nnngh!!
+###--------
+###Script:15
+###Mugshot:0
+...?
+###--------
+###Script:16
+###Mugshot:Pat
+Gnaaah!!
+###--------
+###Mugshot:Pat
+Why... Why now!?
+###--------
+###Script:17
+###Mugshot:Rey
+(Heh heh heh.)
+###--------
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+(Good job. Now leave
+the rest to me.)
+###--------
+###Script:18
+###Mugshot:Pat
+(R-Rey! What are you
+going to do!?)
+###--------
+###Script:19
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+(If I show myself to him
+right now, how do you
+think he's gonna react?)
+###--------
+###Script:20
+###Mugshot:Pat
+(N-No!!)
+###--------
+###Script:21
+###Mugshot:Rey
+(Now step aside!)
+###--------
+###Script:22
+###Mugshot:Pat
+Gwaaaaaah!!
+###--------
+###Script:23
+###Mugshot:0
+What's wrong, Pat...?
+###--------
+###Script:24
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+Heh heh heh.
+Nothing...
+###--------
+###Script:25
+###Mugshot:Rey
+Come on, Geo, let's
+become Brothers.
+###--------
+###Script:26
+###Mugshot:0
+...O-OK.
+###--------
+###Script:27
+###Mugshot:OmegaXis
+(Geo! Get away from him!
+Now!!)
+###--------
+###Script:28
+###Mugshot:0
+Huh?
+###--------
+###Script:29
+###Mugshot:OmegaXis
+(I said now!!)
+###--------
+###Script:30
+###Mugshot:0
+Aaaah!!
+###--------
+###Script:31
+###Mugshot:Rey
+What is it, Geo...?
+###--------
+###Script:32
+###Mugshot:0
+(What the heck, Mega!?)
+###--------
+###Script:33
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(He changed all of a sudden,
+almost as if he became a
+totally different person.)
+###--------
+###Script:34
+###Mugshot:0
+(Wha??)
+###--------
+###Script:35
+###Mugshot:OmegaXis
+(I caught a whiff...)
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(It's the smell of a human
+who's been taken over
+by an FM-ian.)
+###--------
+###Script:36
+###Mugshot:0
+An FM-ian!?
+###--------
+###Script:37
+###Mugshot:Rey
+Hmph, you found me out.
+###--------
+###Script:38
+###Mugshot:0
+...Huh?
+###--------
+###Script:39
+###Mugshot:Rey
+Well, you might as well
+come out now...
+###--------
+###Mugshot:Rey
+...Gemini.
+###--------
+###Script:40
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+About time.
+I was beginning to get bored.
+###--------
+###Script:41
+###Mugshot:OmegaXis
+Gemini!
+###--------
+###Script:42
+###Mugshot:0
+Wh-Wh-!?
+###--------
+###Mugshot:0
+Why is Pat with Gemini!?
+###--------
+###Script:43
+###Mugshot:Gemini
+You still don't get it?
+###--------
+###Mugshot:Gemini
+This kid...
+###--------
+###Mugshot:Gemini
+has two personalities.
+###--------
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+Or in other words, he
+suffers from multiple
+personality disorder.
+###--------
+###Script:44
+###Mugshot:OmegaXis
+That explains it...
+###--------
+###Script:45
+###Mugshot:0
+I don't get it...
+###--------
+###Script:46
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+It means that a person
+has more than one
+"person" inside of them.
+###--------
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+This human has both the
+personalities of "Pat" and
+"Rey" inside of him.
+###--------
+###Script:47
+###Mugshot:0
+Two people in one!?
+###--------
+###Script:48
+###Mugshot:Rey
+Ha ha ha ha.
+###--------
+###Mugshot:Rey
+I bet you never thought
+it was possible
+###--------
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+that the person you
+wanted to be Brothers
+with could be like this.
+###--------
+###Mugshot:Rey
+And it gets better.
+###--------
+###Mugshot:Rey
+The only reason I got
+close to you...
+###--------
+###Mugshot:Rey
+was so I could get to the
+Andromeda Key!
+###--------
+###Script:49
+###Mugshot:0
+What!?
+###--------
+###Script:50
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+Being Brothers with you
+would have made it like
+taking candy from a baby.
+###--------
+###Script:51
+###Mugshot:0
+Pat!
+What's happened to you!?
+###--------
+###Script:52
+###Mugshot:OmegaXis
+Get a grip on yourself, Geo!
+###--------
+###Mugshot:OmegaXis
+That isn't the Pat you know!!
+###--------
+###Script:53
+###Mugshot:0
+###--------
+###Mugshot:0
+Then what happened to Pat!?
+Where is he!?
+###--------
+###Script:54
+###Mugshot:Rey
+Ha ha ha ha.
+###--------
+###Mugshot:Rey
+......Gnnngh!!
+###--------
+###Script:55
+###Mugshot:Rey
+Nngh...!
+###--------
+###Mugshot:Rey
+S-Stay down, you!!
+###--------
+###Script:56
+###Mugshot:Pat
+Aaah...
+Geo...
+###--------
+###Script:57
+###Mugshot:0
+Pat? Pat!
+Is that you!?
+###--------
+###Script:58
+###Mugshot:Pat
+I'm sorry...
+it turned out this way...
+###--------
+###Script:59
+###Mugshot:Rey
+What are you apologizing for?
+###--------
+###Mugshot:Rey
+You did the right thing!!
+###--------
+###Mugshot:Rey
+###--------
+###Mugshot:Rey
+Fight it!
+Don't forget our goal, Pat!
+###--------

@@ -1,0 +1,18 @@
+﻿###TextArchive:mess_0088
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:VaughnPlatz
+Transer of Vaughn Platz.
+###--------
+###Script:2
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+I need a good idea for
+my next money-making
+scheme...
+###--------

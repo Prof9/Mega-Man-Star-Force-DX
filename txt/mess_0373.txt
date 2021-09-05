@@ -1,0 +1,30 @@
+﻿###TextArchive:mess_0373
+###Script:0
+Confirming.<wait>.<wait>.<wait>
+.<wait>.<wait>.<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Script:1
+The code has been
+confirmed.
+Security lifted.
+###--------
+###Script:10
+Confirming.<wait>.<wait>.<wait>
+.<wait>.<wait>.<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Script:11
+Error.
+Please re-enter the code.
+###--------

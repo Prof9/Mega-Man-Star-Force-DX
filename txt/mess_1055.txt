@@ -1,0 +1,37 @@
+﻿###TextArchive:mess_1055
+###Script:0
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+Does that thing Zack hangs
+off of every night before
+bed really make him any taller?
+###--------
+###Mugshot:CommonNavi
+Well, at least his arms are
+a bit longer.
+###--------
+###Script:1
+###Mugshot:CommonNavi
+*shiver* *quake*
+###--------
+###Mugshot:CommonNavi
+I-I'm scared...
+Can you feel it?
+###--------
+###Mugshot:CommonNavi
+There are some terrifying
+waves coming this way.
+###--------
+###Mugshot:CommonNavi
+*shiver* *quake*
+###--------
+###Script:50
+###Mugshot:3
+ZACK DRINKS 2 QUARTS
+OF MILK EVERY DAY.
+###--------
+###Mugshot:3
+HE SHOULD BE GETTING
+TALLER...
+###--------

@@ -1,0 +1,21 @@
+﻿###TextArchive:mess_0695
+###Script:0
+###Mugshot:1
+###--------
+###Mugshot:1
+IT DOESN'T LOOK LIKE
+THERE'S ANYTHING BURIED
+HERE ANYMORE...
+###--------
+###Script:1
+###Mugshot:1
+###--------
+###Mugshot:1
+IT LOOKS LIKE THERE'S
+SOMETHING STILL
+BURIED HERE...
+###--------
+###Mugshot:1
+WHY DON'T YOU LOOK FOR
+IT USING SONAR?
+###--------

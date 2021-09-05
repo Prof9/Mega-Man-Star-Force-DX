@@ -1,0 +1,84 @@
+﻿###TextArchive:mess_0310
+###Script:0
+###Mugshot:0
+Pat!!
+###--------
+###Script:1
+###Mugshot:2
+Geo...
+###--------
+###Script:2
+###Mugshot:0
+Please, stop doing this!!
+###--------
+###Script:3
+###Mugshot:3
+I'm afraid we can't do that.
+###--------
+###Mugshot:3
+Right, Pat?
+###--------
+###Script:4
+###Mugshot:2
+I...
+###--------
+###Mugshot:2
+My parents threw me away...
+I hate them...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+And the only way to calm
+my hatred is to take my
+revenge on them.
+###--------
+###Script:5
+###Mugshot:0
+Pat...
+###--------
+###Script:6
+###Mugshot:3
+###--------
+###Mugshot:3
+Ha ha ha. And that's why
+we want the Andromeda Key
+you two have.
+###--------
+###Script:7
+###Mugshot:2
+I decided...
+###--------
+###Mugshot:2
+for the sake of my
+revenge...
+###--------
+###Mugshot:2
+to use you and your
+weakness!
+###--------
+###Script:8
+###Mugshot:0
+You... You don't mean that.
+###--------
+###Script:9
+###Mugshot:2
+###--------
+###Mugshot:2
+I'm through talking.
+It's time to finish this!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Get ready, Geo!
+Here they come!
+###--------
+###Script:11
+###Mugshot:0
+Even after we finally
+became friends!!
+###--------
+###Script:12
+###Mugshot:2
+I'm sorry, Geo.
+###--------

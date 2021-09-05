@@ -1,0 +1,82 @@
+﻿###TextArchive:mess_0358
+###Script:0
+###Mugshot:0
+###--------
+###Mugshot:0
+This is the control system
+for the outside repair robot.
+###--------
+###Mugshot:0
+Power switch...
+Is this it...?
+###--------
+###Script:1
+###Mugshot:0
+OK, now it's PropellerMan's
+turn!
+###--------
+###Script:2
+###Mugshot:PropellerMan
+Whee!
+###--------
+###Script:3
+###Mugshot:0
+###--------
+###Mugshot:0
+You've reached the target.
+OK, time to get fixing!
+###--------
+###Mugshot:0
+...Finished!
+###--------
+###Script:4
+###Mugshot:0
+###--------
+###Mugshot:0
+You've reached the target.
+OK, time to get fixing!
+###--------
+###Mugshot:0
+...Finished!
+###--------
+###Script:5
+###Mugshot:0
+###--------
+###Mugshot:0
+You've reached the target.
+OK, time to get fixing!
+###--------
+###Mugshot:0
+...Finished!
+###--------
+###Script:7
+###Mugshot:0
+###--------
+###Mugshot:0
+That's all of them!
+Now the electricity
+should work...
+###--------
+###Script:8
+###Mugshot:0
+Alright!
+Thanks, PropellerMan!
+###--------
+###Script:9
+###Mugshot:PropellerMan
+No prob!
+###--------
+###Script:10
+###Mugshot:0
+Onward!
+###--------
+###Script:12
+###Mugshot:0
+OK, one last spot!
+Let's go!
+###--------
+###Script:13
+###Mugshot:0
+OK, two more spots!
+Let's go!
+###--------

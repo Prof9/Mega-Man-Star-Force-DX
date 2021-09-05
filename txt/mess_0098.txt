@@ -1,0 +1,361 @@
+###TextArchive:mess_0098
+###Script:0
+Cipher
+###--------
+###Script:1
+NGAMEMA       RESCAFROT
+###--------
+###Script:2
+Cipher
+###--------
+###Script:3
+OSLEGRATE
+###--------
+###Script:4
+Cipher
+###--------
+###Script:5
+SIXGAME-O
+###--------
+###Script:6
+Cipher
+###--------
+###Script:7
+NROSIMAMSTU
+###--------
+###Script:8
+Cipher
+###--------
+###Script:9
+ALPTUNZLA
+###--------
+###Script:10
+Cipher
+###--------
+###Script:11
+ISNBDUBO
+###--------
+###Script:12
+Cipher
+###--------
+###Script:13
+KMALEETZCP
+###--------
+###Script:14
+Cipher
+###--------
+###Script:15
+PREOBCOPB
+###--------
+###Script:16
+Cipher
+###--------
+###Script:17
+LAREBARAON
+###--------
+###Script:18
+Cipher
+###--------
+###Script:19
+AURIEFRUTS
+###--------
+###Script:20
+Cipher
+###--------
+###Script:21
+NGYNGIWCUS
+###--------
+###Script:22
+Cipher
+###--------
+###Script:23
+ROHNATPE
+###--------
+###Script:24
+Cipher
+###--------
+###Script:25
+ILABCLERSAS
+###--------
+###Script:26
+Cipher
+###--------
+###Script:27
+IPHAUEOEUNQC
+###--------
+###Script:28
+Cipher
+###--------
+###Script:29
+KNIGSPIAREM
+###--------
+###Script:30
+Cipher
+###--------
+###Script:31
+CENCARLEBBUB
+###--------
+###Script:32
+Cipher
+###--------
+###Script:33
+DWOWOOLFS
+###--------
+###Script:34
+Cipher
+###--------
+###Script:35
+I love Battle Network!
+###--------
+###Script:36
+Cipher
+###--------
+###Script:37
+ALIVURISZE
+###--------
+###Script:38
+Cipher
+###--------
+###Script:39
+Ride On the   Wave Road!
+###--------
+###Script:40
+Cipher
+###--------
+###Script:41
+Time to bust  some EM       viruses!
+###--------
+###Script:42
+Cipher
+###--------
+###Script:43
+Win big with aStar Force BigBang!
+###--------
+###Script:44
+Cipher
+###--------
+###Script:45
+Let's combine our strength!
+###--------
+###Script:46
+Cipher
+###--------
+###Script:47
+Store info in your Transer!
+###--------
+###Script:48
+Cipher
+###--------
+###Script:49
+Go On Air     to trade info with friends.
+###--------
+###Script:50
+Cipher
+###--------
+###Script:51
+Transers are  really useful!
+###--------
+###Script:52
+Cipher
+###--------
+###Script:53
+Let's send    some e-mail!
+###--------
+###Script:54
+Cipher
+###--------
+###Script:55
+Battle your   friends       On Air!
+###--------
+###Script:56
+Cipher
+###--------
+###Script:57
+How many more until you haveall the cards?
+###--------
+###Script:58
+Cipher
+###--------
+###Script:59
+Wave Battle   with your     rare cards!
+###--------
+###Script:60
+Cipher
+###--------
+###Script:61
+Time to go    On Air!
+###--------
+###Script:62
+Cipher
+###--------
+###Script:63
+Pegasus, Leo, Dragon - whichis for you?
+###--------
+###Script:64
+Cipher
+###--------
+###Script:65
+Get stronger  through       BrotherBands!
+###--------
+###Script:66
+Cipher
+###--------
+###Script:67
+Wave Change!  Geo Stelar,   On The Air!!
+###--------
+###Script:68
+Cipher
+###--------
+###Script:69
+Ride On!      Wave Battle!
+###--------
+###Script:70
+Cipher
+###--------
+###Script:71
+Let's form a  BrotherBand!
+###--------
+###Script:72
+Cipher
+###--------
+###Script:73
+Beat viruses  with Battle   Cards!
+###--------
+###Script:74
+Cipher
+###--------
+###Script:75
+Only you can  protect the   Wave Road!
+###--------
+###Script:76
+Cipher
+###--------
+###Script:77
+Fuse with     Mega to       Wave Change!
+###--------
+###Script:78
+Cipher
+###--------
+###Script:79
+Transform withStar Force    power!
+###--------
+###Script:80
+Cipher
+###--------
+###Script:81
+Power up with pals through  BrotherBands.
+###--------
+###Script:82
+Cipher
+###--------
+###Script:83
+Show off your skills in hot Wave Battles!
+###--------
+###Script:84
+Cipher
+###--------
+###Script:85
+Fly away for  skies unknown!
+###--------
+###Script:86
+Cipher
+###--------
+###Script:87
+Legendary     Master Shin
+###--------
+###Script:88
+Cipher
+###--------
+###Script:89
+Brother ActionRPG
+###--------
+###Script:90
+Cipher
+###--------
+###Script:91
+Taurus Fire
+###--------
+###Script:92
+Cipher
+###--------
+###Script:93
+Dec. 17, 1986
+###--------
+###Script:94
+Cipher
+###--------
+###Script:95
+The internet  connects      the world.
+###--------
+###Script:96
+Cipher
+###--------
+###Script:97
+Check out the Mega Man      website!
+###--------
+###Script:98
+Cipher
+###--------
+###Script:99
+Search for    info on the   web!
+###--------
+###Script:100
+Cipher
+###--------
+###Script:101
+Our Brother-  Bands make us strong!
+###--------
+###Script:102
+Cipher
+###--------
+###Script:103
+Awaken the    Wave Battler  inside!
+###--------
+###Script:104
+Cipher
+###--------
+###Script:105
+Visualizer:   Glasses of    Mystery
+###--------
+###Script:106
+Cipher
+###--------
+###Script:107
+Wave Battle   in the Wave   World!
+###--------
+###Script:108
+Cipher
+###--------
+###Script:109
+A. Boreal's   AMAKEN
+###--------
+###Script:110
+Cipher
+###--------
+###Script:111
+Star Force,   the ultimate  power!
+###--------
+###Script:112
+Cipher
+###--------
+###Script:113
+Wave Battling is wild!
+###--------
+###Script:114
+Cipher
+###--------
+###Script:115
+3 different   powers can    be yours!
+###--------
+###Script:116
+Cipher
+###--------
+###Script:117
+Proof of      Friendship -  BrotherBand!
+###--------
+###Script:118
+Cipher
+###--------
+###Script:119
+Mega Man 20th Anniversary   Game
+###--------

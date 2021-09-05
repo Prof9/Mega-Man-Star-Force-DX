@@ -1,0 +1,98 @@
+﻿###TextArchive:mess_1088
+###Script:10
+###Mugshot:MegaMan
+A wave ball!
+OK, let's go take care of it!
+###--------
+###Mugshot:MegaMan
+Hah!!
+###--------
+###Script:12
+###Mugshot:MegaMan
+A wave ball!
+OK, let's go take care of it!
+###--------
+###Mugshot:MegaMan
+Hah!!
+###--------
+###Script:14
+###Mugshot:OmegaXis
+Looks like we got them all
+in this area...
+###--------
+###Script:15
+###Mugshot:OmegaXis
+There's still 1 more
+wave ball in this area.
+###--------
+###Script:50
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+THAT THING WITH THE
+WINGS ON IT...
+###--------
+###Mugshot:MrHertz
+DON'T YOU JUST WANT
+TO GIVE IT A TRY?
+###--------
+###Mugshot:MrHertz
+I KNOW I DO!
+*BEEP BEEP*
+###--------
+###Script:70
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP BEEP*
+ODD TIME FOR A
+BLACKOUT, HUH?
+###--------
+###Script:90
+###Mugshot:MrHertz
+YOU KNOW...
+###--------
+###Mugshot:MrHertz
+THAT SONIA GIRL IS
+REALLY CUTE!
+CROSS MY HEART!
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+A-HA!!
+###--------
+###Mugshot:MrHertz
+SO IS THIS WHAT
+THEY CALL "LOVE AT
+FIRST SIGHT"?
+###--------
+###Script:150
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+No one's been able to
+leave this area for a
+long time... Oh well.
+###--------
+###Mugshot:CommonNavi
+What am I doing now?
+###--------
+###Mugshot:CommonNavi
+I'm out for a stroll.
+I love a good walk.
+###--------
+###Script:151
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+NOW GOING INTO
+OUTER SPACE!!
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------

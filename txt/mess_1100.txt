@@ -1,0 +1,76 @@
+﻿###TextArchive:mess_1100
+###Script:0
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+I'm actually the new
+guy around here.
+But I'm on the lookout!
+###--------
+###Mugshot:InfoNavi
+There's nothing coming in or
+out that I'm not aware of!
+Not even a kitten!
+###--------
+###Script:10
+###Mugshot:InfoNavi
+Ah! How could I have let
+a kitten slip by!?
+###--------
+###Mugshot:InfoNavi
+I didn't think I could
+overlook such a thing!
+###--------
+###Mugshot:InfoNavi
+When and how did it sneak
+in like that??
+###--------
+###Script:20
+###Mugshot:InfoNavi
+I was mistaken. Learning
+is a life-long journey.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+I will continue on and become
+the greatest Navi, and the
+greatest guard ever!!
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+You can't be full of yourself
+when you're the new guy.
+###--------
+###Mugshot:InfoNavi
+There are greater Navis
+above me, and so... I'm going
+to go meet those gurus!
+###--------
+###Script:100
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Hmm!?
+So suspect!!
+###--------
+###Mugshot:FighterNavi
+...Huh? Oh, there have been
+so many incidents
+###--------
+###Mugshot:FighterNavi
+that now I just call
+everything suspect first.
+###--------
+###Mugshot:FighterNavi
+Hmm!?
+###--------
+###Script:101
+###Mugshot:FighterNavi
+Wh-Wh-What's going on!?
+###--------
+###Mugshot:FighterNavi
+The kids are going mad!!
+Oh nooooooes!
+###--------

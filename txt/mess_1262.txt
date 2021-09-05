@@ -1,0 +1,2575 @@
+﻿###TextArchive:mess_1262
+###Script:0
+## Mettenna
+HP:<spacePx>40
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Grand Wave
+Atk:<spacePx>10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:1
+## Mettenna2
+HP:<spacePx>90
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Grand Wave
+Atk:<spacePx>30
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:2
+## Mettenna3
+HP:<spacePx>130
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Grand Wave
+Atk:<spacePx>50
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:3
+## CannonBase
+HP:<spacePx>50
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Power Bomb
+Atk:<spacePx>10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:4
+## MegaBase
+HP:<spacePx>100
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Power Bomb
+Atk:<spacePx>30
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:5
+## GigaBase
+HP:<spacePx>150
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Power Bomb
+Atk:<spacePx>70
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:6
+## Melamander
+HP:<spacePx>80
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Tail Burner
+Atk:<spacePx>15
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:7
+## Melalizard
+HP:<spacePx>120
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Tail Burner
+Atk:<spacePx>50
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:8
+## Melaleon
+HP:<spacePx>170
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Tail Burner
+Atk:<spacePx>70
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:9
+## HotRoader
+HP:<spacePx>60
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Hot Drive
+Atk:<spacePx>20
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:10
+## HotMotor
+HP:<spacePx>130
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Hot Drive
+Atk:<spacePx>40
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:11
+## HotBiker
+HP:<spacePx>180
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Hot Drive
+Atk:<spacePx>60
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:12
+## Peekaboo
+HP:<spacePx>100
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Ghost Pulse
+Atk:<spacePx>5 x 3 (+Confuse)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:13
+## Wavyboo
+HP:<spacePx>130
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Ghost Pulse
+Atk:<spacePx>10 x 3 (+Confuse)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:14
+## Shakyboo
+HP:<spacePx>160
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Ghost Pulse
+Atk:<spacePx>20 x 3 (+Confuse)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:15
+## ZapAce
+HP:<spacePx>70
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Thunder Ball
+Atk:<spacePx>10 (+Paralyze)
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:16
+## ZapKing
+HP:<spacePx>120
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Thunder Ball
+Atk:<spacePx>20 (+Paralyze)
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:17
+## ZapJoker
+HP:<spacePx>170
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Thunder Ball
+Atk:<spacePx>50 (+Paralyze)
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:18
+## Wibbledee
+HP:<spacePx>60
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wide Wave
+Atk:<spacePx>10
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:19
+## Wibbledoo
+HP:<spacePx>100
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wide Wave
+Atk:<spacePx>30
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:20
+## Wibbledum
+HP:<spacePx>150
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wide Wave
+Atk:<spacePx>50
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:21
+## Crowcar
+HP:<spacePx>80
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bird Arrow
+Atk:<spacePx>30
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:22
+## Crowket
+HP:<spacePx>110
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bird Arrow
+Atk:<spacePx>50
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:23
+## Crowbus
+HP:<spacePx>160
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bird Arrow
+Atk:<spacePx>80
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:24
+## MonoSword
+HP:<spacePx>100
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Brave Sword
+Atk:<spacePx>30
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:25
+## MonoSwordin
+HP:<spacePx>140
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Brave Sword
+Atk:<spacePx>60
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:26
+## MonoSwordil
+HP:<spacePx>180
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Brave Sword
+Atk:<spacePx>90
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:27
+## LuPelvis
+HP:<spacePx>80
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Power Song
+Allies become invincible.
+###--------
+###Script:28
+## LupiNatra
+HP:<spacePx>90
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Quake Song
+Enemies cannot move.
+###--------
+###Script:29
+## LupaDonna
+HP:<spacePx>110
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Trip Song
+Enemies become confused.
+###--------
+###Script:30
+## LuPavarot
+HP:<spacePx>120
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Love Song
+Allies recover 100 HP.
+###--------
+###Script:31
+## LupBach
+HP:<spacePx>180
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Blind Song
+Enemies become blinded.
+###--------
+###Script:32
+## DoomCount
+HP:<spacePx>130
+Elem:<spacePx>Fire
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Time Bomb
+Atk:<spacePx>30
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:33
+## DoomBomber
+HP:<spacePx>160
+Elem:<spacePx>Fire
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Time Bomb
+Atk:<spacePx>50
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:34
+## DoomPlosion
+HP:<spacePx>200
+Elem:<spacePx>Fire
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Time Bomb
+Atk:<spacePx>100
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:35
+## BellGong
+HP:<spacePx>130
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Boxer Hook
+Atk:<spacePx>20
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Hit Gong
+Allies attack all at once.
+###--------
+###Script:36
+## BellRef
+HP:<spacePx>160
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Boxer Hook
+Atk:<spacePx>40
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Hit Gong
+Allies attack all at once.
+###--------
+###Script:37
+## BellBoxer
+HP:<spacePx>190
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Boxer Hook
+Atk:<spacePx>70
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Hit Gong
+Allies attack all at once.
+###--------
+###Script:38
+## OctoNinja
+HP:<spacePx>100
+Elem:<spacePx>Aqua
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Green Ink
+Atk:<spacePx>40 (+Grass)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:39
+## OctoIcer
+HP:<spacePx>140
+Elem:<spacePx>Aqua
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Blue Ink
+Atk:<spacePx>70 (+Ice)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:40
+## OctoPoison
+HP:<spacePx>180
+Elem:<spacePx>Aqua
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Purple Ink
+Atk:<spacePx>100 (+Poison)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:41
+## BoomBolt
+HP:<spacePx>100
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Cloudy Bolt
+Atk:<spacePx>30
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:42
+## BoomSpark
+HP:<spacePx>140
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Cloudy Bolt
+Atk:<spacePx>70
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:43
+## BoomThunder
+HP:<spacePx>170
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Cloudy Bolt
+Atk:<spacePx>90
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:44
+## Rocky
+HP:<spacePx>120
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Magma Bazooka
+Atk:<spacePx>50
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:45
+## Craggy
+HP:<spacePx>160
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Magma Bazooka
+Atk:<spacePx>100
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:46
+## Cliffy
+HP:<spacePx>230
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Magma Bazooka
+Atk:<spacePx>150
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:47
+## StreamCancro
+HP:<spacePx>100
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Aqua Bubble
+Atk:<spacePx>20
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:48
+## RiverCancro
+HP:<spacePx>140
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Aqua Bubble
+Atk:<spacePx>40
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:49
+## SeaCancro
+HP:<spacePx>180
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Aqua Bubble
+Atk:<spacePx>70
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:50
+## Moaian
+HP:<spacePx>160
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bouncing Moai
+Atk:<spacePx>100
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:51
+## Stonehead
+HP:<spacePx>220
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bouncing Moai
+Atk:<spacePx>130
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:52
+## GiantFace
+HP:<spacePx>280
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bouncing Moai
+Atk:<spacePx>150
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:53
+## Gooey
+HP:<spacePx>100
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Sticky Rain
+Atk:<spacePx>30
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:54
+## Goopy
+HP:<spacePx>140
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Sticky Rain
+Atk:<spacePx>50
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:55
+## Gloppy
+HP:<spacePx>180
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Sticky Rain
+Atk:<spacePx>80
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:56
+## Lampis
+HP:<spacePx>100
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Flicker Kick
+Atk:<spacePx>50
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flicker Flash
+Enemies become blinded.
+###--------
+###Script:57
+## Lucis
+HP:<spacePx>130
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Flicker Kick
+Atk:<spacePx>70
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flicker Flash
+Enemies become blinded.
+###--------
+###Script:58
+## Lumis
+HP:<spacePx>160
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Flicker Kick
+Atk:<spacePx>80
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flicker Flash
+Enemies become blinded.
+###--------
+###Script:59
+## PrivateMop
+HP:<spacePx>130
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Mop Lance
+Atk:<spacePx>30
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:60
+## ColonelMop
+HP:<spacePx>180
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Mop Lance
+Atk:<spacePx>40
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:61
+## GeneralMop
+HP:<spacePx>240
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Mop Lance
+Atk:<spacePx>60
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:62
+## RhinoHorn
+HP:<spacePx>160
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wood Horn
+Atk:<spacePx>50
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:63
+## RhinoHammer
+HP:<spacePx>210
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wood Horn
+Atk:<spacePx>90
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:64
+## RhinoDrill
+HP:<spacePx>270
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wood Horn
+Atk:<spacePx>130
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:65
+## TropiConga
+HP:<spacePx>150
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Vulcan Seed
+Atk:<spacePx>10 x 7
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:66
+## TropiCoppa
+HP:<spacePx>220
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Vulcan Seed
+Atk:<spacePx>10 x 10
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:67
+## TropiCoola
+HP:<spacePx>260
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Vulcan Seed
+Atk:<spacePx>10 x 13
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:68
+## Junk-O
+HP:<spacePx>130
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Junk Cube
+Atk:<spacePx>30
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Time Bomb
+Atk:<spacePx>30
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Rock Cube
+Places a Rock Cube.
+###--------
+###Script:69
+## Junk-O2
+HP:<spacePx>160
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Junk Cube
+Atk:<spacePx>50
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Time Bomb
+Atk:<spacePx>50
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Ice Cube
+Places an Ice Cube.
+###--------
+###Script:70
+## Junk-O3
+HP:<spacePx>200
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Junk Cube
+Atk:<spacePx>70
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Time Bomb
+Atk:<spacePx>100
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Metal Cube
+Places a Metal Cube.
+###--------
+###Script:71
+## Fokx
+HP:<spacePx>120
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Morph Sword
+Atk:<spacePx>80
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:72
+## CopyFokx
+HP:<spacePx>150
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Morph Sword
+Atk:<spacePx>90
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:73
+## GuiseFokx
+HP:<spacePx>210
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Morph Sword
+Atk:<spacePx>110
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:74
+## GreatAx
+HP:<spacePx>190
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Big Ax
+Atk:<spacePx>90
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:75
+## MagnaAx
+HP:<spacePx>240
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Big Ax
+Atk:<spacePx>110
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:76
+## KaiserAx
+HP:<spacePx>300
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Big Ax
+Atk:<spacePx>130
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:77
+## Eyez
+HP:<spacePx>150
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Voltic Eye
+Atk:<spacePx>20 x 3
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:78
+## GuardEyez
+HP:<spacePx>190
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Voltic Eye
+Atk:<spacePx>30 x 3
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:79
+## ProtectEyez
+HP:<spacePx>230
+Elem:<spacePx>Elec
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Voltic Eye
+Atk:<spacePx>40 x 3
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:80
+## Magera
+HP:<spacePx>160
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Element Magic
+Atk:<spacePx>60
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Recover 100
+Recovers 100 HP of
+itself or an ally.
+###--------
+Holy Panel
+Creates Holy panel
+below itself or an ally.
+###--------
+Barrier
+Grants 10 HP barrier
+to itself or an ally.
+###--------
+###Script:81
+## Mageri
+HP:<spacePx>210
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Element Magic
+Atk:<spacePx>80
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Recover 150
+Recovers 150 HP of
+itself or an ally.
+###--------
+Holy Panel
+Creates Holy panel
+below itself or an ally.
+###--------
+Barrier 100
+Grants 100 HP barrier
+to itself or an ally.
+###--------
+###Script:82
+## Magero
+HP:<spacePx>250
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Element Magic
+Atk:<spacePx>90
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Recover 200
+Recovers 200 HP of
+itself or an ally.
+###--------
+Holy Panel
+Creates Holy panel
+below itself or an ally.
+###--------
+Barrier 200
+Grants 200 HP barrier
+to itself or an ally.
+###--------
+###Script:83
+## McCleaver
+HP:<spacePx>150
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Berserk Sword
+Atk:<spacePx>100
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:84
+## McDicer
+HP:<spacePx>210
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Berserk Sword
+Atk:<spacePx>110
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:85
+## McLopper
+HP:<spacePx>260
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Berserk Sword
+Atk:<spacePx>120
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:86
+## Grabity
+HP:<spacePx>90
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Planet Shoot
+Atk:<spacePx>70
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Black Hole
+Atk:<spacePx>100
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:87
+## Grabotron
+HP:<spacePx>150
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Planet Shoot
+Atk:<spacePx>80
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Black Hole
+Atk:<spacePx>150
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:88
+## Grabaklone
+HP:<spacePx>180
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Planet Shoot
+Atk:<spacePx>160
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Black Hole
+Atk:<spacePx>200
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:103
+## Hollow
+HP:<spacePx>3500
+Elem:<spacePx>Elec
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Summon Virus
+Atk:<spacePx>240
+Elem:<spacePx>Fire/Aqua/Elec/Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Thunder Bazooka
+Atk:<spacePx>350 (+Paralyze)
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Magic Thunder
+Atk:<spacePx>350
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:104
+## Jammer
+HP:<spacePx>200
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Jamming Machine Gun
+Atk:<spacePx>1 x 10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Jamming Punch
+Atk:<spacePx>20
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:105
+## Jammer2
+HP:<spacePx>500
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Jamming Machine Gun
+Atk:<spacePx>3 x 10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Jamming Punch
+Atk:<spacePx>40
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:106
+## Jammer3
+HP:<spacePx>800
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Jamming Machine Gun
+Atk:<spacePx>5 x 10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Jamming Punch
+Atk:<spacePx>80
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:107
+## JammerG
+HP:<spacePx>800
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Jamming Machine Gun
+Atk:<spacePx>3 x 10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Jamming Punch
+Atk:<spacePx>40
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:108
+## Jammer2G
+HP:<spacePx>900
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Jamming Machine Gun
+Atk:<spacePx>7 x 10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Jamming Punch
+Atk:<spacePx>80
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:109
+## Jammer3G
+HP:<spacePx>1000
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Jamming Machine Gun
+Atk:<spacePx>10 x 10
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Jamming Punch
+Atk:<spacePx>120
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:110
+## Taurus Fire
+HP:<spacePx>400
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Anger Punch
+Atk:<spacePx>10
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Ox Tackle
+Atk:<spacePx>20
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Fire Breath
+Atk:<spacePx>10
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:111
+## Taurus Fire EX
+HP:<spacePx>1400
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Anger Punch
+Atk:<spacePx>60
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Ox Tackle
+Atk:<spacePx>90
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Fire Breath
+Atk:<spacePx>60
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:112
+## Taurus Fire SP
+HP:<spacePx>2200
+Elem:<spacePx>Fire
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Anger Punch
+Atk:<spacePx>140
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Ox Tackle
+Atk:<spacePx>180
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Fire Breath
+Atk:<spacePx>140
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:113
+## Cygnus Wing
+HP:<spacePx>600
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Cygnus Feather
+Atk:<spacePx>10 x 2
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Migratory Birds
+Atk:<spacePx>20
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dancing Swan
+Atk:<spacePx>20
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:114
+## Cygnus Wing EX
+HP:<spacePx>1500
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Cygnus Feather
+Atk:<spacePx>40 x 2
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Migratory Birds
+Atk:<spacePx>80
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dancing Swan
+Atk:<spacePx>80
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:115
+## Cygnus Wing SP
+HP:<spacePx>2000
+Elem:<spacePx>None
+Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Cygnus Feather
+Atk:<spacePx>70 x 2
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Migratory Birds
+Atk:<spacePx>140
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dancing Swan
+Atk:<spacePx>140
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:116
+## Harp Note
+HP:<spacePx>700
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Shock Note
+Atk:<spacePx>30 (+Paralyze)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Machine Gun Strings
+Atk:<spacePx>5 x 6
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Pulse Song
+Atk:<spacePx>30 (+Confuse)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:117
+## Harp Note EX
+HP:<spacePx>1600
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Shock Note
+Atk:<spacePx>90 (+Paralyze)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Machine Gun Strings
+Atk:<spacePx>15 x 6
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Pulse Song
+Atk:<spacePx>90 (+Confuse)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:118
+## Harp Note SP
+HP:<spacePx>1900
+Elem:<spacePx>None
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Shock Note
+Atk:<spacePx>150 (+Paralyze)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Machine Gun Strings
+Atk:<spacePx>25 x 6
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Pulse Song
+Atk:<spacePx>150 (+Confuse)
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:119
+## Libra Scales
+HP:<spacePx>900
+Elem:<spacePx>Fire/Aqua
+SprArmr, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Flame Weight
+Atk:<spacePx>40
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Aqua Weight
+Atk:<spacePx>40
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Heavy Weight
+Atk:<spacePx>40
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Libra Swing
+Atk:<spacePx>40
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:120
+## Libra Scales EX
+HP:<spacePx>1500
+Elem:<spacePx>Fire/Aqua
+SprArmr, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Flame Weight
+Atk:<spacePx>70
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Aqua Weight
+Atk:<spacePx>70
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Heavy Weight
+Atk:<spacePx>70
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Libra Swing
+Atk:<spacePx>70
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:121
+## Libra Scales SP
+HP:<spacePx>2000
+Elem:<spacePx>Fire/Aqua
+SprArmr, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Flame Weight
+Atk:<spacePx>140
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Aqua Weight
+Atk:<spacePx>140
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Heavy Weight
+Atk:<spacePx>140
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Libra Swing
+Atk:<spacePx>140
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:122
+## Queen Ophiuca
+HP:<spacePx>1200
+Elem:<spacePx>Wood
+SprArmr
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Snake Legion
+Atk:<spacePx>50
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Quick Serpent
+Atk:<spacePx>50
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gorgon Eye
+Atk:<spacePx>50
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:123
+## Queen Ophiuca EX
+HP:<spacePx>1600
+Elem:<spacePx>Wood
+SprArmr
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Snake Legion
+Atk:<spacePx>80
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Quick Serpent
+Atk:<spacePx>80
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gorgon Eye
+Atk:<spacePx>80
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:124
+## Queen Ophiuca SP
+HP:<spacePx>2100
+Elem:<spacePx>Wood
+SprArmr
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Snake Legion
+Atk:<spacePx>150
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Quick Serpent
+Atk:<spacePx>150
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gorgon Eye
+Atk:<spacePx>150
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:125
+## Gemini Spark
+HP:<spacePx>1500
+Elem:<spacePx>Elec
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Rocket Knuckle
+Atk:<spacePx>60
+Elem:<spacePx>Elec (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Elec Sword
+Atk:<spacePx>60
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gemini Thunder
+Atk:<spacePx>90
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:126
+## Gemini Spark EX
+HP:<spacePx>1700
+Elem:<spacePx>Elec
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Rocket Knuckle
+Atk:<spacePx>80
+Elem:<spacePx>Elec (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Elec Sword
+Atk:<spacePx>80
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gemini Thunder
+Atk:<spacePx>120
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:127
+## Gemini Spark SP
+HP:<spacePx>2200
+Elem:<spacePx>Elec
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Rocket Knuckle
+Atk:<spacePx>160
+Elem:<spacePx>Elec (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Elec Sword
+Atk:<spacePx>160
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gemini Thunder
+Atk:<spacePx>220
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:128
+## Cancer Bubble
+HP:<spacePx>700
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bubble Pop
+Atk:<spacePx>30 (+Bubble)
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Boomerang Cutter
+Atk:<spacePx>30
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Tidal Wave
+Atk:<spacePx>50
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:129
+## Cancer Bubble EX
+HP:<spacePx>1700
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bubble Pop
+Atk:<spacePx>70 (+Bubble)
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Boomerang Cutter
+Atk:<spacePx>70
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Tidal Wave
+Atk:<spacePx>100
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:130
+## Cancer Bubble SP
+HP:<spacePx>2000
+Elem:<spacePx>Aqua
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Bubble Pop
+Atk:<spacePx>130 (+Bubble)
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Boomerang Cutter
+Atk:<spacePx>130
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Tidal Wave
+Atk:<spacePx>170
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:131
+## Wolf Woods
+HP:<spacePx>1000
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wide Claw
+Atk:<spacePx>60
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Upper Claw
+Atk:<spacePx>60
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Howling Wolf
+Atk:<spacePx>60
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:132
+## Wolf Woods EX
+HP:<spacePx>1500
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wide Claw
+Atk:<spacePx>100
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Upper Claw
+Atk:<spacePx>100
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Howling Wolf
+Atk:<spacePx>100
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:133
+## Wolf Woods SP
+HP:<spacePx>1900
+Elem:<spacePx>Wood
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wide Claw
+Atk:<spacePx>150
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Upper Claw
+Atk:<spacePx>150
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Howling Wolf
+Atk:<spacePx>150
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:134
+## Crown Thunder
+HP:<spacePx>2000
+Elem:<spacePx>Elec
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Menacing Bowgun
+Atk:<spacePx>80
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Assault Lance
+Atk:<spacePx>80
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Wavy Hammer
+Atk:<spacePx>80
+Elem:<spacePx>None (+Wind)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Fall Thunder
+Atk:<spacePx>50 (+Paralyze)
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:135
+## Crown Thunder EX
+HP:<spacePx>2300
+Elem:<spacePx>Elec
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Menacing Bowgun
+Atk:<spacePx>120
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Assault Lance
+Atk:<spacePx>120
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Wavy Hammer
+Atk:<spacePx>120
+Elem:<spacePx>None (+Wind)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Fall Thunder
+Atk:<spacePx>90 (+Paralyze)
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:136
+## Crown Thunder SP
+HP:<spacePx>3000
+Elem:<spacePx>Elec
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Menacing Bowgun
+Atk:<spacePx>200
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Assault Lance
+Atk:<spacePx>200
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Wavy Hammer
+Atk:<spacePx>200
+Elem:<spacePx>None (+Wind)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Fall Thunder
+Atk:<spacePx>150 (+Paralyze)
+Elem:<spacePx>Elec
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:137
+## Andromeda
+HP:<spacePx>2500
+Elem:<spacePx>None
+SprArmr, StatGrd, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Meteors
+Atk:<spacePx>40
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Giga Missiles
+Atk:<spacePx>80
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Big Bang Eater
+Atk:<spacePx>200
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Big Bang Crash
+Atk:<spacePx>200
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Nebula Breaker
+Atk:<spacePx>80
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:138
+## Andromeda ∞
+HP:<spacePx>4000
+Elem:<spacePx>None
+SprArmr, StatGrd, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Meteors
+Atk:<spacePx>120
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Giga Missiles
+Atk:<spacePx>400
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Big Bang Eater
+Atk:<spacePx>600
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Big Bang Crash
+Atk:<spacePx>600
+Elem:<spacePx>None
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Nebula Breaker
+Atk:<spacePx>400
+Elem:<spacePx>None (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:139
+## Pegasus Magic
+HP:<spacePx>2300
+Elem:<spacePx>Aqua
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Frost Missiles
+Atk:<spacePx>100
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Star Road
+Atk:<spacePx>150
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Blizzard
+Atk:<spacePx>150
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Ice Edge
+Atk:<spacePx>150
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:140
+## Pegasus Magic EX
+HP:<spacePx>2800
+Elem:<spacePx>Aqua
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Frost Missiles
+Atk:<spacePx>150
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Star Road
+Atk:<spacePx>250
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Blizzard
+Atk:<spacePx>250
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Ice Edge
+Atk:<spacePx>250
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:141
+## Pegasus Magic SP
+HP:<spacePx>3400
+Elem:<spacePx>Aqua
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Frost Missiles
+Atk:<spacePx>250
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Star Road
+Atk:<spacePx>350
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Blizzard
+Atk:<spacePx>350
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Ice Edge
+Atk:<spacePx>350
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Pegasus Freeze
+Atk:<spacePx>600 (+Freeze)
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:142
+## Leo Kingdom
+HP:<spacePx>2200
+Elem:<spacePx>Fire
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Magma Ball
+Atk:<spacePx>100
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gigaton Press
+Atk:<spacePx>150
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flame Tail
+Atk:<spacePx>150
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Volcano Claws
+Atk:<spacePx>150
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:143
+## Leo Kingdom EX
+HP:<spacePx>2700
+Elem:<spacePx>Fire
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Magma Ball
+Atk:<spacePx>150
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gigaton Press
+Atk:<spacePx>250
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flame Tail
+Atk:<spacePx>250
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Volcano Claws
+Atk:<spacePx>250
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:144
+## Leo Kingdom SP
+HP:<spacePx>3500
+Elem:<spacePx>Fire
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Magma Ball
+Atk:<spacePx>250
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gigaton Press
+Atk:<spacePx>350
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flame Tail
+Atk:<spacePx>350
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Volcano Claws
+Atk:<spacePx>350
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Leo Blazer
+Atk:<spacePx>600
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:145
+## Dragon Sky
+HP:<spacePx>2400
+Elem:<spacePx>Wood
+SprArmr, StatGrd, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wood Lance
+Atk:<spacePx>100
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dragon Road
+Atk:<spacePx>150
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flowering Burst
+Atk:<spacePx>150
+Elem:<spacePx>Wood (+Wind)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Leaf Tornadoes
+Atk:<spacePx>150
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:146
+## Dragon Sky EX
+HP:<spacePx>2900
+Elem:<spacePx>Wood
+SprArmr, StatGrd, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wood Lance
+Atk:<spacePx>150
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dragon Road
+Atk:<spacePx>250
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flowering Burst
+Atk:<spacePx>250
+Elem:<spacePx>Wood (+Wind)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Leaf Tornadoes
+Atk:<spacePx>250
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:147
+## Dragon Sky SP
+HP:<spacePx>3600
+Elem:<spacePx>Wood
+SprArmr, StatGrd, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wood Lance
+Atk:<spacePx>250
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dragon Road
+Atk:<spacePx>350
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Flowering Burst
+Atk:<spacePx>350
+Elem:<spacePx>Wood (+Wind)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Leaf Tornadoes
+Atk:<spacePx>350
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dragon Cyclone
+Atk:<spacePx>60 x 10
+Elem:<spacePx>Wood (+Breaking/Wind)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:148
+## Pegasus Shadow
+HP:<spacePx>900
+Elem:<spacePx>Aqua
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Frost Missiles
+Atk:<spacePx>20
+Elem:<spacePx>Aqua
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Star Road
+Atk:<spacePx>40
+Elem:<spacePx>Aqua (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:149
+## Leo Shadow
+HP:<spacePx>1500
+Elem:<spacePx>Fire
+SprArmr, StatGrd
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Magma Ball
+Atk:<spacePx>60
+Elem:<spacePx>Fire
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Gigaton Press
+Atk:<spacePx>100
+Elem:<spacePx>Fire (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:150
+## Dragon Shadow
+HP:<spacePx>1300
+Elem:<spacePx>Wood
+SprArmr, StatGrd, Float
+###Command:spacePx count=16
+###Command:spacePx count=7
+###--------
+Wood Lance
+Atk:<spacePx>40
+Elem:<spacePx>Wood
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+Dragon Road
+Atk:<spacePx>70
+Elem:<spacePx>Wood (+Breaking)
+###Command:spacePx count=11
+###Command:spacePx count=7
+###--------
+###Script:254
+###Mugshot:Geo
+Seems we don't have
+that data yet...
+###--------

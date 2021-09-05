@@ -1,0 +1,155 @@
+﻿###TextArchive:mess_0610
+###Script:1
+###Mugshot:0
+A guard...
+###--------
+###Mugshot:0
+I've got to do something
+about that guard. But I can't
+just fight him head on...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+There's got to be
+something I can do...
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Geo, this guy is emitting
+some strange waves!
+###--------
+###Mugshot:Geo
+Y-You mean, he's an enemy!?
+###--------
+###Mugshot:JeanCouronneXIV
+You, what do you think
+you're...
+###--------
+###Mugshot:JeanCouronneXIV
+Do you dare defy my
+royal crown!?
+###--------
+###Mugshot:Geo
+Wha? Defy?
+###--------
+###Mugshot:JeanCouronneXIV
+###--------
+###Mugshot:JeanCouronneXIV
+I am Couronne XIV, master
+of the Jour Jovonne family.
+###--------
+###Mugshot:Geo
+I-Is that so...?
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Anyways, what's that sticking
+out of your back?
+###--------
+###Mugshot:JeanCouronneXIV
+Oh, this?
+This is an arrow.
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Huh!? An arrow!?
+Doesn't that hurt!?
+###--------
+###Mugshot:JeanCouronneXIV
+###--------
+###Mugshot:JeanCouronneXIV
+Hmph! Of course not.
+I'm already dead!!
+###--------
+###Mugshot:Geo
+Really!?
+###--------
+###Mugshot:JeanCouronneXIV
+You could say I'm a ghost.
+###--------
+###Mugshot:Geo
+...I-I don't believe it.
+###--------
+###Mugshot:JeanCouronneXIV
+###--------
+###Mugshot:JeanCouronneXIV
+Nevermind that...
+Do you have the ability
+to Wave Change?
+###--------
+###Mugshot:Geo
+Uh?
+Yeah, I guess.
+###--------
+###Mugshot:Geo
+But what does that have
+to do with anything?
+###--------
+###Mugshot:JeanCouronneXIV
+I once was a normal
+human, until an alien,
+###--------
+###Mugshot:JeanCouronneXIV
+###--------
+###Mugshot:JeanCouronneXIV
+a ghost alien of all
+things, came and took
+over my body...
+###--------
+###Mugshot:Geo
+You mean an FM-ian...
+###--------
+###Mugshot:JeanCouronneXIV
+That's right!
+###--------
+###Mugshot:JeanCouronneXIV
+Hear me, young man!
+###--------
+###Mugshot:JeanCouronneXIV
+I must preserve the
+Jour Jovonne name by
+waging battle.
+###--------
+###Mugshot:JeanCouronneXIV
+###--------
+###Mugshot:JeanCouronneXIV
+Yet, as this is a
+peaceful land, I am
+quite battle-starved!
+###--------
+###Mugshot:JeanCouronneXIV
+I want you to fight me!
+###--------
+###Mugshot:Geo
+But, what if I don't
+want to?
+###--------
+###Mugshot:JeanCouronneXIV
+Silence!
+I will not tolerate insolence!
+###--------
+###Mugshot:JeanCouronneXIV
+I shall wait for you on the
+City Dump Wave Road!
+###--------
+###Script:52
+###Mugshot:JeanCouronneXIV
+I want you to fight me!
+###--------
+###Mugshot:JeanCouronneXIV
+I shall wait for you on the
+City Dump Wave Road!
+###--------
+###Script:53
+###Mugshot:JeanCouronneXIV
+Hmph. You!!
+###--------
+###Mugshot:JeanCouronneXIV
+Bow before me!!
+###--------
+###Mugshot:Geo
+Um... Sure...
+###--------

@@ -1,0 +1,25 @@
+﻿###TextArchive:mess_1185
+###Script:0
+###Mugshot:OmegaXis
+Let's hurry up and get into
+space!!
+###--------
+###Mugshot:OmegaXis
+You're not gettin' cold feet,
+are you!?
+###--------
+###Script:200
+###Mugshot:SpeedNavi
+<optionButtonSmall><optionButtonSmall>I have Sub Cards.
+Want a look?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+Please come back again
+sometime!
+###--------
+###Script:202
+###Mugshot:SpeedNavi
+Sorry, I'm all sold out...
+###--------

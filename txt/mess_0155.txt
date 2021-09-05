@@ -1,0 +1,48 @@
+﻿###TextArchive:mess_0155
+###Script:0
+###Mugshot:0
+Here we go.
+###--------
+###Script:1
+Geo used:
+"<printItem>"!!
+###Command:printItem item=14
+###--------
+###Script:2
+###Mugshot:KeyMan
+Open Sesame!
+###--------
+###Mugshot:KeyMan
+Please enter the passcode!
+###--------
+Hint: the number of planets
+in the solar system
+###--------
+###Script:3
+###Mugshot:KeyMan
+Passcode confirmed!
+###--------
+###Mugshot:KeyMan
+Open Sesame!
+###--------
+*beep*
+*click!*
+###--------
+###Script:4
+###Mugshot:0
+OK, now to get outta here
+and find a wavehole.
+###--------
+###Script:5
+###Mugshot:KeyMan
+The passcode is incorrect!
+###--------
+###Mugshot:KeyMan
+Mer, Ven, Ear, Mar,
+Jup, Sat, Ura, Nep.
+That's all!
+###--------
+###Script:6
+###Mugshot:0
+Hmm...
+###--------

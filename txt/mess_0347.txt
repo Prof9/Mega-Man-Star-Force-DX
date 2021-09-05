@@ -1,0 +1,170 @@
+﻿###TextArchive:mess_0347
+###Script:0
+###Mugshot:0
+Mr. Boreal!
+Mr. Boreal!
+###--------
+###Mugshot:0
+What should I do?
+###--------
+###Mugshot:0
+What if I asked for
+too much...?
+###--------
+###Script:1
+###Mugshot:3
+.<waitSkip>.<waitSkip>.<waitSkip>Hm?
+Oh, Geo!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:3
+Aw, dang it...
+Looks like I fell asleep.
+###--------
+###Script:2
+###Mugshot:0
+Oh, you were just sleeping...
+Phew.
+###--------
+###Script:3
+###Mugshot:0
+So, is it fixed?
+###--------
+###Script:4
+###Mugshot:3
+Of course!
+Oh, wait a sec...
+###--------
+###Script:5
+###Mugshot:3
+Power on!
+###--------
+###Script:6
+###Mugshot:0
+Alright!
+It's working!
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Hey, Geo.
+Put on your Visualizer.
+###--------
+###Script:8
+###Mugshot:0
+OK.
+###--------
+###Script:9
+###Mugshot:0
+That's probably how I'll
+get to the station.
+###--------
+###Script:10
+###Mugshot:0
+OK, let's go!
+###--------
+###Script:11
+Wait!
+###--------
+###Script:12
+###Mugshot:0
+Sonia...
+###--------
+###Script:13
+###Mugshot:4
+Geo...
+###--------
+###Mugshot:4
+Take me with you!!
+###--------
+###Script:14
+###Mugshot:0
+Sonia...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+You can't, because I need
+you to protect everyone
+here on Earth.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+After I leave, you're the
+only one who can fight
+back against any FM-ians.
+###--------
+###Script:15
+###Mugshot:4
+But!
+###--------
+###Script:16
+###Mugshot:0
+Don't worry.
+I'll protect the Earth.
+###--------
+###Mugshot:0
+So I want you to protect
+all the people.
+###--------
+###Script:17
+###Mugshot:4
+Geo...
+###--------
+###Mugshot:4
+Alright, I understand.
+###--------
+###Mugshot:4
+I believe in you,
+and I'll be waiting.
+###--------
+###Script:18
+###Mugshot:0
+Good.
+I'm going now.
+###--------
+###Script:19
+###Mugshot:0
+Mr. Boreal!
+Thank you for everything!
+###--------
+###Script:20
+###Mugshot:3
+I don't like being powerless
+to do anything,
+###--------
+###Mugshot:3
+but you're the only one
+we can count on now.
+###--------
+###Mugshot:3
+Good luck!!
+###--------
+###Script:21
+###Mugshot:0
+Here I go!
+###--------
+###Mugshot:0
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Hang on to your pants,
+Geo!
+###--------
+###Mugshot:OmegaXis
+This is gonna be one
+bumpy ride!
+###--------
+###Script:23
+###Mugshot:MegaMan
+You bet!
+###--------

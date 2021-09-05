@@ -1,0 +1,34 @@
+﻿###TextArchive:mess_0454
+###Script:0
+###Mugshot:AaronBoreal
+You're going to Vista Point?
+###--------
+###Mugshot:AaronBoreal
+Maybe I'll go with you
+next time!
+###--------
+###Mugshot:0
+......
+###--------
+###Script:1
+###Mugshot:Hope
+Don't stay out too late, OK?
+###--------
+###Script:20
+###Mugshot:Hope
+Welcome back. Later than
+usual though, I see.
+###--------
+###Mugshot:Hope
+Dinner was ready a while
+ago, so let's eat.
+###--------
+###Script:21
+###Mugshot:Hope
+You're going to
+Mr. Boreal's lab?
+###--------
+###Mugshot:Hope
+That's great! Have fun
+and say "hi" for me!
+###--------

@@ -1,0 +1,125 @@
+﻿###TextArchive:mess_0483
+###Script:0
+Everything is arranged
+neatly on this desk.
+###--------
+###Script:1
+You can use this lift to
+go up to the bed.
+###--------
+###Script:2
+A basketball net.
+At this height,
+even I can dunk!
+###--------
+###Script:3
+A piece of paper is stuck
+to the wall here...
+###--------
+It's hard work keeping track
+of one's height.
+###--------
+###Script:4
+There sure are a ton of
+books lined up here.
+###--------
+Underneath are a pair of
+platform boots.
+###--------
+I probably shouldn't touch
+those...
+###--------
+###Script:5
+There are a lot of books
+here.
+###--------
+If he's read every one,
+he must be really smart.
+###--------
+###Script:6
+This footstool's good for
+getting things high up.
+###--------
+###Script:7
+It's a group photo.
+###--------
+The only people you can
+really see in it are
+Luna and Bud...
+###--------
+###Script:9
+Bookshelf and clothing
+dresser all in one.
+###--------
+Just how many of the
+same shirt does he have??
+###--------
+###Script:11
+This plant was set up in
+a very Feng Shui style.
+###--------
+...Or so that's what people
+would say.
+###--------
+###Script:12
+Just looking at a dolphin
+can heal the spirit.
+###--------
+###Script:13
+The alarm's set for 6 AM.
+###--------
+Why would he wanna get
+up that early...?
+###--------
+###Script:14
+A bunch of spare glasses
+are on this bookshelf.
+###--------
+It looks like he has glasses
+for every occasion!
+###--------
+###Script:15
+It's the control panel for
+the thermostat.
+###--------
+###Script:16
+It's the control panel for
+the thermostat.
+###--------
+Hey, there's something
+lying here...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=113
+###--------
+###Script:20
+If you hang from this,
+you can get taller,
+###--------
+but in reality, only your
+arms get longer...
+###--------
+###Script:21
+If you hang from this,
+you can get taller,
+###--------
+but in reality, only your
+arms get longer...
+###--------
+###--------
+Hmm...
+It's not on.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whiiiiiiiir!*
+###--------
+A wavehole has appeared
+above the exerciser.
+###--------

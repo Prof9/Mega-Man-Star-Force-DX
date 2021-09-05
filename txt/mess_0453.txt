@@ -1,0 +1,254 @@
+﻿###TextArchive:mess_0453
+###Script:1
+This is a retro-styled
+replica of a mailbox,
+###--------
+the kind that were used
+around 200 years ago.
+###--------
+###Script:5
+Lovely flowers sway in
+the wind.
+###--------
+A soothing sight.
+###--------
+###Script:6
+The people who used to
+live here moved away.
+###--------
+###Script:7
+The door is locked and
+the lights are off.
+###--------
+###Script:8
+Echo Ridge
+Elementary School.
+###--------
+A massive yet elegant
+and stylish building.
+###--------
+###Script:9
+The calm gurgle of a
+stream is soothing.
+###--------
+This refreshing spot is
+an oasis in Echo Ridge.
+###--------
+###Script:10
+A well-kept flower garden...
+###--------
+###Script:11
+Security is very tight at
+this upscale condo.
+###--------
+###Script:12
+Still broken down...
+###--------
+###Script:13
+This mailbox is smashed
+beyond recognition...
+###--------
+Something hit it with
+enormous force.
+###--------
+###Script:15
+A vending machine.
+###--------
+###--------
+The lineup of drinks is iffy.
+It seems Sour Soda
+is sold out.
+###--------
+###Script:16
+1 can of juice is
+100 Zennys.
+Buy a can?
+###--------
+<positionOptionFromCenter><optionText>  Buy  <optionText>  No
+###Command:positionOptionFromCenter width=62
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:0
+Huh? Nothing happened!
+###--------
+###Mugshot:0
+...I wonder if it's broken.
+###--------
+###Mugshot:OmegaXis
+Probably the work of a virus.
+###--------
+###Mugshot:0
+What should we do?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's have a look inside
+this machine's Comp. It might
+work if we delete the virus.
+###--------
+###Mugshot:OmegaXis
+Pulse in, Geo.
+###--------
+###Mugshot:0
+This is more trouble than
+I bargained for...
+###--------
+###Script:17
+###Mugshot:0
+Maybe I'll pass...
+###--------
+###Script:18
+###Mugshot:0
+I wonder if this vending
+machine is broken.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+It could have a virus inside.
+Let's get inside its Comp
+and check it out.
+###--------
+###Mugshot:OmegaXis
+Pulse in, Geo.
+###--------
+###Script:19
+###Mugshot:0
+Oh! A drink came out!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=9
+###--------
+###Script:20
+###Mugshot:0
+I don't have enough money...
+###--------
+###Script:21
+Where do you want to go?
+###--------
+###Script:24
+Still no bus...
+###--------
+###Script:25
+It looks like it's going to
+be a while...
+###--------
+###Script:26
+<optionText>  AMAKEN<spacePx><optionText>  Quit
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:spacePx count=30
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:27
+<optionText>  AMAKEN<spacePx><optionText>  Time Square
+<optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=30
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=2 right=2
+###--------
+###Script:28
+<optionText>  AMAKEN<spacePx><optionText>  Time Square
+<optionText>  Dream Island<optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=30
+###Command:optionText up=3 down=3 left=0 right=0
+###Command:optionText up=0 down=0 left=3 right=3
+###Command:optionText up=1 down=1 left=2 right=2
+###--------
+###Script:31
+###Mugshot:0
+I have to go after
+Harp Note!
+###--------
+###Script:35
+A vending machine.
+###--------
+###Mugshot:0
+Hm? What's this?
+###--------
+###Mugshot:0
+Sour Soda...
+That's rare.
+###--------
+###Mugshot:0
+I bet that guy from
+AMAKEN would like this.
+###--------
+###Mugshot:0
+100 Zennys...
+Hmm...
+###--------
+<positionOptionFromCenter><optionText>  Buy  <optionText>  No
+###Command:positionOptionFromCenter width=62
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=44
+###--------
+###Script:36
+###Mugshot:0
+Maybe I'll pass...
+###--------
+###Script:37
+###Mugshot:0
+I don't have enough money...
+###--------
+###Script:40
+###--------
+This looks like a dog
+house, but it's really a
+home security system!
+###--------
+###Script:41
+###--------
+This looks like an ordinary
+dog house, but it's also
+a home security system!
+###--------
+###--------
+...Huh?
+The power isn't on.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whirr* *hum*
+###--------
+There's a wavehole here!
+###--------
+###Script:43
+###--------
+The sign reads:
+"Starry sky romance
+awaits you."
+###--------
+###Script:44
+###--------
+The sign reads:
+"Starry sky romance
+awaits you."
+###--------
+...Hm?
+###--------
+If you look real close,
+there's a wavehole here!
+###--------
+###Script:50
+###Mugshot:OmegaXis
+You gonna stop by that
+place you always go?
+###--------
+###Script:51
+I guess I'll go to
+Vista Point.
+###--------

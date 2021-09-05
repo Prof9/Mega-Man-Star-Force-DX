@@ -1,0 +1,59 @@
+﻿###TextArchive:mess_0893
+###Script:0
+###Mugshot:Jammer
+Gwahaha...
+###--------
+###Mugshot:OmegaXis
+Something's fishy about
+that guy...
+###--------
+###Mugshot:OmegaXis
+I'll bet he's the origin of
+those suspicious waves.
+###--------
+###Mugshot:OmegaXis
+Alright, Geo, get ready!
+###--------
+###Script:1
+###Mugshot:Jammer
+Gwahaha...
+###--------
+###Mugshot:OmegaXis
+Something's fishy about
+that guy...
+###--------
+###Mugshot:OmegaXis
+Alright, Geo, get ready!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+That's all of 'em.
+###--------
+###Mugshot:OmegaXis
+Let's report back to that
+Copper guy.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+OK, let's look for the others.
+###--------
+###Script:50
+###Mugshot:MrHertz
+I'M SPINNING!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+STOP ME!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I'VE BEEN SPINNING OUT OF
+CONTROL FOR 200 YEARS!
+I CAN'T TAKE IT ANYMORE!
+###--------
+###Mugshot:MrHertz
+HELP!
+*BEEP BEEP*
+###--------

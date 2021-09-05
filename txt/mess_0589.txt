@@ -1,0 +1,119 @@
+﻿###TextArchive:mess_0589
+###Script:0
+###Mugshot:17
+Only authorized personnel
+beyond this point.
+###--------
+###Script:1
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Script:2
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Script:5
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Script:10
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Oh, dear...
+Thisss is terrible...
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Three very rare and valuable
+sssnakes have gone misssing!
+###--------
+###Mugshot:ProfSnake
+What a predicament!
+###--------
+###Script:11
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Three very rare and valuable
+sssnakes have gone misssing!
+###--------
+###Mugshot:ProfSnake
+What a predicament!
+###--------
+###Script:12
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Aaah! Those are...
+the missing ssssnakes!!
+###--------
+Geo gave:
+"<printItem>",
+"<printItem>", and
+###Command:printItem item=53
+###Command:printItem item=54
+###--------
+"<printItem>"
+to the professor!
+###Command:printItem item=55
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+Thank you ssso much!!
+You really sssaved the day.
+###--------
+###Mugshot:ProfSnake
+Thisss is for you.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=76
+###--------
+###Mugshot:ProfSnake
+I'm ssso relieved.
+###--------
+###Script:13
+###Mugshot:ProfSnake
+I'm ssso relieved.
+###--------
+###Script:40
+###Mugshot:ProfSnake
+By all means, ssstay and
+enjoy the sssnakes!
+###--------
+###Script:50
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Mugshot:0
+Can't something be done
+about these snakes...?
+###--------
+###Script:51
+###Mugshot:0
+Better not get too close.
+Don't wanna wake 'em.
+###--------
+###Script:100
+###Mugshot:0
+###--------
+###Mugshot:0
+Sonia might freak if I just
+disappeared all of a sudden.
+...I'll hold off on pulsing in.
+###--------
+###Script:101
+###Mugshot:0
+###--------
+###Mugshot:0
+I can't just run around all
+over the place... I should take
+care of those snakes first.
+###--------

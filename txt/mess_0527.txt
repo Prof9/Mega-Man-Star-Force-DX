@@ -1,0 +1,65 @@
+﻿###TextArchive:mess_0527
+###Script:1
+###Mugshot:10
+Goooood morning!
+###--------
+###Mugshot:10
+The bell's going to ring,
+so you'd better hurry!
+###--------
+###Mugshot:10
+But remember not to run
+in the hallways!
+###--------
+###Script:3
+###Mugshot:10
+Bye!
+###--------
+###Script:11
+###Mugshot:10
+The classrooms here are
+empty on the weekends,
+###--------
+###Mugshot:10
+so it's perfect for people
+who want a place to study.
+###--------
+###Mugshot:10
+###--------
+###Mugshot:10
+I'm going to propose that the
+school opens these rooms for
+students on the weekend.
+###--------
+###Mugshot:10
+I'm not going to lose to
+President Luna!
+###--------
+###Script:15
+###Mugshot:4
+B-Be careful.
+###--------
+###Script:20
+###Mugshot:10
+Is it true there were snakes
+on the loose at Nacys?
+###--------
+###Mugshot:10
+I can't deal with snakes,
+you know. Eek!
+###--------
+###Script:21
+###Mugshot:10
+###--------
+###Mugshot:10
+I always come here early in
+the morning to keep an eye
+out on people's attendance.
+###--------
+###Mugshot:10
+###--------
+###Mugshot:10
+If someone doesn't come,
+they get a big "X" for the
+day from me!
+###--------

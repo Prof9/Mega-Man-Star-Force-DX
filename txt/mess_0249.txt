@@ -1,0 +1,182 @@
+﻿###TextArchive:mess_0249
+###Script:0
+And then, Sunday...
+###--------
+###Script:1
+###Mugshot:Luna
+Hmm, what should I do today?
+###--------
+###Mugshot:Luna
+I know, I'll call up
+Bud and Zack!
+###--------
+###Mugshot:Luna
+After all, I'm going to be
+at some boarding school
+###--------
+###Mugshot:Luna
+who knows where by the
+end of next week...
+###--------
+###Mugshot:Luna
+...*sniffle*...
+###--------
+###Mugshot:Luna
+Well, guess I'll give Bud
+a call first.
+###--------
+###Script:2
+###Mugshot:Luna
+*beep beep beep*
+###--------
+###Mugshot:Luna
+.........
+###--------
+###Script:3
+###Mugshot:Bud
+*yawn*... Hello?
+Oh! Prez!
+###--------
+###Mugshot:Bud
+What's wrong?
+You're calling really early...
+###--------
+###Script:4
+###Mugshot:Luna
+You're free today,
+aren't you?
+###--------
+###Mugshot:Luna
+Bring Zack with you and
+come to my house.
+###--------
+###Script:5
+###Mugshot:Bud
+Eh? Today?
+###--------
+###Mugshot:Bud
+But I've got plans!!
+###--------
+###Mugshot:Bud
+Gonna get some awesome
+pancakes with my mom!
+###--------
+###Script:6
+###Mugshot:Luna
+What awesome pancakes!?
+###--------
+###Mugshot:Luna
+You'd rank pancakes
+higher than me!?
+###--------
+###Script:7
+###Mugshot:Bud
+But I really can't today!
+###--------
+###Mugshot:Bud
+We promised each other to
+do this half a year ago!
+###--------
+###Mugshot:Bud
+I mean, next week I'm
+all up for hanging out...
+###--------
+###Script:8
+###Mugshot:Luna
+Whatever.
+I'm not going to beg you!
+###--------
+###Mugshot:Luna
+Go enjoy your stupid
+pancakes!
+###--------
+###Script:9
+###Mugshot:Bud
+Ah, wait Prez...!
+###--------
+###Script:10
+*beep*
+###--------
+###Script:11
+###Mugshot:Luna
+Hmph, that Bud.
+###--------
+###Mugshot:Luna
+I may not even be around
+next week...
+###--------
+###Mugshot:Luna
+On to Zack!!
+###--------
+###Script:12
+###Mugshot:Luna
+*beep beep beep*
+###--------
+###Mugshot:Luna
+.........
+###--------
+###Script:13
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Hello? Oh, Prez?
+What's wrong?
+###--------
+###Script:14
+###Mugshot:Luna
+Zack, you're free today,
+right?
+###--------
+###Mugshot:Luna
+Come over and hang out
+at my house.
+###--------
+###Script:15
+###Mugshot:Zack
+Um, I'm really sorry, but...
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+I'm attending a seminar about
+stretching to grow taller...
+###--------
+###Mugshot:Zack
+Oh, why don't you invite Bud?
+###--------
+###Script:16
+###Mugshot:Luna
+I get it, I get it!!
+###--------
+###Mugshot:Luna
+Go stretch and get taller
+then! See if I care!!
+###--------
+###Script:17
+*beep*
+###--------
+###Script:18
+###Mugshot:Luna
+What is it with those two...?
+###--------
+###Mugshot:Luna
+Hmm... I know...
+###--------
+###Mugshot:Luna
+Maybe I should go see
+what Geo's up to.
+###--------
+###Mugshot:Luna
+He's probably got nothing
+better to do.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+He'd better be honored to
+get a personal invitation
+from yours truly!
+###--------
+###Mugshot:Luna
+...Hee hee.
+###--------

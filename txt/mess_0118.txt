@@ -1,0 +1,48 @@
+﻿###TextArchive:mess_0118
+###Script:0
+###Mugshot:0
+What in the world
+were you thinking!?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+The twerp ticked me off.
+###--------
+###Mugshot:OmegaXis
+Don't tell me he didn't
+make you mad.
+###--------
+###Script:2
+###Mugshot:0
+W-Well, maybe a little,
+but you went too far!
+###--------
+###Script:3
+###Mugshot:OmegaXis
+You've gotta protect
+yourself, kid.
+###--------
+###Mugshot:OmegaXis
+There isn't anyone else
+who's gonna do it.
+###--------
+###Mugshot:OmegaXis
+That's what I learned
+growing up on Planet FM.
+###--------
+###Script:4
+###Mugshot:0
+###--------
+###Mugshot:0
+That's enough, Mega. I've
+gotta apologize to that
+kid when I see him again.
+###--------
+###Mugshot:0
+Phew, I'm wiped out.
+I'm going to bed.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+.........
+###--------

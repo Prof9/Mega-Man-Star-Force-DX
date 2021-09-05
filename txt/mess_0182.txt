@@ -1,0 +1,291 @@
+﻿###TextArchive:mess_0182
+###Script:0
+Argh, what the hey!?
+###--------
+The Z waves are acting
+up all of a sudden.
+###--------
+If this keeps up, I won't
+get a good readout!!
+###--------
+###Script:1
+###Mugshot:Geo
+Urk...
+###--------
+###Script:2
+###Mugshot:Luna
+Well if it isn't Geo!
+###--------
+###Script:3
+###Mugshot:Geo
+H-Hey... You look like
+you're in a bad mood...
+###--------
+###Mugshot:Geo
+Anything happen?
+###--------
+###Script:4
+###Mugshot:Luna
+Be quiet, you!
+Mind your own business!
+###--------
+###Script:5
+###Mugshot:Bud
+Yeah! Mind your own
+bee's-wax!
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+We got scoped out by
+some creepy old guy
+named Copper just now.
+###--------
+###Mugshot:Bud
+He even checked our
+Transers!
+###--------
+###Script:6
+###Mugshot:Zack
+Bud, you just told him
+everything!
+###--------
+###Mugshot:Bud
+Aaack!!
+###--------
+###Script:7
+###Mugshot:Luna
+Men should keep their
+mouths shut!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Having to show that old man
+what was in my Transer--
+I've never been so humiliated!
+###--------
+###Mugshot:Luna
+Come on, Bud, Zack!
+Let's go.
+###--------
+###Script:8
+###Mugshot:Bud
+Sh-She's really not in
+the best of moods...
+###--------
+###Script:9
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Yeah... Something tells me
+she's not going to let us
+go home any time soon...
+###--------
+###Script:10
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+I feel bad for the Prez,
+but Sonia Strumm's live
+concert is tomorrow...
+###--------
+###Script:11
+###Mugshot:Zack
+Yeah...
+###--------
+###Mugshot:Zack
+I want to get home early
+and rest up.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+We finally got those tickets
+and all, and I really want
+to see her in person.
+###--------
+###Script:12
+###Mugshot:Geo
+Uh, um...
+Who's Sonia?
+###--------
+###Script:13
+###Mugshot:Zack
+You-You don't know who
+she is!?
+###--------
+###Mugshot:Zack
+Sonia Strumm is the hottest
+musician on the charts!
+###--------
+###Mugshot:Zack
+Bud and I are both members
+of her fan club.
+###--------
+###Script:14
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Sonia's going to have a
+concert tomorrow, right
+here in Echo Ridge!
+###--------
+###Mugshot:Bud
+We're gonna cheer with all
+we've got!
+###--------
+###Mugshot:Bud
+And tonight, we're going
+to have star-shaped
+cakes for dessert
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+to commemorate her
+heavenly singing!
+###--------
+###Script:15
+###Mugshot:Geo
+Oh, cool...
+###--------
+###Script:16
+###Mugshot:Zack
+But you saw the
+Prez today.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Whenever she's in a bad
+mood like that, meetings
+last forever...
+###--------
+###Script:17
+###Mugshot:Bud
+Sh-Should we try to make
+a break for it?
+###--------
+###Mugshot:Bud
+But... what'll happen to us
+if we do...?
+###--------
+###Script:18
+###Mugshot:Zack
+Look, Bud.
+###--------
+###Mugshot:Zack
+We can see the Prez
+every day.
+###--------
+###Mugshot:Zack
+But do you think we'll get
+to see Sonia again?
+###--------
+###Script:19
+###Mugshot:Bud
+.<waitSkip>.<waitSkip>.<waitSkip>I'm sure even the Prez'd
+let us go this time!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:20
+###Mugshot:Luna
+What are you two doing!?
+Hurry up!!
+###--------
+###Script:21
+###Mugshot:Bud
+Prez!!
+###--------
+###Script:22
+###Mugshot:Zack
+We're sorry!!
+###--------
+###Script:23
+###Mugshot:Geo
+Those two sure have
+it rough...
+###--------
+###Mugshot:Geo
+.<waitSkip>.<waitSkip>.<waitSkip>Ack!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:24
+###Mugshot:Geo
+This is bad...
+If he sees you in my
+Transer...
+###--------
+###Mugshot:Geo
+Ah, he's coming!!
+###--------
+###Script:25
+###Mugshot:BobCopper
+That's funny. I thought some
+strong Z waves were coming
+from this area, but...
+###--------
+###Mugshot:BobCopper
+Hmm...
+###--------
+###Mugshot:BobCopper
+...Just my imagination?
+###--------
+###Script:26
+###Mugshot:Geo
+Looks like the coast is clear.
+###--------
+###Script:27
+###Mugshot:OmegaXis
+Was that the old Copper
+guy you mentioned?
+###--------
+###Script:28
+###Mugshot:Geo
+Yeah...
+###--------
+###Script:29
+###Mugshot:OmegaXis
+You got some guts, kid,
+keeping our secret.
+###--------
+###Mugshot:OmegaXis
+Wonder if we can dig up
+some info on that guy?
+###--------
+###Script:30
+###Mugshot:Geo
+How are WE going to
+do that?
+###--------
+###Script:31
+###Mugshot:OmegaXis
+By busting into his Transer,
+what else?
+###--------
+###Mugshot:OmegaXis
+Come on, kid!
+###--------
+###Mugshot:Geo
+Man, going into a person's
+Transer again?
+###--------
+###Mugshot:OmegaXis
+Fine, you wanna go ask
+the guy face to face?
+###--------
+###Mugshot:Geo
+Ah, no, that's...
+###--------
+###Mugshot:OmegaXis
+Then going into his Transer
+is the only way.
+###--------
+###Mugshot:Geo
+I-I guess...
+###--------

@@ -1,0 +1,36 @@
+﻿###TextArchive:mess_0493
+###Script:20
+###Mugshot:2
+Weren't you sad after you
+cut our Brother Band!?
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I hope you have learned
+your lesson, and you won't
+do anything like that again!
+###--------
+###Script:21
+###Mugshot:3
+Oh, if I were only as
+strong as you are...
+###--------
+###Script:22
+###Mugshot:4
+I-I'm still weak in the knees...
+###--------
+###Script:30
+###Mugshot:2
+You'd better come back!
+You hear me?
+###--------
+###Script:31
+###Mugshot:3
+I know you'll come through
+for us!
+###--------
+###Script:32
+###Mugshot:4
+Good luck, Geo!!
+###--------

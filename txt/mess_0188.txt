@@ -1,0 +1,151 @@
+﻿###TextArchive:mess_0188
+###Script:0
+###Mugshot:Geo
+Yes, who is it?
+###--------
+###Script:1
+###Mugshot:ChrysGolds
+Sonia! Sonia is missing!
+###--------
+###Script:2
+###Mugshot:ChrysGolds
+Sonia!! Where are you!?
+###--------
+###Script:3
+###Mugshot:Geo
+Um, who are you, mister...?
+###--------
+###Script:4
+###Mugshot:ChrysGolds
+Oh, I did it again!
+###--------
+###Script:5
+###Mugshot:ChrysGolds
+Sorry to surprise you,
+my boy!
+###--------
+###Mugshot:ChrysGolds
+I'm looking for someone,
+uh... um...
+###--------
+###Mugshot:ChrysGolds
+I'm not a thief, so please
+stay calm, yes!?
+###--------
+###Script:6
+###Mugshot:Geo
+So are you looking for a
+kid named Sonia?
+###--------
+###Script:7
+###Mugshot:ChrysGolds
+How did you know I was
+looking for Sonia!?
+###--------
+###Mugshot:ChrysGolds
+Are you hiding her by
+chance!? Hmm!?
+###--------
+###Script:8
+###Mugshot:Geo
+You're the one that kept
+saying, "Sonia."
+###--------
+###Mugshot:Geo
+And, no, I don't know
+where she is.
+###--------
+###Script:9
+###Mugshot:ChrysGolds
+Oh, did I?
+Sorry about that!
+###--------
+###Mugshot:ChrysGolds
+S-So, have you seen
+Sonia Strumm around?
+###--------
+###Mugshot:ChrysGolds
+You know what she looks
+like, yes?
+###--------
+###Script:10
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Well, I know her name,
+but I have no idea what
+she looks like.
+###--------
+###Script:11
+###Mugshot:ChrysGolds
+WHAT!?
+You've never seen her!?
+###--------
+###Mugshot:ChrysGolds
+You need to watch more TV!
+###--------
+###Mugshot:ChrysGolds
+How do you make
+conversation at school
+then??
+###--------
+###Script:12
+###Mugshot:Geo
+.........
+(Um, I don't go to school?)
+###--------
+###Script:13
+###Mugshot:ChrysGolds
+It's OK to worry about
+your own problems, but
+I have to find Sonia!
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Where did she go!?
+We have a live concert
+to do tonight!
+###--------
+###Mugshot:ChrysGolds
+I'm Sonia's manager.
+###--------
+###Mugshot:ChrysGolds
+If you see that girl,
+contact me immediately!
+###--------
+###Script:14
+###Mugshot:Geo
+.........
+###--------
+###Script:15
+###Mugshot:ChrysGolds
+If we cancel the concert,
+the damages would be huge!!
+###--------
+###Mugshot:ChrysGolds
+She must go on stage no
+matter what!!
+###--------
+###Script:16
+###Mugshot:Geo
+Sonia, huh?
+It can't be...
+###--------
+###Mugshot:Geo
+Mega, let's take a walk
+outside.
+###--------
+###Script:17
+###Mugshot:OmegaXis
+You gonna look for your
+sweetie?
+###--------
+###Mugshot:OmegaXis
+Unless you've decided to
+be a fad-follower?
+###--------
+###Script:18
+###Mugshot:Geo
+It's not like that at all!!
+###--------

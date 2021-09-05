@@ -1,0 +1,607 @@
+﻿###TextArchive:mess_0094
+###Script:0
+Class Review
+###--------
+###Script:1
+Echo Elem
+###--------
+###Script:2
+Brother Band
+###--------
+###Script:3
+Luna Platz
+###--------
+###Script:4
+Caution!
+###--------
+###Script:5
+NAZA
+###--------
+###Script:6
+Red Wreckage
+###--------
+###Script:7
+E-News
+###--------
+###Script:8
+BIG WAVE!
+###--------
+###Script:9
+Ken Suther
+###--------
+###Script:10
+Star Force
+###--------
+###Script:11
+PegasusMagic
+###--------
+###Script:12
+Star Force
+###--------
+###Script:13
+Leo Kingdom
+###--------
+###Script:14
+Star Force
+###--------
+###Script:15
+Dragon Sky
+###--------
+###Script:16
+Good Luck!
+###--------
+###Script:17
+Sonia Strumm
+###--------
+###Script:18
+Are you OK?
+###--------
+###Script:19
+Sonia Strumm
+###--------
+###Script:20
+Too bad,huh?
+###--------
+###Script:21
+Sonia Strumm
+###--------
+###Script:22
+Be careful!
+###--------
+###Script:23
+Luna Platz
+###--------
+###Script:24
+Come to lab?
+###--------
+###Script:25
+Aaron Boreal
+###--------
+###Script:28
+Make it home
+###--------
+###Script:29
+Luna Platz
+###--------
+###Script:30
+Go for it!!
+###--------
+###Script:31
+Bud Bison
+###--------
+###Script:32
+Good luck!!
+###--------
+###Script:33
+Zack Temple
+###--------
+###Script:34
+Best Combo
+###--------
+###Script:35
+PegasusMagic
+###--------
+###Script:36
+My power
+###--------
+###Script:37
+Leo Kingdom
+###--------
+###Script:38
+Next test
+###--------
+###Script:39
+Dragon Sky
+###--------
+###Script:40
+E-mail,huh?
+###--------
+###Script:41
+Omega-Xis
+###--------
+###Script:42
+Custm Screen
+###--------
+###Script:43
+Omega-Xis
+###--------
+###Script:44
+Battling
+###--------
+###Script:45
+Omega-Xis
+###--------
+###Script:46
+Shield
+###--------
+###Script:47
+Omega-Xis
+###--------
+###Script:48
+Mega Attack!
+###--------
+###Script:49
+Omega-Xis
+###--------
+###Script:50
+Countering
+###--------
+###Script:51
+Omega-Xis
+###--------
+###Script:52
+NONE
+###--------
+###Script:53
+Anonymous
+###--------
+###Script:54
+Star Cards
+###--------
+###Script:55
+Omega-Xis
+###--------
+###Script:56
+Extra Folder
+###--------
+###Script:57
+Omega-Xis
+###--------
+###Script:58
+NONE
+###--------
+###Script:59
+Anonymous
+###--------
+###Script:60
+Cipher Mail
+###--------
+###Script:61
+Omega-Xis
+###--------
+###Script:114
+Cindy White
+###--------
+###Script:115
+Transer Memo
+###--------
+###Script:116
+QuieroMocard
+###--------
+###Script:117
+Transer Memo
+###--------
+###Script:118
+Joe Hawnt
+###--------
+###Script:119
+Transer Memo
+###--------
+###Script:120
+Iver Gatte
+###--------
+###Script:121
+Transer Memo
+###--------
+###Script:122
+Chase Winde
+###--------
+###Script:123
+Transer Memo
+###--------
+###Script:124
+Juan Mocard
+###--------
+###Script:125
+Transer Memo
+###--------
+###Script:126
+Chatty Ditz
+###--------
+###Script:127
+Transer Memo
+###--------
+###Script:128
+MillieBooney
+###--------
+###Script:129
+Transer Memo
+###--------
+###Script:130
+Sumar Guy
+###--------
+###Script:131
+Transer Memo
+###--------
+###Script:132
+Grace Fulle
+###--------
+###Script:133
+Transer Memo
+###--------
+###Script:134
+Leroy Mann
+###--------
+###Script:135
+Transer Memo
+###--------
+###Script:136
+Swill Waters
+###--------
+###Script:137
+Transer Memo
+###--------
+###Script:138
+Polly Reade
+###--------
+###Script:139
+Transer Memo
+###--------
+###Script:140
+Edgar Knight
+###--------
+###Script:141
+Transer Memo
+###--------
+###Script:142
+Tuggy McGrav
+###--------
+###Script:143
+Transer Memo
+###--------
+###Script:144
+Mira Lookes
+###--------
+###Script:145
+Transer Memo
+###--------
+###Script:146
+SavoryDelejo
+###--------
+###Script:147
+Transer Memo
+###--------
+###Script:148
+Holly Wacher
+###--------
+###Script:149
+Transer Memo
+###--------
+###Script:150
+Blair Loude
+###--------
+###Script:151
+Transer Memo
+###--------
+###Script:152
+Job Goode
+###--------
+###Script:153
+Transer Memo
+###--------
+###Script:154
+Rad Contre
+###--------
+###Script:155
+Transer Memo
+###--------
+###Script:156
+Barry Square
+###--------
+###Script:157
+Transer Memo
+###--------
+###Script:158
+Triv Query
+###--------
+###Script:159
+Transer Memo
+###--------
+###Script:160
+Teresa Tudor
+###--------
+###Script:161
+Transer Memo
+###--------
+###Script:162
+Ema Nesia
+###--------
+###Script:163
+Transer Memo
+###--------
+###Script:164
+Will Knappe
+###--------
+###Script:165
+Transer Memo
+###--------
+###Script:166
+Nadia Kleen
+###--------
+###Script:167
+Transer Memo
+###--------
+###Script:168
+Lei Zeek
+###--------
+###Script:169
+Transer Memo
+###--------
+###Script:170
+Dee Jay
+###--------
+###Script:171
+Transer Memo
+###--------
+###Script:172
+CollinWaytin
+###--------
+###Script:173
+Transer Memo
+###--------
+###Script:174
+Indy Darke
+###--------
+###Script:175
+Transer Memo
+###--------
+###Script:176
+Heidi Rune
+###--------
+###Script:177
+Transer Memo
+###--------
+###Script:178
+Donna Query
+###--------
+###Script:179
+Transer Memo
+###--------
+###Script:180
+RheemaDeller
+###--------
+###Script:181
+Transer Memo
+###--------
+###Script:182
+Annie Olde
+###--------
+###Script:183
+Transer Memo
+###--------
+###Script:184
+Kurt Taylor
+###--------
+###Script:185
+Transer Memo
+###--------
+###Script:186
+Homer Park
+###--------
+###Script:187
+Transer Memo
+###--------
+###Script:188
+Sluger Park
+###--------
+###Script:189
+Transer Memo
+###--------
+###Script:190
+Meala DeVour
+###--------
+###Script:191
+Transer Memo
+###--------
+###Script:192
+Selah Agane
+###--------
+###Script:193
+Transer Memo
+###--------
+###Script:194
+Roy Query
+###--------
+###Script:195
+Transer Memo
+###--------
+###Script:196
+Mead Greene
+###--------
+###Script:197
+Transer Memo
+###--------
+###Script:198
+John Forman
+###--------
+###Script:199
+Transer Memo
+###--------
+###Script:200
+Hope Stelar
+###--------
+###Script:201
+Transer Memo
+###--------
+###Script:202
+Ken Suther
+###--------
+###Script:203
+Transer Memo
+###--------
+###Script:204
+Luna Platz
+###--------
+###Script:205
+Transer Memo
+###--------
+###Script:206
+Bud Bison
+###--------
+###Script:207
+Transer Memo
+###--------
+###Script:208
+Zack Temple
+###--------
+###Script:209
+Transer Memo
+###--------
+###Script:210
+Dummy
+###--------
+###Script:211
+Transer Memo
+###--------
+###Script:212
+Chrys Golds
+###--------
+###Script:213
+Transer Memo
+###--------
+###Script:214
+Dummy
+###--------
+###Script:215
+Transer Memo
+###--------
+###Script:216
+Tom Dubius
+###--------
+###Script:217
+Transer Memo
+###--------
+###Script:218
+Pat Sprigs
+###--------
+###Script:219
+Transer Memo
+###--------
+###Script:220
+Mitch Shepar
+###--------
+###Script:221
+Transer Memo
+###--------
+###Script:222
+Bob Copper
+###--------
+###Script:223
+Transer Memo
+###--------
+###Script:224
+Veil Platz
+###--------
+###Script:225
+Transer Memo
+###--------
+###Script:226
+Vaughn Platz
+###--------
+###Script:227
+Transer Memo
+###--------
+###Script:228
+Prof. Snake
+###--------
+###Script:229
+Transer Memo
+###--------
+###Script:230
+Dummy
+###--------
+###Script:231
+Transer Memo
+###--------
+###Script:232
+Dummy
+###--------
+###Script:233
+Transer Memo
+###--------
+###Script:234
+Sonia Strumm
+###--------
+###Script:235
+Transer Memo
+###--------
+###Script:236
+Aaron Boreal
+###--------
+###Script:237
+Transer Memo
+###--------
+###Script:238
+Congrats!
+###--------
+###Script:239
+L.M.Shin
+###--------
+###Script:240
+Dummy
+###--------
+###Script:241
+Transer Memo
+###--------
+###Script:242
+Dummy
+###--------
+###Script:243
+Transer Memo
+###--------
+###Script:244
+Dummy
+###--------
+###Script:245
+Transer Memo
+###--------
+###Script:246
+Dummy
+###--------
+###Script:247
+Transer Memo
+###--------
+###Script:248
+Dummy
+###--------
+###Script:249
+Transer Memo
+###--------
+###Script:250
+Dummy
+###--------
+###Script:251
+Transer Memo
+###--------
+###Script:252
+Dummy
+###--------
+###Script:253
+Transer Memo
+###--------
+###Script:254
+Dummy
+###--------
+###Script:255
+Transer Memo
+###--------

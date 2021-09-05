@@ -1,0 +1,239 @@
+﻿###TextArchive:mess_0281
+###Script:0
+Geo!
+###--------
+###Script:1
+###Mugshot:0
+Oh, hey Pat!
+###--------
+###Script:2
+###Mugshot:Pat
+What a coincidence, huh?
+###--------
+###Script:3
+###Mugshot:0
+Yeah.
+###--------
+###Script:4
+###Mugshot:Pat
+Are you here shopping?
+###--------
+###Script:5
+###Mugshot:0
+###--------
+###Mugshot:0
+Uh, well, sorta.
+What about you?
+###--------
+###Script:6
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Me...?
+I had something to do here.
+###--------
+###Mugshot:Pat
+Actually, I was wondering
+if we could go to that
+café over there
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+and talk for a little bit...
+If that's OK with you...
+###--------
+###Script:7
+###Mugshot:0
+Um, sure.
+###--------
+###Script:8
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+You know, I want to say
+that lately, you look a bit
+happier, Geo.
+###--------
+###Mugshot:Pat
+Or is it just my imagination?
+###--------
+###Script:9
+###Mugshot:0
+You think?
+I don't really know myself...
+###--------
+###Mugshot:0
+But I've got friends
+now, and school doesn't
+seem so bad.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+So maybe I've changed
+and I'm not the same
+old me anymore.
+###--------
+###Script:10
+###Mugshot:Pat
+You don't have to tell me
+if you don't want,
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+but why didn't you want to
+come to school for so long?
+###--------
+###Script:11
+###Mugshot:0
+Um...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Well, my dad...
+When he disappeared
+after the accident...
+###--------
+###Mugshot:0
+The shock from that was
+too much for me...
+###--------
+###Script:12
+###Mugshot:Pat
+Oh...
+###--------
+###Mugshot:Pat
+I'm sorry, maybe I shouldn't
+have asked...
+###--------
+###Script:13
+###Mugshot:0
+No, it's alright.
+###--------
+###Script:14
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+It's kind of surprising,
+though. My situation is
+kinda like yours, Geo.
+###--------
+###Script:15
+###Mugshot:0
+Huh? It is?
+###--------
+###Script:16
+###Mugshot:Pat
+I also don't have a dad.
+###--------
+###Mugshot:Pat
+But in my case, I'm also
+missing a mom...
+###--------
+###Script:17
+###Mugshot:0
+P-Pat... You don't have
+a mom or a dad?
+###--------
+###Script:18
+###Mugshot:Pat
+I could feel it from the
+first moment we met.
+###--------
+###Mugshot:Pat
+You seemed like you would
+understand me...
+###--------
+###Mugshot:Pat
+I wanted to hear your
+story for so long...
+###--------
+###Mugshot:Pat
+And I wanted to
+tell my story...
+###--------
+###Mugshot:Pat
+...to you.
+###--------
+###Script:19
+A few minutes later...
+###--------
+###Script:20
+###Mugshot:0
+...and Vista Point is right
+by my house.
+###--------
+###Script:21
+###Mugshot:0
+I go there to look up
+at the stars.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+It's the only way I can
+forget the pain of losing
+my dad for just a little while.
+###--------
+###Script:22
+###Mugshot:Pat
+A place where you can
+feel better...
+###--------
+###Mugshot:Pat
+I have a place like that too.
+###--------
+###Script:23
+###Mugshot:0
+Really?
+What's your safe place like?
+###--------
+###Script:24
+###Mugshot:Pat
+Well...
+###--------
+###Mugshot:Pat
+I think it'd be better
+if you saw it yourself.
+###--------
+###Script:25
+###Mugshot:0
+Huh? Now?
+###--------
+###Script:26
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I really want to show it to
+you, as someone who shares
+the same pain as me.
+###--------
+###Script:27
+###Mugshot:0
+Ah... hold on.
+I have something I need
+to take care of first.
+###++++++++
+###Mugshot:0
+Sorry. I'll be right there
+as soon as I'm done.
+###--------
+###Script:28
+###Mugshot:Pat
+Alright...
+I'll go on ahead, then.
+###++++++++
+###Mugshot:Pat
+My place is in a place
+called "Dream Island".
+###--------
+###Mugshot:Pat
+You'll need to take a
+bus to get there.
+###--------
+###Mugshot:Pat
+Well, see you in a bit!
+###--------

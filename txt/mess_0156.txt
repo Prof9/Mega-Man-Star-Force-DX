@@ -1,0 +1,81 @@
+﻿###TextArchive:mess_0156
+###Script:0
+###Mugshot:1
+I finally got to pulse in.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Hey, look over there,
+Geo!
+###--------
+###Script:2
+###Mugshot:1
+What is it?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We're in luck. The SpaceSim
+and this area are connected
+by a Wave Road.
+###--------
+###Mugshot:OmegaXis
+Just beyond there is the
+SpaceSim.
+###--------
+###Script:4
+###Mugshot:1
+But...
+###--------
+###Script:5
+###Mugshot:1
+The road is messed up.
+We can't get there.
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Then we'll just have to
+fix the EM waves.
+###--------
+###Script:7
+###Mugshot:1
+Fix the EM waves?
+But how?
+###--------
+###Script:8
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+First, we should check
+out all the electronics
+in this building!
+###--------
+###Script:9
+###Mugshot:1
+Is that really going to help?
+###--------
+###Mugshot:1
+Besides, can you really
+fix EM waves?
+###--------
+###Script:10
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Think! Is there an electronic
+device around here that would
+draw EM waves into itself?
+###--------
+###Script:11
+###Mugshot:1
+The black hole generator!
+###--------
+###Mugshot:1
+I get it.
+If we check that out...
+###--------
+###Mugshot:1
+But I thought the guy said
+it was broken...
+###--------

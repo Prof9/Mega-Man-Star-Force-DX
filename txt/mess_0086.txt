@@ -1,0 +1,101 @@
+﻿###TextArchive:mess_0086
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+Welcome to
+Veil Platz's Transer.
+Please look around.
+###--------
+###Script:2
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I used to put my work first,
+but now I realize that family
+interaction is important too...
+###--------
+###Script:3
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I used to put my work first,
+but now I realize that family
+interaction is important too...
+###--------
+###Script:10
+###Mugshot:VeilPlatz
+Ever since that incident,
+I've understood the
+importance of family.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I know that I should try
+to do more for Luna,
+###--------
+###Mugshot:VeilPlatz
+but I never was really
+good at... you know...
+Oh, I need help.
+###--------
+###Mugshot:MegaMan
+Family...
+###--------
+###Mugshot:MegaMan
+I wonder if I should
+offer to help her?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+Here we go.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:VeilPlatz
+Ever since that incident,
+I've understood the
+importance of family.
+###--------
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I know that I should try
+to do more for Luna,
+###--------
+###Mugshot:VeilPlatz
+but I never was really
+good at... you know...
+Oh, I need help.
+###--------
+###Script:12
+###Mugshot:OmegaXis
+...
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

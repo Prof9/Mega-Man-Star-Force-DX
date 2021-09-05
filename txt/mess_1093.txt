@@ -1,0 +1,104 @@
+﻿###TextArchive:mess_1093
+###Script:50
+###Mugshot:InfoNavi
+Look over yonder at
+that planet.
+###--------
+###Mugshot:InfoNavi
+What are those rings,
+I wonder.
+###--------
+###Mugshot:InfoNavi
+Be they donuts?
+###--------
+###Mugshot:InfoNavi
+If they are, then large
+amounts of flour was used,
+###--------
+###Mugshot:InfoNavi
+and they should be eaten
+by the "Best By" date.
+###--------
+###Mugshot:InfoNavi
+What!?
+###--------
+###Mugshot:InfoNavi
+Knave! No single Navi can
+eat such a donut!!
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Hmm... How many Navis
+would it take to eat one,
+I wonder?
+###--------
+###Script:51
+###Mugshot:InfoNavi
+Look over yonder at
+that planet.
+###--------
+###Mugshot:InfoNavi
+What are those rings,
+I wonder?
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+Disgusting.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+What is all this rubbish that
+interrupts my thoughts?
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+!
+###--------
+###Mugshot:InfoNavi
+Could it be that this dust...
+###--------
+###Mugshot:InfoNavi
+is a clue to the composition
+of those rings?
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+...
+###--------
+###Mugshot:InfoNavi
+How absolutely disgusting.
+###--------
+###Script:52
+###Mugshot:MrHertz
+*WHOO BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+ZERO G! ZERO G!
+###--------
+###Mugshot:MrHertz
+*WHOOSH!*
+IT'S SO MUCH FUN!
+###--------
+###Script:53
+###Mugshot:MrHertz
+YAY! *BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+THE HUMANS ARE DANCING
+SO FESTIVELY!
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I'VE GOTTA DANCE JUST
+AS HARD!
+*WHOOOOOSH!*
+###--------

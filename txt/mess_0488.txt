@@ -1,0 +1,1144 @@
+﻿###TextArchive:mess_0488
+###Script:0
+###Mugshot:2
+Dude! How'd you get
+back here!?
+###--------
+###Script:5
+###Mugshot:4
+That thing over there
+is a Card Trader.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+Put in a few Battle Cards
+you don't want anymore, and
+you'll get a new one in return.
+###--------
+###Script:10
+###Mugshot:Boy
+...Huh?
+###--------
+###Mugshot:Boy
+How did you know that
+I'm crazy about cards?
+###--------
+###Mugshot:Boy
+I'm absolutely nuts about
+all kinds of them.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+The card I want the most
+right now is... "<printCard>".
+###Command:printCard card=100
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+If you can give me
+that card, I'll give you
+something in exchange.
+###--------
+###Script:11
+###Mugshot:Boy
+I'm absolutely nuts about
+all kinds of them.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+Right now the one I want
+the most is... "<printCard>".
+###Command:printCard card=100
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+If you can give me
+that card, I'll give you
+something in exchange.
+###--------
+###Script:12
+###Mugshot:Boy
+Oh? Ohh!!
+###--------
+###Mugshot:Boy
+You have the card I'm
+looking for!?
+###--------
+###Mugshot:Boy
+Gimmie! Please!
+I'll give you something good!
+###--------
+<positionOptionFromCenter><optionText>  Give  <optionText>  Don't
+###Command:positionOptionFromCenter width=82
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+Geo gave:
+"<printCard>"
+to the boy!
+###Command:printCard card=100
+###--------
+###Mugshot:Boy
+Yes! Thanks man!
+###--------
+###Mugshot:Boy
+Here's what I promised you!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=32
+###--------
+###Mugshot:Boy
+Thanks to you my collection
+is even better!
+###--------
+###Script:13
+###Mugshot:Boy
+Awww, man!
+###--------
+###Script:14
+###Mugshot:Boy
+Thanks to you my collection
+is even better!
+###--------
+###Script:20
+###Mugshot:2
+Aloha!
+###--------
+###Mugshot:2
+Hey, listen up!
+###--------
+###Mugshot:2
+You may not be able to tell,
+but I'm a surfer!
+###--------
+###Mugshot:2
+Eh? I look like a surfer
+to you?
+###--------
+###Mugshot:2
+Well, maybe just a little.
+Ha ha ha.
+###--------
+###Mugshot:2
+I love riding waves more
+than anything.
+###--------
+###Mugshot:2
+Even the cards I collect are
+the ones that make waves!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+But, there is one card I
+haven't been able to get
+my hands on,
+###--------
+###Mugshot:2
+and that's the
+"<printCard>" card.
+###Command:printCard card=57
+###--------
+###Mugshot:2
+I wonder if there's any
+way to get one?
+###--------
+###Mugshot:2
+I mean, even stores have
+a hard time getting them!
+###--------
+###Script:21
+###Mugshot:2
+I love riding waves more
+than anything.
+###--------
+###Mugshot:2
+Even the cards I collect are
+the ones that make waves!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+But, there is one card I
+haven't been able to get
+my hands on,
+###--------
+###Mugshot:2
+and that's the
+"<printCard>" card.
+###Command:printCard card=57
+###--------
+###Mugshot:2
+I wonder if there's any
+way to get one?
+###--------
+###Mugshot:2
+I mean, even stores have
+a hard time getting them!
+###--------
+###Script:22
+###Mugshot:2
+Th-That card!
+Is that...? It is!!
+###--------
+###Mugshot:2
+"<printCard>"!!
+###Command:printCard card=57
+###--------
+###Mugshot:2
+Please say you're gonna
+give it to me!
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:2
+Ohh, dude! Thanks!
+###--------
+###Mugshot:2
+Here, let me give you this!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Mugshot:2
+Now every day is gonna
+be summer for me!
+Thanks!
+###--------
+###Script:23
+###Mugshot:2
+Bummer, dude.
+###--------
+###Script:24
+###Mugshot:2
+Remember to catch a
+wave today!
+###--------
+###Script:51
+###Mugshot:11
+Hey, you!!
+###--------
+###Mugshot:11
+I want you to fight me!!
+###--------
+###Mugshot:0
+W-What?
+What's your problem?
+###--------
+###Mugshot:11
+Don't look down on me
+'cause you think I'm a kid!
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+I can tell what you're hiding!
+You've got an FM-ian living
+with you, right?
+###--------
+###Mugshot:0
+How did you know that!?
+###--------
+###Mugshot:ClaudPincer
+###--------
+###Mugshot:ClaudPincer
+Heh heh... You and me,
+we're the same.
+###--------
+###Mugshot:ClaudPincer
+###--------
+###Mugshot:ClaudPincer
+I've got this FM-ian named
+Cancer who's been living in my
+Transer since a while back.
+###--------
+###Mugshot:ClaudPincer
+That means that I can
+Wave Change too!
+###--------
+###Mugshot:ClaudPincer
+So, how about a battle?
+###--------
+###Mugshot:ClaudPincer
+Let's see, where should
+we hold it? Oh, I know!
+###--------
+###Mugshot:ClaudPincer
+How about the AMAKEN
+foyer Wave Road?
+###--------
+###Mugshot:ClaudPincer
+I'll be waiting for you!!
+###--------
+###Script:52
+###Mugshot:11
+###--------
+###Mugshot:11
+I can Wave Change too!
+So let's battle!
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+Meet me on the AMAKEN
+foyer Wave Road.
+I'll be waiting for you!!
+###--------
+###Script:53
+###Mugshot:11
+I'm Claud Pincer and I'm
+in 3rd grade!
+###--------
+###Mugshot:11
+...Hey, you, over there!
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+Don't think that just
+'cause I'm 3rd grade, you
+can treat me like a kid!
+###--------
+###Script:70
+It's some kind of robot...
+I think?
+###--------
+###Mugshot:Geo
+Hey, Mr. Suther,
+what's this robot?
+###--------
+###Mugshot:KenSuther
+Caught your eye, did it?
+###--------
+###Mugshot:KenSuther
+That, my friend, is a
+store assistant robot.
+Totally rad, right?
+###--------
+###Mugshot:KenSuther
+I was driftin' around town
+the other day when I saw
+it at the junk shop.
+###--------
+###Mugshot:KenSuther
+It was destiny, I think!
+###--------
+###Mugshot:KenSuther
+Doesn't it just scream
+"vintage"?
+###--------
+###Script:71
+###Mugshot:OmegaXis
+("Vintage"? Looks more
+like "junk" to me.)
+###--------
+###Script:72
+###Mugshot:Geo
+It doesn't seem like it's
+working right now...
+###--------
+###Mugshot:KenSuther
+Yeah...
+That's just it, man.
+###--------
+###Mugshot:KenSuther
+Thing is, this puppy needs
+a "<printItem>" to come alive.
+###Command:printItem item=84
+###--------
+###Mugshot:KenSuther
+I ordered one a while ago,
+but it hasn't arrived.
+###--------
+###Mugshot:KenSuther
+Maybe the guy got swept
+away in the current...
+###--------
+###Mugshot:KenSuther
+But I can't just leave
+the store and look
+for him, you dig?
+###--------
+###Mugshot:KenSuther
+And leave all my customers
+stranded here?
+###--------
+###Mugshot:KenSuther
+Actually...
+You wanna do me
+a solid, dude?
+###--------
+###Mugshot:Geo
+(Hmm... Should I help Ken?)
+
+
+###--------
+###Mugshot:Geo
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:KenSuther
+I feel you, man.
+Got places to be, right?
+###--------
+###Mugshot:KenSuther
+I'll just be here
+singing the blues...
+###--------
+###Script:73
+###Mugshot:KenSuther
+Far out!
+You're the bomb!
+###--------
+###Mugshot:KenSuther
+###--------
+###Mugshot:KenSuther
+Delivery man said he'd be
+surfin' on over to AMAKEN
+first to offload some stuff.
+###--------
+###Mugshot:KenSuther
+Might be a good place to
+have a look-see, yeah?
+###--------
+###Mugshot:KenSuther
+I'll be here if you need me.
+I'm countin' on you!
+###--------
+###Script:74
+###--------
+It's the store assistant
+robot, but it's not doing
+much assisting right now.
+###--------
+###Mugshot:KenSuther
+###--------
+###Mugshot:KenSuther
+Delivery man said he'd be
+surfin' on over to AMAKEN
+first to offload some stuff.
+###--------
+###Mugshot:KenSuther
+Might be a good place to
+have a look-see, yeah?
+###--------
+###Script:75
+###Mugshot:KenSuther
+Hey, isn't that?
+###--------
+###Mugshot:KenSuther
+Cowabunga!
+You got the "<printItem>"!
+###Command:printItem item=84
+###--------
+###Mugshot:KenSuther
+Can you install it for me?
+Me and machines,
+###--------
+###Mugshot:KenSuther
+we don't speak the
+same language, man.
+###--------
+###Mugshot:KenSuther
+You're good with
+gadgets, right?
+###--------
+###Mugshot:Geo
+OK, just gotta put this
+right around.<wait>.<wait>.<wait> here.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:Geo
+And.<wait>.<wait>.<wait> there!
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+Geo installed:
+"<printItem>"!!
+###Command:printItem item=84
+###--------
+.<wait>.<wait>.<wait>.<wait>.<wait>.<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Mugshot:Geo
+Well...
+Not much is happening...
+###--------
+###Mugshot:KenSuther
+Guess it was a dud,
+after all.
+###--------
+###Mugshot:KenSuther
+Those <printItem>s are really
+hard to come by these days.
+###Command:printItem item=84
+###--------
+###Mugshot:KenSuther
+Man...
+Big time bummer, dude!
+###--------
+###Mugshot:Geo
+Let me take a look again...
+###--------
+###Mugshot:Geo
+.<wait>.<wait>.<wait>
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Script:76
+###Mugshot:OmegaXis
+(Hey, check it...
+The data on this chip
+was wiped.)
+###--------
+###Mugshot:OmegaXis
+(It must've been lying in
+the open for a while.)
+###--------
+###Mugshot:OmegaXis
+(You don't think...)
+###--------
+###Mugshot:Geo
+(Maybe someone came by
+and stole the data?)
+###--------
+###Mugshot:Geo
+(I guess I'd better check
+at AMAKEN again...)
+###--------
+###Script:77
+###Mugshot:Geo
+(Strange...
+There's no data on it.
+###--------
+###Mugshot:Geo
+(It was probably lying in
+the open for a while.)
+###--------
+###Mugshot:Geo
+(Maybe someone came by
+and stole the data?)
+###--------
+###Mugshot:Geo
+(I guess I'd better check
+at AMAKEN again...)
+###--------
+###Script:79
+###--------
+It's the store assistant
+robot, but it's not doing
+much assisting right now.
+###--------
+(Someone might've stolen
+the Navi Chip data.)
+###--------
+(I'd better check at
+AMAKEN again...)
+###--------
+###Script:80
+###--------
+It's the store assistant
+robot, but it's not doing
+much assisting right now.
+###--------
+###Mugshot:KenSuther
+This puppy needs a
+"<printItem>" to come alive.
+###Command:printItem item=84
+###--------
+###Mugshot:KenSuther
+I ordered one a while ago,
+but it hasn't arrived.
+###--------
+###Mugshot:KenSuther
+Maybe the guy got swept
+away in the current...
+###--------
+###Mugshot:KenSuther
+But I can't just leave
+the store and look
+for him, you dig?
+###--------
+###Mugshot:KenSuther
+And leave all my customers
+stranded here?
+###--------
+###Mugshot:KenSuther
+So...
+You wanna do me
+a solid, dude?
+###--------
+###Mugshot:Geo
+(Hmm... Should I help Ken?)
+
+
+###--------
+###Mugshot:Geo
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:KenSuther
+I feel you, man.
+Got places to be, right?
+###--------
+###Mugshot:KenSuther
+I'll just be here
+singing the blues...
+###--------
+###Script:90
+###Mugshot:MrFamous
+<optionButtonWide><optionButtonWide>Hey there, Geo!
+What can I do for you?
+###Command:optionButtonWide up=1 down=1 left=0 right=0 string="Battle tips"
+###Command:optionButtonWide up=0 down=0 left=1 right=1 string="Power Up data"
+###--------
+###Mugshot:MrFamous
+See you around, then!
+###--------
+###Script:91
+###Mugshot:MrFamous
+Hey there, Geo!
+###--------
+###Mugshot:MrFamous
+What's my favorite
+Blue Bomber up to today?
+###--------
+###Mugshot:Geo
+...!?
+###--------
+###Mugshot:MrFamous
+Heh heh. I have my
+ways of knowing.
+###++++++++
+###Mugshot:MrFamous
+I AM an electronic now,
+after all.
+###--------
+###Mugshot:MrFamous
+Don't worry, your
+secret's safe with me!
+###--------
+###Script:92
+###Mugshot:OmegaXis
+(Wh-Who IS this guy!?)
+###--------
+###Script:93
+###Mugshot:MrFamous
+Let me properly thank
+you for helping earlier.
+###--------
+###Mugshot:MrFamous
+Here's an item that
+should be pretty useful.
+###--------
+Geo got:
+"Power Up"!!
+###--------
+###Mugshot:MrFamous
+Power Up data boosts
+your stats and abilities.
+###--------
+###Mugshot:MrFamous
+Plus, you'll start battles
+in Star Force form!
+###--------
+###Mugshot:MrFamous
+You can turn your
+Power Up data ON/OFF
+from the Mega screen.
+###--------
+###Mugshot:MrFamous
+Say, have you been
+working on your Database?
+###--------
+###Mugshot:MrFamous
+###--------
+###Mugshot:MrFamous
+As you record more Counter
+hits in it, I'll be able to
+increase your Power Up level.
+###--------
+###Script:94
+###Mugshot:MrFamous
+Let's see... You've
+deleted <printBuffer> enemies,
+###Command:printBuffer buffer=0 minLength=3 padMode=noPad
+###--------
+###Mugshot:MrFamous
+and landed a Counter hit
+on <printBuffer> enemies.
+###Command:printBuffer buffer=1 minLength=3 padMode=noPad
+###--------
+###Script:95
+OK!
+I'll set your Power Up data
+to Pegasus Lv. <printBuffer>!
+###Command:printBuffer buffer=2 minLength=3 padMode=noPad
+###--------
+###Script:96
+OK!
+I'll set your Power Up data
+to Leo Lv. <printBuffer>!
+###Command:printBuffer buffer=2 minLength=3 padMode=noPad
+###--------
+###Script:97
+OK!
+I'll set your Power Up data
+to Dragon Lv. <printBuffer>!
+###Command:printBuffer buffer=2 minLength=3 padMode=noPad
+###--------
+###Script:98
+Nice job!
+Keep filling up that
+Database!
+###--------
+###Script:99
+Power Up data
+has been updated!<wait>
+###Command:wait frames=30
+###--------
+###Mugshot:MrFamous
+Keep filling up that
+Database!
+###--------
+###Script:100
+###Mugshot:MrFamous
+###--------
+###Mugshot:MrFamous
+Let me give you some
+useful battling advice!
+###--------
+###Script:101
+###Mugshot:MrFamous
+Normally, you can't hit an
+enemy who is flashing.
+###++++++++
+###Mugshot:MrFamous
+...Actually, there are
+certain cards that
+can hit even then!
+###++++++++
+###Mugshot:MrFamous
+For example, the GhostPulse
+and VolticEye cards...
+###--------
+###Script:102
+###Mugshot:MrFamous
+MonoSword has a strong
+shield when you're not
+in its column.
+###++++++++
+###Mugshot:MrFamous
+However, it has one
+glaring weakness!
+Hit it with an attack
+###++++++++
+###Mugshot:MrFamous
+that deals breaking damage,
+and you can delete it
+instantly, regardless of HP!
+###--------
+###Script:103
+###Mugshot:MrFamous
+Freezing an enemy doesn't
+just stop it from moving.
+###++++++++
+###Mugshot:MrFamous
+If you hit a frozen enemy
+with an attack that
+deals breaking damage,
+###++++++++
+###Mugshot:MrFamous
+the damage taken by
+the enemy will be doubled!
+###--------
+###Script:104
+###Mugshot:MrFamous
+Did you know that using
+an Elec Elemental attack
+will do double damage
+###++++++++
+###Mugshot:MrFamous
+if you hit an enemy which
+is trapped in a bubble?
+###++++++++
+###Mugshot:MrFamous
+Try it on an Aqua
+Elemental enemy for
+even more damage!
+###--------
+###Script:105
+###Mugshot:MrFamous
+There aren't that many
+attacks that can freeze
+enemies.
+###++++++++
+###Mugshot:MrFamous
+But if the enemy stands
+on an ice panel, any Aqua
+attack will freeze it!
+###--------
+###Script:106
+###Mugshot:MrFamous
+Normally, when you hit an
+enemy with a strong attack,
+they start flashing, right?
+###++++++++
+###Mugshot:MrFamous
+Actually, Wood Elemental
+attacks will not cause
+the enemy to flash!
+###++++++++
+###Mugshot:MrFamous
+Try it when you want
+to pull off a combo!
+###--------
+###Script:107
+###Mugshot:MrFamous
+You can use a wind attack
+to instantly blow away an
+enemy's Barrier or Aura!
+###++++++++
+###Mugshot:MrFamous
+Make sure to keep some
+wind cards in your Folder
+for head-to-head matches.
+###--------
+###Script:108
+###Mugshot:MrFamous
+Did you know that a Best
+Combo doesn't just record
+the cards you used?
+###++++++++
+###Mugshot:MrFamous
+It also records the
+panel the enemy
+was standing on,
+###++++++++
+###Mugshot:MrFamous
+as well as their
+abnormal status at
+the time of the hit.
+###++++++++
+###Mugshot:MrFamous
+So you might be able
+to use certain Charged
+Shots to great effect...
+###--------
+###Script:109
+###Mugshot:MrFamous
+Some cards which cause
+abnormal status have
+a longer lasting effect
+###++++++++
+###Mugshot:MrFamous
+when you use a higher
+level version of the card.
+###++++++++
+###Mugshot:MrFamous
+That goes for Star
+Powers, too!
+###--------
+###Script:110
+###Mugshot:MrFamous
+If you give an enemy an
+HP bug multiple times,
+###++++++++
+###Mugshot:MrFamous
+the rate of HP drain
+will increase!
+###++++++++
+###Mugshot:MrFamous
+Combine it with poison
+panels and the damage
+will really add up!
+###--------
+###Script:111
+###Mugshot:MrFamous
+You know, there's another
+way to use summon cards.
+###++++++++
+###Mugshot:MrFamous
+If you use the
+Bombalizer card, all
+obstacles on the field
+###++++++++
+###Mugshot:MrFamous
+will explode and deal major
+damage to nearby enemies!
+###--------
+###Script:112
+###Mugshot:MrFamous
+The SpiritFury card
+has an extra effect
+based on the element:
+###++++++++
+###Mugshot:MrFamous
+Aqua = freeze,
+Elec = paralyze,
+Wood = confuse.
+###++++++++
+###Mugshot:MrFamous
+Use it to catch the
+opponent off guard!
+###--------
+###Script:113
+###Mugshot:MrFamous
+If your opponent uses
+a screen-dimming card,
+###++++++++
+###Mugshot:MrFamous
+and you have your
+own screen-dimming
+card queued up,
+###++++++++
+###Mugshot:MrFamous
+if you press the
+A Button, your card
+will be used first!
+###++++++++
+###Mugshot:MrFamous
+This is known as
+"cutting in"!
+###--------
+###Script:114
+###Mugshot:MrFamous
+FireSrch and similar
+Sub Cards have the
+added effect of
+###++++++++
+###Mugshot:MrFamous
+increasing the rate at
+which viruses appear,
+###++++++++
+###Mugshot:MrFamous
+even if they're not
+of the same element.
+###++++++++
+###Mugshot:MrFamous
+Also, if you combine
+any such Sub Card
+with a Cloaker,
+###++++++++
+###Mugshot:MrFamous
+you can easily find the
+ghosts of FM-ians that
+roam the Wave Road.
+###--------
+###Script:115
+###Mugshot:MrFamous
+Whenever you use
+the Mega Attack,
+###++++++++
+###Mugshot:MrFamous
+it will reset the charge
+of the Mega Buster.
+###++++++++
+###Mugshot:MrFamous
+Sometimes, it's better
+to use a card without
+locking on for a combo!
+###--------
+###Script:116
+###Mugshot:MrFamous
+Super Armor doesn't just
+stop you from flinching
+when you get hit.
+###++++++++
+###Mugshot:MrFamous
+It also prevents your
+Busting Level from
+dropping because of it!
+###++++++++
+###Mugshot:MrFamous
+When fighting enemies that
+are difficult to evade,
+it's a must-have.
+###++++++++
+###Mugshot:MrFamous
+Be careful with enemies
+that cause paralysis,
+freezing or bubble, though!
+###++++++++
+###Mugshot:MrFamous
+Being stunned by abnormal
+status will still lower your
+Busting Level.
+###--------
+###Script:117
+###Mugshot:MrFamous
+After you block an enemy
+attack with the shield,
+###++++++++
+###Mugshot:MrFamous
+you can cancel out
+of it by performing
+another action.
+###++++++++
+###Mugshot:MrFamous
+If you cancel by attacking,
+this also eliminates the
+cooldown on your shield!
+###++++++++
+###Mugshot:MrFamous
+Remember this when you're
+faced with enemies that
+won't let up their attacks!
+###--------
+###Script:118
+###Mugshot:MrFamous
+Have you found any
+SP level Mega Cards?
+###++++++++
+###Mugshot:MrFamous
+You know, the Attack Power
+of those cards goes up
+###++++++++
+###Mugshot:MrFamous
+when you defeat SP bosses
+with a fast Delete Time!
+###++++++++
+###Mugshot:MrFamous
+Try to aim for less than
+10 seconds to achieve the
+highest Attack Power!
+###--------
+###Script:119
+###Mugshot:MrFamous
+Certain viruses use
+song attacks to aid their
+allies and trip you up.
+###++++++++
+###Mugshot:MrFamous
+The solution?
+Use a Barrier!
+###++++++++
+###Mugshot:MrFamous
+A Barrier doesn't just
+block damage, but
+abnormal status as well.
+###--------
+###Script:120
+###Mugshot:MrFamous
+Some Mega Weapons cause
+abnormal status on enemies
+you hit with a Charged Shot.
+###++++++++
+###Mugshot:MrFamous
+Be sure to try out every
+new Mega Weapon you find.
+You might just be surprised!
+###++++++++
+###Mugshot:MrFamous
+Oh, but it doesn't work while
+you're in Star Force form!
+###--------
+###Script:121
+###Mugshot:MrFamous
+Fire attacks do twice the
+damage when the enemy is
+standing on a grass panel!
+###++++++++
+###Mugshot:MrFamous
+Try it on a Wood
+Elemental enemy to
+really pile on the damage!
+###--------
+###Script:122
+###Mugshot:MrFamous
+You can get rid of
+abnormal status by changing
+into a Star Force form!
+###++++++++
+###Mugshot:MrFamous
+This works even when
+you're already in the
+same form.
+###++++++++
+###Mugshot:MrFamous
+It can really save your
+bacon in a pinch!
+###--------
+###Script:123
+###Mugshot:MrFamous
+If you're trying to get
+Counters for the Database,
+###++++++++
+###Mugshot:MrFamous
+try using AirSpread or
+StickyRain cards, which
+have a rapid fire rate.
+###++++++++
+###Mugshot:MrFamous
+This will greatly increase
+your chances of scoring
+a Counter hit!
+###--------
+###Script:124
+###Mugshot:MrFamous
+Listen up! I'm going
+to tell you a secret...
+###++++++++
+###Mugshot:MrFamous
+NGAMEMA
+RESCAFROT
+###++++++++
+###Mugshot:MrFamous
+Remember those words!
+###--------
+###Script:125
+###Mugshot:MrFamous
+When an enemy hits you
+with paralysis, freezing
+or bubble, don't give up!
+###++++++++
+###Mugshot:MrFamous
+If you rapidly press
+the +Control Pad, ABXY
+Buttons or LR Buttons,
+###++++++++
+###Mugshot:MrFamous
+you'll break out of the
+effect more quickly!
+###--------
+###Script:200
+###Mugshot:MrHertz
+<optionButtonSmall><optionButtonSmall>HEY, TAKE A LOOK AT
+THESE GOODS.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+PLEASE COME BACK AGAIN
+SOMETIME!
+###--------
+###Script:202
+###Mugshot:MrHertz
+SORRY, I'M ALL SOLD OUT.
+###--------

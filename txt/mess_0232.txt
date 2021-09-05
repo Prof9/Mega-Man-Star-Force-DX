@@ -1,0 +1,111 @@
+﻿###TextArchive:mess_0232
+###Script:0
+###Mugshot:2
+###--------
+###Mugshot:2
+I can't believe it...
+They still believe in me...
+###--------
+###Mugshot:2
+This horrible person I've
+become...
+###--------
+###Script:1
+###Mugshot:Libra
+H-Hey! What do you think
+you're doing!?
+###--------
+###Script:2
+###Mugshot:2
+I've been a fool...
+###--------
+###Mugshot:2
+I can't face the kids...
+Not anymore...
+###--------
+###Script:3
+###Mugshot:Libra
+And what about your
+own kids?
+###--------
+###Mugshot:Libra
+You gonna just let
+them starve?
+###--------
+###Script:4
+###Mugshot:2
+No...
+###--------
+###Mugshot:2
+I must protect them all.
+###--------
+###Script:5
+###Mugshot:Libra
+What are you saying!?
+Have you lost it?
+###--------
+###Script:6
+###Mugshot:2
+I will continue being a
+teacher.
+###--------
+###Mugshot:2
+But I won't give up on
+my ideals either.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+What I lacked was the
+resolve to see my
+philosophy through.
+###--------
+###Mugshot:2
+I realized that after seeing
+the kids' kindness.
+###--------
+###Script:7
+###Mugshot:Libra
+But I told you!
+It's impossible!
+###--------
+###Script:8
+###Mugshot:2
+###--------
+###Mugshot:2
+It might be, but the important
+thing is to keep on putting
+all you've got into something.
+###--------
+###Mugshot:2
+If you keep on trying,
+even the impossible
+becomes possible.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+And I have a duty to
+pass that idea on as
+long as I live.
+###--------
+###Mugshot:2
+It's my duty as a father
+and as a teacher!
+###--------
+###Script:9
+###Mugshot:Libra
+N-Nooooooooooo!!
+###--------
+###Script:10
+###Mugshot:0
+He's back to his usual self.
+###--------
+###Script:11
+###Mugshot:OmegaXis
+He gave Libra the boot!
+###--------
+###Mugshot:OmegaXis
+Alright! Come on, Geo.
+Let's get going!
+###--------

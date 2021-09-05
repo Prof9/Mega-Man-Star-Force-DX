@@ -1,0 +1,45 @@
+﻿###TextArchive:mess_0803
+###Script:0
+###Mugshot:MrHertz
+I'M SO LONELY...
+###--------
+###Mugshot:MrHertz
+ALL ALONE IN SPACE...
+ARE YOU LONELY TOO?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:MrHertz
+OH, I'M SORRY TO
+HEAR THAT.
+###--------
+###Mugshot:MrHertz
+PLEASE DON'T FEEL
+SO LONELY.
+###--------
+###Script:1
+###Mugshot:MrHertz
+I AM HERE...
+###--------
+###Script:2
+###Mugshot:MrHertz
+OH...
+###--------
+###Mugshot:MrHertz
+IF YOU WOULDN'T MIND,
+PLEASE ACCEPT THIS...
+###--------
+###Mugshot:MrHertz
+IT'S PROOF THAT
+I AM HERE...
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=79
+###--------
+###Mugshot:MrHertz
+I AM HERE...
+###--------

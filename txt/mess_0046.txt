@@ -1,0 +1,97 @@
+﻿###TextArchive:mess_0046
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:BusinessMan
+Yooo!
+Welcome to my Transer.
+###--------
+###Script:3
+###Mugshot:BusinessMan
+Yooo!
+Lately I just feel
+so thirsty.
+###--------
+###Script:4
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Ohh...
+I'm sooo parched!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+But I'm fed up with the
+selection here in these
+vending machines...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Are you seriously considering
+helping this guy?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+You can't really be serious...
+###--------
+###Mugshot:OmegaXis
+Oh well, let's go see what
+we can do for him.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Yeah, let's just let
+him shrivel up.
+###--------
+###Script:6
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Ohh...
+I'm sooo parched!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+But I'm fed up with the
+selection here in these
+vending machines...
+###--------
+###Script:7
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Aaah...
+That's nice and refreshing!
+###--------
+###Mugshot:BusinessMan
+Sour Soda tastes great
+going down.
+###--------
+###Mugshot:BusinessMan
+I can't bear to disobey
+my thirst!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

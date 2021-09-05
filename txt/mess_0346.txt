@@ -1,0 +1,153 @@
+﻿###TextArchive:mess_0346
+###Script:0
+###Mugshot:0
+Dad... I'm going to where
+you are now...
+###--------
+###Mugshot:0
+Come on, Mega.
+Let's go.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Right, let's go!
+###--------
+###Script:2
+###Mugshot:0
+Ack!
+###--------
+###Script:3
+###Mugshot:0
+Wh-What are you all
+doing here?
+###--------
+###Script:4
+###Mugshot:2
+We got a call from
+Mr. Boreal.
+###--------
+###Mugshot:2
+Are you really going to the
+space station?
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+You shouldn't have to go!
+Can't the adults do
+anything!?
+###--------
+###Script:5
+###Mugshot:3
+###--------
+###Mugshot:3
+I know you're Mega Man,
+but going into space is
+too much, even for you!
+###--------
+###Script:6
+###Mugshot:4
+That's right!
+###--------
+###Mugshot:4
+Won't you please rethink this?
+###--------
+###Script:7
+###Mugshot:0
+###--------
+###Mugshot:0
+Everyone...
+Thanks for worrying.
+###--------
+###Mugshot:0
+I know it might be a
+fight that I can't win,
+but I have to go.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+It may be sad, but if I
+fight, and spare someone
+that sadness in the end,
+###--------
+###Mugshot:0
+then I have to at
+least try.
+###--------
+###Mugshot:0
+And that's why I have
+to go.
+###--------
+###Script:8
+###Mugshot:3
+Nooo!
+That speech was too cool!
+###--------
+###Mugshot:3
+I can't counter that!
+###--------
+###Script:9
+###Mugshot:4
+He's a real man.
+###--------
+###Script:10
+###Mugshot:2
+......Hmph!
+###--------
+###Mugshot:2
+So nothing we say can
+change your mind!?
+###--------
+###Script:11
+###Mugshot:0
+Yeah...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+But I'm going to promise
+you guys the same thing
+I promised Mr. Boreal.
+###--------
+###Mugshot:0
+I'll come back alive!
+You can count on that!
+###--------
+###Script:12
+###Mugshot:3
+Geo...
+Alright, I believe in you!
+###--------
+###Mugshot:3
+You're gonna save the world!
+###--------
+###Script:13
+###Mugshot:4
+I believe in you too!
+###--------
+###Script:14
+###Mugshot:2
+###--------
+###Mugshot:2
+W-Well, I'm going to worry
+about you, but only a
+little, and as a Brother!
+###--------
+###Script:15
+###Mugshot:2
+...*sniffle*...
+###--------
+###Mugshot:2
+So you'd better come back,
+you hear!?
+###--------
+###Script:16
+###Mugshot:0
+I hear you.
+###--------
+###Script:17
+###Mugshot:0
+Thanks, everyone.
+I'm off!
+###--------

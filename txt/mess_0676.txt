@@ -1,0 +1,12 @@
+﻿###TextArchive:mess_0676
+###Script:0
+YOU HAVE CLEARED ALL
+THE STAGES...
+###--------
+WELL DONE!!
+###--------
+###Script:1
+TO HE WHO CLEARS ALL,
+THE ROAD SHALL BE
+OPENED.
+###--------

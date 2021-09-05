@@ -1,0 +1,180 @@
+﻿###TextArchive:mess_0195
+###Script:0
+###Mugshot:OmegaXis
+(Hey, there's someone
+coming, kid.)
+###--------
+###Mugshot:OmegaXis
+(Be careful and stay
+on your guard.)
+###--------
+###Script:1
+###Mugshot:BobCopper
+You two, did anything odd
+happen in this area?
+###--------
+###Mugshot:BobCopper
+I found a large amount
+of Z waves,
+###--------
+###Mugshot:BobCopper
+but when I got here,
+there wasn't anything
+out of place.
+###--------
+###Script:2
+###Mugshot:Bud
+No, nothing's happened
+around here, pops.
+###--------
+###Script:3
+###Mugshot:Zack
+But more importantly,
+you're the one that put
+the Prez in a bad mood.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+And thanks to you, we
+got into so much trouble!!
+###--------
+###Script:4
+###Mugshot:BobCopper
+I was just doing my job and
+being true to my duty.
+###--------
+###Mugshot:BobCopper
+...Hmm!?
+###--------
+###Script:5
+###Mugshot:BobCopper
+The Z wave levels are
+skyrocketing!
+###--------
+###Mugshot:BobCopper
+It's coming from over there!!
+###--------
+###Script:6
+###Mugshot:Zack
+Are you alright?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+What in the!?
+###--------
+###Mugshot:OmegaXis
+Geo!
+Put on your Visualizer!
+###--------
+###Script:8
+###Mugshot:0
+Yeah!
+###--------
+###Script:9
+###Mugshot:0
+Oh!!
+###--------
+###Script:10
+###Mugshot:Lyra
+Oh, my. Looks like that
+boy can see us.
+###--------
+###Script:11
+###Mugshot:0
+Sonia!?
+###--------
+###Script:12
+###Mugshot:OmegaXis
+I knew it.
+She's been taken over.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I figured this would happen,
+and by the looks of things,
+I'd say it's Lyra...
+###--------
+###Mugshot:OmegaXis
+Man, I'm no good at
+dealing with.<waitSkip>.<waitSkip>.<waitSkip> women.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:13
+###Mugshot:0
+Sonia!!
+###--------
+###Mugshot:0
+Wake up!! You're being
+controlled by an alien!!
+###--------
+###Script:14
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+Hee hee hee.
+Please don't get in our
+way, cutie-pie.
+###--------
+###Mugshot:Lyra
+Harp Note, he's trying to
+stop us, the bad boy.
+###--------
+###Mugshot:Lyra
+Give him a small nap for
+his bad behavior.
+###--------
+###Script:15
+###Mugshot:HarpNote
+Out of the way!
+###--------
+###Script:16
+###Mugshot:OmegaXis
+Don't get careless!
+###--------
+###Mugshot:OmegaXis
+This girl's the one who
+knocked the old man out.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Lyra is an FM-ian who
+controls music notes. You
+can't let your guard down!
+###--------
+###Script:17
+###Mugshot:HarpNote
+Please Geo!
+I don't want to hurt you,
+###--------
+###Mugshot:HarpNote
+so please get out of
+our way...
+###--------
+###Script:18
+###Mugshot:Man
+Waaaaah!!
+###--------
+###Script:19
+###Mugshot:OmegaXis
+What are you going to do?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The fight's already begun.
+Are you going to finish this?
+###--------
+###Script:20
+###Mugshot:0
+I don't have a choice!
+I have to fight back!
+###--------
+###Mugshot:0
+We've got to pulse in
+and go after her!!
+###--------

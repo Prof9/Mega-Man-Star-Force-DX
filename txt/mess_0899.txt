@@ -1,0 +1,60 @@
+﻿###TextArchive:mess_0899
+###Script:0
+###Mugshot:Jammer
+Gwahaha...
+###--------
+###Mugshot:OmegaXis
+Something's fishy about
+that guy...
+###--------
+###Mugshot:OmegaXis
+I'll bet he's the origin of
+those suspicious waves.
+###--------
+###Mugshot:OmegaXis
+Alright, Geo, get ready!
+###--------
+###Script:1
+###Mugshot:Jammer
+Gwahaha...
+###--------
+###Mugshot:OmegaXis
+Something's fishy about
+that guy...
+###--------
+###Mugshot:OmegaXis
+Alright, Geo, get ready!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+That's all of 'em.
+###--------
+###Mugshot:OmegaXis
+Let's report back to that
+Copper guy.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+OK, let's look for the others.
+###--------
+###Script:50
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+MY JOB IS TO DISPLAY
+IMAGES ON THE ENORMA-
+TRON'S HUGE SCREEN!
+
+###--------
+###Mugshot:MrHertz
+I'VE PUT MY FACE UP
+THERE BEFORE,
+ONCE OR TWICE,
+###--------
+###Mugshot:MrHertz
+BUT I DON'T THINK ANYONE
+NOTICED.
+###--------

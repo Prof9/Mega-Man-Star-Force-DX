@@ -1,0 +1,255 @@
+﻿###TextArchive:mess_0237
+###Script:0
+*ding dong
+
+###--------
+      ding dong*<wait>
+###Command:wait frames=60
+###--------
+After school...
+###--------
+###Script:1
+###Mugshot:MitchShepar
+And that's it for today!
+###--------
+###Mugshot:MitchShepar
+Now, I want you all to go
+straight home!
+###--------
+###Mugshot:MitchShepar
+I don't want to hear
+anyone was horsing around!
+###--------
+###Mugshot:MitchShepar
+Oh, and Bud! You still
+haven't turned in your
+Math homework.
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+If you still don't have it
+by tomorrow, it'll be
+1 week of detention!
+###--------
+###Script:2
+###Mugshot:Bud
+Oh man, no way...
+###--------
+###Mugshot:Bud
+My head's gonna blow if
+I hafta think that hard!
+###--------
+###Script:3
+###Mugshot:MitchShepar
+Hmm?
+Didn't you say 3 days ago...
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+that you had finished it,
+but you just forgot to
+bring it in?
+###--------
+###Script:4
+###Mugshot:Bud
+Uh, um...
+###--------
+###Script:5
+###Mugshot:Bud
+Preeeezzz!!
+###--------
+###Script:6
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Don't look at me!
+You should do your
+homework on your own!!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+If I helped you, it wouldn't
+help you in the end.
+Right, Mr. Shepar?
+###--------
+###Script:7
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+That's right!
+You should try to do
+them by yourself!
+###--------
+###Script:8
+###Mugshot:Bud
+But I always do it myself
+and give it my best.
+###--------
+###Script:9
+###Mugshot:MitchShepar
+Hmm, now that's funny,
+because the homework
+you turn in always has
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+the same mistakes as
+Zack's... Coincidence...?
+###--------
+###Script:10
+###Mugshot:Bud
+Ah!!
+###--------
+###Script:11
+###Mugshot:Zack
+Oops...
+###--------
+###Mugshot:Zack
+I even warned him not
+to copy everything...
+###--------
+###Script:12
+Hahahahaha!!
+###--------
+###Script:13
+###Mugshot:Geo
+Heh heh...
+###--------
+###Mugshot:Geo
+You know, school's not
+half bad.
+###--------
+###Mugshot:Geo
+Mr. Shepar and the others
+are really nice.
+###--------
+###Mugshot:Geo
+I never knew school could
+be this much fun...
+###--------
+###Script:14
+###Mugshot:MitchShepar
+And one last announcement.
+Geo,
+###--------
+###Mugshot:MitchShepar
+can you please come
+to the studio after
+we're done here?
+###--------
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+I'd like to talk to you
+about something. Don't
+worry, it's nothing bad.
+###--------
+###Script:15
+###Mugshot:Geo
+Yes, sir...
+###--------
+###Script:16
+###Mugshot:MitchShepar
+Alright, class dismissed!
+###--------
+###Mugshot:MitchShepar
+And remember your
+homework tomorrow, Bud!
+###--------
+###Script:17
+Bye!
+###--------
+###Script:18
+###Mugshot:Luna
+Honestly, what are you
+thinking?
+###--------
+###Mugshot:Luna
+You should at least do
+your Math homework.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I never thought I'd be
+this embarrassed to be
+Brothers with you!!
+###--------
+###Script:19
+###Mugshot:Bud
+I'm really sorry, Prez...
+###--------
+###Script:20
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Zack, I want you to go home
+with Bud and start on those
+Math problems right away.
+###--------
+###Script:21
+###Mugshot:Zack
+But didn't you just tell him
+to do it on his own?
+###--------
+###Mugshot:Zack
+Plus, my favorite cartoon
+is on tonight...
+###--------
+###Script:22
+###Mugshot:Luna
+Do you really think Bud can
+finish it all by tomorrow?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I didn't think so.
+That's why I want you two
+to hurry up and get to it!!
+###--------
+###Script:23
+###Mugshot:Bud
+Yes, Prez...
+###--------
+###Script:24
+###Mugshot:Zack
+I understand.
+Come on, Bud. Let's go.
+###--------
+###Script:25
+###Mugshot:Luna
+Stop dragging your feet
+and start running!
+###--------
+###Script:26
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+With Brothers like that,
+is it any wonder why
+I'm always so tired?
+###--------
+###Script:27
+###Mugshot:OmegaXis
+Back to her usual cheery
+self, I see...
+###--------
+###Script:28
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Yeah...
+Being Brothers with her
+must be taxing...
+###--------
+###Mugshot:Geo
+Well, I should get moving
+to the studio.
+###--------

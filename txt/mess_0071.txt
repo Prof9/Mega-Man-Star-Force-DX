@@ -1,0 +1,150 @@
+﻿###TextArchive:mess_0071
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:BusinessMan
+Banish!
+###--------
+###Mugshot:BusinessMan
+Hello Brothers!
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:BusinessMan
+I've been thinking...
+###--------
+###Mugshot:BusinessMan
+Sometimes I get the feeling
+there are invisible beings
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+snooping around in
+people's Transers!
+###--------
+###Mugshot:MegaMan
+*gasp*
+###--------
+###Mugshot:BusinessMan
+Who knows? They could be
+peeking in your Transer.
+###--------
+###Script:4
+###Mugshot:BusinessMan
+Recently there have been
+sightings...
+###--------
+###Mugshot:BusinessMan
+You know, those blue
+fluffy inhabitants of
+the netherworld.
+###--------
+###Mugshot:BusinessMan
+They sometimes cross
+over to...
+###--------
+###Mugshot:BusinessMan
+Observe us!
+###--------
+###Mugshot:BusinessMan
+How c-creepy!
+Aaagh!
+###--------
+###Mugshot:OmegaXis
+Looks like this guy's got
+major problems...
+###--------
+###Mugshot:MegaMan
+Do you think...
+it could be a ghost?
+###--------
+###Mugshot:OmegaXis
+What? Are you getting
+scared now too?
+###--------
+###Mugshot:MegaMan
+N-No. Of course n-not...
+###--------
+###Mugshot:OmegaXis
+Humph, well?
+You wanna help him?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Alright, he-he!
+Let's go find out what
+that ghost really is.
+###--------
+###Mugshot:MegaMan
+...
+###--------
+###Mugshot:MegaMan
+...Y-Yeah.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+What are you so afraid of?
+###--------
+###Mugshot:MegaMan
+...
+###--------
+###Mugshot:OmegaXis
+Oh, well!
+Let's just forget it...
+###--------
+###Mugshot:MegaMan
+...Yeah.
+###--------
+###Script:6
+###Mugshot:BusinessMan
+Recently there have been
+sightings...
+###--------
+###Mugshot:BusinessMan
+You know, those blue
+fluffy inhabitants of
+the netherworld.
+###--------
+###Mugshot:BusinessMan
+How c-creepy!
+Aaagh!
+###--------
+###Script:7
+###Mugshot:BusinessMan
+I wonder what could've
+happened...
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+The sightings have stopped...
+I wonder if it was thanks
+to my special ability?
+###--------
+###Mugshot:BusinessMan
+Banish!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

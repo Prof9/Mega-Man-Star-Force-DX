@@ -1,0 +1,11 @@
+﻿###TextArchive:mess_1052
+###Script:0
+###Mugshot:8
+Hello... Well now, you're an
+unusual Navi...
+###--------
+###Script:5
+###Mugshot:8
+I'm thinking of ways to
+make Zack taller.
+###--------

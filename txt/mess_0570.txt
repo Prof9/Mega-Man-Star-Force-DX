@@ -1,0 +1,113 @@
+﻿###TextArchive:mess_0570
+###Script:0
+They're mics on stands.
+###--------
+###Script:1
+There sure are a lot
+of tapes.
+###--------
+I wonder what's on them...
+###--------
+###Script:2
+There are a ton of tapes
+jammed in here.
+###--------
+###Script:3
+These are for recording
+video.
+###--------
+I heard they're very
+efficient.
+###--------
+###Script:4
+This is where you can edit
+your video.
+###--------
+Cut out your slip-ups so
+no one will see.
+###--------
+###Script:5
+Switches for the studio's
+lights.
+###--------
+###Script:6
+It's the entrance to
+the studio.
+###--------
+###--------
+I wanna go in and take
+a look, but I bet some
+teacher will get mad if I do.
+###--------
+###Script:7
+###--------
+People outside the studio
+can talk with people inside
+by using these mics.
+###--------
+###Script:8
+The rules of the broadcasting
+room are here.
+###--------
+###Script:9
+This is where the
+Study Wave is broadcasted.
+###--------
+###Script:10
+Could this hologram be the
+Study Wave?
+###--------
+But he's really honking huge.
+###--------
+###Script:11
+I wonder what's inside these
+boxes...?
+###--------
+I can't sleep when I want
+to know something.
+###--------
+###Script:13
+These are compact,
+ultra-slim computers.
+###--------
+###Script:15
+Cameras can sometimes see
+things we can't.
+###--------
+###Script:16
+Cameras can sometimes see
+things we can't.
+###--------
+Hmm?
+There's something here.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=113
+###--------
+###Script:20
+There are a lot of
+VCRs here.
+###--------
+###Script:21
+There are a lot of
+VCRs here.
+###--------
+###--------
+Hmm?
+Looks like the VCRs
+aren't on.
+###--------
+Do you want to turn
+them on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whiiiiiiir*
+###--------
+A wavehole has appeared
+above the VCRs.
+###--------

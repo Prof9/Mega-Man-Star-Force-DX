@@ -1,0 +1,151 @@
+﻿###TextArchive:mess_1079
+###Script:0
+###Mugshot:1
+There's no reason to go
+there now...
+###--------
+###Script:60
+###Mugshot:CancerBubble
+I'm Cancer Bubble! *snip*
+###--------
+###Mugshot:CancerBubble
+Let's get to it! *snip*
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+W-Wait a minute! I want
+to know something first.
+###--------
+###Mugshot:1
+...
+###--------
+###Mugshot:CancerBubble
+What!?
+###--------
+###Mugshot:1
+How did an FM-ian take
+control of you?
+###--------
+###Mugshot:CancerBubble
+W-Well...
+###--------
+###Mugshot:OmegaXis
+He probably doesn't have
+any friends 'cause he's so
+rude and snappy.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+And then Cancer got to
+him when he was down
+in the dumps.
+###--------
+###Mugshot:CancerBubble
+*flinch!*
+###--------
+###Mugshot:OmegaXis
+I nailed it, didn't I?
+###--------
+###Mugshot:MegaMan
+Aww...
+You're just a lonely guy...
+###--------
+###Mugshot:CancerBubble
+I-I'm very self-conscious
+about that...
+###--------
+###Mugshot:CancerBubble
+OK, now, as they say,
+the gloves come off!!
+###--------
+###Mugshot:CancerBubble
+Are you ready to
+feel the pinch!?
+###--------
+<positionOptionFromCenter><optionText>  Fight  <optionText>  Don't
+###Command:positionOptionFromCenter width=85
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:CancerBubble
+Whatcha waitin' for!?
+*snip* C'mon!
+###--------
+###Script:61
+###Mugshot:CancerBubble
+I saw you giving me
+hard looks just now!
+###--------
+###Mugshot:CancerBubble
+I ain't gonna be soft
+on you!
+###--------
+<positionOptionFromCenter><optionText>  Fight  <optionText>  No
+###Command:positionOptionFromCenter width=85
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:CancerBubble
+###--------
+###Mugshot:CancerBubble
+C'mon!! *snip*
+Are you gonna just
+leave me here alone?
+###--------
+###Script:63
+###Mugshot:CancerBubble
+I c-c-can't lose! *snip*
+###--------
+###Mugshot:OmegaXis
+Neither can we!
+Put 'em up!
+###--------
+###Script:64
+###Mugshot:CancerBubble
+Don't think that cuz we're
+small, we're a shrimp!
+###--------
+###Mugshot:OmegaXis
+OK, let's do it, Geo!
+###--------
+###Script:65
+###Mugshot:CancerBubble
+Don't treat me like a kid
+cuz I am in 3rd grade!
+###--------
+###Script:67
+###Mugshot:CancerBubble
+###--------
+###Mugshot:CancerBubble
+N-Nobody... can just...
+beat the crab outta me...!
+###--------
+###Mugshot:CancerBubble
+I'll be waiting for a
+re-match! *snip*
+###--------
+###Script:68
+###Mugshot:CancerBubble
+###--------
+###Mugshot:CancerBubble
+Heh heh!
+That's what happens when
+you try to play with crabs!
+###--------
+###Script:200
+###Mugshot:SpeedNavi
+<optionButtonSmall><optionButtonSmall>I have Sub Cards.
+Want a look?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+Please come back again
+sometime!
+###--------
+###Script:202
+###Mugshot:SpeedNavi
+Sorry, I'm all sold out...
+###--------

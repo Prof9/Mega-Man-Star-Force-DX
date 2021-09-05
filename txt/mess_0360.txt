@@ -1,0 +1,36 @@
+﻿###TextArchive:mess_0360
+###Script:0
+###Mugshot:LibraScales
+Noooooo...
+###--------
+###Mugshot:LibraScales
+You may have beaten me...
+###--------
+###Mugshot:LibraScales
+but there is nothing but
+doom and destruction
+in your future...
+###--------
+###Mugshot:LibraScales
+Andromeda... is wak...ing...
+###--------
+###Script:1
+###Mugshot:0
+Andromeda...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Andromeda is almost fully
+awake...
+###--------
+###Script:3
+###Mugshot:0
+We've gotta hurry then!
+###--------
+###Script:4
+###Mugshot:0
+###--------
+###Mugshot:0
+OK, I got the door open!
+Let's go!
+###--------

@@ -1,0 +1,88 @@
+﻿###TextArchive:mess_0698
+###Script:0
+###Mugshot:1
+AAAAAH!!
+###--------
+###Mugshot:1
+MY FRIENDS ARE ALL
+BURIED UNDER ALL THAT
+TRASH!!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Calm down! Tell me what
+to look for and I'll dig
+them right out! I promise!
+###--------
+###Mugshot:1
+UM... WELL...
+###--------
+###Mugshot:1
+THERE'S ONE THAT
+LIKES MUSIC...
+###--------
+###Mugshot:1
+AND ANOTHER WAS AT A
+PLACE THAT STICKS OUT...
+###--------
+###Mugshot:1
+AND ONE WAS COMPLAINING
+ABOUT THE COLD.
+###--------
+###Mugshot:1
+PLEASE!
+HELP THEM!!
+###--------
+###Script:1
+###Mugshot:1
+UM... WELL...
+LET'S SEE...
+###--------
+###Mugshot:1
+THERE'S ONE THAT
+LIKES MUSIC...
+###--------
+###Mugshot:1
+AND ANOTHER WAS AT A
+PLACE THAT STICKS OUT...
+###--------
+###Mugshot:1
+AND ONE WAS COMPLAINING
+ABOUT THE COLD.
+###--------
+###Mugshot:1
+PLEASE!
+HELP THEM!!
+###--------
+###Script:2
+###Mugshot:1
+THERE'S A STRANGE WAVE
+UP AHEAD!
+###--------
+###Mugshot:1
+PLEASE BE CAREFUL!
+###--------
+###Script:3
+###Mugshot:1
+THANKS TO YOU,
+EVERYTHING'S BACK TO
+NORMAL!
+###--------
+###Mugshot:1
+THANK YOU EVER SO MUCH!
+###--------
+###Script:4
+###Mugshot:1
+I THINK THERE'S STILL
+SOMETHING BURIED...
+###--------
+###Mugshot:1
+WHY DON'T YOU USE THE
+SONAR TO FIND IT?
+###--------
+###Script:5
+###Mugshot:1
+I THINK YOU GOT
+EVERYTHING...
+###--------

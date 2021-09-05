@@ -1,0 +1,168 @@
+﻿###TextArchive:mess_0252
+###Script:0
+###Mugshot:Sonia
+Look!
+Aren't these outfits neat!?
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+When I get a bit older,
+I'm going to wear cute
+outfits just like these!
+###--------
+###Script:1
+###Mugshot:0
+So, um, what are we
+here for?
+###--------
+###Script:2
+###Mugshot:Sonia
+What we're here for?
+###--------
+###Script:3
+###Mugshot:0
+###--------
+###Mugshot:0
+I mean, don't you usually
+know what you want to
+buy when you go shopping?
+###--------
+###Script:4
+###Mugshot:Sonia
+No, not always.
+###--------
+###Mugshot:Sonia
+It's fun to just look at cute
+clothes or nice accesories
+sometimes, you know?
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+And if you see something
+you want, then you buy it!
+###--------
+###Mugshot:Sonia
+Oh! Let's take a look at
+that store there!!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Ha ha ha... Welcome to
+"how to waste a day".
+Have fun, kid!
+###--------
+###Script:6
+###Mugshot:Sonia
+Come on, Geo!
+Hurry up!
+###--------
+###Mugshot:Sonia
+I found a really cute
+handbag!!
+###--------
+###Script:7
+###Mugshot:0
+Coming...
+###--------
+###Script:8
+###Mugshot:Sonia
+What do you think?
+Isn't it cute?
+###--------
+###Script:9
+###Mugshot:0
+Um, uh... yeah...
+###--------
+###Script:10
+###Mugshot:Luna
+They're... on a date...?
+###--------
+###Mugshot:Luna
+And look at him, he's
+copping an attitude!
+###--------
+###Script:11
+*ding ding
+      ding ding*<wait>
+###Command:wait frames=80
+###--------
+Attention, shoppers.
+###--------
+Starting today, Nacys is
+proud to host a special
+subtropical jungle exhibition
+###--------
+###--------
+###--------
+on the roof of this very
+building where we have a
+variety of snakes on display.
+###--------
+###--------
+So please feel free to visit
+the roof, and enter the
+Subtropical Zone today!
+###--------
+*ding ding
+      ding ding*<wait>
+###Command:wait frames=80
+###--------
+###Script:12
+###Mugshot:Luna
+A subtropical jungle exhibit?
+###--------
+###Mugshot:Luna
+That must be the one my
+mother and father were
+working on...
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+But somehow, I don't think
+they'd be very happy to
+find me here...
+###--------
+###Script:13
+###Mugshot:Sonia
+A jungle exhibit!?
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Doesn't that sound exciting!?
+Let's go take a look!
+###--------
+###Script:14
+###Mugshot:Sonia
+Come on,
+don't you want to?
+###--------
+###Script:15
+###Mugshot:0
+Um, sure. Sounds fun.
+Let's go.
+###--------
+###Script:16
+###Mugshot:Luna
+Are they really going to
+go look at the exhibit?
+###--------
+###Mugshot:Luna
+But what if I bump into
+my parents...?
+###--------
+###Mugshot:Luna
+.<waitSkip>.<waitSkip>.<waitSkip>Whatever.
+I don't care!
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###Command:waitSkip frames=10
+###--------
+###Mugshot:Luna
+I'm going to follow them!!
+###--------

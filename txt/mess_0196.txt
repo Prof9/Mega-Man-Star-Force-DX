@@ -1,0 +1,59 @@
+﻿###TextArchive:mess_0196
+###Script:0
+###Mugshot:MegaMan
+Sonia... please stop it!
+###--------
+###Script:1
+###Mugshot:HarpNote
+...Geo?
+###--------
+###Script:2
+###Mugshot:MegaMan
+Yeah, it's me.
+###--------
+###Mugshot:MegaMan
+You shouldn't hurt people.
+###--------
+###Mugshot:MegaMan
+Come on, let's go
+home, Sonia.
+###--------
+###Script:3
+###Mugshot:HarpNote
+...I am Harp Note.
+###--------
+###Mugshot:HarpNote
+Don't get in my way...
+###--------
+###Script:4
+###Mugshot:HarpNote
+Hah!!
+###--------
+###Script:5
+###Mugshot:HarpNote
+If you continue to stand
+against me...
+###--------
+###Mugshot:HarpNote
+I won't show any mercy
+to you either!
+###--------
+###Script:6
+###Mugshot:MegaMan
+Sonia...
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Hey...
+###--------
+###Mugshot:OmegaXis
+If you end up fighting her,
+you can't hold back.
+###--------
+###Mugshot:OmegaXis
+If you do, we're toast.
+###--------
+###Script:8
+###Mugshot:MegaMan
+.........
+###--------

@@ -1,0 +1,159 @@
+﻿###TextArchive:mess_0128
+###Script:0
+###Mugshot:TaurusFire
+.<waitSkip>.<waitSkip>.<waitSkip>What's that smell?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:1
+###Mugshot:Taurus
+Mmmrrrrgh!!
+And who are you!?
+###--------
+###Mugshot:MegaMan
+Eep!
+He's freaking huge!!
+###--------
+###Mugshot:Taurus
+Mmmrrrrgh!!
+...Hmm??
+###--------
+###Mugshot:Taurus
+Haven't we met somewhere
+before...?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Hey, long time no see,
+Taurus!!
+###--------
+###Script:3
+###Mugshot:Taurus
+Mmmrrrrgh!!
+Omega-Xis!?
+###--------
+###Mugshot:OmegaXis
+Are you the only FM-ian
+that came to Earth?
+###--------
+###Mugshot:Taurus
+Yup, so far! But that's
+because I'm the fastest!
+###--------
+###Mugshot:Taurus
+Don't worry. The other
+guys'll be here in a bit!!
+###--------
+###Mugshot:Taurus
+By the way, you picked
+a real loser as a host!
+###--------
+###Mugshot:Taurus
+Strong, powerful people,
+that's the way to go!
+###--------
+###Mugshot:OmegaXis
+Shut up!
+###--------
+###Mugshot:OmegaXis
+I'll win no matter who
+my host is!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+H-Hey, Mega...
+You never told me our enemy
+would be someone like him...
+###--------
+###Mugshot:Taurus
+Moowahahaha!!
+###--------
+###Mugshot:Taurus
+Take a good look at
+Taurus Fire.
+Seem familiar?
+###--------
+###Mugshot:OmegaXis
+Hey, Geo!!
+Don't just stand there!!
+###--------
+###Mugshot:MegaMan
+I can't believe it...
+###--------
+###Mugshot:Taurus
+Yup, you picked a real
+winner there, Omega-Xis!
+###--------
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+I'm going to mow you down
+and take back the
+Andromeda Key!!
+###--------
+###Mugshot:OmegaXis
+So, you really do plan
+to attack this planet!
+###--------
+###Mugshot:Taurus
+The king's commands
+are absolute!
+###--------
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+Using Bud's body, the
+destruction of this town will
+signal the attack on Earth!
+###--------
+###Mugshot:Taurus
+Bud... No, I mean Taurus Fire!
+Destroy them!!
+###--------
+###Mugshot:Taurus
+If you do, the Prez will
+also appreciate you!
+###--------
+###Script:4
+###Mugshot:TaurusFire
+Mmmrrrrgh!!
+###--------
+###Mugshot:TaurusFire
+###--------
+###Mugshot:TaurusFire
+I'm powerful!
+If I show the Prez my
+strength, she'll need me!!
+###--------
+###Mugshot:TaurusFire
+MMMRRRRGH!!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+He's coming!
+Face forward!!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+W-Wait a sec!!
+How am I supposed to
+face him at all!?
+###--------
+###Mugshot:OmegaXis
+Stop flipping out!
+###--------
+###Mugshot:OmegaXis
+Trust in my power
+and strength!
+###--------
+###Mugshot:MegaMan
+Trust...?
+Easy for you to say...
+###--------
+###Mugshot:OmegaXis
+Stop your chattering!
+Here he comes!!
+###--------

@@ -1,0 +1,111 @@
+﻿###TextArchive:mess_0617
+###Script:15
+###Mugshot:AaronBoreal
+To tell you the truth, Geo,
+I meant to bring you
+something today.
+###--------
+###Mugshot:AaronBoreal
+But I haven't been
+able to find it.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+It's an old photo album
+with some pictures I wanted
+you to see.
+###--------
+###Mugshot:AaronBoreal
+I bet I stashed it
+somewhere in my lab.
+###--------
+###Mugshot:AaronBoreal
+I really wanted you to
+have a look at it....
+###--------
+###Script:16
+###Mugshot:AaronBoreal
+I meant to bring you
+something today.
+###--------
+###Mugshot:AaronBoreal
+But I haven't been
+able to find it.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+It's an old photo album
+with some pictures I wanted
+you to see.
+###--------
+###Mugshot:AaronBoreal
+I bet I stashed it
+somewhere in my lab.
+###--------
+###Script:17
+###Mugshot:AaronBoreal
+Ohh!!
+###--------
+###Mugshot:AaronBoreal
+You found the photo album!
+###--------
+Geo gave:
+"<printItem>"
+to Mr. Boreal!!
+###Command:printItem item=56
+###--------
+###Mugshot:AaronBoreal
+Man, this takes me way back!
+###--------
+###Mugshot:AaronBoreal
+This is to thank you.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=113
+###--------
+###Mugshot:AaronBoreal
+Ah, yes.
+This is the photo I
+wanted you to see.
+###--------
+###Mugshot:AaronBoreal
+This is Kelvin when he
+was young.
+###--------
+###Mugshot:AaronBoreal
+And above that is you when
+you were just a tot.
+###--------
+###Mugshot:AaronBoreal
+At that time, your dad said,
+###--------
+###Mugshot:AaronBoreal
+"I'm going to make a
+wonderful and delightful
+future for my son."
+###--------
+###Mugshot:AaronBoreal
+"That's my job."
+###--------
+###Mugshot:AaronBoreal
+I wanted to pass those
+words from your father
+on to you,
+###--------
+###Mugshot:AaronBoreal
+as you live and grow into
+the future.
+###--------
+###Script:18
+###Mugshot:AaronBoreal
+I wanted to pass those
+words from your father
+on to you,
+###--------
+###Mugshot:AaronBoreal
+as you live and grow into
+the future.
+###--------

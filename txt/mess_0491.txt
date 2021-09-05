@@ -1,0 +1,38 @@
+﻿###TextArchive:mess_0491
+###Script:5
+###Mugshot:9
+U...Unnngh...
+###--------
+###Script:6
+###Mugshot:Luna
+Bud... Zack...
+I can't believe they ran off!
+###--------
+###Mugshot:Luna
+When I see them tomorrow,
+they're gonna get it!
+###--------
+###Mugshot:Luna
+What a terrible day!
+I'm going home!
+###--------
+###Script:10
+###Mugshot:4
+Um, Geo, were you with
+someone earlier...?
+###--------
+###Mugshot:4
+No, it's nothing.
+Never mind...
+###--------
+###Script:100
+###Mugshot:12
+......
+###--------
+###Mugshot:12
+###--------
+###Mugshot:12
+I may be a wave...
+But I still long to stargaze
+from time to time.
+###--------

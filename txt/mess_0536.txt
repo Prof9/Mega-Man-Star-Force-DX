@@ -1,0 +1,61 @@
+﻿###TextArchive:mess_0536
+###Script:0
+###Mugshot:LittleBoy
+Oh shoot!
+I forgot my homework!
+###--------
+###Mugshot:LittleBoy
+What am I gonna do?
+My teacher's gonna get mad...
+###--------
+###Script:1
+###Mugshot:Man
+Ummmmm...
+###--------
+###Mugshot:Man
+Sorry, but which class do
+you belong to?
+###--------
+###Script:5
+###Mugshot:LittleBoy
+Ah! Shoot!
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I forgot my homework again!
+That's two days in a row!!
+###--------
+###Mugshot:LittleBoy
+What should I do...?
+###--------
+###Script:6
+###Mugshot:Man
+Good mooorning!
+###--------
+###Mugshot:Man
+I hope you'll have a great
+day today too!
+###--------
+###Script:10
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Acids and bases and
+Litmus paper... Oh my!
+###--------
+###Script:11
+###Mugshot:Man
+Aaaargh!!
+###--------
+###Mugshot:Man
+Survival of the fittest,
+killing 2 birds with 1 stone,
+###--------
+###Mugshot:Man
+surrounded on all sides,
+total confusion.
+###--------
+###Mugshot:Man
+Oh, my head!
+###--------

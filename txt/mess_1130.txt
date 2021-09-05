@@ -1,0 +1,71 @@
+﻿###TextArchive:mess_1130
+###Script:0
+###Mugshot:CommonNavi
+The early bird gets the
+worm.
+###--------
+###Mugshot:CommonNavi
+A bird in the hand is worth
+two in the bush.
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+I know a lot of proverbs.
+Do you think they'd be a hit
+if I used them in class?
+###--------
+###Script:10
+###Mugshot:CommonNavi
+I have the most ominous
+feeling right now.
+###--------
+###Mugshot:CommonNavi
+We should weather the
+coming storm out.
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+Or in other words, we should
+not put ourselves in any
+unnecessary danger.
+###--------
+###Script:20
+###Mugshot:CommonNavi
+Sometimes, the monkey too,
+falls from the tree.
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+It means we all make
+mistakes sometimes. So
+make sure you prepare well!
+###--------
+###Script:100
+###Mugshot:InfoNavi
+What is it to be a Brother
+with someone?
+###--------
+###Mugshot:InfoNavi
+I think about this, but I
+don't have an answer.
+###--------
+###Script:101
+###Mugshot:InfoNavi
+The humans are acting
+strange.
+###--------
+###Mugshot:InfoNavi
+Aren't Brothers supposed
+to be good friends?
+###--------
+###Mugshot:InfoNavi
+Hmm, this messes up my
+answer.
+###--------
+###Mugshot:InfoNavi
+Will I ever know what it
+means to be Brothers?
+###--------

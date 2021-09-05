@@ -1,0 +1,21 @@
+﻿###TextArchive:mess_1209
+###Script:0
+###Mugshot:0
+W-What's this?
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=80
+###--------
+###Mugshot:0
+Dad's Transer...
+###--------
+###Mugshot:0
+Hm? There's something
+still on it...
+###--------
+Mega Man got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printItem item=31
+###--------

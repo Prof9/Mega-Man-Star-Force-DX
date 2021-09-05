@@ -1,0 +1,570 @@
+﻿###TextArchive:mess_0598
+###Script:0
+###Mugshot:0
+I should say hi to Pat...
+###--------
+###Script:1
+###Mugshot:0
+I don't need to go over
+there now.
+###--------
+###Script:10
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Say! Have you ever heard
+of Shooting Star Cake?
+###--------
+###Mugshot:LittleGirl
+It's supposed to be very
+popular among people
+who like sweets.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I want to give it a try.
+Do you know where they
+sell it?
+###--------
+###Mugshot:LittleGirl
+Mmm... Cake...
+###--------
+###Script:11
+###Mugshot:LittleGirl
+So, do you know about
+Shooting Star Cake?
+###--------
+###Mugshot:LittleGirl
+It's supposed to be very
+popular among people
+who like sweets.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I want to give it a try.
+Do you know where they
+sell it?
+###--------
+###Mugshot:LittleGirl
+Mmm... Cake...
+###--------
+###Script:12
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+No way!
+Is that Shooting Star Cake!?
+###--------
+###Mugshot:LittleGirl
+For me!?
+###--------
+Geo gave:
+"<printItem>"
+to the girl!!
+###Command:printItem item=50
+###--------
+###Mugshot:LittleGirl
+Thank you!
+###--------
+###Mugshot:LittleGirl
+*munch* *munch*
+###--------
+###Mugshot:LittleGirl
+*munch* *munch*
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Oh, this is so good!
+It tastes like stars falling
+from the sky!
+###--------
+###Mugshot:LittleGirl
+Thanks a lot!
+Please, have this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=77
+###--------
+###Mugshot:LittleGirl
+It's as good as they say!
+###--------
+###Script:13
+###Mugshot:LittleGirl
+It's as good as they say!
+###--------
+###Script:15
+###Mugshot:OldWoman
+Welcome to the
+second-hand shop,
+###--------
+###Mugshot:OldWoman
+where we buy your unwanted
+stuff high and sell it low!
+###--------
+###Mugshot:OldWoman
+What kind of problem am I
+having?
+###--------
+###Mugshot:OldWoman
+Well, actually, it's this
+refrigerator...
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I bought it from a customer
+just the other day, but no
+matter what I do,
+###--------
+###Mugshot:OldWoman
+I just can't get it to work.
+But I think it's still useable.
+###--------
+###Mugshot:OldWoman
+I don't know what to do.
+###--------
+###Script:16
+###Mugshot:OldWoman
+I bought this refrigerator
+from a customer the other
+day, but not matter what
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I do, I can't get it to work.
+But I think it's still useable.
+###--------
+###Mugshot:OldWoman
+I don't know what to do.
+###--------
+###Script:17
+###Mugshot:OldWoman
+Did you fix the refrigerator?
+###--------
+###Mugshot:OldWoman
+Oh, thank you so much
+for your trouble.
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I know it isn't much, but
+I'd like you to take this
+for your trouble...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Mugshot:OldWoman
+Bring your unwanted goods
+here anytime!
+###--------
+###Script:18
+###Mugshot:OldWoman
+Bring your unwanted goods
+here anytime!
+###--------
+###Script:20
+###Mugshot:BusinessMan
+That face...
+That look in your eyes..
+###--------
+###Mugshot:BusinessMan
+Something tells me that
+you're a quiz fan!
+###--------
+###Mugshot:BusinessMan
+...Me? Who am I?
+###--------
+###Mugshot:BusinessMan
+Ha ha ha, I thought
+you'd never ask.
+###--------
+###Mugshot:BusinessMan
+*ahem*
+###--------
+###Mugshot:BusinessMan
+Who called the Quiz King!
+Who called the Quiz King!
+###--------
+###Mugshot:BusinessMan
+It's OK to say!
+It's OK to play!
+###--------
+###Mugshot:BusinessMan
+Hey Hey! Ho Ho!
+Quiz Power!
+It's time to go!
+###--------
+###Mugshot:BusinessMan
+Care to try a
+Quiz Battle with me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:21
+###Mugshot:BusinessMan
+Care to try a
+Quiz Battle with me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:22
+###Mugshot:BusinessMan
+OK. Question #1:
+###--------
+###Mugshot:BusinessMan
+The doghouse in Echo Ridge
+is actually a...
+###--------
+<positionOptionFromCenter><optionText>  A/C unit
+<positionOptionFromCenter><optionText>  Security system
+<positionOptionFromCenter><optionText>  Just a doghouse
+###Command:positionOptionFromCenter width=99
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=99
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=99
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+Now, for Question #2:
+###--------
+###Mugshot:BusinessMan
+"Luna" means which of the
+following?
+###--------
+<positionOptionFromCenter><optionText>  Moon
+<positionOptionFromCenter><optionText>  Star
+<positionOptionFromCenter><optionText>  Sun
+###Command:positionOptionFromCenter width=28
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=28
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=28
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #3:
+###--------
+###Mugshot:BusinessMan
+Name the coffee in the
+AMAKEN vending machine.
+###--------
+<positionOptionFromCenter><optionText>  Moon Face Coffee
+<positionOptionFromCenter><optionText>  Big Bang Coffee
+<positionOptionFromCenter><optionText>  Gravity Coffee
+###Command:positionOptionFromCenter width=111
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=111
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=111
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #4:
+###--------
+###Mugshot:BusinessMan
+Which of these cards is
+the 2nd most powerful?
+###--------
+<positionOptionFromCenter><optionText>  BraveSwrd1
+<positionOptionFromCenter><optionText>  MopLance2
+<positionOptionFromCenter><optionText>  FireBzook2
+###Command:positionOptionFromCenter width=69
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=69
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=69
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #5:
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+How many basketball courts
+are there in the school Gym?
+###--------
+<positionOptionFromCenter><optionText>  3
+<positionOptionFromCenter><optionText>  1
+<positionOptionFromCenter><optionText>  2
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #6:
+###--------
+###Mugshot:BusinessMan
+Mettenna and HotRoader's
+HP totalled equals?
+###--------
+<positionOptionFromCenter><optionText>  <printBuffer>
+<positionOptionFromCenter><optionText>  <printBuffer>
+<positionOptionFromCenter><optionText>  <printBuffer>
+###Command:positionOptionFromCenter width=23
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:printBuffer buffer=2 minLength=3 padMode=noPad
+###Command:positionOptionFromCenter width=23
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:printBuffer buffer=3 minLength=3 padMode=noPad
+###Command:positionOptionFromCenter width=23
+###Command:optionText up=1 down=0 left=2 right=2
+###Command:printBuffer buffer=4 minLength=3 padMode=noPad
+###--------
+###Mugshot:BusinessMan
+Now add a CannonBase's
+HP into the total.
+###--------
+<positionOptionFromCenter><optionText>  <printBuffer>
+<positionOptionFromCenter><optionText>  <printBuffer>
+<positionOptionFromCenter><optionText>  <printBuffer>
+###Command:positionOptionFromCenter width=23
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:printBuffer buffer=5 minLength=3 padMode=noPad
+###Command:positionOptionFromCenter width=23
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:printBuffer buffer=6 minLength=3 padMode=noPad
+###Command:positionOptionFromCenter width=23
+###Command:optionText up=1 down=0 left=2 right=2
+###Command:printBuffer buffer=7 minLength=3 padMode=noPad
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #8:
+###--------
+###Mugshot:BusinessMan
+I am the Quiz...
+###--------
+<positionOptionFromCenter><optionText>  God
+<positionOptionFromCenter><optionText>  King
+<positionOptionFromCenter><optionText>  Queen
+###Command:positionOptionFromCenter width=34
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=34
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=34
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #9:
+###--------
+###Mugshot:BusinessMan
+Name the statue of a dog
+in Time Square.
+###--------
+<positionOptionFromCenter><optionText>  Rover
+<positionOptionFromCenter><optionText>  Robber
+<positionOptionFromCenter><optionText>  Roger
+###Command:positionOptionFromCenter width=39
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=39
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=39
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #10:
+###--------
+###Mugshot:BusinessMan
+Which of these isn't at
+Echo Elementary?
+###--------
+<positionOptionFromCenter><optionText>  A studio
+<positionOptionFromCenter><optionText>  A Gym
+<positionOptionFromCenter><optionText>  A chem lab
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #11:
+###--------
+###Mugshot:BusinessMan
+Uwaaa!
+###--------
+###Mugshot:BusinessMan
+Tell me what I just said!
+###--------
+<positionOptionFromCenter><optionText>  Uwa!
+<positionOptionFromCenter><optionText>  Uwaaa!
+<positionOptionFromCenter><optionText>  Ooh!
+###Command:positionOptionFromCenter width=38
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=38
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=38
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #12:
+###--------
+###Mugshot:BusinessMan
+Gwhoa!
+###--------
+###Mugshot:BusinessMan
+Pysch! Tell me what number
+question this is.
+###--------
+<positionOptionFromCenter><optionText>  #12
+<positionOptionFromCenter><optionText>  #13
+<positionOptionFromCenter><optionText>  #14
+###Command:positionOptionFromCenter width=20
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=20
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=20
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #13:
+###--------
+###Mugshot:BusinessMan
+Name the department store
+at Time Square.
+###--------
+<positionOptionFromCenter><optionText>  Nakys
+<positionOptionFromCenter><optionText>  Nasys
+<positionOptionFromCenter><optionText>  Nacys
+###Command:positionOptionFromCenter width=34
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=34
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=34
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Question #14:
+###--------
+###Mugshot:BusinessMan
+Which of these is on the
+roof of Nacys?
+###--------
+<positionOptionFromCenter><optionText>  A giraffe
+<positionOptionFromCenter><optionText>  A dog
+<positionOptionFromCenter><optionText>  A fox
+###Command:positionOptionFromCenter width=54
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=54
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=54
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+Correct!
+###--------
+###Mugshot:BusinessMan
+OK. Last one. Question #15:
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+What kind of person works
+at the second-hand shop
+on Dream Island?
+###--------
+<positionOptionFromCenter><optionText>  An old man
+<positionOptionFromCenter><optionText>  An old lady
+<positionOptionFromCenter><optionText>  A young girl
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Flabbergast me!!
+You answered all of my
+ingenious questions!!
+###--------
+###Mugshot:BusinessMan
+I admit that you're the man.
+###--------
+###Mugshot:BusinessMan
+Here's what you've won.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=113
+###--------
+###Mugshot:BusinessMan
+They should call YOU the
+Quiz King.
+###--------
+###Script:23
+###Mugshot:BusinessMan
+...Have you lost your nerve?
+###--------
+###Script:24
+###Mugshot:BusinessMan
+I'm sorry!
+That is incorrect!
+###--------
+###Mugshot:BusinessMan
+Try again!
+###--------
+###Script:25
+###Mugshot:BusinessMan
+They should call YOU
+the Quiz King.
+###--------

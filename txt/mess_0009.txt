@@ -1,0 +1,215 @@
+﻿###TextArchive:mess_0009
+###Script:0
+###Mugshot:Geo
+Looks like the
+initialization failed.
+###--------
+###Script:1
+###Mugshot:Geo
+Looks like the
+scan failed.
+###--------
+###Script:2
+###Mugshot:Geo
+Looks like the
+channel search failed.
+###--------
+###Script:3
+###Mugshot:Geo
+Looks like the
+connection failed.
+###--------
+###Script:4
+###Mugshot:Geo
+Looks like we couldn't
+connect to the host.
+###--------
+###Script:5
+###Mugshot:Geo
+Communication Error.
+###--------
+###Script:6
+###Mugshot:Geo
+Connect to friends
+and go On Air!
+###--------
+###Script:7
+###Mugshot:Geo
+Close the connection
+with your friends.
+###--------
+###Script:8
+###Mugshot:Geo
+Update your
+Brothers' data!
+###--------
+###Script:9
+###Mugshot:Geo
+Host nearby friends
+and go On Air!
+###--------
+###Script:10
+###Mugshot:Geo
+Connect with a friend
+nearby and go On Air!
+###--------
+###Script:11
+###Mugshot:Geo
+Enter a 2-digit number
+to find specific people.
+###--------
+###Script:12
+###Mugshot:Geo
+Connect to Nintendo
+Wi-Fi Connection.
+###--------
+###Script:13
+###Mugshot:Geo
+Enter Nintendo Wi-Fi
+Connection setup.
+###--------
+###Script:14
+###Mugshot:Geo
+Waiting for Client to join.
+###--------
+###Script:15
+###Mugshot:Geo
+I'm looking for a Host now.
+###--------
+###Script:16
+###Mugshot:Geo
+Which Host are you
+going to connect to?
+###--------
+###Script:17
+###Mugshot:Geo
+Wanna go On Air
+with a friend?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:18
+###Mugshot:Geo
+Requesting to go
+On Air with Host.
+Hold on...
+###--------
+###Script:19
+###Mugshot:Geo
+Stop accepting Clients?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:20
+###Mugshot:Geo
+We're not connected
+to any Clients.
+###--------
+###Script:21
+###Mugshot:Geo
+Connected!
+Going On Air for
+data exchange.<waitFlag>
+###Command:waitFlag flag=3344
+###--------
+###Mugshot:Geo
+<waitFlag>
+###Command:waitFlag flag=3346
+###--------
+###Script:22
+ON AIR HOST          ON AIR CLIENT        ENTER A NUMBER       NINTENDO WFC         Wi-Fi SETTINGS       
+###--------
+###Script:23
+ ON AIR SIGN OFF
+###--------
+###Script:24
+CONNECT DISCON. 
+###--------
+###Script:25
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>You'll lose your
+Brothers' powers.
+Disconnect anyway?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:26
+###Mugshot:Geo
+Waiting for Client #<printBuffer>
+to join...
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:27
+###Mugshot:Geo
+Looking for Host #<printBuffer>...
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:28
+###Mugshot:Geo
+Requesting Host #<printBuffer>...
+Wait a sec, OK?
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Script:29
+The connection has
+been closed.
+###--------
+###Script:30
+###Mugshot:Geo
+You must save to
+enter this menu!
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=80
+###--------
+###Mugshot:Geo
+<optionText>  Save  <optionText>  Exit
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:31
+###Mugshot:Geo
+Is it OK to
+overwrite?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:32
+Now saving... Don't turn
+off the power, OK?
+###--------
+###Script:33
+###Mugshot:Geo
+Save complete.<waitSkip>
+###Command:waitSkip frames=120
+###--------
+###Script:34
+Save failed...<waitSkip>
+###Command:waitSkip frames=120
+###--------
+###Script:35
+###Mugshot:Geo
+The save failed.
+Try again?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:37
+###Mugshot:Geo
+Initializing backup data...
+
+###--------
+###Script:39
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------

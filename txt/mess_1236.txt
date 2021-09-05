@@ -1,0 +1,46 @@
+﻿###TextArchive:mess_1236
+###Script:0
+###Mugshot:Geo
+Alright, let's do this!
+###--------
+###Script:1
+###Mugshot:Geo
+"Shovel Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:ShovelMan
+*ker-klunk*
+###--------
+###Mugshot:ShovelMan
+This'll be easy as cherry pie!
+###--------
+###Script:3
+###Mugshot:Geo
+OK, let's move this out
+of the way then!
+###--------
+###Script:4
+###Mugshot:OldMan
+Ohh! You've cleared it all
+out of the way!
+###--------
+###Script:5
+###Mugshot:OldMan
+Thanks to you, the park
+is all clean again!
+###--------
+###Mugshot:OldMan
+Here you go, sonny.
+For all your help.
+###--------
+###Script:6
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Script:7
+###Mugshot:OldMan
+I'll continue to keep this
+park sparkling clean!
+###--------

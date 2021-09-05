@@ -1,0 +1,57 @@
+﻿###TextArchive:mess_0297
+###Script:0
+*rumble rumble*
+###--------
+###Script:1
+###Mugshot:0
+Hmm?
+###--------
+###Mugshot:0
+Did you hear something?
+###--------
+###Script:2
+*rumble rumble*
+###--------
+###Script:3
+*crash!!*
+###--------
+###Script:4
+###Mugshot:0
+That was close!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Talk about a close shave.
+###--------
+###Script:6
+###Mugshot:0
+Now the road's blocked off,
+though.
+###--------
+###Mugshot:0
+And I get the feeling Pat's
+just up ahead.
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Well, Geo, time to put on
+your Visualizer.
+###--------
+###Script:8
+###Mugshot:0
+Yeah.
+###--------
+###Script:9
+###Mugshot:0
+Oh!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Looks like the areas are
+connected!
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Good. Then let's go through
+the Wave World.
+###--------

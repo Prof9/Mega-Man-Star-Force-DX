@@ -1,0 +1,158 @@
+﻿###TextArchive:mess_0501
+###Script:1
+The main gate to the
+Boreal Lab, AMAKEN.
+###--------
+It's quite a sight to see.
+###--------
+###Script:2
+Looks like there is no one
+in the guard room.
+###--------
+###Script:3
+###--------
+An information board, with
+a brief explanation and
+the history of AMAKEN.
+###--------
+###Script:4
+On the bench is a hat
+that someone forgot.
+###--------
+Hope the owner didn't get
+heat stroke...
+###--------
+###Script:5
+Rising up into the blue sky
+is AMAKEN Tower.
+###--------
+It's appropriate for a place
+that studies space.
+###--------
+###Script:6
+###--------
+According to the sign,
+this tower is really a
+modified rocket
+###--------
+that was once actually
+shot up into space.
+###--------
+###Script:7
+###--------
+Might that antenna be able
+to catch waves from space?
+###--------
+###Script:8
+The AMAKEN logo.
+It's kinda cool.
+###--------
+###Script:9
+A statue modeled after a
+star.
+###--------
+So typical of a place like
+this.
+###--------
+Oops, better not say that
+out loud...
+###--------
+###Script:10
+Wonder how far this
+telescope can see...
+###--------
+One thing I can say is
+never look at the sun.
+###--------
+###Script:11
+###--------
+A huge antenna like that
+can probably catch waves
+from space.
+###--------
+###Script:13
+Where do you want to go?
+###--------
+###Script:14
+It doesn't look like the
+bus is coming soon.
+###--------
+###Script:15
+<optionText>  Echo Ridge<spacePx><optionText>  Quit
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:16
+<optionText>  Echo Ridge<spacePx><optionText>  Time Square
+<optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=2 right=2
+###--------
+###Script:17
+<optionText>  Echo Ridge<spacePx><optionText>  Time Square
+<optionText>  Dream Island<optionText>  Quit
+###Command:optionText up=2 down=2 left=1 right=1
+###Command:spacePx count=13
+###Command:optionText up=3 down=3 left=0 right=0
+###Command:optionText up=0 down=0 left=3 right=3
+###Command:optionText up=1 down=1 left=2 right=2
+###--------
+###Script:20
+Wonder how far this
+telescope can see...
+###--------
+One thing I can say is
+never look at the sun.
+###--------
+###Script:21
+Wonder how far this
+telescope can see...
+###--------
+Oh...?
+What's this?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Script:25
+Wonder how far this
+telescope can see...
+###--------
+One thing I can say is
+never look at the sun.
+###--------
+###Script:26
+Wonder how far this
+telescope can see...
+###--------
+One thing I can say is
+never look at the sun.
+###--------
+###--------
+Oh...?
+The power's off.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whirr* *hum*
+###--------
+There's a wavehole here!
+###--------
+###Script:30
+...Hm?
+You spot something
+in the bushes...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=84
+###--------

@@ -1,0 +1,264 @@
+﻿###TextArchive:mess_0101
+###Script:0
+ Here's my stats.
+ <optionText>  Equip Weapon
+ <optionText>  Check Database
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:1
+ Here's my stats.
+ <optionText>  Equip Weapon
+ <optionText>  Check Database
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:2
+ Here's my stats.
+ <optionText>  Check Database
+###Command:optionText up=0 down=0 left=0 right=0
+###--------
+###Script:3
+ Here's my stats.
+ <optionText>  Check Database
+###Command:optionText up=0 down=0 left=0 right=0
+###--------
+###Script:4
+We got some new data
+from the scanner!
+###--------
+###Script:5
+Save the scanner data?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:6
+It'll overwrite other data.
+OK?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:7
+Now saving... Don't turn
+the power off!
+###--------
+###Script:8
+Save complete!
+###--------
+###Script:9
+Oh, man. Looks like the
+save failed, kid.
+###--------
+###Script:10
+Guess it didn't save.
+Try again?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+Initializing backup data,
+so hold on a sec...
+###--------
+###Script:13
+Equip weapon?
+
+###--------
+<optionText>  Yes 
+<optionText>  No
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:14
+Here are the contents
+of the scanner data.
+###--------
+###Script:15
+You wanna erase the
+old scanner data and
+###--------
+save the new scanner
+data?
+
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:16
+You wanna save?
+
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:17
+Do you wanna turn
+Power Up ON?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:18
+Do you wanna turn
+Power Up OFF?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:19
+Delete Power Up data?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:20
+Atk    <printBuffer>      Rapd   <printBuffer>      Chrg   <printBuffer>      
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadSpaces
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadSpaces
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadSpaces
+###--------
+###Script:21
+Gauge     <printBuffer>       MegaCrd   <printBuffer>       GigaCrd   <printBuffer>       
+###Command:printBuffer buffer=1 minLength=2 padMode=leftPadSpaces
+###Command:printBuffer buffer=2 minLength=2 padMode=leftPadSpaces
+###Command:printBuffer buffer=3 minLength=2 padMode=leftPadSpaces
+###--------
+###Script:22
+Level    <printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=noPad
+###--------
+###Script:23
+HP    +<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=noPad
+###--------
+###Script:24
+Attck +<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=noPad
+###--------
+###Script:25
+Rapid +<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=noPad
+###--------
+###Script:26
+Chrge +<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=noPad
+###--------
+###Script:27
+Gauge +<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=noPad
+###--------
+###Script:28
+MegaCrd +<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=noPad
+###--------
+###Script:29
+GigaCrd +<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=noPad
+###--------
+###Script:30
+Undrshrt
+###--------
+###Script:31
+SuprArmr
+###--------
+###Script:32
+FstBarr
+###--------
+###Script:33
+FlotShoe
+###--------
+###Script:34
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=4 padMode=leftPadSpaces
+###--------
+###Script:35
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:40
+Power Up is turned ON!
+###--------
+###Script:41
+Power Up is turned OFF!
+###--------
+###Script:42
+There isn't any
+Power Up data!
+###--------
+###Script:44
+That Power Up data's
+history!
+###--------
+###Script:45
+You can't equip that folder.
+I'll equip a spare.
+###--------
+###Script:46
+You can't get any scanner
+data right now!
+###--------
+###Script:50
+ Which page?
+ <optionText>  EM bodies
+ <optionText>  Records
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:51
+ Which page?
+ <optionText>  EM bodies
+ <optionText>  Records
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:52
+ Here's my stats.
+ <optionText>  Equip Weapon
+###Command:optionText up=0 down=0 left=0 right=0
+###--------
+###Script:53
+ Here's my stats.
+###--------
+###Script:60
+ ......
+ <optionText>  Equip Weapon
+ <optionText>  Check Database
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:61
+ ......
+ <optionText>  Equip Weapon
+ <optionText>  Check Database
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Script:62
+ ......
+ <optionText>  Check Database
+###Command:optionText up=0 down=0 left=0 right=0
+###--------
+###Script:63
+ ......
+ <optionText>  Check Database
+###Command:optionText up=0 down=0 left=0 right=0
+###--------
+###Script:64
+ ......
+###--------

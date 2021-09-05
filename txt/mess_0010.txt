@@ -1,0 +1,1654 @@
+﻿###TextArchive:mess_0010
+###Script:0
+<optionText>  Personal Page
+<optionText>  Delete Brother
+<optionText>  Quit
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Script:1
+###Mugshot:Geo
+Is it really OK to delete?
+
+###--------
+###Mugshot:Geo
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:2
+###Mugshot:Geo
+Delete complete.
+###--------
+###Script:3
+###Mugshot:Geo
+Register here?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:4
+###Mugshot:Geo
+Updating data.<waitFlag>
+###Command:waitFlag flag=3344
+###--------
+###Script:5
+###Mugshot:Geo
+Update complete.
+###--------
+###Script:6
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>
+is On Air!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:7
+###Mugshot:Geo
+Looks like
+<printNameBuffer1> <printNameBuffer2>'s
+level went up.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:8
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>'s
+Best Combo has been
+updated!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:9
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>
+has completed
+Standard Class cards.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:10
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>
+has completed
+Mega Class cards.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:11
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>
+has completed
+Giga Class cards.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:12
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>
+has cut our
+Brother Band...
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:Geo
+Oh, well. I'll go ahead and
+delete them as well.
+###--------
+###Script:13
+###Mugshot:Geo
+Let's hold off on
+deleting that Brother.
+###--------
+###Script:14
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>'s
+Data downloaded!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:15
+###Mugshot:Geo
+Looks like
+<printNameBuffer1> <printNameBuffer2>
+disconnected!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:17
+###Mugshot:Geo
+Looks like the library
+info's been updated.
+###--------
+###Script:18
+###Mugshot:Geo
+Looks like the record
+info's been updated.
+###--------
+###Script:19
+###Mugshot:Geo
+What about the
+READY icon?
+<positionOptionFromCenter><optionText>  Delete  <optionText>  Quit
+###Command:positionOptionFromCenter width=86
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:20
+###Mugshot:Geo
+Choose where to
+register your Brother
+and enter Friend Code
+###--------
+###Mugshot:Geo
+to be Brothers with
+a faraway friend.
+###--------
+###Script:21
+###Mugshot:Geo
+All full.
+Need to delete a Brother...
+###--------
+###Script:22
+###Mugshot:Geo
+There is already
+a Brother there.
+###--------
+###Script:23
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Connect"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Code correction"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Quit"
+###--------
+###Mugshot:Geo
+Connect and Update data?
+Or correct code?
+###--------
+###Script:24
+###Mugshot:Geo
+The Friend Code you
+entered is incorrect.
+###--------
+###Script:25
+###Mugshot:Geo
+That person is
+already a Brother.
+###--------
+###Script:26
+###Mugshot:Geo
+Downloading Brother data.
+###--------
+###Script:27
+###Mugshot:Geo
+Friend isn't ready.
+Retry?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:28
+###Mugshot:Geo
+Connecting to Friend.
+###--------
+###Script:29
+###Mugshot:Geo
+Downloading Friend's info.
+###--------
+###Script:30
+###Mugshot:Geo
+To search, again choose
+a Friend Code.
+###--------
+###Script:31
+###Mugshot:Geo
+Yeah!
+A new Brother is born!
+###--------
+###Script:32
+###Mugshot:Geo
+It looks like
+<printNameBuffer1> <printNameBuffer2>
+is the same person.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:Geo
+Duplicate will be deleted.
+###--------
+###Script:33
+###Mugshot:Geo
+We got some new data
+for <printNameBuffer1> <printNameBuffer2>,
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:Geo
+so make sure you delete
+their old data, OK?
+###--------
+###Script:34
+###Mugshot:Geo
+This Friend Code has
+already been entered.
+###--------
+###Script:35
+###Mugshot:Geo
+There are no Friends
+to connect to.
+###--------
+###Script:36
+###Mugshot:Geo
+There are no Friends
+to connect to.
+###--------
+###Script:37
+###Mugshot:Geo
+Multiple Friends with same
+data were on standby.
+###--------
+###Mugshot:Geo
+Extras deleted!
+###--------
+###Script:38
+###Mugshot:Geo
+Delete <printNameBuffer1><printNameBuffer2>?
+
+<positionOptionFromCenter>
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:39
+###Mugshot:Geo
+Send mail to
+<printBrotherNameBuffered><printBrotherNameBuffered>?
+<positionOptionFromCenter>
+###Command:printBrotherNameBuffered buffer=0 part=0
+###Command:printBrotherNameBuffered buffer=0 part=1
+###Command:positionOptionFromCenter width=69
+###--------
+###Mugshot:Geo
+<optionText>  Send  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:40
+###Mugshot:Geo
+Delete <printNameBuffer1><printNameBuffer2>?
+
+<positionOptionFromCenter>
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:60
+<optionText>  Personal Page
+<optionText>  Check Friend Code
+<optionText>  Quit
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Script:61
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=leftPadSpaces
+###--------
+###Script:62
+###Mugshot:Geo
+My Friend Code is
+<printBrotherBuffer1>!
+###Command:printBrotherBuffer1
+###--------
+###Script:63
+###Mugshot:Geo
+You don't have a
+Friend Code yet.
+###--------
+###Mugshot:Geo
+To get one, go to
+Nintendo WFC under
+the On Air menu.
+###--------
+###Mugshot:Geo
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:Geo
+Connect to Nintendo Wi-Fi
+Connection once to get
+your code.
+###--------
+###Script:80
+###Mugshot:Geo
+Oops,
+communication error...
+###--------
+###Script:100
+###Mugshot:Geo
+Register where?
+###--------
+###Script:101
+###Mugshot:Geo
+Register here?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:102
+###Mugshot:Geo
+Delete <printNameBuffer1> <printNameBuffer2>?
+
+<positionOptionFromCenter>
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:103
+###Mugshot:Geo
+Once deleted, a Brother
+is gone until re-registered.
+###--------
+###Mugshot:Geo
+Really delete?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No!
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:104
+###Mugshot:Geo
+Cancel Brother registration?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:105
+###Mugshot:Geo
+Now you're Brothers
+with <printNameBuffer1> <printNameBuffer2>!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:106
+###Mugshot:Geo
+It didn't work out.
+###--------
+###Script:107
+###Mugshot:Geo
+Waiting for an answer...
+###--------
+###Script:108
+###Mugshot:Geo
+Registering as a Brother.
+###--------
+###Script:109
+###Mugshot:Geo
+A secret they can't
+tell anyone...
+###--------
+###Mugshot:Geo
+<printBrotherBuffer1>
+<printBrotherBuffer2>
+<printBrotherBuffer3>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer3
+###--------
+###Mugshot:Geo
+Become Brothers with
+this secret?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=67
+###--------
+###Mugshot:Geo
+<optionText>  Yes!  <optionText>  No!
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:110
+###Mugshot:Geo
+Try it one more time?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No!
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:111
+###Mugshot:Geo
+You don't have a secret.
+###--------
+###Script:112
+###Mugshot:Geo
+That secret was no good.
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=93
+###--------
+###Mugshot:Geo
+<optionText>  Rewrite  <optionText>  Quit
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:113
+###Mugshot:Geo
+Tell your secret?
+
+###--------
+###Mugshot:Geo
+<positionOptionFromCenter><optionText>  OK  <optionText>  Check
+###Command:positionOptionFromCenter width=76
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:114
+###Mugshot:Geo
+OK to overwrite?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:115
+###Mugshot:Geo
+Now you're Brothers
+with <printNameBuffer1> <printNameBuffer2>!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:Geo
+Multiple Friends with same
+data as <printNameBuffer1> <printNameBuffer2>
+were on standby.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:Geo
+Extras deleted!
+###--------
+###Script:120
+###Mugshot:Geo
+Choose a Brother.
+###--------
+###Script:121
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Ask <printNameBuffer1> <printNameBuffer2>
+to be Brothers.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:122
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall><printNameBuffer1> <printNameBuffer2>'s
+modifications are ON.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="   Yes  "
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="   No   "
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:123
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2>
+wants to chat.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:124
+###Mugshot:Geo
+You got cancelled on!
+###--------
+###Script:125
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall><printNameBuffer1> <printNameBuffer2>
+wants to chat.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Chat"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:126
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall><printNameBuffer1> <printNameBuffer2>
+wants to chat.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="  Chat  "
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="  Don't "
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:127
+###Mugshot:Geo
+Chat request was cancelled!
+###--------
+###Script:128
+###Mugshot:Geo
+<printNameBuffer1> <printNameBuffer2> is offline.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:129
+###Mugshot:Geo
+There are no Brothers
+in there.
+###--------
+###Script:130
+###Mugshot:Geo
+Connecting to
+<printNameBuffer1> <printNameBuffer2>.
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:131
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Do you wanna disconnect?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="   Yes  "
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="   No   "
+###--------
+###Script:140
+###Mugshot:Geo
+Choose whom to
+send mail to.
+###--------
+###Script:141
+###Mugshot:Geo
+Send here?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:142
+###Mugshot:Geo
+Cancel?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:143
+###Mugshot:Geo
+You've got mail!
+###--------
+###Script:144
+###Mugshot:Geo
+Send mail to
+<printBrotherNameBuffered> <printBrotherNameBuffered>?
+<positionOptionFromCenter>
+###Command:printBrotherNameBuffered buffer=0 part=0
+###Command:printBrotherNameBuffered buffer=0 part=1
+###Command:positionOptionFromCenter width=69
+###--------
+###Mugshot:Geo
+<optionText>  Send  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:145
+###Mugshot:Geo
+That Brother isn't On Air.
+###--------
+###Script:146
+###Mugshot:Geo
+Cipher Mail has already
+been sent to the Satellite.
+###--------
+###Mugshot:Geo
+Let's close the Transer
+and wait.
+###--------
+###Script:147
+###Mugshot:Geo
+Mail has already been sent
+to a Lunar Knights Brother.
+###--------
+###Mugshot:Geo
+Let's close the Transer
+and wait.
+###--------
+###Script:160
+###Mugshot:Geo
+Wanna send unsent mail?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:161
+###Mugshot:Geo
+Uploading mail Data...
+###--------
+###Script:162
+###Mugshot:Geo
+The mail that you
+sent wasn't received.
+###--------
+###Mugshot:Geo
+If you send this mail,
+the old one will be deleted.
+###--------
+###Mugshot:Geo
+Do you still want
+to send?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=71
+###--------
+###Mugshot:Geo
+<optionText>  Send  <optionText>  No!
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:163
+###Mugshot:Geo
+Send complete!
+###--------
+###Script:164
+###Mugshot:Geo
+Looks like the mail
+failed to send.
+###--------
+###Mugshot:Geo
+Try again?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:Geo
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:166
+###Mugshot:Geo
+Initializing data backup...
+###--------
+###Script:167
+Saving... Don't
+turn off power!
+###--------
+###Script:168
+Save complete.
+###--------
+###Script:169
+<optionButtonSmall><optionButtonSmall>Save failed.
+Wanna try again?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:171
+Save failed...
+###--------
+###Script:173
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:174
+Sending!
+###--------
+###Script:180
+###Mugshot:Geo
+Sorry!
+Can't cancel!
+###--------
+###Script:181
+###Mugshot:Geo
+Uhh, let's not switch
+with that Brother...
+###--------
+###Script:182
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Someone might go in there...
+OK to overwrite?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:183
+###Mugshot:Geo
+OK to switch with
+<printBrotherBuffer1> <printBrotherBuffer2>?
+<positionOptionFromCenter>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###Command:positionOptionFromCenter width=58
+###--------
+###Mugshot:Geo
+<optionText>  OK  <optionText>  No!
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:186
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Sonia
+Hey, Geo!
+I'm glad we can be Brothers!
+###--------
+###Mugshot:Sonia
+My Link Abilities are
+First Barrier and Undershirt!
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+First Barrier is an ability that
+surrounds you in a barrier
+at the start of a battle.
+###--------
+###Mugshot:Sonia
+As for Undershirt, as long
+as you have at least 2 HPs,
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+a hit that would normally take
+you down to 0 will only take
+you down to 1 HP instead.
+###--------
+###Mugshot:Sonia
+My Link Abilities will definitely
+keep you safe.
+###--------
+###Mugshot:Sonia
+See you!
+###--------
+###Script:187
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Luna
+It's good to be Brothers,
+Geo!
+###--------
+###Mugshot:Luna
+My Link Ability is
+Float Shoes!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Float Shoes nullifies all
+panel effects. Even poison
+panels are not a problem.
+###--------
+###Mugshot:Luna
+My Link Ability will definitely
+protect you!
+###--------
+###Mugshot:Luna
+Anyway, here's to being
+Brothers!
+###--------
+###Script:188
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Bud
+Yo, Geo! What's up?
+###--------
+###Mugshot:Bud
+My Link Ability is
+Super Armor.
+###--------
+###Mugshot:Bud
+It's tough under any attack!
+Cool, huh.
+###--------
+###Mugshot:Bud
+Forget dodging, just go in
+hard and kick some alien butt!
+###--------
+###Mugshot:Bud
+Go get 'em!
+###--------
+###Script:189
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Zack
+Hi, Geo! It's a pleasure to
+be Brothers!
+###--------
+###Mugshot:Zack
+My Link Ability is
+Mega Class+2!
+###--------
+###Mugshot:Zack
+It allows you to put
+2 more Mega Class cards
+into your folder.
+###--------
+###Mugshot:Zack
+It's the perfect ability for
+brainy people!
+###--------
+###Mugshot:Zack
+Now, you too, can fight
+smart like I do!
+###--------
+###Mugshot:Zack
+See you later!
+###--------
+###Script:191
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Sonia
+...<wait>Um, hi<wait> Geo.
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:Sonia
+My Link Abilities are
+First Barrier and Undershirt!
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+First Barrier is an ability that
+surrounds you in a barrier
+at the start of a battle.
+###--------
+###Mugshot:Sonia
+As for Undershirt, as long
+as you have at least 2 HPs,
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+a hit that would normally take
+you down to 0 will only take
+you down to 1 HP instead.
+###--------
+###Mugshot:Sonia
+My Link Abilities will definitely
+keep you safe.
+###--------
+###Mugshot:Sonia
+...<wait>
+###Command:wait frames=10
+###--------
+###Mugshot:Sonia
+...Hey!<wait>
+Better not cut Brothers
+with me again!
+###Command:wait frames=10
+###--------
+###Mugshot:Sonia
+Well, bye for now!
+###--------
+###Script:192
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Luna
+Hmph!
+I guess I can let you
+be my Brother again...
+###--------
+###Mugshot:Luna
+But just this once, OK!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+My Link Ability is
+Float Shoes!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Float nullifies all
+panel effects. Even poison
+panels are not a problem.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+It'll protect even a Brother
+Band cutter like you, Geo!
+But don't ever do that again!
+###--------
+###Mugshot:Luna
+Anyway, here's to being
+Brothers again!
+###--------
+###Script:193
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+I can't believe you cut our
+Brother Band! I'll pwn you if
+you try that again, got it!?
+###--------
+###Mugshot:Bud
+My Link Ability is
+Super Armor.
+###--------
+###Mugshot:Bud
+It's tough under any attack!
+Cool, huh.
+###--------
+###Mugshot:Bud
+Forget dodging, just go in
+hard and kick some alien butt!
+###--------
+###Mugshot:Bud
+Go get 'em!
+###--------
+###Script:194
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Zack
+Hi, Geo!
+Thank you for being my
+Brother again!
+###--------
+###Mugshot:Zack
+My Link Ability is
+Mega Class+2!
+###--------
+###Mugshot:Zack
+It allows you to put
+2 more Mega Class cards
+into your folder.
+###--------
+###Mugshot:Zack
+It's the perfect ability for
+brainy people!
+###--------
+###Mugshot:Zack
+Now, you too, can fight
+smart like I do!
+###--------
+###Mugshot:Zack
+See you later!
+###--------
+###Script:195
+###Mugshot:Geo
+Legendary Master Shin is
+now your Brother!
+###--------
+###Mugshot:LegendaryMasterShin
+It's the Legend!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Right, now then, Geo, my
+Link Ability is Giga Class+1!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+It lets you put 1 more Giga
+Class card in your folder.
+Pretty legendary, eh?
+###--------
+###Mugshot:LegendaryMasterShin
+Use this and make yourself
+a legend!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Cheerio.
+Too legendary!
+###--------
+###Script:196
+###Mugshot:Geo
+<printBrotherBuffer2> <printBrotherBuffer1> is
+now your Brother!
+###Command:printBrotherBuffer2
+###Command:printBrotherBuffer1
+###--------
+###Mugshot:Luna
+Hmph!
+I guess I can let you
+be my Brother again...
+###--------
+###Mugshot:Luna
+But just this once, OK!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+My Link Ability is
+Float Shoes!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Float Shoes nullifies all
+panel effects. Even poison
+panels are not a problem.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+It'll protect even a Brother
+Band cutter like you, Geo!
+But don't ever do that again!
+###--------
+###Mugshot:Luna
+Anyway, here's to being
+Brothers again!
+###--------
+###Script:197
+<printBrotherNameBuffered><printBrotherNameBuffered> is
+now your Brother!
+###Command:printBrotherNameBuffered buffer=1 part=0
+###Command:printBrotherNameBuffered buffer=1 part=1
+###--------
+###Mugshot:1
+I'm connecting from the
+world of Lunar Knights!
+###--------
+###Mugshot:1
+Why don't we help each
+other out?
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+When you find something that
+you think might be useful
+to me, send me a mail.
+###--------
+###Mugshot:1
+In return, I'll send you
+rare things I found.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+I've got a few Battle
+Cards that you can't
+find in your world.
+###--------
+###Mugshot:1
+And if you know any
+tips for Lunar Knights,
+###--------
+###Mugshot:1
+let me know as well.
+I could use some help!
+###++++++++
+###Mugshot:1
+By the way, there are
+other portals like this one.
+###++++++++
+###Mugshot:1
+Why don't you try forming
+some more Brother Bands
+with Lunar Knights?
+###++++++++
+###Mugshot:1
+Good things might
+happen if you do!
+###--------
+###Mugshot:1
+May the Sun be with you!
+###--------
+###Script:198
+<printBrotherNameBuffered> <printBrotherNameBuffered> is
+now your Brother!
+###Command:printBrotherNameBuffered buffer=1 part=0
+###Command:printBrotherNameBuffered buffer=1 part=1
+###--------
+Wait.
+I formed a Brother Band...
+with myself!?
+###--------
+###Mugshot:OmegaXis
+I'm not sure what just
+happened, but...
+###--------
+###Mugshot:OmegaXis
+Well, they say you know
+yourself better than
+anyone, right?
+###--------
+###Mugshot:OmegaXis
+This could be pretty useful.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I assume you don't need
+me to tell you your own
+Link Ability, do you?
+###--------
+###Mugshot:OmegaXis
+It seems like this Brother is
+a copy of your current data.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+So if you want to update
+it, come back and check
+the mirror again.
+###--------
+###Script:199
+<printBrotherNameBuffered> <printBrotherNameBuffered> is
+now your Bro.!
+###Command:printBrotherNameBuffered buffer=1 part=0
+###Command:printBrotherNameBuffered buffer=1 part=1
+###--------
+...No matter how many
+times I see it happen,
+###--------
+###--------
+I just can't get used to
+seeing my own name pop
+up on the Transer.
+###--------
+###Mugshot:OmegaXis
+It seems like this Brother is
+a copy of your current data.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+So if you want to update
+it, come back and check
+the mirror again.
+###--------
+###Script:200
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> fused
+with me and we became
+Mega Man!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:201
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+beaten the 1st boss,
+that hot bull, Taurus Fire!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+That was hot!
+###--------
+###Script:202
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+beaten the 2nd boss, that
+Swany man, Cygnus Wing!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+That was done
+very gracefully!
+###--------
+###Script:203
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+beaten the 3rd boss,
+the shattering Harp Note!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+Hmph, try to help someone
+and you get noise back!
+###--------
+###Script:204
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>
+and Sonia Strumm
+are Brothers now!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+Just look at those two...
+How special!
+###--------
+###Script:205
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>
+has awoken the power
+of the Star Force!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+Now things are starting
+to get interesting!
+###--------
+###Script:206
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+beaten the 4th boss,
+Libra Scales!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+Looks like he lost
+his balance!
+###--------
+###Script:207
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+beaten the 5th boss,
+the snaky Queen Ophiuca!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+Eww! Squirmy!
+###--------
+###Script:208
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> is Brothers
+with that class prez
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+who's crazy about Mega Man,
+Luna Platz!
+###--------
+###Script:209
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+beaten the 6th boss,
+the powerful Gemini Spark!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+Yeah, that guy's a
+prickly one!
+###--------
+###Script:210
+###Mugshot:OmegaXis
+Now this is interesting!
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>'s become
+Brothers with that
+roughneck, Bud Bison!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:211
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+beaten the last boss!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+That was a tough fight!
+###--------
+###Script:212
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> has
+made a Real Brother!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:213
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> is now
+Brothers with the savvy
+brain, Zack Temple!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:214
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>
+made a Best Combo!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:215
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+a Legend Card from
+Legendary Master Shin!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+What's that guy supposed
+to be anyway?
+###--------
+###Script:216
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+Heads up!
+<printNameBuffer1> <printNameBuffer2> got
+100 match wins!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:217
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> beat
+that crab, Cancer Bubble!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:218
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> beat
+Wolf Woods!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+With those sharp claws
+and that speed, that
+was one tough guy!
+###--------
+###Script:219
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> decked
+the duke, Crown Thunder!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:220
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> beat
+a Satellite Administrator!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+That was a magnificent battle!
+###--------
+###Script:221
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>'s beaten
+all of the SP bosses!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:222
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>'s got
+all the Standard cards!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:223
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>'s got
+all the Mega cards!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:224
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card PegasuMgc[GX]!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:225
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card Aqua+50!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:226
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card OxTackle!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:227
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card DrknesHole!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:228
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card DarkSword!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:229
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2>'s got
+all the Giga cards!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:230
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> met
+some kinda blue NetNavi...
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:231
+###Mugshot:OmegaXis
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:OmegaXis
+Unbelievable!
+<printNameBuffer1> <printNameBuffer2> has
+gotten all the stars,
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Mugshot:OmegaXis
+and has taken Mega Man
+Star Force all the way!
+###--------
+###Script:232
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card LeoKingdm[GX]!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:233
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card Fire+50!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:234
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card GemniThndr!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:235
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card BrkTmeBmb!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:236
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card LifeAura!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:237
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card DragonSky[GX]!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:238
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card Wood+50!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:239
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card GorgonEye!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:240
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card DestrMissl!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------
+###Script:241
+###Mugshot:OmegaXis
+<printNameBuffer1> <printNameBuffer2> got
+Giga card PoisonPhar!
+###Command:printNameBuffer1
+###Command:printNameBuffer2
+###--------

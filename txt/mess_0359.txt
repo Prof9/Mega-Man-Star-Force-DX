@@ -1,0 +1,50 @@
+﻿###TextArchive:mess_0359
+###Script:0
+###Mugshot:Libra
+I'm surprised. I didn't
+think you'd get to me.
+###--------
+###Mugshot:Libra
+But I won't let you get
+past me.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Heh, what's a pair of
+scales gonna do to us?
+###--------
+###Script:2
+###Mugshot:Libra
+You and your insults.
+###--------
+###Mugshot:Libra
+You've just said your last!!
+###--------
+###Script:3
+###Mugshot:LibraScales
+###--------
+###Mugshot:LibraScales
+These scales are gonna weigh
+your sins and then serve you
+the punishment you deserve.
+###--------
+###Mugshot:LibraScales
+###--------
+###Mugshot:LibraScales
+Now, Omega-Xis!
+Face the punishment of
+your betrayal!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Geo!
+###--------
+###Script:5
+###Mugshot:0
+Wave Battle!
+Ride On!!
+###--------
+###Script:6
+###Mugshot:LibraScales
+The scales have spoken!
+###--------

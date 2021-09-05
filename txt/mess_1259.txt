@@ -1,0 +1,93 @@
+﻿###TextArchive:mess_1259
+###Script:0
+###Mugshot:DragonSkyShadow
+...Splendid.
+###++++++++
+###Mugshot:DragonSkyShadow
+Your power has indeed grown
+since last we met, Geo.
+###++++++++
+###Mugshot:DragonSkyShadow
+As your bonds grow
+stronger, so, too, will you.
+###++++++++
+###Mugshot:DragonSkyShadow
+That battle just now was
+all the proof I needed.
+###++++++++
+###Mugshot:DragonSkyShadow
+Receive this, Geo!
+My Star Force!!
+###--------
+###Script:1
+###Mugshot:DragonSkyShadow
+Now, you will be able to
+use the Dragon Star Force.
+###++++++++
+###Mugshot:DragonSkyShadow
+It is a defensive power
+that will surely aid you.
+###++++++++
+###Mugshot:DragonSkyShadow
+I shall continue to watch
+you, Geo and Omega-Xis.
+Trust in the power
+###++++++++
+###Mugshot:DragonSkyShadow
+of your bonds, and there
+will be no hurdle too high
+for you to overcome.
+###--------
+###Script:2
+###Mugshot:1
+...Hey, Mega.
+You think he was holding
+back, too?
+###--------
+###Mugshot:OmegaXis
+Yeah...
+Must have been.
+###++++++++
+###Mugshot:OmegaXis
+.<wait>.<wait>.<wait>Heh. The Dragon Star
+Force, huh?
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Seems to me if you keep
+forming Brother Bands,
+###++++++++
+###Mugshot:OmegaXis
+we're just gonna keep on
+becoming more powerful.
+###--------
+###Mugshot:1
+......
+###--------
+###Mugshot:1
+<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:OmegaXis
+Anyway... don't you have
+somewhere to be?
+###--------
+###Mugshot:1
+Ah, that's right!
+###++++++++
+###Mugshot:1
+I was supposed to meet up
+with Pat at Dream Island.
+###--------
+###Script:4
+###Mugshot:1
+Let's see.
+He said I can get there
+by taking the bus.
+###++++++++
+###Mugshot:1
+Better not keep him waiting.
+###--------

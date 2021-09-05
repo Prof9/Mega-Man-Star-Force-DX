@@ -1,0 +1,212 @@
+﻿###TextArchive:mess_0181
+###Script:0
+###Mugshot:Geo
+Mega, where are you?
+###--------
+###Script:1
+###Mugshot:Geo
+Meeeega!
+###--------
+###Script:2
+###Mugshot:Geo
+What's with this music?
+Is someone else here?
+###--------
+###Script:3
+###Mugshot:Geo
+.........
+###--------
+###Script:4
+###Mugshot:Sonia
+Do you need to use
+this space?
+###--------
+###Mugshot:Sonia
+I'll be done in a sec.
+Please wait.
+###--------
+###Script:5
+###Mugshot:Geo
+.........
+###--------
+###Script:6
+###Mugshot:Sonia
+Whoo, finished!
+###--------
+###Mugshot:Sonia
+So what do you think?
+###--------
+###Script:7
+###Mugshot:Geo
+Uh, um...
+Nice song.
+###--------
+###Script:8
+###Mugshot:Sonia
+You think so?
+That's a relief.
+###--------
+###Mugshot:Sonia
+It's a new song I just
+made up.
+###--------
+###Mugshot:Sonia
+I wonder if my mama will
+be proud?
+###--------
+###Script:9
+###Mugshot:Geo
+You were playing that
+song for your mom?
+###--------
+###Script:10
+###Mugshot:Sonia
+Yeah, I compose songs
+for my mama.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+My mama is always very
+happy whenever I play a
+new song of mine for her.
+###--------
+###Script:11
+###Mugshot:Sonia
+Did you hear it, mama?
+I composed a great song...
+###--------
+###Script:12
+###Mugshot:Sonia
+Sorry to have made
+you wait.
+###--------
+###Mugshot:Sonia
+I'm going to get going now.
+Bye!
+###--------
+###Script:13
+###Mugshot:Geo
+.........
+###--------
+###Script:14
+Heh heh heh.
+Do I sense puppy love?
+###--------
+###Script:15
+###Mugshot:Geo
+Ack! Mega!!
+Where did you come from!?
+###--------
+###Mugshot:Geo
+And where were you!?
+###--------
+###Script:16
+###Mugshot:OmegaXis
+The music caught my
+attention, so I took a look.
+###--------
+###Mugshot:OmegaXis
+I felt the loneliness waves
+that attract FM-ians
+###--------
+###Mugshot:OmegaXis
+coming from the music she
+was playing.
+###--------
+###Script:17
+###Mugshot:Geo
+Loneliness waves...?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+It's a peculiar frequency
+that people with loneliness
+in their hearts carry, kid.
+###--------
+###Mugshot:Geo
+A-And what about the
+FM-ians!?
+###--------
+###Mugshot:OmegaXis
+Cool it. There aren't
+any around.
+###--------
+###Mugshot:Geo
+Oh...
+###--------
+###Mugshot:Geo
+Hey Mega! Do you know
+about Z waves?
+###--------
+###Script:18
+###Mugshot:OmegaXis
+You mean the waves
+us FM-ians transmit?
+###--------
+###Script:19
+###Mugshot:Geo
+I knew it!
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Earlier, there was this
+strange guy named Copper
+and he came to the house.
+###--------
+###Mugshot:Geo
+He said he was looking for
+the Z wave source.
+###--------
+###Mugshot:Geo
+And he said when he
+found it, he'd destroy it...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+Wow, I'm touched!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You came looking for me
+'cause you were all
+worried, huh?
+###--------
+###Script:21
+###Mugshot:Geo
+It was nothing like that!!
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Aw, just admit it
+already, kid!
+###--------
+###Mugshot:OmegaXis
+...Oh hey, do you know
+that girl that was here?
+###--------
+###Script:23
+###Mugshot:Geo
+No... First time I ever
+saw her.
+###--------
+###Script:24
+###Mugshot:OmegaXis
+That's good...
+###--------
+###Script:25
+###Mugshot:Geo
+Why?
+###--------
+###Script:26
+###Mugshot:OmegaXis
+Nothing.
+Come on, let's go home.
+###--------
+###Script:27
+###Mugshot:Geo
+O-OK...
+###--------

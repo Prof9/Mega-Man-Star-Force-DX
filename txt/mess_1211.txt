@@ -1,0 +1,345 @@
+﻿###TextArchive:mess_1211
+###Script:0
+Mega Man examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:2
+It's locked!
+You can open it
+with an "<printItem>".
+###Command:printItem item=99
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use an "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=99
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=99
+###--------
+###Script:7
+It's locked!
+You can open it
+with a "<printItem>".
+###Command:printItem item=102
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use a "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=102
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=102
+###--------
+###Script:8
+Mega Man got:
+"<printCardBuffered>"!!
+###Command:printCardBuffered buffer=2
+###--------
+###Script:10
+Mega Man examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:12
+It's locked!
+You can open it
+with an "<printItem>".
+###Command:printItem item=99
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use an "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=99
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=99
+###--------
+###Script:17
+It's locked!
+You can open it
+with a "<printItem>".
+###Command:printItem item=102
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use a "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=102
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=102
+###--------
+###Script:18
+Mega Man got a
+Sub Card: "<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:20
+Mega Man examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:22
+It's locked!
+You can open it
+with an "<printItem>".
+###Command:printItem item=99
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use an "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=99
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=99
+###--------
+###Script:27
+It's locked!
+You can open it
+with a "<printItem>".
+###Command:printItem item=102
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use a "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=102
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=102
+###--------
+###Script:28
+Mega Man got:
+"<printBuffer> Zennys"!!
+###Command:printBuffer buffer=1 minLength=8 padMode=noPad
+###--------
+###Script:30
+Mega Man examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:32
+It's locked!
+You can open it
+with an "<printItem>".
+###Command:printItem item=99
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use an "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=99
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=99
+###--------
+###Script:37
+It's locked!
+You can open it
+with a "<printItem>".
+###Command:printItem item=102
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use a "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=102
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=102
+###--------
+###Script:38
+Mega Man got:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:48
+There's a virus in the
+Mystery Wave!
+###--------
+###Script:50
+Mega Man examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:52
+It's locked!
+You can open it
+with an "<printItem>".
+###Command:printItem item=99
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use an "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=99
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=99
+###--------
+###Script:57
+It's locked!
+You can open it
+with a "<printItem>".
+###Command:printItem item=102
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use a "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=102
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=102
+###--------
+###Script:58
+Mega Man got a
+Power Up item:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:60
+Mega Man examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:62
+It's locked!
+You can open it
+with an "<printItem>".
+###Command:printItem item=99
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use an "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=99
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=99
+###--------
+###Script:67
+It's locked!
+You can open it
+with a "<printItem>".
+###Command:printItem item=102
+###--------
+<optionButtonSmall><optionButtonSmall>Do you want to
+use a "<printItem>"?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItem item=102
+###--------
+Used Sub Card: "<printItem>"
+to unlock the wave!
+###Command:printItem item=102
+###--------
+###Script:68
+Mega Man got a
+Mega Weapon:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:70
+Geo examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:71
+Geo got:
+"<printCardBuffered>"!!
+###Command:printCardBuffered buffer=2
+###--------
+###Script:72
+Geo examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:73
+Geo got a
+Sub Card: "<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:74
+Geo examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:75
+Geo got:
+"<printBuffer> Zennys"!!
+###Command:printBuffer buffer=1 minLength=8 padMode=noPad
+###--------
+###Script:76
+Geo examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:77
+Geo got:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:78
+Geo examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:79
+Geo got a
+Power Up item:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:80
+Geo examined the
+Mystery Wave.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:81
+Geo got a
+Mega Weapon:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------

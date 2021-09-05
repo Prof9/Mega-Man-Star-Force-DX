@@ -1,0 +1,217 @@
+﻿###TextArchive:mess_0247
+###Script:0
+###Mugshot:Geo
+Sorry to keep you waiting.
+###--------
+###Mugshot:Geo
+And thanks again for
+back there...
+###--------
+###Script:1
+###Mugshot:Sonia
+Well, like I said before,
+you're very welcome!
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+We're Brothers now,
+so no matter what,
+we'll be there for you!
+###--------
+###Mugshot:Sonia
+Right, Lyra?
+###--------
+###Script:2
+###Mugshot:Lyra
+Yup!
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Hey, not so fast.
+###--------
+###Mugshot:OmegaXis
+Be careful of that girl,
+Sonia.
+###--------
+###Mugshot:OmegaXis
+You never know when she
+might backstab you.
+###--------
+###Script:4
+###Mugshot:Lyra
+Hmph! Aren't you rude!?
+###--------
+###Mugshot:Lyra
+I like Sonia and this planet
+too much. Trust me.
+###--------
+###Mugshot:Lyra
+I won't be returning to
+FM any time soon!
+###--------
+###Script:5
+###Mugshot:Sonia
+Now, now, Lyra.
+It's OK.
+###--------
+###Mugshot:Sonia
+Um, by the way, Geo...
+###--------
+###Mugshot:Sonia
+So... um...
+Are you free... this Sunday...?
+###--------
+###Script:6
+###Mugshot:Geo
+Um, yeah...
+###--------
+###Script:7
+###Mugshot:Sonia
+Um... I... uh...
+###--------
+###Mugshot:Lyra
+Come on, you can say it!
+###--------
+###Mugshot:Lyra
+You came all the way over
+here today for this!
+###--------
+###Mugshot:Sonia
+Um... I was wondering if...
+###--------
+###Mugshot:Sonia
+you would go shopping
+with me!?
+###--------
+###Mugshot:Sonia
+Maybe we could go to
+Nacys in Time Square...?
+###--------
+###Mugshot:Sonia
+So, what do you think...?
+###--------
+###Script:8
+###Mugshot:Geo
+You want to go shopping?
+Just the 2 of us...?
+###--------
+###Script:9
+###Mugshot:Sonia
+No good?
+###--------
+###Script:10
+###Mugshot:Geo
+Ah, that's not what I
+meant! I mean, um,
+###--------
+###Mugshot:Geo
+I don't usually do things
+with just 1 other person,
+###--------
+###Mugshot:Geo
+a-and definitely not with
+a girl, you know...?
+###--------
+###Script:11
+###Mugshot:Sonia
+I-I've never gone
+shopping alone...
+###--------
+###Mugshot:Sonia
+with a guy before...
+so... um...
+###--------
+###Script:12
+###Mugshot:OmegaXis
+What are you two getting
+all red in the face for?
+###--------
+###Script:13
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+Not that a brute like you
+would understand, but this is
+what humans call "adolescence!"
+###--------
+###Script:14
+###Mugshot:OmegaXis
+Hmm, adolescence, huh?
+###--------
+###Script:15
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+OK, then let's meet in front
+of the Rover statue in Time
+Square at 10 this Sunday!
+###--------
+###Script:16
+###Mugshot:Geo
+O-OK...
+###--------
+###Script:17
+###Mugshot:Sonia
+Don't be late, OK!?
+###--------
+###Mugshot:Sonia
+See you!!
+###--------
+###Script:18
+###Mugshot:Geo
+Y-Yeah...
+###--------
+###Mugshot:Lyra
+Great job, Sonia!
+###--------
+###Mugshot:Sonia
+Tee hee!
+###--------
+###Script:19
+###Mugshot:Geo
+.........
+###--------
+###Script:20
+You were pretty smooth
+too, Geo!
+###--------
+###Script:21
+###Mugshot:Geo
+Ack!
+###--------
+###Script:22
+###Mugshot:Hope
+Good job landing a date
+with such a cute girl!
+###--------
+###Script:23
+###Mugshot:Geo
+D-D-Date!?
+###--------
+###Mugshot:Geo
+It's not like that!!
+###--------
+###Script:24
+###Mugshot:Hope
+You'll have to introduce
+us next time!
+###--------
+###Script:25
+###Mugshot:Geo
+......Y-Yeah, sure!
+###--------
+###Mugshot:Geo
+Wow, a lot of stuff
+happened today! I'm beat!
+###--------
+###Script:26
+###Mugshot:Hope
+Ha ha ha. OK, OK.
+In you go.
+###--------
+###Script:27
+###Mugshot:Hope
+Hee hee...
+My little boy's growing up...
+###--------

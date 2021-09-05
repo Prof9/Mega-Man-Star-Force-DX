@@ -1,0 +1,176 @@
+﻿###TextArchive:mess_0306
+###Script:0
+###Mugshot:0
+Pat!!
+###--------
+###Script:1
+###Mugshot:GeminiSparkWhite
+...Geo.
+###--------
+###Script:2
+###Mugshot:GeminiSparkBlack
+You're here!
+###--------
+###Script:3
+###Mugshot:0
+Pat, why...?
+###--------
+###Mugshot:0
+This isn't right...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+We were getting along so
+well, and we were even
+about to become Brothers!
+###--------
+###Script:4
+###Mugshot:GeminiSparkWhite
+I really did want us to be
+Brothers...
+###--------
+###Mugshot:GeminiSparkWhite
+But... I guess that's not
+possible now.
+###--------
+###Script:5
+###Mugshot:0
+What are you talking
+about!?
+###--------
+###Mugshot:0
+I don't understand
+what you mean!
+###--------
+###Script:6
+###Mugshot:GeminiSparkWhite
+I don't expect you to
+understand.
+###--------
+###Mugshot:GeminiSparkWhite
+This is something I've
+decided to do.
+###--------
+###Script:7
+###Mugshot:0
+No...
+###--------
+###Script:8
+###Mugshot:GeminiSparkBlack
+Ha ha ha!
+###--------
+###Mugshot:GeminiSparkBlack
+See, he said it.
+Now why don't you give up?
+###--------
+###Script:9
+###Mugshot:Gemini
+Hey, Mega.
+###--------
+###Mugshot:Gemini
+You brought the Andromeda
+Key with you, right?
+###--------
+###Script:10
+###Mugshot:OmegaXis
+You think I'm going to just
+hand it to you?
+###--------
+###Script:11
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+Of course not. I knew I'd
+have to take it from you.
+###--------
+###Script:12
+###Mugshot:0
+Pat! You're making a
+big mistake!!
+###--------
+###Script:13
+###Mugshot:GeminiSparkWhite
+There is no other way...
+###--------
+###Script:14
+###Mugshot:GeminiSparkBlack
+###--------
+###Mugshot:GeminiSparkBlack
+If you don't want to
+fight, then hand over
+the Andromeda Key!!
+###--------
+###Mugshot:GeminiSparkBlack
+...Hah!!
+###--------
+###Script:15
+###Mugshot:0
+Pat!!
+###--------
+###Script:16
+###Mugshot:GeminiSparkWhite
+......
+###--------
+###Script:17
+###Mugshot:OmegaXis
+Drat! They ran away
+into the Comp Space.
+###--------
+###Script:18
+###Mugshot:GeminiSparkBlack
+Ran away?
+Boy have you got it wrong!
+###--------
+###Mugshot:GeminiSparkBlack
+We're in here to do this!!
+###--------
+###Script:19
+###Mugshot:OmegaXis
+So that's what their
+plan was!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+They're using that beat
+up antenna to broadcast
+those waves!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If we don't do something, the
+damage is going to spread
+out further than before!
+###--------
+###Script:21
+*riiiiiiiing!*<wait>
+###Command:wait frames=40
+###--------
+###Script:22
+###Mugshot:0
+###--------
+###Mugshot:0
+A call?
+At a time like this?
+###--------
+###Script:23
+###Mugshot:0
+Hello?
+###--------
+###Script:24
+###Mugshot:Sonia
+Geo!?
+###--------
+###Mugshot:Sonia
+It's terrible!
+###--------
+###Script:25
+###Mugshot:0
+###--------
+###Mugshot:0
+Sonia!?
+What's wrong!?
+###--------

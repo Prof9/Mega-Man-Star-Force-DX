@@ -1,0 +1,32 @@
+﻿###TextArchive:mess_0167
+###Script:0
+###Mugshot:0
+I guess I need an
+Entry Pass for this gate...
+###--------
+###Script:1
+Geo used:
+"EntryPas"!!
+###--------
+###Script:2
+Checking "<printItem>"...
+###Command:printItem item=11
+###--------
+Confirmed.
+You may enter.
+###--------
+*click!*
+###--------
+###Script:3
+###Mugshot:0
+OK, let's go.
+###--------
+###Script:4
+Checking "<printItem>"...
+###Command:printItem item=11
+###--------
+Confirmed.
+You may enter.
+###--------
+*click!*
+###--------

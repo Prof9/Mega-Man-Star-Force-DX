@@ -1,0 +1,81 @@
+﻿###TextArchive:mess_0607
+###Script:0
+A backhoe is blocking
+the way.
+###--------
+###Mugshot:0
+I'm pretty sure the
+scrapyard Pat mentioned
+is just beyond here...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I have to find some way
+to move this backhoe...
+###--------
+###Script:2
+These trucks bring garbage
+here.
+###--------
+###Script:3
+The SorterBots are busy
+sorting the garbage.
+###--------
+###Script:4
+This is the city dump.
+###--------
+Strong flames burn up all
+the burnable trash.
+###--------
+###Script:5
+It's a backhoe.
+###--------
+They probably use this
+for the heavy stuff.
+###--------
+###Script:6
+"Scrapyard Up Ahead"
+###--------
+###Script:7
+This backhoe is blocking
+the way...
+###--------
+###Script:10
+It's a crane for sorting
+the trash.
+###--------
+I bet they use this to
+move the big pieces.
+###--------
+###Script:11
+It's a crane for sorting
+the trash.
+###--------
+###--------
+Hmm?
+Looks like it's not on.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whiiiiiiiir*
+###--------
+A wavehole has appeared
+above the crane!
+###--------
+###Script:13
+It's a crane for sorting
+the trash.
+###--------
+Hmm?
+There's something here.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=42
+###--------

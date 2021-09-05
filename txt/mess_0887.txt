@@ -1,0 +1,69 @@
+﻿###TextArchive:mess_0887
+###Script:0
+###Mugshot:Jammer
+Whaddaya want?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+So these guys are the ones
+who are making the strange
+noise Zack was talking about!
+###--------
+###Mugshot:Jammer
+We're gonna take over
+all of the Wave Roads
+in Echo Ridge,
+###--------
+###Mugshot:Jammer
+and you're not gonna
+stop us!
+###--------
+###Mugshot:Jammer
+Get them!!
+###--------
+###Mugshot:Jammer
+Yeah!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+Whew! I somehow managed
+to beat them.
+###--------
+###Mugshot:MegaMan
+I couldn't have done it
+without Zack's info.
+###--------
+###Mugshot:MegaMan
+I'll have to thank him later.
+###--------
+###Script:2
+###Mugshot:Jammer
+I'm going to get crazy
+on you...
+###--------
+###Script:3
+###Mugshot:Jammer
+Heh heh heh!
+###--------
+###Script:4
+###Mugshot:Jammer
+*cackle*
+###--------
+###Script:50
+###Mugshot:MrHertz
+DO MI SO DO!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+I SING THE SOUND OF THE
+KEYS THAT ARE PRESSED!
+###--------
+###Mugshot:MrHertz
+RE FA LA!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+THE HARDEST KEYS TO
+SING ARE THE BLACK ONES!
+###--------

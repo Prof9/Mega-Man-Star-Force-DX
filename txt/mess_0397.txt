@@ -1,0 +1,122 @@
+﻿###TextArchive:mess_0397
+###Script:0
+Temp message
+###--------
+###Script:6
+Mail? From who?
+###--------
+###Script:7
+Mr. Boreal...
+I wonder what he wants?
+###--------
+###Script:8
+Mom? In Time Square!?
+I gotta hurry!!
+###--------
+###Script:9
+###--------
+Where could Mega be?
+I guess I only have the
+help signal to go on...
+###--------
+###Script:10
+...Mega is waiting...
+###--------
+###Script:11
+###Mugshot:OmegaXis
+You're gonna apologize
+to Luna, right?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+It sure looks like you're
+gonna have to bite the
+bullet on this one!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+I betcha Boreal knows
+something.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We're gonna look for
+Boreal's old boss, right?
+Where'ndaheck could he be?
+###--------
+###Script:21
+###Mugshot:OmegaXis
+By the looks of his
+Transer, that's the guy.
+###--------
+###Script:22
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's go talk to that old
+guy... If you show'em the
+you-know-what, he'll talk!
+###--------
+###Script:23
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The data is hidden in
+something that has to do
+with the space station...
+###--------
+###Mugshot:OmegaXis
+What's that supposed
+to mean?
+###--------
+###Script:24
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's check out the
+data you got. We might
+find out something.
+###--------
+###Script:25
+###Mugshot:OmegaXis
+It's hidden on Dream Island?
+Well, let's go.
+###--------
+###Script:26
+###Mugshot:OmegaXis
+Hey, let's use that one
+entrance! *wink*
+###--------
+###Script:27
+###Mugshot:OmegaXis
+Let's go home! Tomorrow's
+the final showdown!
+###--------
+###Script:31
+###Mugshot:OmegaXis
+Are you going to where
+you always go?
+###--------
+###Script:32
+###Mugshot:OmegaXis
+C'mon, let's head underground!
+###--------
+###Script:33
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If everything's all good to
+go, we'd better head back
+to the space station!
+###--------
+###Script:34
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+A challenge from Leo
+Kingdom? Let's go show
+him what we're made of!
+###--------

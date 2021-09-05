@@ -1,0 +1,47 @@
+﻿###TextArchive:mess_0012
+###Script:0
+None
+###--------
+###Script:1
+HP+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padMode=noPad
+###--------
+###Script:2
+SuperArmor
+###--------
+###Script:3
+FloatShoes
+###--------
+###Script:4
+Undershirt
+###--------
+###Script:5
+FirstBarr
+###--------
+###Script:6
+Attack+<printBuffer>
+###Command:printBuffer buffer=1 minLength=3 padMode=noPad
+###--------
+###Script:7
+Rapid+<printBuffer>
+###Command:printBuffer buffer=1 minLength=3 padMode=noPad
+###--------
+###Script:8
+Charge+<printBuffer>
+###Command:printBuffer buffer=1 minLength=3 padMode=noPad
+###--------
+###Script:9
+Gauge+<printBuffer>
+###Command:printBuffer buffer=1 minLength=3 padMode=noPad
+###--------
+###Script:10
+MegaClas+<printBuffer>
+###Command:printBuffer buffer=1 minLength=3 padMode=noPad
+###--------
+###Script:11
+GigaClas+<printBuffer>
+###Command:printBuffer buffer=1 minLength=3 padMode=noPad
+###--------
+###Script:12
+Ushrt&FBrr
+###--------

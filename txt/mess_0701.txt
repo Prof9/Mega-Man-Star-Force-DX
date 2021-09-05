@@ -1,0 +1,9 @@
+﻿###TextArchive:mess_0701
+###Script:0
+There's a trash heap
+blocking the road...
+###--------
+###Script:1
+It looks like this comp's
+main system...
+###--------

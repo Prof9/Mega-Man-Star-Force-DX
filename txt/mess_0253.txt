@@ -1,0 +1,290 @@
+﻿###TextArchive:mess_0253
+###Script:0
+###Mugshot:Sonia
+Phew, it sure gets tiring
+after a while.
+###--------
+###Mugshot:Sonia
+Do you want to take
+a break?
+###--------
+###Script:1
+###Mugshot:Geo
+Yes, let's!
+###--------
+###Script:2
+###Mugshot:Sonia
+Let's go outside then!
+###--------
+###Mugshot:Sonia
+I know a cute café nearby.
+###--------
+###Script:3
+###Mugshot:Geo
+A café?
+###--------
+###Mugshot:Geo
+I-I've never been to one...
+###--------
+###Mugshot:Geo
+Will they let two kids
+in there?
+###--------
+###Script:4
+###Mugshot:Sonia
+Hee hee, if you go with
+me, it'll be fine!
+###--------
+###Mugshot:Sonia
+Well, let's go!
+###--------
+###Script:5
+###Mugshot:Geo
+If you say so...
+###--------
+###Script:6
+###Mugshot:Luna
+Ah, so this is where
+they went!
+###--------
+###Script:7
+###Mugshot:Luna
+...Ah!
+###--------
+###Script:8
+###Mugshot:VaughnPlatz
+Luna! What are you
+doing here?
+###--------
+###Script:9
+###Mugshot:Luna
+Um... I, uh...
+###--------
+###Script:10
+###Mugshot:VeilPlatz
+What? Speak clearly!
+###--------
+###Script:11
+###Mugshot:Luna
+I... was...
+###--------
+###Script:12
+###Mugshot:Sonia
+Come on, Geo!
+Let's hurry!
+###--------
+###Script:13
+###Mugshot:Geo
+H-Huh? What are you
+doing here, Luna!?
+###--------
+###Script:14
+###Mugshot:Luna
+I...
+###--------
+###Script:15
+###Mugshot:VaughnPlatz
+Luna, who are these
+children?
+###--------
+###Script:16
+###Mugshot:Luna
+He's one of my classmates,
+Geo, and...
+###--------
+###Script:17
+###Mugshot:Sonia
+I'm his friend, Sonia Strumm.
+###--------
+###Script:18
+###Mugshot:VaughnPlatz
+Hmph, elementary school
+children out on a date?
+###--------
+###Mugshot:VaughnPlatz
+I can't say that I approve
+of such behavior.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+Children have no business
+acting like adults, and
+going on "dates".
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+If you have the time to play
+pretend, you should spend it
+studying to get better grades.
+###--------
+###Script:19
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Hey! Just because we're kids
+doesn't mean you can be
+downright rude to us!
+###--------
+###Script:20
+###Mugshot:VeilPlatz
+###--------
+###Mugshot:VeilPlatz
+I'm afraid being around children
+like these is truly negatively
+affecting our dear Luna.
+###--------
+###Mugshot:VeilPlatz
+We should speed up our
+search for a better school
+###--------
+###Mugshot:VeilPlatz
+and transfer her there
+at once!
+###--------
+###Script:21
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Transfer!?
+What are you talking about!?
+###--------
+###Script:22
+###Mugshot:VaughnPlatz
+I'll tell you what we're
+talking about.
+###--------
+###Script:23
+###Mugshot:VaughnPlatz
+So that Luna will have a
+bright future ahead of her,
+we are transferring Luna
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+to a school with an
+environment better suited
+to studying and discipline.
+###--------
+###Mugshot:VaughnPlatz
+Once she moves there,
+she won't see rabble like
+you anymore either.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+I hope you will refrain
+from associating with
+Luna and corrupting her.
+###--------
+###Mugshot:VaughnPlatz
+You and your filthy...
+###--------
+###Script:24
+###Mugshot:Luna
+Father! That's enough!!
+###--------
+###Script:25
+###Mugshot:VaughnPlatz
+Be quiet, Luna.
+###--------
+###Mugshot:VaughnPlatz
+You will be a good girl and
+do what we say!
+###--------
+###Script:26
+###Mugshot:Luna
+No!!
+###--------
+###Mugshot:Luna
+I'm not yours or
+mother's doll!
+###--------
+###Script:27
+###Mugshot:VeilPlatz
+Luna...
+###--------
+###Script:28
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+Let her go. I'll give her
+a stern talking-to after
+we return home.
+###--------
+###Script:29
+###Mugshot:VaughnPlatz
+I knew we should have
+transferred her earlier.
+###--------
+###Mugshot:VaughnPlatz
+You two!
+Get out of here
+and go home!
+###--------
+###Script:30
+###Mugshot:Sonia
+Wh-What was that!?
+Of all the-!!
+###--------
+###Script:31
+###Mugshot:Lyra
+I know!! What a pair of
+horrible people!
+###--------
+###Mugshot:Lyra
+You should've fought
+back too, Geo!!
+###--------
+###Script:32
+###Mugshot:Geo
+.........
+###--------
+###Script:33
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+What's wrong?
+Did the old guy scare you?
+###--------
+###Script:34
+###Mugshot:Geo
+No... It's just...
+###--------
+###Mugshot:Geo
+I've never seen Luna look
+that stressed before.
+###--------
+###Mugshot:Geo
+I was wondering if she's OK...
+###--------
+###Script:35
+###Mugshot:Sonia
+That's true...
+###--------
+###Mugshot:Sonia
+Do you want to go
+check up on her?
+###--------
+###Script:36
+###Mugshot:OmegaXis
+If you are, then you'd
+better hurry.
+###--------
+###Mugshot:OmegaXis
+I've got a bad feeling
+about all of this...
+###--------
+###Script:37
+###Mugshot:Geo
+A bad feeling?
+###--------
+###Mugshot:Geo
+Sonia!
+We've gotta hurry!!
+###--------

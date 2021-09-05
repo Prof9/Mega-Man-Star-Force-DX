@@ -1,0 +1,74 @@
+﻿###TextArchive:mess_1215
+###Script:0
+###Mugshot:CommonNavi
+Welcome!
+###--------
+###Script:1
+###Mugshot:CommonNavi
+So what'll it be?
+###--------
+###Script:2
+###Mugshot:CommonNavi
+<optionButtonSmall><optionButtonSmall>All done?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:3
+###Mugshot:CommonNavi
+Come back any time, alright?
+###--------
+###Script:10
+###Mugshot:CommonNavi
+<optionButtonSmall><optionButtonSmall>"<printCardBuffered>"
+OK with you?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printCardBuffered buffer=0
+###--------
+###Script:11
+###Mugshot:CommonNavi
+<optionButtonSmall><optionButtonSmall>"<printItemBuffered>"
+OK with you?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###Command:printItemBuffered buffer=0
+###--------
+###Script:15
+###Mugshot:MegaMan
+You bought:
+"<printCardBuffered>"!!
+###Command:printCardBuffered buffer=0
+###--------
+###Script:16
+###Mugshot:MegaMan
+You bought:
+"<printItemBuffered>"!!
+###Command:printItemBuffered buffer=0
+###--------
+###Script:20
+###Mugshot:MegaMan
+Oops. Looks like I don't
+have enough Zennys.
+###--------
+###Script:21
+###Mugshot:MegaMan
+Hmm, looks like I can't
+carry any more of those.
+###--------
+###Script:22
+###Mugshot:CommonNavi
+I'm all out, but thanks for
+your patronage!
+###--------
+###Script:30
+<printBuffer>[z]
+###Command:printBuffer buffer=0 minLength=6 padMode=leftPadSpaces
+###--------
+###Script:31
+<printBuffer>[z]
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadSpaces
+###--------
+###Script:32
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadSpaces
+###--------

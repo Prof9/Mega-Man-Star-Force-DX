@@ -1,0 +1,78 @@
+﻿###TextArchive:mess_0526
+###Script:0
+###Mugshot:Girl
+I'm a senior member of
+the student council.
+###--------
+###Mugshot:Girl
+I'm just checking, so you
+know...
+###--------
+###Mugshot:Girl
+You haven't been doing
+anything bad, right?
+###--------
+###Script:1
+###Mugshot:4
+Go and at least look at
+the set for the play, OK?
+###--------
+###Script:2
+###Mugshot:5
+That was our homeroom
+teacher Mr. Shepar.
+###--------
+###Mugshot:5
+I heard his hair is all
+puffed out like that
+###--------
+###Mugshot:5
+because he keeps on
+messing up his experiments.
+###--------
+###Script:3
+###Mugshot:6
+The set for the play is
+in the Gym.
+###--------
+###Script:5
+###Mugshot:Girl
+You know the school rules,
+right?
+###--------
+###Mugshot:Girl
+Make sure you follow each
+one of them now.
+###--------
+###Script:20
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+Oh! Geo!!
+Your mother told us you
+were coming back.
+###--------
+###Mugshot:MitchShepar
+I had really hoped you would!
+###--------
+###Mugshot:MitchShepar
+So I hope you'll find
+school fun!
+###--------
+###Mugshot:MitchShepar
+Well, class is going to
+start soon.
+###--------
+###Mugshot:MitchShepar
+Your class is 5-A on the
+2nd floor.
+###--------
+###Script:21
+###Mugshot:MitchShepar
+Well, class is going to
+start soon.
+###--------
+###Mugshot:MitchShepar
+Your class is 5-A on the
+2nd floor.
+###--------

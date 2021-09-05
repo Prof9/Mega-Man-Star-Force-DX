@@ -1,0 +1,74 @@
+﻿###TextArchive:mess_0159
+###Script:0
+###Mugshot:0
+I've got you now!
+###--------
+###Script:1
+###Mugshot:2
+Hmm?
+###--------
+###Script:2
+###Mugshot:2
+A human? Here?
+Who are you?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Hey, Cygnus.
+###--------
+###Script:4
+###Mugshot:Cygnus
+I-Impossible! Omega-Xis?
+###--------
+###Mugshot:Cygnus
+Heh heh heh. I'm surprised
+to run into you here.
+###--------
+###Mugshot:Cygnus
+###--------
+###Mugshot:Cygnus
+And what is with that
+form? It looks like you
+fused with a tiny child.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+What about you!?
+###--------
+###Mugshot:OmegaXis
+Aren't you using a weakling
+of a man? Before you
+fused with him,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+he could never have
+brought himself to do
+something like this.
+###--------
+###Mugshot:OmegaXis
+What did you do to him?
+###--------
+###Script:6
+###Mugshot:Cygnus
+Heh heh heh. I didn't do
+anything to him.
+###--------
+###Mugshot:Cygnus
+This is what he wanted.
+###--------
+###Mugshot:Cygnus
+Isn't that so?
+###--------
+###Script:7
+###Mugshot:2
+I was betrayed.
+###--------
+###Mugshot:2
+The FlapPack is MY
+invention!
+###--------
+###Mugshot:2
+Aaron... He...!
+###--------

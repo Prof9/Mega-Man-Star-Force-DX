@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0567
+###Script:0
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+Sorry to hold you up like
+this. You may go home now.
+###--------
+###Script:1
+###Mugshot:BobCopper
+Thanks for your help...
+###--------
+###Script:5
+###Mugshot:MitchShepar
+I wonder why the door's
+open...?
+###--------
+###Script:6
+###Mugshot:BobCopper
+Abnormally high levels of
+Z waves...
+###--------
+###Mugshot:BobCopper
+I should file a report with
+Satella HQ.
+###--------
+###Script:10
+###Mugshot:2
+###--------
+###Mugshot:2
+I wonder how Luna is...
+I feel responsible as her
+homeroom teacher...
+###--------
+###Script:20
+###Mugshot:10
+I'm a member of the
+Broadcasting Club.
+###--------
+###Mugshot:10
+I'm going to play the
+after-school song now.
+###--------
+###Script:21
+###Mugshot:2
+###--------
+###Mugshot:2
+School's over, you know.
+Now don't dawdle and get
+yourself on home, alright?
+###--------
+###Script:22
+###Mugshot:10
+I have to begin my
+broadcast soon.
+###--------
+###Mugshot:10
+I wonder what songs I
+should play today?
+###--------
+###Script:23
+###Mugshot:2
+I heard something happened
+in Time Square.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+It's probably still dangerous
+there, so if you go there,
+make sure you take care.
+###--------
+###Script:100
+###Mugshot:14
+So there was an incident
+yesterday, I hear.
+###--------
+###Mugshot:14
+###--------
+###Mugshot:14
+I was safe because I was
+at the Board of Education,
+###--------
+###Mugshot:14
+uploading all of yesterday's
+classes' data.
+###--------
+###Script:101
+###Mugshot:14
+How do you like the school's
+sound booth?
+###--------
+###Mugshot:14
+It's designed to keep other
+noises out...
+###--------
+###Mugshot:14
+So, what do you think?
+Nice, huh?
+###--------

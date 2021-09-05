@@ -1,0 +1,131 @@
+﻿###TextArchive:mess_0559
+###Script:10
+###Mugshot:LittleGirl
+I'm in charge of cleaning
+today...
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I never really was good at
+cleaning... I know the teacher's
+gonna get mad at me.
+###--------
+###Mugshot:LittleGirl
+Can someone show me how
+it's done?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Maybe a Navi that's good
+at cleaning could give me
+some pointers...
+###--------
+###Script:11
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I never really was good at
+cleaning... I know the teacher's
+gonna get mad at me.
+###--------
+###Mugshot:LittleGirl
+Can someone show me how
+it's done?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Maybe a Navi that's good
+at cleaning could give me
+some pointers...
+###--------
+###Script:12
+###Mugshot:ShovelMan
+Bam-ba-ba-baam!
+###--------
+###Mugshot:ShovelMan
+Having a bit of cleaning
+trouble, are you?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Hey, what's that?
+A ShovelMan card?
+###--------
+###Mugshot:LittleGirl
+You've got some unusual
+cards.
+###--------
+###Mugshot:LittleGirl
+But, your timing couldn't be
+better.
+###--------
+###Mugshot:ShovelMan
+Listen up. I'm going to give
+you some advice.
+###--------
+###Mugshot:ShovelMan
+But first, let me look this
+room over...
+###--------
+###Mugshot:ShovelMan
+Hmm...
+###--------
+###Mugshot:ShovelMan
+You cleaned this classroom,
+didn't you?
+###--------
+###Mugshot:ShovelMan
+...I see.
+###--------
+###Mugshot:ShovelMan
+###--------
+###Mugshot:ShovelMan
+I can tell right away that
+your cleaning style is
+pretty bad.
+###--------
+###Mugshot:LittleGirl
+W-What do you mean?
+###--------
+###Mugshot:ShovelMan
+The corners are filthy.
+###--------
+###Mugshot:ShovelMan
+And they make all the
+difference.
+###--------
+###Mugshot:ShovelMan
+You'd do well to remember
+that.
+###--------
+###Mugshot:ShovelMan
+Bam-ba-ba-baam!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+Hmm...
+Now I understand.
+###--------
+###Mugshot:LittleGirl
+Thank you.
+That was very educational.
+###--------
+###Mugshot:LittleGirl
+Please take this.
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=118
+###--------
+###Mugshot:LittleGirl
+OK, let's get cleaning!
+###--------
+###Script:13
+###Mugshot:LittleGirl
+OK, let's get cleaning!
+###--------

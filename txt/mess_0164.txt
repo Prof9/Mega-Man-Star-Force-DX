@@ -1,0 +1,194 @@
+﻿###TextArchive:mess_0164
+###Script:0
+###Mugshot:2
+B-But...
+###--------
+###Mugshot:2
+What if I was lying?
+What then?
+###--------
+###Script:1
+###Mugshot:AaronBoreal
+I'd have dealt with it then,
+if I had to.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+But like I already told
+you, I trust you.
+###--------
+###Mugshot:2
+You trust me!?
+###--------
+###Mugshot:2
+You risked your life
+based on that?
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+The Tom I know would
+never, ever put anyone
+in danger.
+###--------
+###Mugshot:2
+B-But!
+###--------
+###Mugshot:AaronBoreal
+I'll say it as many times
+as I need to.
+###--------
+###Mugshot:AaronBoreal
+I trust you.
+###--------
+###Mugshot:AaronBoreal
+So please trust in me!
+###--------
+###Mugshot:AaronBoreal
+Um, was I a bit too
+forceful there? Eheh heh.
+###--------
+###Script:2
+###Mugshot:2
+...Nngh.
+###--------
+###Script:3
+###Mugshot:Cygnus
+Don't listen to him.
+###--------
+###Mugshot:Cygnus
+He's trying to trick
+you again.
+###--------
+###Script:4
+###Mugshot:AaronBoreal
+Tom, I want to ask you
+one thing.
+###--------
+###Mugshot:AaronBoreal
+Do you know why
+Brother Bands exist?
+###--------
+###Script:5
+###Mugshot:2
+What kind of question is
+that...?
+###--------
+###Mugshot:2
+They're useful.
+Isn't that the only reason?
+###--------
+###Script:6
+###Mugshot:AaronBoreal
+You're wrong.
+###--------
+###Mugshot:AaronBoreal
+The reason we need
+Brother Bands is because...
+###--------
+###Mugshot:AaronBoreal
+relationships are the
+essence of society.
+###--------
+###Script:7
+###Mugshot:2
+...!
+###--------
+###Script:8
+###Mugshot:AaronBoreal
+I know what happened to
+you in your past.
+###--------
+###Mugshot:AaronBoreal
+So I understand why you
+lost your faith in society.
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+But please don't think
+that the only thing in
+this world is betrayal.
+###--------
+###Script:9
+###Mugshot:Cygnus
+Don't listen to him!
+Betrayal is all there is!
+###--------
+###Script:10
+###Mugshot:AaronBoreal
+Look around you!
+Look hard!
+###--------
+###Mugshot:AaronBoreal
+If you do,
+I'm sure you will see!!
+###--------
+###Mugshot:AaronBoreal
+You'll see things other
+than betrayal!
+###--------
+###Mugshot:AaronBoreal
+You'll see the good things
+in this world!
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+And I believe you'll begin to
+realize that this world isn't
+such a bad place after all.
+###--------
+###Mugshot:AaronBoreal
+So please listen and believe
+in what I'm saying!
+###--------
+###Mugshot:AaronBoreal
+Tom!!
+###--------
+###Script:11
+###Mugshot:2
+Nnngh... Aaaaah!
+###--------
+###Script:12
+###Mugshot:Cygnus
+What the-!?
+###--------
+###Mugshot:Cygnus
+Aaaaaaaaaaaaah!!
+###--------
+###Script:13
+###Mugshot:0
+Huh?
+###--------
+###Mugshot:0
+He changed back?
+###--------
+###Script:14
+###Mugshot:OmegaXis
+He chased Cygnus out
+of his heart.
+###--------
+###Script:15
+###Mugshot:AaronBoreal
+Tom! Are you OK!?
+TOM!?
+###--------
+###Script:16
+###Mugshot:Woman
+Mr. Dubius!!
+###--------
+###Script:17
+###Mugshot:OmegaXis
+Let's get moving before
+things get messy.
+###--------
+###Mugshot:OmegaXis
+This guy's fine, and he'll
+wake up soon enough.
+###--------
+###Script:18
+###Mugshot:0
+Yeah...
+###--------

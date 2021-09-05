@@ -1,0 +1,93 @@
+﻿###TextArchive:mess_0057
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleBoy
+Riddle me, riddle me,
+welcome!
+###--------
+###Script:3
+###Mugshot:LittleBoy
+I love quizzes!
+I'm thinking of one
+right now!!
+###--------
+###Script:4
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I love quizzes!
+I'm looking for someone
+to take my latest quiz!
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+The first person to
+answer all of my questions
+will win a fabulous prize!
+###--------
+###Mugshot:MegaMan
+Quiz? Should I give it a try?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK! Let's go and get
+that fabulous prize!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:MegaMan
+I'm curious about the prize,
+but oh well...
+###--------
+###Script:6
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I love quizzes!
+I'm looking for someone
+to take my latest quiz!
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+The first person to
+answer all of my questions
+will win a fabulous prize!
+###--------
+###Script:7
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Aw, man! A boy with green
+glasses beat my quiz!! Drat!
+###--------
+###Mugshot:LittleBoy
+He walked away with
+my prize!
+###--------
+###Mugshot:LittleBoy
+Avenge me, Quiz King!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

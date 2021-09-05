@@ -1,0 +1,38 @@
+﻿###TextArchive:mess_0263
+###Script:0
+The Antidote turned into
+a mystery wave.
+###--------
+###Script:1
+Mega Man got:
+
+###--------
+"<printCardBuffered>"!!
+###Command:printCardBuffered buffer=2
+###--------
+###Script:2
+The Antidote turned into
+a mystery wave.
+###--------
+###Script:3
+Mega Man got a
+
+###--------
+Sub-Card: "<printItemBuffered>"!!
+###Command:printItemBuffered buffer=2
+###--------
+###Script:4
+The Antidote turned into
+a mystery wave.
+###--------
+###Script:5
+Mega Man got:
+
+###--------
+"<printBuffer> Zennys"!!
+###Command:printBuffer buffer=1 minLength=8 padMode=noPad
+###--------
+###Script:6
+The venom has left
+Mega Man's body!!
+###--------

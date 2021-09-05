@@ -1,0 +1,23 @@
+﻿###TextArchive:mess_0162
+###Script:0
+###Mugshot:Cygnus
+Well done, Mega.
+###--------
+###Script:1
+###Mugshot:2
+Oogh...
+###--------
+###Script:2
+###Mugshot:AaronBoreal
+Can you hear me? Tom...
+###--------
+###Mugshot:AaronBoreal
+###--------
+###Mugshot:AaronBoreal
+Please stop!
+Please listen to me!
+###--------
+###Script:3
+###Mugshot:2
+......
+###--------

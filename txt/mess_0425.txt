@@ -1,0 +1,176 @@
+﻿###TextArchive:mess_0425
+###Script:0
+Temp message
+###--------
+###Script:11
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I don't feel good about
+snooping around in other
+people's Transers...
+###--------
+###Script:13
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Could some kind of FM-ian
+be hiding in a Comp Space
+somewhere in town?
+###--------
+###Script:14
+###Mugshot:MegaMan
+I guess I'll go home for now...
+###--------
+###Script:15
+###Mugshot:MegaMan
+*yawn* I need some rest.
+###--------
+###Script:20
+###Mugshot:MegaMan
+The stars should be coming
+out pretty soon...
+###--------
+###Mugshot:MegaMan
+I'd better make my way
+up to Vista Point.
+###--------
+###Script:21
+###Mugshot:MegaMan
+Guess I'll head on up to
+Vista Point.
+###--------
+###Script:22
+###Mugshot:MegaMan
+I guess I'll head home...
+###--------
+###Script:23
+###Mugshot:MegaMan
+There has to be a way
+to stop that truck...
+###--------
+###Script:24
+###Mugshot:MegaMan
+I've have to get inside
+that Truck Comp...
+###--------
+###Script:25
+###Mugshot:MegaMan
+There's no other way...
+I have to go back in...
+###--------
+###Script:31
+###Mugshot:MegaMan
+I gotta find out where
+the signal is coming from.
+###--------
+###Script:32
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Something that can reach high
+places... Maybe I can ask that
+flying guy at Vista Point.
+###--------
+###Script:33
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I need something to reach
+high places... Maybe there's
+something over there?
+###--------
+###Script:34
+###Mugshot:MegaMan
+I guess I'll buy that drink.
+###--------
+###Script:35
+###Mugshot:MegaMan
+Let's check out the
+vending machine's Comp!
+###--------
+###Script:36
+###Mugshot:MegaMan
+I hope the vending machine
+is fixed...
+###--------
+###Script:37
+###Mugshot:MegaMan
+Let's trade this for that
+RC chopper!
+###--------
+###Script:38
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've got the RC chopper...
+I'd better go and get that
+ball down from the tree.
+###--------
+###Script:39
+###Mugshot:MegaMan
+I guess I should be
+getting home.
+###--------
+###Script:40
+###Mugshot:MegaMan
+I'd better get on
+back home.
+###--------
+###Mugshot:MegaMan
+I need some rest!
+###--------
+###Script:45
+###Mugshot:MegaMan
+I'm supposed to take a bus
+to AMAKEN, right?
+###--------
+###Script:48
+###Mugshot:MegaMan
+Why don't I go further in...?
+###--------
+###Script:49
+###Mugshot:MegaMan
+OK... Off to the
+Science Museum.
+###--------
+###Script:50
+###Mugshot:MegaMan
+Maybe I'll check out the
+museum's displays.
+###--------
+###Script:51
+###Mugshot:MegaMan
+Guess I'll head back to
+where Mr. Boreal is...
+###--------
+###Script:52
+###Mugshot:MegaMan
+Guess I'll go to the lab...
+###--------
+###Script:53
+###Mugshot:MegaMan
+A SpaceSim tour...
+###--------
+###Mugshot:MegaMan
+Guess I should head over
+to the Science Museum.
+###--------
+###Script:65
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Something that can pull in
+EM waves... I think there
+was a display like that...
+###--------
+###Script:66
+###Mugshot:MegaMan
+It's fixed! Now I can get
+to the other side!
+###--------
+###Script:67
+###Mugshot:MegaMan
+I've got to get to the
+SpaceSim Comp!
+###--------

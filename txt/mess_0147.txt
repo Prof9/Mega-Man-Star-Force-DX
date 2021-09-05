@@ -1,0 +1,187 @@
+﻿###TextArchive:mess_0147
+###Script:0
+###Mugshot:2
+Hey, you came!
+###--------
+###Script:1
+###Mugshot:0
+...Hi.
+###--------
+###Script:2
+###Mugshot:2
+This is my research lab,
+###--------
+###Mugshot:2
+the Aerospace and Modern
+Astronomy Knowledge
+Expansion Nexus.
+###--------
+###Mugshot:2
+Or just "AMAKEN" to keep
+it short.
+###--------
+###Mugshot:2
+Not to brag or anything,
+but we've got pretty good
+equipment here.
+###--------
+###Mugshot:2
+People hear that the
+general public can study
+here, too,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+so we've got a good name
+going for ourselves.
+###--------
+###Script:3
+###Mugshot:0
+Wow...
+###--------
+###Script:4
+###Mugshot:2
+Ready for a tour?
+###--------
+###Script:5
+*honk, honk*
+###--------
+###Script:6
+###Mugshot:0
+It's another bus.
+###--------
+###Script:7
+###Mugshot:2
+That's 'cause today's a
+holiday. I asked for a
+few more buses than
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+usual because there'll be
+more people coming today.
+###--------
+###Mugshot:2
+Ha ha. My lab is pretty
+popular as of late.
+###--------
+###Script:8
+###Mugshot:0
+...Huh?
+###--------
+###Script:9
+###Mugshot:4
+Well, this is a surprise.
+###--------
+###Mugshot:4
+Did you come here to
+do some studying, too?
+###--------
+###Script:10
+###Mugshot:0
+What are you doing here...?
+###--------
+###Script:11
+###Mugshot:5
+We're following you...
+###--------
+###Script:12
+###Mugshot:4
+B-Bud!
+###--------
+###Mugshot:4
+*ahem* Anyway,
+###--------
+###Mugshot:4
+this lab is open to the
+public, right?
+###--------
+###Mugshot:4
+So it's not odd at all
+that we are here!!
+###--------
+###Script:13
+###Mugshot:0
+......
+###--------
+###Script:14
+###Mugshot:4
+(I'm going to convince
+you today!)
+###--------
+###Script:15
+###Mugshot:0
+(Heh, as long as nothing
+weird happens again.)
+###--------
+###Script:16
+###Mugshot:2
+Are these your friends,
+Geo?
+###--------
+###Script:17
+###Mugshot:4
+Yes, we're his classmates,
+sir.
+###--------
+###Script:18
+###Mugshot:2
+###--------
+###Mugshot:2
+What's this, what's this!?
+You do have friends
+after all!
+###--------
+###Mugshot:2
+I'm happy for you!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I'm Aaron Boreal.
+I'm the head of this lab.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+You guys came at just the
+right time! I'll give you guys
+a tour all together!
+###--------
+###Mugshot:2
+Look alive now!
+It's more fun that way!
+###--------
+###Script:19
+###Mugshot:0
+I don't believe this...
+###--------
+###Script:20
+###Mugshot:6
+Wow, we get a tour from
+the head of the lab!
+###--------
+###Script:21
+###Mugshot:4
+Thank you so much, sir!
+###--------
+###Script:22
+###Mugshot:2
+Well, let's be off then,
+shall we?
+###--------
+###Script:23
+###Mugshot:0
+...*sigh*...
+###--------
+###Mugshot:0
+Why won't everyone just
+leave me alone?
+###--------
+###Mugshot:OmegaXis
+Heh heh.
+You're too popular for
+your own good!
+###--------

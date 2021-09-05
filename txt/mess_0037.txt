@@ -1,0 +1,165 @@
+﻿###TextArchive:mess_0037
+###Script:1
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Welcome Brothers to
+my Transer!
+Evil spirits, be gone!
+###--------
+###Script:3
+###Mugshot:LittleBoy
+Bud Bison's guardian
+spirit is a bull.
+###--------
+###Mugshot:LittleBoy
+I know it! It feels like
+it is charging right at
+this moment.
+###--------
+###Mugshot:LittleBoy
+Evil spirits, be gone!
+###--------
+###Script:4
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I keep seeing it...
+That blue, fluffy
+floating thing.
+###--------
+###Mugshot:LittleBoy
+I think it wants to take
+me to the netherworld.
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+W-W-What should I do?
+It's really giving me
+the creeps.
+###--------
+###Mugshot:OmegaXis
+Looks like that guy
+is freaking out...
+###--------
+###Mugshot:MegaMan
+Y-Yeah...
+C-Could it be a ghost...?
+###--------
+###Mugshot:OmegaXis
+Huh?
+You're not scared, are you?
+###--------
+###Mugshot:MegaMan
+N-No... Of course not...
+###--------
+###Mugshot:OmegaXis
+OK? Well, you wanna help him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I'm with you. Let's find
+out from him what the
+deal is with that ghost!
+###--------
+###Mugshot:MegaMan
+...Uh...
+###--------
+###Mugshot:MegaMan
+...Yeah...
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+You're scared, aren't you?
+###--------
+###Mugshot:MegaMan
+...
+###--------
+###Mugshot:OmegaXis
+OK, then let's just
+forget about it...
+###--------
+###Mugshot:MegaMan
+...Yeah.
+###--------
+###Script:6
+###Mugshot:LittleBoy
+I keep seeing it...
+That blue, fluffy
+floating thing.
+###--------
+###Mugshot:LittleBoy
+I think it wants to take
+me to the netherworld.
+###--------
+###Mugshot:LittleBoy
+W-W-What should I do?
+It's really giving me
+the creeps.
+###--------
+###Script:7
+###Mugshot:LittleBoy
+I haven't seen that
+thing lately.
+###--------
+###Mugshot:LittleBoy
+My guardian spirit must've
+taken care of it for me!
+###--------
+###Mugshot:LittleBoy
+Evil spirits, be gone!
+###--------
+###Script:9
+###Mugshot:LittleBoy
+When I put the
+PitcherMan card in
+the pitching machine,
+###--------
+###Mugshot:LittleBoy
+I saw a faint red ball of
+fire... there is definitely
+something haunting it!
+###--------
+###Mugshot:LittleBoy
+But I sealed that card
+under the bench,
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+so I shouldn't see that
+red fireball anymore...
+###--------
+###Script:10
+A secret.
+###--------
+###Script:11
+A comment.
+###--------
+###Script:15
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

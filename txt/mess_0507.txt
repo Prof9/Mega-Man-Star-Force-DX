@@ -1,0 +1,436 @@
+﻿###TextArchive:mess_0507
+###Script:0
+A ticket machine...
+Tickets are sold here.
+###--------
+###Script:2
+###--------
+The information desk has
+answers to all sorts of
+questions.
+###--------
+###Script:3
+###Mugshot:0
+A Card Trader SP.
+Put in 10 cards?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:0
+<optionText>  Yes!  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:4
+A majestic poster of the
+Milky Way...
+###--------
+###Script:6
+A real space suit is on
+display.
+###--------
+###Script:7
+This is the AMAKEN staff
+break area.
+###--------
+###Script:8
+I guess AMAKEN staff
+watch TV on their break.
+###--------
+###Script:9
+Data from across the globe
+is displayed here.
+###--------
+###Script:10
+Empty cans go here!
+###--------
+###Script:11
+"Big Bang Coffee"
+"Black Hole Cola"
+"Zero G Punch"
+###--------
+Only AMAKEN could have
+such a selection...
+###--------
+###Script:12
+It's always nice to have
+plants around.
+###--------
+###Script:20
+###Mugshot:Woman
+Welcome to AMAKEN!!
+###--------
+###Mugshot:Woman
+Have a good time!
+###--------
+###Script:21
+###Mugshot:Woman
+What! Mr. Boreal is inside
+the SpaceSim too!?
+###--------
+###Mugshot:Woman
+What're we going to do!?
+###--------
+###Script:25
+###--------
+The Gift Counter has every-
+thing from Shooting Star
+Cake to Meteorite Jewelry.
+###--------
+###Script:26
+Gift Counter
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+...Oh, Shooting Star Cake.
+This must be what that girl
+was talking about.
+###--------
+###Mugshot:Man
+Shooting Star Cakes are
+500 Zennys each.
+###--------
+<positionOptionFromCenter><optionText>  Buy  <optionText>  Exit
+###Command:positionOptionFromCenter width=71
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=50
+###--------
+###Script:27
+###Mugshot:Geo
+Not this time...
+###--------
+###Script:28
+###Mugshot:Geo
+I don't have enough money.
+###--------
+###Script:30
+These machines sell tickets.
+###--------
+###Script:31
+These machines sell tickets.
+###--------
+The power to this ticket
+machine is off.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whirr* *hum*
+###--------
+There's a wavehole near
+the ticket machine!
+###--------
+###Script:40
+###Mugshot:Woman
+Yes?
+This is the information desk...
+###--------
+###Mugshot:Woman
+...Yes, we've been having
+some trouble with one
+of the ticket machines!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I was hoping someone
+could come over and take
+a look at it...
+###--------
+###Script:41
+###Mugshot:Woman
+Something's wrong with the
+ticket machine.
+###--------
+###Mugshot:Woman
+Won't somebody take a
+look at it for me?
+###--------
+###Script:42
+###Mugshot:Woman
+You say the ticket machine
+is fixed?
+###--------
+###Mugshot:Woman
+Why, thank you so much!
+###--------
+###Mugshot:Woman
+Please, do accept this!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=66
+###--------
+###Mugshot:Woman
+You're an angel!
+###--------
+###Script:50
+###Mugshot:Man
+How about our AMAKEN
+special Shooting Star Cake?
+###--------
+###Mugshot:Man
+We also have postcards
+and keychains!
+###--------
+###Script:51
+###Mugshot:Man
+H-Hey, wait!!
+What happened!?
+###--------
+###Script:70
+###Mugshot:Man
+Souvenirs here!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+...What? If you are not here
+to buy souvenirs, then what?
+###--------
+###Mugshot:Man
+...!!
+###--------
+###Mugshot:Man
+H-How did you know that
+I'm in love...?
+###--------
+###Mugshot:Man
+That's the girl over there
+at the info desk...
+###--------
+###Mugshot:Man
+I can't sleep at night
+thinking about her.
+###--------
+###Mugshot:Man
+I wonder what kinds of
+things she likes...
+###--------
+###Mugshot:Man
+*sigh* I have to know.
+###--------
+###Script:71
+###Mugshot:Man
+Yeah, I'm in love...
+###--------
+###Mugshot:Man
+That's the girl over there
+at the info desk...
+###--------
+###Mugshot:Man
+I can't sleep at night
+thinking about her.
+###--------
+###Mugshot:Man
+I wonder what kinds of
+things she likes...
+###--------
+###Mugshot:Man
+*sigh* I have to know.
+###--------
+###Script:72
+###Mugshot:Man
+Oh! You found out what
+she likes?
+###--------
+###Mugshot:Man
+R-Really!? No way!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+So..? Tell me.
+###--------
+###Mugshot:Man
+Cooking!?
+###--------
+###Mugshot:Man
+That's so cool!
+###--------
+###Mugshot:Man
+I love her!
+###--------
+###Mugshot:Man
+I need her!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Thanks man!
+Here, take this!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=100
+###--------
+###Mugshot:Man
+Maybe one day
+I'll get to eat
+her cooking...
+###--------
+###Script:80
+###Mugshot:7
+###--------
+###Mugshot:7
+It looks like Mr. Boreal
+is busy today. He's not
+even in the lab.
+###--------
+###Script:81
+###Mugshot:11
+###--------
+###Mugshot:11
+But what could have happened
+that AMAKEN would all of a
+sudden be closed...?
+###--------
+###Script:82
+###Mugshot:7
+###--------
+###Mugshot:7
+W-What was that...?
+I thought I saw something
+on the roof just now...
+###--------
+###Script:83
+###Mugshot:11
+I feel dizzy...
+###--------
+###Script:85
+###Mugshot:7
+###--------
+###Mugshot:7
+It seems that intense EM
+waves were detected
+all over the country...
+###--------
+###Script:86
+###Mugshot:11
+Something is obviously
+happening to Earth.
+###--------
+###Script:88
+###Mugshot:7
+Aliens are attacking Earth!?
+###--------
+###Mugshot:7
+I can't believe it...
+It's like a sci-fi movie.
+###--------
+###Script:89
+###Mugshot:11
+Won't the Satellites...
+protect us?
+###--------
+###Script:95
+###Mugshot:7
+###--------
+###Mugshot:7
+The Science Museum is closed
+today, so there are no
+visitors on the premises.
+###--------
+###Script:96
+###Mugshot:11
+###--------
+###Mugshot:11
+The Science Museum may be
+closed, but we, the staff,
+still have to come in to work.
+###--------
+###Script:97
+###Mugshot:7
+O-Oh, no...
+W-What's going on!?
+###--------
+###Mugshot:7
+G-Good gracious!
+###--------
+###Script:98
+###Mugshot:11
+A blackout? Why haven't
+the backups come on?
+###--------
+###Script:99
+###Mugshot:7
+I wonder if that was a
+blackout just then...?
+###--------
+###Script:100
+###Mugshot:11
+I heard noises.
+What happened up there?
+###--------
+###Script:101
+###Mugshot:7
+What was that loud noise
+outside just now?
+###--------
+###Script:102
+###Mugshot:11
+###--------
+###Mugshot:11
+First, a blackout and then
+guitar-like sounds coming from
+outside. What a weird day...
+###--------
+###Script:103
+###Mugshot:7
+What is this... splitting pain
+in my head?
+###--------
+###Script:104
+###Mugshot:11
+Ohh, my head...
+###--------
+###Script:150
+###Mugshot:20
+You there! I'm TraderMan SP!
+###--------
+###Mugshot:20
+Give me 10 cards! Then I'll
+let you have 1 of mine.
+###--------
+###Mugshot:20
+Whatsit gonna be, YOU!?
+
+
+###--------
+###Mugshot:20
+<positionOptionFromCenter><optionText>  Give  <optionText>  No
+###Command:positionOptionFromCenter width=66
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:152
+###Mugshot:0
+I don't have enough
+Battle Cards in my box.
+###--------
+###Script:153
+###Mugshot:20
+What the...!?
+Gonna renege, are ya!
+###--------
+###Mugshot:20
+Git outta here, and don't
+ever come 'round here again!
+###--------
+###Script:154
+###Mugshot:20
+###--------
+###Mugshot:20
+Ah! Ah! Ah! Ya don't havanuff
+Battle Cards in your box!
+Git outta here!
+###--------

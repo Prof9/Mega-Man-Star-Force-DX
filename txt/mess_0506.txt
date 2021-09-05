@@ -1,0 +1,106 @@
+﻿###TextArchive:mess_0506
+###Script:1
+To enter, you will need a
+"<printItem>".
+###Command:printItem item=11
+###--------
+###Script:2
+To enter, you will need a
+"<printItem>".
+###Command:printItem item=12
+###--------
+###Script:8
+The door won't open!!
+###--------
+###Script:11
+###Mugshot:0
+I've got to get to
+Mr. Boreal!
+###--------
+###Script:20
+###Mugshot:BusinessMan
+...*sigh*
+###--------
+###Mugshot:BusinessMan
+I'm getting kind of tired of
+this Big Bang Coffee,
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+but Black Hole Cola and
+Zero G Punch aren't
+much better either.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Sometimes I just want to
+drink something else,
+you know what I mean?
+###--------
+###Mugshot:BusinessMan
+...What? You'll go buy me a
+different drink?
+###--------
+###Mugshot:BusinessMan
+Now that, I look forward to!
+###--------
+###Script:21
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+I want to drink something
+that's not from that
+vending machine. Thanks a lot.
+###--------
+###Script:22
+###Mugshot:BusinessMan
+Oh, you're back already?
+###--------
+Geo gave the
+"<printItem>"
+to Mr. Waters!!
+###Command:printItem item=44
+###--------
+###Mugshot:BusinessMan
+Oh, Sour Soda!
+###--------
+###Mugshot:BusinessMan
+Now that's more like it!
+###--------
+###Mugshot:BusinessMan
+...*glug-glug*
+###--------
+###Mugshot:BusinessMan
+Ahh!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+This is good and sour!
+###--------
+###Mugshot:BusinessMan
+Thank you!
+That hit the spot.
+###--------
+###Mugshot:BusinessMan
+Here, this is for you.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=98
+###--------
+###Mugshot:BusinessMan
+...*glug-glug*
+###--------
+###Mugshot:BusinessMan
+Yeah, that's sour!
+###--------
+###Script:23
+###Mugshot:BusinessMan
+...glug-glug!
+###--------
+###Mugshot:BusinessMan
+Yeah, that's sour!
+###--------

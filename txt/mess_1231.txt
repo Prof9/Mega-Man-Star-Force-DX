@@ -1,0 +1,57 @@
+﻿###TextArchive:mess_1231
+###Script:0
+<positionOptionFromCenter>You crushed the ultimate
+<positionOptionFromCenter>weapon, Andromeda.
+###Command:positionOptionFromCenter width=148
+###Command:positionOptionFromCenter width=118
+###--------
+###Script:1
+<positionOptionFromCenter>You got all of the S cards.
+<positionOptionFromCenter>You are a quester.
+###Command:positionOptionFromCenter width=166
+###Command:positionOptionFromCenter width=116
+###--------
+###Script:2
+<positionOptionFromCenter>You got all of the M cards.
+<positionOptionFromCenter>You are a quester.
+###Command:positionOptionFromCenter width=166
+###Command:positionOptionFromCenter width=116
+###--------
+###Script:3
+<positionOptionFromCenter>You got all of the G cards.
+<positionOptionFromCenter>You are a quester.
+###Command:positionOptionFromCenter width=166
+###Command:positionOptionFromCenter width=116
+###--------
+###Script:4
+<positionOptionFromCenter>You beat all the SP bosses!
+<positionOptionFromCenter>You are a warrior!
+###Command:positionOptionFromCenter width=170
+###Command:positionOptionFromCenter width=112
+###--------
+###Script:5
+<positionOptionFromCenter>You beat Pegasus Magic,
+<positionOptionFromCenter>beyond the hidden wave.
+###Command:positionOptionFromCenter width=148
+###Command:positionOptionFromCenter width=145
+###--------
+###Script:7
+<positionOptionFromCenter>You beat Leo Kingdom,
+<positionOptionFromCenter>beyond the hidden wave.
+###Command:positionOptionFromCenter width=136
+###Command:positionOptionFromCenter width=145
+###--------
+###Script:8
+<positionOptionFromCenter>You beat Dragon Sky,
+<positionOptionFromCenter>beyond the hidden wave.
+###Command:positionOptionFromCenter width=134
+###Command:positionOptionFromCenter width=145
+###--------
+###Script:10
+<positionOptionFromCenter>You beat the
+<positionOptionFromCenter>Satellite Administrators,
+<positionOptionFromCenter>beyond the hidden wave.
+###Command:positionOptionFromCenter width=79
+###Command:positionOptionFromCenter width=142
+###Command:positionOptionFromCenter width=145
+###--------

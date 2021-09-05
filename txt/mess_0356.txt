@@ -1,0 +1,41 @@
+﻿###TextArchive:mess_0356
+###Script:0
+###Mugshot:Taurus
+Mmmrrrgh!
+###--------
+###Mugshot:Taurus
+I guess you guys got
+past Cygnus.
+###--------
+###Mugshot:Taurus
+But I'm not letting you
+get any further!
+###--------
+###Mugshot:Taurus
+You wanna open the door,
+you've gotta get by me!
+###--------
+###Mugshot:Taurus
+Mmmmmrrrgh!!
+###--------
+###Script:1
+###Mugshot:TaurusFire
+Mmmmrrrrgh!
+###--------
+###Mugshot:TaurusFire
+Your trip through space
+ends here!
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Here he comes!
+###--------
+###Script:3
+###Mugshot:0
+Wave Battle!
+Ride On!!
+###--------
+###Script:4
+###Mugshot:TaurusFire
+I'll turn you into star dust!
+###--------

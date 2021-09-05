@@ -1,0 +1,26 @@
+﻿###TextArchive:mess_0132
+###Script:0
+###Mugshot:MegaMan
+Where are we...?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+This is the locomotive's
+Comp Space.
+###--------
+###Mugshot:OmegaXis
+In other words, we're
+inside the train's comp.
+###--------
+###Mugshot:OmegaXis
+Those EM viruses have
+gotta be around here,
+###--------
+###Mugshot:OmegaXis
+so let's find them and
+give it to them good!
+###--------
+###Script:2
+###Mugshot:MegaMan
+EM viruses...
+###--------

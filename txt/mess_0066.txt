@@ -1,0 +1,126 @@
+﻿###TextArchive:mess_0066
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Woman
+Welcome to Heidi Rune's
+Transer!
+###--------
+###Script:4
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I'm always losing things!
+It's really becoming a
+problem for me.
+###--------
+###Script:5
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Now I've done it...
+What am I going to do?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I lost something my
+boyfriend gave me as
+a present... Boo-boo!
+###--------
+###Mugshot:Woman
+It has a lot of
+sentimental value to me!
+###--------
+###Mugshot:Woman
+What'll I do if don't find it?
+Boo-hoo!!
+###--------
+###Mugshot:MegaMan
+Looks like she lost
+something very important.
+###--------
+###Mugshot:OmegaXis
+So, do you wanna
+help her?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's do this and get
+it over with!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Yeah, b-but what were
+you just saying about
+something important?
+###--------
+###Mugshot:OmegaXis
+Oh, never mind...
+###--------
+###Script:7
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I lost something my
+boyfriend gave me as
+a present... Boo-boo!
+###--------
+###Mugshot:Woman
+It has a lot of
+sentimental value to me!
+###--------
+###Mugshot:Woman
+What'll I do if I don't find it?
+Boo-hoo!!
+###--------
+###Script:8
+###Mugshot:Woman
+I got it back!
+My boyfriend's present!
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Thank you, boy with the
+green glasses, for finding
+it for me!
+###--------
+###Script:9
+###Mugshot:Woman
+I have a secret!
+My boyfriend doesn't
+know it,
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+but I'm taking cooking
+lessons to learn how
+to cook for him!
+###--------
+###Mugshot:MegaMan
+(I should report back
+to Mr. Darke.)
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

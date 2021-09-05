@@ -1,0 +1,28 @@
+﻿###TextArchive:mess_0548
+###Script:10
+###Mugshot:3
+This 3D puzzle's really tricky...
+###--------
+###Mugshot:3
+I can't go home until I
+solve it!
+###--------
+###Script:20
+###Mugshot:3
+###--------
+###Mugshot:3
+I can't believe all of this
+is happening... It's unreal...
+###--------
+###Script:100
+###Mugshot:11
+Oh... My ulcer's acting up
+again.
+###--------
+###Mugshot:11
+Where's my medication?
+###--------
+###Script:101
+###Mugshot:11
+Th-Th-Th-This can't be good...
+###--------

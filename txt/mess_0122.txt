@@ -1,0 +1,395 @@
+﻿###TextArchive:mess_0122
+###Script:0
+###Mugshot:0
+.........
+###--------
+###Script:1
+Well, well.
+We meet again...
+###--------
+###Script:2
+###Mugshot:0
+That voice...
+###--------
+###Script:3
+###Mugshot:Luna
+So, what do you think?
+Nice truck, right?
+###--------
+###Mugshot:Luna
+I'll even give you a ride
+in it, if you want!
+###--------
+###Script:4
+###Mugshot:0
+I'm OK, really...
+###--------
+###Mugshot:0
+Anyway...
+###--------
+###Script:5
+###Mugshot:0
+I'm really sorry about
+what happened!!
+###--------
+###Mugshot:0
+Well, c'ya!
+###--------
+###Script:6
+###Mugshot:Bud
+.........
+###--------
+###Script:7
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+That guy has some nerve,
+turning down another one
+of my invitations like that.
+###--------
+###Mugshot:Luna
+He's going to be trouble
+with a capital T.
+###--------
+###Mugshot:Luna
+Just you wait!
+I'm going to find a way
+to get that kid to school,
+###--------
+###Mugshot:Luna
+some how some way!
+###--------
+###Script:8
+###Mugshot:Zack
+Prez, it's time to go.
+###--------
+###Script:9
+###Mugshot:Luna
+Alright.
+###--------
+###Script:10
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+What's wrong, Bud? Isn't
+this the perfect chance
+to get your revenge?
+###--------
+###Mugshot:Taurus
+You can get back at
+the brat that hung
+you out to dry,
+###--------
+###Mugshot:Taurus
+and show your new powers
+to the Prez.
+###--------
+###Mugshot:Bud
+Sh-Show her...my powers...
+###--------
+###Mugshot:Taurus
+Yes... That's it...
+###--------
+###Script:11
+###Mugshot:Bud
+...Nngh...
+###--------
+###Script:12
+###Mugshot:Luna
+Come on, Bud!
+Get in here and drive!
+###--------
+###Script:13
+###Mugshot:Bud
+...Nngh...
+###--------
+###Script:14
+###Mugshot:Taurus
+Yes, let your feelings
+take control!!
+###--------
+###Mugshot:Taurus
+Give yourself over to me,
+like before!
+###--------
+###Mugshot:Taurus
+Let's show that red
+shirted punk a real punch!!
+###--------
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+Then, the Prez will
+appreciate you for sure!
+###--------
+###Script:15
+###Mugshot:Luna
+Bud!
+What are you doing!?
+###--------
+###Mugshot:Luna
+Bud...?
+###--------
+###Script:16
+###Mugshot:Bud
+Mmrr...Mmrrrgh!!
+
+###--------
+###Mugshot:Bud
+......
+
+###--------
+###Mugshot:Bud
+Gnaaaaah!!
+###--------
+###Script:17
+###Mugshot:Luna
+Eeeeek!!
+###--------
+###Script:18
+###Mugshot:TaurusFire
+Mmmrrrrgh!!
+###--------
+###Script:19
+###Mugshot:Luna
+A m-m-monster!!
+###--------
+###Script:20
+###Mugshot:Zack
+It's gone...
+###--------
+###Script:21
+###Mugshot:Luna
+What!?
+###--------
+###Mugshot:Luna
+A-Are you using the
+driving card, Zack...?
+###--------
+###Script:22
+###Mugshot:Zack
+I don't have it, Bud does!<wait>
+###Command:wait frames=40
+###--------
+###Script:23
+###Mugshot:0
+Huh!?
+###--------
+###Script:24
+###Mugshot:0
+Wh-What the!?<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:0
+This is going way too far!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:0
+All I did was turn down
+a few of your invitations!!<wait>
+###Command:wait frames=90
+###--------
+###Script:25
+###Mugshot:Luna
+C-C-Can you hear me!?<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:Luna
+Look, this isn't about
+turning me down!!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:Luna
+Bud, he turned into
+some kind of monster,<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:Luna
+and just when we thought
+he had vanished,<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:Luna
+the truck started moving
+all on its own!<wait>
+###Command:wait frames=90
+###--------
+###Script:26
+###Mugshot:Zack
+It's no good!
+It won't respond to me
+at all!<wait>
+###Command:wait frames=90
+###--------
+###Script:27
+###Mugshot:0
+*huff, huff*<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:0
+Turned into a monster!?
+No way... Mega!?<wait>
+###Command:wait frames=90
+###--------
+###Script:28
+###Mugshot:OmegaXis
+Yeah, it can't be
+anything else.<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+That kid, Bud.
+He fused with an
+FM-ian and<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+went into that
+Truck Comp!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+But I don't think he's
+noticed me yet.<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+Hey, kid!
+Run faster!<wait>
+###Command:wait frames=90
+###--------
+###Script:29
+###Mugshot:0
+I can't run any faster!
+*huff, huff*<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:0
+Why is he chasing me
+anyway!?<wait>
+###Command:wait frames=90
+###--------
+###Script:30
+###Mugshot:OmegaXis
+Gee, I wonder!
+You think maybe he's mad<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+about you knocking him
+out last time?<wait>
+###Command:wait frames=90
+###--------
+###Script:31
+###Mugshot:0
+*huff, huff*
+But that was all you!!<wait>
+###Command:wait frames=90
+###--------
+###Script:32
+###Mugshot:OmegaXis
+Can it and run faster, kid!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+Anyway, the FM-ian
+showed up,<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+so we should stand our
+ground and face him!!<wait>
+###Command:wait frames=90
+###--------
+###Script:33
+###Mugshot:0
+*huff, huff* I...
+I can't do that!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:0
+I'll be crushed by
+that FM-ian!<wait>
+###Command:wait frames=90
+###--------
+###Script:34
+###Mugshot:OmegaXis
+Fine, then hide somewhere
+until the truck stops!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+But I won't be held
+responsible for what happens<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+to those guys in the truck!!<wait>
+###Command:wait frames=90
+###--------
+###Script:35
+###Mugshot:0
+*huff* But!<wait>
+###Command:wait frames=90
+###--------
+###Script:36
+###Mugshot:OmegaXis
+If you want to rescue them,
+then do what I say!!<wait>
+###Command:wait frames=90
+###--------
+###Script:37
+###Mugshot:0
+Owowowow!!
+OK, OK!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:0
+What should I do!?<wait>
+###Command:wait frames=90
+###--------
+###Script:38
+###Mugshot:OmegaXis
+Hey, it's slowing down a little!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+Now's our chance!!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+Quick, put on your Visualizer!<wait>
+###Command:wait frames=90
+###--------
+###Mugshot:OmegaXis
+Find a wavehole and make
+for the Wave World, kid!<wait>
+###Command:wait frames=90
+###--------
+###Script:39
+###Mugshot:0
+OK!<wait>
+###Command:wait frames=90
+###--------
+###Script:40
+###Mugshot:0
+There!!<wait>
+###Command:wait frames=60
+###--------
+###Script:41
+###Mugshot:OmegaXis
+Hurry! Pulse in!
+###--------
+###Script:42
+###Mugshot:0
+I'm on it!
+###--------
+###Mugshot:0
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------

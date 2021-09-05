@@ -1,0 +1,255 @@
+﻿###TextArchive:mess_0025
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Welcome! Consider it an
+honor to be able to see
+inside my Transer!
+###--------
+###Script:2
+###Mugshot:Luna
+The Student Body
+Presidency WILL be mine!!
+###--------
+###Mugshot:Luna
+And, no 6th grader is
+going to take it from me!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+To that end, I must get
+that "bad egg" to come
+to school.
+###--------
+###Script:3
+###Mugshot:Luna
+I'm on a roll!!
+I finally got him to
+come to school!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+The next thing you know,
+I'll get to meet my hero,
+Mega Man again...
+###--------
+###Script:4
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I just can't get Mega Man
+out of my head... I've never
+felt like this before.
+###--------
+###Script:5
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I still can't believe it...
+Mega Man can't be... but...
+###--------
+###Script:6
+###Mugshot:Luna
+Who does he think he is,
+cutting our Brother Band!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I won't forgive him even
+if he does apologize!
+###--------
+###Script:7
+###Mugshot:Luna
+I went and became
+Brothers with him AGAIN.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+But, if he EVER cuts
+our Brother Band again,
+that's it! We're through!
+###--------
+###Script:8
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+All I can do for him
+now is pray.
+...Come back safely!
+###--------
+###Script:10
+###Mugshot:Luna
+Sometimes I act stuck up
+in front of people, but
+inside, I'm really scared...
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+All I want is to have
+true friends.
+###--------
+###Script:11
+###Mugshot:Luna
+The Student Body
+Presidency WILL be mine!!
+###--------
+###Mugshot:Luna
+And, no 6th grader is
+going to take it from me!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+To that end, I must get
+that "bad egg" to come
+to school.
+###--------
+###Script:12
+###Mugshot:Luna
+I'm on a roll!!
+I finally got him to
+come to school!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+The next thing you know,
+I'll get to meet my hero,
+Mega Man again...
+###--------
+###Script:13
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I just can't get Mega Man
+out of my head... I've never
+felt like this before.
+###--------
+###Script:14
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I still can't believe it...
+Mega Man can't be... but...
+###--------
+###Script:15
+###Mugshot:Luna
+Who does he think he is,
+cutting our Brother Band!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I won't forgive him even
+if he does apologize!
+###--------
+###Script:16
+###Mugshot:Luna
+I went and became
+Brothers with him AGAIN.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+But, if he EVER cuts
+our Brother Band again,
+that's it! We're through!
+###--------
+###Script:17
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+All I can do for him
+now is pray.
+...Come back safely!
+###--------
+###Script:20
+###Mugshot:Luna
+There are some cards I
+really need right now,
+###--------
+###Mugshot:Luna
+but I've no idea where
+to even begin looking.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I can't believe someone
+like me is having trouble
+finding recovery cards!
+###--------
+###Mugshot:MegaMan
+She really needs
+recovery cards?
+###--------
+###Mugshot:OmegaXis
+You probably know where
+to find some, right?
+###--------
+###Mugshot:OmegaXis
+Then again, I bet she
+doesn't even want your
+help.
+###--------
+###Mugshot:MegaMan
+I guess I should help
+her out...
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Look at you, mister
+knight in shining armor.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:21
+###Mugshot:Luna
+There are some cards I
+really need right now,
+###--------
+###Mugshot:Luna
+but I've no idea where
+to even begin looking.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I can't believe someone
+like me is having trouble
+finding recovery cards!
+###--------
+###Script:22
+###Mugshot:OmegaXis
+But I thought...
+You know what, never mind.
+###--------
+###Script:30
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

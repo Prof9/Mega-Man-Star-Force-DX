@@ -1,0 +1,107 @@
+﻿###TextArchive:mess_0064
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:BusinessMan
+Hello and welcome.
+###--------
+###Script:3
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+I'm just an ordinary salesman
+working every day trying
+to make a living.
+###--------
+###Script:4
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Well this is just great...
+I can't get a signal
+on my cell phone!
+###--------
+###Mugshot:BusinessMan
+How am I supposed to get
+in touch with my clients?
+###--------
+###Mugshot:BusinessMan
+They will be expecting
+my call...
+###--------
+###Mugshot:BusinessMan
+It's over! I'm going to
+lose my job!
+###--------
+###Mugshot:BusinessMan
+Somebody help me!
+###--------
+###Mugshot:MegaMan
+Should we help that guy out?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's make it quick!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+So you're just gonna let
+that guy get canned?
+Oh, well...
+###--------
+###Script:6
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Well this is just great...
+I can't get a signal on my
+cell phone!
+###--------
+###Mugshot:BusinessMan
+How am I supposed to get
+in touch with my clients?
+###--------
+###Mugshot:BusinessMan
+They will be expecting
+my call...
+###--------
+###Mugshot:BusinessMan
+It's over! I'm going to
+lose my job!
+###--------
+###Mugshot:BusinessMan
+Somebody help me!
+###--------
+###Script:7
+###Mugshot:BusinessMan
+I got a signal!
+I'm saved!
+###--------
+###Mugshot:BusinessMan
+Thank you, boy with
+the green glasses!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,34 @@
+﻿###TextArchive:mess_0146
+###Script:0
+###Mugshot:0
+*sigh*
+I really don't want to go...
+###--------
+*honk, honk*
+###--------
+###Script:1
+###Mugshot:0
+The bus is here.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+So THIS is a bus!
+###--------
+###Mugshot:0
+Please don't cause a
+scene on the bus!
+###--------
+###Mugshot:OmegaXis
+Alright, I got it! I got it!
+###--------
+###Mugshot:OmegaXis
+Come on, let's go!!
+###--------
+###Mugshot:0
+*sigh*
+I wonder sometimes...
+###--------
+###Script:3
+###Mugshot:Luna
+......
+###--------

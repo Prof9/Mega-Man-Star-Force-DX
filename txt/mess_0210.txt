@@ -1,0 +1,254 @@
+﻿###TextArchive:mess_0210
+###Script:0
+...Hey, Geo.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+...Get a hold of yourself.
+###--------
+###Script:2
+###Mugshot:0
+...Nnngh...
+###--------
+###Script:3
+###Mugshot:0
+...Owwww.
+###--------
+###Mugshot:0
+I'm still alright...?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Right at the last second,
+you changed out of wave
+form. Talk about a close call.
+###--------
+###Script:5
+###Mugshot:0
+Hey, wait!!
+What happened to that guy!?
+###--------
+###Mugshot:0
+The really tall one!?
+###--------
+###Script:6
+###Mugshot:0
+He's gone...
+###--------
+###Script:7
+###Mugshot:0
+What was he?
+It sounded like he knew
+who we were...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Or was that just my
+imagination?
+###--------
+###Script:8
+Hey...
+###--------
+###Script:9
+###Mugshot:0
+Yes?
+###--------
+###Script:10
+###Mugshot:Pat
+Today's weather is pretty
+nice, don't you think?
+###--------
+###Mugshot:Pat
+Days like these really
+warm a person's heart.
+###--------
+###Mugshot:Pat
+I wish everyday could
+be like today...
+###--------
+###Script:11
+###Mugshot:Pat
+Don't you?
+###--------
+###Script:12
+###Mugshot:0
+Huh? Well...
+###--------
+###Script:13
+###Mugshot:Pat
+You're Geo, right?
+###--------
+###Script:14
+###Mugshot:0
+You know me?
+###--------
+###Script:15
+###Mugshot:Pat
+Of course.
+###--------
+###Mugshot:Pat
+I'm one of your classmates.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I've seen your picture in the
+yearbooks. So I knew who
+you were right away.
+###--------
+###Mugshot:Pat
+So, how do you do?
+I'm Patrick Sprigs.
+###--------
+###Script:16
+###Mugshot:0
+H-Hi, um, Patrick.
+###--------
+###Script:17
+###Mugshot:Pat
+Just call me Pat.
+###--------
+###Script:18
+###Mugshot:0
+But isn't that kind of rude?
+###--------
+###Script:19
+###Mugshot:Pat
+Look, what you call
+someone is important.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+You can be better or
+worse friends based on
+what you call that person.
+###--------
+###Mugshot:Pat
+So...
+###--------
+###Script:20
+###Mugshot:0
+P-Pat...
+###--------
+###Script:21
+###Mugshot:Pat
+Ha ha ha.
+###--------
+###Mugshot:Pat
+You wanna hear something
+funny?
+###--------
+###Mugshot:Pat
+Every morning when
+attendance is taken,
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Mr. Shepar always calls out
+your name, even though he
+knows you're not there.
+###--------
+###Mugshot:Pat
+But of course, no one
+answers back.
+###--------
+###Mugshot:Pat
+And then I'd wonder to
+myself,
+###--------
+###Mugshot:Pat
+"Just what kind of kid
+is Geo?"
+###--------
+###Mugshot:Pat
+I'm glad you turned out
+to be a nice person.
+###--------
+###Script:22
+###Mugshot:0
+A nice person?
+I don't think so myself, but...
+###--------
+###Script:23
+###Mugshot:Pat
+Ha ha ha.
+You're humble too.
+###--------
+###Mugshot:Pat
+But it's not like I hate
+that quality.
+###--------
+###Script:24
+###Mugshot:0
+...Pat.
+###--------
+###Script:25
+###Mugshot:Pat
+It's just a premonition,
+but I get the feeling
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+things would be a lot more
+interesting at school if you
+were to come.
+###--------
+###Mugshot:Pat
+I think we would make
+great friends.
+###--------
+###Script:26
+###Mugshot:0
+Friends, huh...
+###--------
+###Script:27
+###Mugshot:Pat
+Ha ha ha.
+###--------
+###Mugshot:Pat
+Oops, look at the time.
+I've gotta go.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Well, this may be good bye,
+but I hope I'll see you again.
+###--------
+###Mugshot:Pat
+Later!
+###--------
+###Script:28
+###Mugshot:0
+That Pat guy seems like
+a nice person.
+###--------
+###Mugshot:0
+And that teacher was
+nice too.
+###--------
+###Mugshot:0
+*sigh*
+School, huh?
+###--------
+###Mugshot:0
+Ack!
+###--------
+###Script:29
+###Mugshot:0
+I totally forgot!
+###--------
+###Mugshot:0
+I'm supposed to be looking
+at the set!
+###--------
+###Mugshot:0
+They're probably all wondering
+where I went...
+###--------

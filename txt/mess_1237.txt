@@ -1,0 +1,76 @@
+﻿###TextArchive:mess_1237
+###Script:0
+###Mugshot:0
+A ball of waves?
+###--------
+###Mugshot:0
+Is it an enemy?
+###--------
+###Script:1
+...Oh!
+###--------
+Is someone there?
+###--------
+###Script:2
+###Mugshot:0
+A voice!? But it's coming
+from inside the ball!
+###--------
+###Script:3
+###--------
+Finally! I'm so glad to
+make contact with
+someone over there!
+###--------
+Please, I have something
+to ask of you, so will
+you hear me out?
+###--------
+###Script:4
+###Mugshot:0
+Over there?
+What does that mean?
+###--------
+###Script:5
+###--------
+Some very important
+SciLab data was stolen
+just now.
+###--------
+###--------
+We chased the thief,
+but they jumped through
+this strange ball.
+###--------
+Where you are and where
+I am seem to be very
+different,
+###--------
+and this ball seems to
+connect us to one another.
+###--------
+###--------
+The thief jumped through
+this, so I think that they
+escaped to where you are.
+###--------
+###--------
+Please, help us.
+Find the thief and get
+the SciLab data back!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+What are you gonna do,
+Geo?
+###--------
+###Script:7
+###Mugshot:0
+###--------
+###Mugshot:0
+I get the feeling that
+this isn't a bad person.
+###--------
+###Mugshot:0
+I think I'll help them.
+###--------

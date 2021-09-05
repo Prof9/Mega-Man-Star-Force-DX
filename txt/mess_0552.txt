@@ -1,0 +1,116 @@
+﻿###TextArchive:mess_0552
+###Script:0
+###Mugshot:Luna
+You feel like a part of
+our class now, right?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Good! Then I don't want to
+hear any more of that "not
+coming to school" business!
+###--------
+###Script:1
+###Mugshot:Bud
+Oogh... I'm starved!
+I can't wait for lunch!
+###--------
+###Script:2
+###Mugshot:Zack
+You're prepared for class
+today, correct?
+###--------
+###Mugshot:Zack
+Reviewing is one of the
+keys to good study habits.
+###--------
+###Script:3
+###Mugshot:Pat
+Hey, morning!
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Looks like you are
+fitting in just fine.
+I'm happy for you.
+###--------
+###Script:4
+###Mugshot:LittleBoy
+Oh no...
+I forgot my homework!
+###--------
+###Script:5
+###Mugshot:Boy
+I'm the teacher's helper
+today,
+###--------
+###Mugshot:Boy
+so I've got to be happy
+and helpful to everyone!
+###--------
+###Script:6
+###Mugshot:Girl
+Did you watch the
+"Best 1,000 Countdown"?
+###--------
+###Mugshot:Girl
+The Navi pop group
+"NAVIP" was sooo cool!
+###--------
+###Script:7
+###Mugshot:LittleGirl
+Should I buy a NAVIP
+glossy photo card...?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+But I bet I won't even
+find one since they're
+so popular now.
+###--------
+###Script:11
+###Mugshot:4
+###--------
+###Mugshot:4
+Argh, having Brothers who
+can't do squat is more trouble
+than having no Brothers!
+###--------
+###Script:15
+###Mugshot:11
+###--------
+###Mugshot:11
+I fell asleep so much in class
+this week that I've got to
+really study to catch up...
+###--------
+###Mugshot:11
+You have no idea how much
+that stinks...
+###--------
+###Script:20
+###Mugshot:11
+###--------
+###Mugshot:11
+You know, I was really
+sleepy all during class...
+###--------
+###Mugshot:11
+but the instant class ended,
+I wasn't anymore.
+###--------
+###Mugshot:11
+Isn't that odd?
+###--------
+###Script:21
+###Mugshot:11
+There's a fight going on in
+Time Square?
+###--------
+###Mugshot:11
+That's nothing to sleep
+through!
+###--------

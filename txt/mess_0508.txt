@@ -1,0 +1,129 @@
+﻿###TextArchive:mess_0508
+###Script:2
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+This is a black hole
+generator, but it's not
+working right now.
+###--------
+###Mugshot:Worker
+We're not quite sure why
+either. Eheh heh heh.
+###--------
+###Script:5
+###Mugshot:LittleGirl
+Wow...
+###--------
+###Mugshot:LittleGirl
+There sure are a lot of
+constellations!
+###--------
+###Mugshot:LittleGirl
+Taurus, Gemini, Cancer...
+###--------
+###Mugshot:LittleGirl
+I can't remember all of them...
+###--------
+###Script:7
+###Mugshot:LittleGirl
+There's something going on!
+###--------
+###Mugshot:LittleGirl
+I'm scared!!
+Nooooo!!
+###--------
+###Script:8
+###Mugshot:Worker
+Someone call for Mr. Boreal!!
+###--------
+###Mugshot:Worker
+What!?
+He's inside the SpaceSim!?
+###--------
+###Script:9
+###Mugshot:Man
+I-I wonder what's going on
+in there...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+They're doing the
+Swan Dance??
+What in the!?
+###--------
+###Script:10
+###Mugshot:Luna
+This is really quite a nice
+lab, isn't it? And,
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+it's really good for society
+to give the general public
+a place to study like this.
+###--------
+###Mugshot:Luna
+I think this lab should be
+our next field trip!
+###--------
+###Script:11
+###Mugshot:Bud
+Hey, I can't see a thing
+through this.
+###--------
+###Mugshot:Bud
+You think it's busted?
+###--------
+###Script:12
+###Mugshot:Zack
+The three Satellites...
+###--------
+###Mugshot:Zack
+About that...
+Which one are you again?
+###--------
+###Script:50
+###Mugshot:InfoNavi
+It's amazing...
+The silhouette of this
+silver marvel...
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+So much human sweat and
+tears have gone into
+this collection of metal.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Ah...
+It's amazing...
+###--------
+###Script:51
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Hmm... Yes...
+It's amazing...
+###--------
+###Mugshot:InfoNavi
+Huh? An incident?
+###--------
+###Mugshot:InfoNavi
+Hmm, I see...
+Well, I've had an
+incident myself.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Going into space in this
+iron rocket, that is.
+###--------

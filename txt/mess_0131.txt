@@ -1,0 +1,105 @@
+﻿###TextArchive:mess_0131
+###Script:0
+###Mugshot:MegaMan
+Well, this is as close as
+I can get, so now what?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Jump into the train!
+###--------
+###Mugshot:MegaMan
+Huh?
+###--------
+###Mugshot:OmegaXis
+Press the train...
+er, I mean Y Button!
+###--------
+###Mugshot:OmegaXis
+Our body is a bunch
+of waves.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If there's a Comp Space that
+is receptive to EM waves,
+then we can go into it.
+###--------
+###Mugshot:OmegaXis
+You see that wavehole
+above the train?
+###--------
+###Mugshot:MegaMan
+Yeah...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If it's flashing, that means
+the Comp Space will accept
+outside EM waves.
+###--------
+###Script:2
+###Mugshot:MegaMan
+Oh...
+###--------
+###Mugshot:OmegaXis
+Here's how you do it.
+###++++++++
+###Mugshot:OmegaXis
+First, hold the Y Button
+and a cursor will appear.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+When you're locked on,
+the cursor will turn yellow.
+###++++++++
+###Mugshot:OmegaXis
+Then all you gotta do
+is release the Y Button.
+###--------
+###Mugshot:OmegaXis
+Looks like this train
+accepts EM waves!
+###--------
+###Mugshot:OmegaXis
+Time to hop onboard!
+###--------
+###Script:4
+###Mugshot:MegaMan
+Hop...?
+###--------
+###Script:5
+###Mugshot:MegaMan
+Waaaaaaah!!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Always remember this, kid:
+This is how we FM-ians
+jump into Comp Spaces!
+###--------
+###Mugshot:OmegaXis
+By the way, if you have
+one of those stylus things,
+###++++++++
+###Mugshot:OmegaXis
+you can just touch the
+wavehole on the screen.
+###--------
+###Mugshot:OmegaXis
+OK, almost there!
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Keep holding down the
+Y Button, and use
+the +Control Pad
+###++++++++
+###Mugshot:OmegaXis
+to move the cursor
+to something that's
+accepting EM waves.
+###--------

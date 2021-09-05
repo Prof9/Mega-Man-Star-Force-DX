@@ -1,0 +1,412 @@
+﻿###TextArchive:mess_0204
+###Script:0
+###Mugshot:0
+The bus is so slow...
+###--------
+###Script:1
+Wait one second!
+###--------
+###Mugshot:0
+That voice...
+###--------
+###Script:2
+###Mugshot:0
+I knew it.
+###--------
+###Script:3
+###Mugshot:Luna
+So where are you going?
+###--------
+###Mugshot:Luna
+And what's with that sour
+look on your face?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(*snicker* That's the face
+he always makes when
+you guys are around!)
+###--------
+###Script:4
+###Mugshot:0
+Aaaaargh!
+What is it today?
+###--------
+###Script:5
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+When are you ever going to
+feel like coming to school?
+###--------
+###Script:6
+###Mugshot:0
+How many times do I
+have to tell you?
+###--------
+###Mugshot:0
+I'M. NOT. GOING.
+TO. SCHOOL!
+###--------
+###Mugshot:0
+Now stop pestering
+me about it.
+###--------
+###Script:7
+###Mugshot:Luna
+Sorry, but I can't just
+let the matter drop.
+###--------
+###Mugshot:Luna
+I have to get you to
+come to school.
+###--------
+###Script:8
+###Mugshot:0
+......
+###--------
+###Script:9
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+We'll be having a school
+event soon, and our class
+is going to put on a play.
+###--------
+###Script:10
+###Mugshot:Zack
+And of course the Prez
+is our producer!
+###--------
+###Script:11
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+She's also our director,
+script writer, and lead
+actress! She's covering it all!
+###--------
+###Script:12
+###Mugshot:Luna
+And as director,
+I'm in charge of casting...
+###--------
+###Mugshot:Luna
+And I was thinking about
+casting you.
+###--------
+###Mugshot:Luna
+For our class play,
+of course.
+###--------
+###Script:13
+###Mugshot:0
+Wh-What!?
+###--------
+###Mugshot:0
+Don't randomly cast me
+without asking first!!
+###--------
+###Script:14
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Everyone has to do
+something for this event,
+or else it loses its meaning.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+You're a member of our
+class, so it's only natural
+you participate as well.
+###--------
+###Script:15
+###Mugshot:0
+Well, that's fine for you,
+but what about me!?
+###--------
+###Script:16
+###Mugshot:Luna
+It's not fine if you
+don't show. Your role
+is very important.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Veeeeery important.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+If you don't play your very
+important role, then the
+whole play will fall apart.
+###--------
+###Script:17
+###Mugshot:0
+But...
+###--------
+###Script:18
+###Mugshot:0
+But I can't do that...
+I can't act in a play...
+###--------
+###Script:19
+###Mugshot:Bud
+It's like dealing with a
+stubborn mule.
+###--------
+###Script:20
+###Mugshot:Luna
+Then how about this?
+###--------
+###Mugshot:Luna
+The set for the play is
+in the school Gym.
+###--------
+###Mugshot:Luna
+I propose you at least
+take a look at it.
+###--------
+###Mugshot:Zack
+That's a great idea!
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+If you see the set,
+you'll understand how
+great this play will be!
+###--------
+###Mugshot:Luna
+I'm sure you'll want to be
+a part of it then!
+###--------
+###Mugshot:Luna
+So come on.
+Let's go take a look inside!
+###--------
+###Script:21
+###Mugshot:0
+But I told you, I don't
+want to go to school!!
+###--------
+###Script:22
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+All you're doing is seeing
+the set. You're not going
+to class or anything.
+###--------
+###Script:23
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Plus, it's after school.
+There won't be any
+other kids around.
+###--------
+###Script:24
+###Mugshot:Luna
+You can't say no now,
+can you?
+###--------
+###Script:25
+###Mugshot:0
+But... there's somewhere
+I have to go to today.
+###--------
+###Script:26
+###Mugshot:Luna
+......
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Even I have a limit
+on my patience.
+You are sooooooo stubborn!!
+###--------
+###Script:27
+###Mugshot:0
+###--------
+###Mugshot:0
+YOU'RE the stubborn one!
+You're the one always
+following me around, you...
+###--------
+###Mugshot:0
+you SATELLITE!
+###--------
+###Mugshot:Luna
+Wh-What do you mean
+by "satellite"?
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+A satellite is a heavenly
+body that goes around and
+around, circling a planet!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Your name, Luna, means
+"moon", and the moon is
+the Earth's satellite.
+###--------
+###Mugshot:0
+That's why it's the
+perfect name for you!
+###--------
+###Script:28
+###Mugshot:Luna
+Wh-Whaaaaaaat!?
+###--------
+###Mugshot:Luna
+Who wants to be a
+satellite to you!?!?
+###--------
+###Mugshot:Zack
+P-Prez! Please calm down!
+###--------
+###Mugshot:Zack
+Please don't ruin all your
+hard work here!
+###--------
+###Mugshot:Luna
+Urrnngh...!!
+Y-You're right, Zack.
+###--------
+###Mugshot:Luna
+I refuse to let you get
+away today, you hear?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Even if I have to tie a
+Prez flag around your neck,
+I'm claiming you for today!
+###--------
+###Mugshot:Luna
+Whatever you have
+to do can wait!!
+###--------
+###Script:29
+###Mugshot:Zack
+When she gets like this,
+she's unstoppable.
+###--------
+###Script:30
+###Mugshot:Bud
+I'd do what she says,
+if I were you!
+###--------
+###Script:31
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(If I keep talking with
+them, I'll never get
+to Mr. Boreal's lab...)
+###--------
+###Mugshot:0
+(I guess I don't
+have a choice......)
+###--------
+###Mugshot:0
+So...
+###--------
+###Mugshot:0
+You promise all I have
+to do is look at it?
+###--------
+###Script:32
+###Mugshot:Luna
+Y-Yes, that's it.
+###--------
+###Script:33
+###Mugshot:0
+If that's all, then I'll
+take a quick peek.
+###--------
+###Script:34
+###Mugshot:Luna
+!!
+###--------
+###Script:35
+###Mugshot:Luna
+You guys both heard him,
+right!?
+###--------
+###Mugshot:Luna
+I finally got Geo to
+go to school! Yay!
+###--------
+###Mugshot:Luna
+This is all my doing!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+It's all thanks to my
+concern for the well-being
+of my classmates!
+###--------
+###Script:36
+###Mugshot:Bud
+You're the best, Prez!
+###--------
+###Script:37
+###Mugshot:Zack
+Wonderful job!
+###--------
+###Mugshot:OmegaXis
+(Good work, Prez!)
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(Thanks to you, I can
+finally see what the inside
+of a school looks like!!)
+###--------
+###Mugshot:0
+(Wh-Why are you so happy!?)
+###--------
+###Script:38
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Well, it's only natural I was
+successful. Because I am
+the Prez after all!
+###--------
+###Mugshot:0
+Yeah whatever, I'm only
+going to take a look.
+###--------
+###Mugshot:0
+And then I'm leaving.
+###--------
+###Script:39
+###Mugshot:Luna
+Well, just come take a
+look at the set.
+###--------
+###Mugshot:Luna
+I'm sure you'll want to
+do the play after that.
+###--------
+###Mugshot:Luna
+The set is in the school
+Gym. Well, let's go!
+###--------

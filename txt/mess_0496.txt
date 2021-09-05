@@ -1,0 +1,199 @@
+﻿###TextArchive:mess_0496
+###Script:1
+###Mugshot:2
+Geo, do you know what
+this tower is?
+###--------
+###Mugshot:0
+Hmm?
+###--------
+###Mugshot:2
+I created this special radio
+tower...
+###--------
+###Mugshot:2
+to search for your father.
+###--------
+###Mugshot:0
+To search for my dad!?
+###--------
+###Mugshot:2
+This tower is sending a
+signal out into space.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I keep hoping Kelvin will pick
+it up, wherever he may be.
+###--------
+###Mugshot:0
+C-Can you find him?
+###--------
+###Mugshot:2
+It might take a while,
+but I'm not giving up!
+One day,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I'm going to have some good
+news for you and your
+mother! You wait and see!
+###--------
+###Mugshot:0
+......
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Well, let's keep going with
+the tour. You still have the
+main building to see!
+###--------
+###Script:2
+###Mugshot:2
+###--------
+###Mugshot:2
+Well, let's keep going with
+the tour. You still have the
+main building to see!
+###--------
+###Script:5
+###Mugshot:Girl
+This tower is really tall!
+###--------
+###Mugshot:Girl
+You can't see the top at all!
+That is so cool!
+###--------
+###Script:6
+###Mugshot:OldWoman
+This lab is really big!
+###--------
+###Mugshot:OldWoman
+I feel like I could get lost
+in here!
+###--------
+###Script:7
+###Mugshot:Worker
+Aaaaaaaah!!
+Too much to do!!
+###--------
+###Mugshot:Worker
+If I don't take care of all
+the machines for the tour
+groups carefully,
+###--------
+###Mugshot:Worker
+it'll be a mess!
+###--------
+###Script:8
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+You don't come to school,
+and instead, you come
+here to play!
+###--------
+###Mugshot:Luna
+I, Luna Platz, simply
+can't allow this!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+One way or another, I'm
+going to convince you to
+come to school!!
+###--------
+###Script:9
+###Mugshot:Bud
+Hey!
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+I can't believe you came to
+such a fun place by yourself!
+Pretty selfish, if you ask me!
+###--------
+###Script:10
+###Mugshot:Zack
+So this is AMAKEN.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+It's pretty interesting.
+Maybe I can learn some
+new nifty facts.
+###--------
+###Script:50
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+I'M THE MR. HERTZ IN
+CHARGE OF TRANSPORTING
+THIS LAB'S DATA FILES.
+###--------
+###Mugshot:MrHertz
+AH, BUT I'M SO CURIOUS!
+###--------
+###Mugshot:MrHertz
+I WONDER WHAT'S IN THESE
+TOP SECRET DOCS?
+###--------
+###Mugshot:MrHertz
+I'M SO CURIOUS I CAN'T
+MOVE!! *BEEP BEEP*
+###--------
+###Script:51
+###Mugshot:MrHertz
+RIGHT SIDE, ALL CLEAR!
+###--------
+###Mugshot:MrHertz
+LEFT SIDE, ALL CLEAR!
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP!?*
+###--------
+###Mugshot:MrHertz
+YOU THERE!
+STATE YOUR NAME
+AND BUSINESS HERE!
+###--------
+###Mugshot:MrHertz
+HUH? YOU'RE NOT A WAVE?
+YOU'RE A HUMAN?
+###--------
+###Mugshot:MrHertz
+HMM...
+###--------
+###Mugshot:MrHertz
+I'M SUPPOSED TO REMOVE
+ALL UNAUTHORIZED WAVES,
+###--------
+###Mugshot:MrHertz
+BUT I DON'T KNOW ABOUT
+HUMANS...
+###--------
+###Mugshot:MrHertz
+HMM...
+###--------
+###Script:100
+###Mugshot:20
+*Beep whoo*
+###--------
+###Mugshot:20
+###--------
+###Mugshot:20
+It is my duty to detect and
+decipher any incoming signals
+from space.
+###--------
+###Mugshot:20
+*Beep whoo*
+###--------

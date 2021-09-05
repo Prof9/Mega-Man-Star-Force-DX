@@ -1,0 +1,101 @@
+﻿###TextArchive:mess_0035
+###Script:1
+###Mugshot:Woman
+Welcome to my Transer,
+Brothers!
+###--------
+###Script:3
+###Mugshot:3
+There's a cute guy in
+Echo Ridge.
+###--------
+###Mugshot:3
+I think his name is Chase
+or something like that.
+###--------
+###Mugshot:3
+I wonder how old he is!
+###--------
+###Mugshot:OmegaXis
+Looks like she's got
+something on her mind.
+###--------
+###Mugshot:MegaMan
+She wants to know
+how old some guy is...
+###--------
+###Mugshot:OmegaXis
+I can see it in your eyes,
+###--------
+###Mugshot:OmegaXis
+you wanna help her,
+don't you?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK. Let's go over there
+and get the details.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:4
+###Mugshot:OmegaXis
+You're right.
+Let's not.
+###--------
+###Script:5
+###Mugshot:3
+There's a cute guy in
+Echo Ridge.
+###--------
+###Mugshot:3
+I think his name is Chase
+or something like that.
+###--------
+###Mugshot:3
+I wonder how old he is!
+###--------
+###Script:6
+###Mugshot:3
+There's this really
+cute guy in town...
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+He's about 30 years old...
+I think older guys are
+so attractive.
+###--------
+###Script:7
+###Mugshot:3
+I have a huge crush
+on this one guy...
+###--------
+###Mugshot:3
+What can I do to get
+him to notice me?
+###--------
+###Script:10
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,512 @@
+﻿###TextArchive:mess_0144
+###Script:0
+That night...
+###--------
+###Script:1
+###Mugshot:3
+Phew...
+###--------
+###Mugshot:3
+I-I can finally see the
+light at the end.
+###--------
+###Script:2
+###Mugshot:2
+Are you working late again?
+###--------
+###Script:3
+###Mugshot:3
+Y-Yes...
+###--------
+###Script:4
+###Mugshot:2
+Really into your work, huh?
+Good for you!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+By the way, you came up with
+a name for that flying pack
+you are developing, right?
+###--------
+###Mugshot:2
+Um, what did you
+call it again?
+###--------
+###Script:5
+###Mugshot:3
+Th-This? It's...
+###--------
+###Script:6
+###Mugshot:3
+......
+###--------
+###Mugshot:3
+It's called the FlapPack.
+###--------
+###Script:7
+###Mugshot:2
+You tested it out by
+yourself today, right?
+###--------
+###Mugshot:2
+So how is it? Is your
+research going smoothly?
+###--------
+###Script:8
+###Mugshot:3
+I-I'm not sure.
+###--------
+###Script:9
+###Mugshot:2
+I see. Well, no need to
+push too hard, you hear?
+###--------
+###Mugshot:2
+Now it's time for me
+to head on home.
+###--------
+###Script:10
+###Mugshot:3
+Y-Yes, please get some
+rest.
+###--------
+###Script:11
+###Mugshot:2
+Oh!
+###--------
+###Script:12
+###Mugshot:2
+###--------
+###Mugshot:2
+It's kinda sudden, but I was
+wondering if you want to form
+a Brother Band with me?
+###--------
+###Script:13
+###Mugshot:3
+A-A Brother Band?
+###--------
+###Mugshot:3
+Wh-Why would you suddenly...?
+###--------
+###Script:14
+###Mugshot:2
+Ah, don't be so shocked,
+please! The idea just
+popped into my head.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+We've known each other
+for a long time,
+###--------
+###Mugshot:2
+but we never really talk
+outside of work, so, well...
+###--------
+###Script:15
+###Mugshot:3
+Is... Is...
+###--------
+###Mugshot:3
+Is that an order from
+a superior?
+###--------
+###Script:16
+###Mugshot:2
+O-<wait>Order?
+###Command:wait frames=10
+###--------
+###Mugshot:2
+Ha ha ha ha!
+###--------
+###Mugshot:2
+No, no, no.
+Please don't take it
+the wrong way.
+###--------
+###Mugshot:2
+I just want to get to
+know you better.
+###--------
+###Script:17
+###Mugshot:3
+Get to know me better...
+###--------
+###Script:18
+###Mugshot:2
+To tell you the truth...
+I treasure making friends
+with people more
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+than any successes I
+may have at work.
+###--------
+###Script:19
+###Mugshot:3
+......
+###--------
+###Script:20
+###Mugshot:2
+Ha ha ha.
+I probably spoke too
+frankly, huh?
+###--------
+###Script:21
+###Mugshot:3
+(Maybe this person...)
+###--------
+###Mugshot:3
+(Yes, maybe him.)
+###--------
+###Mugshot:3
+(Maybe he won't betray me...)
+###--------
+###Mugshot:3
+I don't mind...
+###--------
+###Mugshot:3
+...forming a Brother Band.
+###--------
+###Script:22
+###Mugshot:2
+Oh! Really!?
+###--------
+###Mugshot:2
+Then we can form one
+right away!
+###--------
+###Mugshot:2
+I'll warn you, my secret
+packs quite a punch!
+###--------
+###Script:23
+A few hours later...
+###--------
+###Script:24
+###Mugshot:3
+(It's ok...)
+###--------
+###Mugshot:3
+(A-Aaron,
+I can trust Aaron...)
+###--------
+###Mugshot:3
+(But...)
+###--------
+###Mugshot:3
+(I still feel uneasy...)
+###--------
+###Mugshot:3
+(What if he betrays me...
+Just what if?)
+###--------
+###Mugshot:3
+(It'd be like that time
+all over again...)
+###--------
+###Script:25
+Heh heh heh...
+###--------
+You're in pain, aren't you?
+###--------
+###Script:26
+###Mugshot:3
+!!?
+###--------
+###Script:27
+###Mugshot:3
+Wh-Who's there!?
+###--------
+###Script:28
+###Mugshot:Cygnus
+How do you do?
+###--------
+###Script:29
+###Mugshot:3
+A-Aaaaah!!
+###--------
+###Script:30
+###Mugshot:Cygnus
+Don't be afraid.
+I understand how you feel.
+###--------
+###Mugshot:Cygnus
+Heh heh heh...
+###--------
+###Script:31
+###Mugshot:3
+Wh-Who are you!?
+###--------
+###Script:32
+###Mugshot:Cygnus
+Easy. As I just said,
+I understand your pain.
+###--------
+###Mugshot:Cygnus
+You can't trust deeply
+in others.
+###--------
+###Mugshot:Cygnus
+Because of this, your
+heart aches severely.
+###--------
+###Script:33
+###Mugshot:3
+...!
+###--------
+###Script:34
+###Mugshot:Cygnus
+###--------
+###Mugshot:Cygnus
+And the source is
+something in your past...
+Am I correct?
+###--------
+###Script:35
+###Mugshot:3
+Y-Yes, that's exactly it.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+I had a horrible experience...
+All because I believed in
+someone...
+###--------
+###Mugshot:3
+B-But how did you know?
+###--------
+###Script:36
+###Mugshot:Cygnus
+Like I said,
+I understand you.
+###--------
+###Mugshot:Cygnus
+Come, tell me about this
+horrible event.
+###--------
+###Script:37
+###Mugshot:3
+It was back when I still
+worked at NAZA...
+###--------
+###Script:38
+###Mugshot:3
+Among my peers, I was
+named the best engineer.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Within a few years, I had
+brought a number of major
+projects to success.
+###--------
+###Script:39
+###Mugshot:Cygnus
+Did you enjoy your work?
+###--------
+###Script:40
+###Mugshot:3
+Um, well, I guess.
+###--------
+###Mugshot:3
+But...
+###--------
+###Script:41
+###Mugshot:Cygnus
+But?
+###--------
+###Script:42
+###Mugshot:3
+Ever since I was young,
+I loved to study, and...
+###--------
+###Mugshot:3
+as an adult, my research
+was my life.
+###--------
+###Mugshot:3
+S-So... Well...
+###--------
+###Script:43
+###Mugshot:Cygnus
+You didn't know how to
+befriend other people?
+###--------
+###Script:44
+###Mugshot:3
+###--------
+###Mugshot:3
+Y-Yes, exactly.
+I didn't have anyone I
+could call a friend.
+###--------
+###Script:45
+###Mugshot:Cygnus
+How sad and lonely you
+must have been.
+###--------
+###Script:46
+###Mugshot:3
+But one person did reach
+out to me.
+###--------
+###Script:47
+###Mugshot:3
+He was my boss at the time.
+###--------
+###Mugshot:3
+He said...
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+"We can be good friends,
+you and me," but...
+That wasn't all...
+###--------
+###Mugshot:3
+He asked me to form a
+Brother Band with him.
+###--------
+###Script:48
+###Mugshot:Cygnus
+You were really happy,
+weren't you?
+###--------
+###Script:49
+###Mugshot:3
+###--------
+###Mugshot:3
+Yes! Of course!
+I-It was my first
+Brother Band ever!
+###--------
+###Mugshot:3
+B-But it was all just
+an illusion.
+###--------
+###Script:50
+###Mugshot:3
+A-A few days after we
+formed our Brother Band,
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+the thing I was working on
+was leaked and it spread
+throughout the world.
+###--------
+###Mugshot:3
+I was shocked.
+###--------
+###Mugshot:3
+The prototype was exactly
+the same as mine.
+###--------
+###Script:51
+###Mugshot:Cygnus
+You mean your idea was
+stolen?
+###--------
+###Script:52
+###Mugshot:3
+...Yes.
+###--------
+###Mugshot:3
+And it wasn't a stranger
+who leaked it...
+###--------
+###Script:53
+###Mugshot:3
+That's right, it was my
+boss - my Brother.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+You share info back
+and forth through a
+Brother Band,
+###--------
+###Mugshot:3
+and to be honest, I was
+tempted to take a few
+of his research ideas too...
+###--------
+###Script:54
+###Mugshot:Cygnus
+He almost certainly got
+close to you...
+###--------
+###Mugshot:Cygnus
+to steal your ideas,
+didn't he?
+###--------
+###Mugshot:Cygnus
+You were number 1, and
+that's why he wanted them.
+###--------
+###Script:55
+###Mugshot:3
+I was so shocked that
+I quit NAZA.
+###--------
+###Mugshot:3
+I was going to develop
+everything by myself.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+And I put even more
+distance between me
+and everyone else.
+###--------
+###Mugshot:3
+I was never going to
+be duped again.
+###--------
+###Script:56
+###Mugshot:Cygnus
+Eheh heh heh.
+A most interesting story.
+###--------
+###Mugshot:Cygnus
+Your past reflects society
+as it really is.
+###--------
+###Script:57
+###Mugshot:3
+......
+###--------
+###Script:58
+###Mugshot:Cygnus
+Betrayal is the essence
+of society.
+###--------
+###Mugshot:Cygnus
+That is why no one is
+to be trusted.
+###--------
+###Mugshot:Cygnus
+###--------
+###Mugshot:Cygnus
+The wisest thing is to
+look upon everything...
+with distrust.
+###--------
+###Script:59
+###Mugshot:3
+Betrayal... is the essence
+of society...
+###--------

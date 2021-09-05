@@ -1,0 +1,208 @@
+﻿###TextArchive:mess_0234
+###Script:0
+###Mugshot:0
+What!?
+###--------
+###Mugshot:0
+Pat's absent today!?
+###--------
+###Script:1
+###Mugshot:4
+I didn't plan for this at all!
+###--------
+###Mugshot:4
+Who would've thought he'd
+get sick on the day of
+the big show?
+###--------
+###Script:2
+###Mugshot:0
+###--------
+###Mugshot:0
+So now what?
+Do we cancel the play?
+###--------
+###Script:3
+###Mugshot:4
+I have an idea.
+###--------
+###Script:4
+###Mugshot:4
+It's PERFECT!
+###--------
+###Script:5
+###Mugshot:0
+Please... Think this over
+one more time...
+###--------
+###Script:6
+###Mugshot:4
+Oh, stop!
+###--------
+###Mugshot:4
+There's no one else but you!
+###--------
+###Mugshot:4
+Oh, and I made 1 change
+to the script.
+###--------
+###Mugshot:4
+In this part.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:7
+###Mugshot:0
+"I'll protect you.
+Count on it!!"?
+###--------
+###Mugshot:0
+What's with this line...?
+###--------
+###Script:8
+###Mugshot:4
+During that last incident,
+when I was pleading for help,
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+I could've sworn I heard
+someone say those
+words to me.
+###--------
+###Mugshot:4
+And I'm sure that someone
+was Mega Man...
+###--------
+###Mugshot:4
+...Why am I even explaining
+this to you!?
+###--------
+###Script:9
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(Well, I did say those words...
+I guess she heard me...)
+###--------
+###Script:10
+And then it was time for
+the performance...
+###--------
+###Script:11
+###Mugshot:4
+Aaah! Heeeelp!!
+###--------
+###Script:12
+###Mugshot:5
+BE QUIET!!
+###--------
+###Script:13
+###Mugshot:4
+Nooo!! Someone! Please!
+###--------
+###Mugshot:4
+(And this is when
+Mega Man comes onstage!)
+###--------
+###Mugshot:4
+(Don't mess this up, Geo!)
+###--------
+###Script:14
+Hold it right there!!
+###--------
+###Script:15
+###Mugshot:4
+Huh?
+###--------
+###Mugshot:4
+<waitOWVar>
+###Command:waitOWVar variable=2 value=1
+###--------
+###Script:16
+###Mugshot:5
+Who are you!?
+###--------
+###Script:17
+###Mugshot:1
+I am Mega Man!
+The Blue Bomber!
+###--------
+###Script:18
+###Mugshot:4
+(N-No way!)
+###--------
+###Mugshot:4
+(Isn't this the real
+Mega Man in the flesh!?)
+###--------
+###Script:19
+*whisper
+        whisper*
+###--------
+###Script:20
+###Mugshot:4
+Wh-What happened?
+A power outage?
+###--------
+###Script:21
+###Mugshot:6
+Darn it!
+###--------
+###Script:22
+###Mugshot:6
+That was careless of me.
+###--------
+###Script:23
+###Mugshot:4
+(...Huh?)
+###--------
+###Mugshot:4
+(I thought he was the
+real one...)
+###--------
+###Mugshot:4
+(I knew it. It was just
+my imagination.)
+###--------
+###Mugshot:4
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:4
+(I must be tired to mistake
+Geo for Mega Man...)
+###--------
+###Mugshot:4
+(But, you know...)
+###--------
+###Script:24
+###Mugshot:5
+(Prez! Your line!)
+###--------
+###Script:25
+###Mugshot:4
+Oh! Um...
+###--------
+###Mugshot:4
+Y-You came to save me,
+right?
+###--------
+###Script:26
+###Mugshot:0
+I'll protect you.
+Count on it!!
+###--------
+###Script:27
+###Mugshot:4
+(...Why?)
+###--------
+###Mugshot:4
+(Why is my heart racing
+so fast?)
+###--------

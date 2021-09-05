@@ -1,0 +1,98 @@
+﻿###TextArchive:mess_0445
+###Script:0
+Temp message
+###--------
+###Script:33
+###Mugshot:MegaMan
+W-We've reached space
+already... Gotta press on.
+###--------
+###Script:34
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Looks like there's one
+more wavehole!
+Gotta find it!
+###--------
+###Script:35
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I think the code for the
+electronic lock is somewhere
+in this module.
+###--------
+###Script:36
+###Mugshot:MegaMan
+I have to get the door
+open!
+###--------
+###Script:37
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+If everything's all good to
+go, I'd better head back
+to the Station Comp.
+###--------
+###Script:38
+###Mugshot:MegaMan
+Gotta press on!
+###--------
+###Script:42
+###Mugshot:MegaMan
+I have to hurry and get
+the door open!
+###--------
+###Script:43
+###Mugshot:MegaMan
+Gotta press on!
+###--------
+###Script:46
+###Mugshot:MegaMan
+I have to hurry and get
+the door open!
+###--------
+###Script:49
+###Mugshot:MegaMan
+If I could just get that
+door open...
+###--------
+###Script:50
+###Mugshot:MegaMan
+Gotta keep going!
+###--------
+###Script:51
+###Mugshot:MegaMan
+So this is it, the last fight.
+###--------
+###Script:52
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+C'mon, let's get outta here!!
+Or we won't be able to
+get back to Earth!
+###--------
+###Script:53
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+There's nothing else to
+do in this room!
+Gotta press on!!
+###--------
+###Script:54
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+If everything's all good to
+go, I'd better head back
+to the space station!
+###--------
+###Script:55
+###Mugshot:MegaMan
+There's no choice,
+I have to go into space...
+###--------

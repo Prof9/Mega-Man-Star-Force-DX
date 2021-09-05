@@ -1,0 +1,129 @@
+﻿###TextArchive:mess_0054
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Boy
+Hello! Are you enjoying
+your student life?
+###--------
+###Script:3
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I'm on the student council,
+and I enjoy working for
+the student body!
+###--------
+###Script:4
+###Mugshot:Boy
+This school sure has a
+lot of light fixtures.
+###--------
+###Mugshot:Boy
+I'm trying to change all
+of the light bulbs,
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+but there's no way I
+can get all of them
+changed by myself.
+###--------
+###Mugshot:Boy
+Boy, am I in trouble.
+###--------
+###Mugshot:MegaMan
+Wow, he's a hard worker.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Working that hard for the
+benefit of someone else...
+###--------
+###Mugshot:OmegaXis
+I really can't understand
+human behavior.
+###--------
+###Mugshot:MegaMan
+I wonder if I should help him.
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Oh? Well let's go if
+you're really up to it.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Just as I thought. You're
+really just looking out
+for yourself, right?
+###--------
+###Mugshot:OmegaXis
+I didn't expect to hear
+that coming from you.
+###--------
+###Script:6
+###Mugshot:Boy
+This school sure has a
+lot of light fixtures.
+###--------
+###Mugshot:Boy
+I'm trying to change all
+of the light bulbs,
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+but there's no way I
+can get all of them
+changed by myself.
+###--------
+###Mugshot:Boy
+Boy, am I in trouble.
+###--------
+###Script:7
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I'm on the student council,
+and I enjoy working for
+the student body!
+###--------
+###Mugshot:Boy
+I think cooperation is
+the best way to get
+things done.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+One day I should invite
+that one kid to be a
+student council member.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,270 @@
+﻿###TextArchive:mess_0587
+###Script:0
+###Mugshot:ProfSnake
+Ah, yessss, I am the
+famoussss Prof. SSSSnake!
+###--------
+###Mugshot:ProfSnake
+I can understand the
+language of ssssnakes.
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+I've brought many different
+kinds of snakes from various
+junglesss around the world.
+###--------
+###Mugshot:ProfSnake
+All for thisss very event!
+###--------
+###Script:1
+###Mugshot:ProfSnake
+Pleassse, take your time
+with the sssnakesss!
+###--------
+###Script:2
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I'm the guy in charge of the
+temperature here at Nacys,
+###--------
+###Mugshot:Worker
+and let me say getting the
+Event Stage temperature
+just right is no easy task!
+###--------
+###Script:3
+###Mugshot:Worker
+The temperature around here
+is a bit low, I think.
+###--------
+###Mugshot:Worker
+Reptiles are very sensitive
+creatures.
+###--------
+###Mugshot:Worker
+They can sense the slightest
+change in temperature.
+###--------
+###Script:4
+###Mugshot:7
+S-Snakes are scary...
+###--------
+###Script:5
+###Mugshot:8
+###--------
+###Mugshot:8
+It sure is a jungle in here
+with this heat and humidity.
+###--------
+###Script:6
+###Mugshot:9
+There are all sorts of
+snakes here.
+###--------
+###Mugshot:9
+I really hope no venomous
+ones escape, though...
+###--------
+###Script:7
+###Mugshot:4
+###--------
+###Mugshot:4
+I'm usually OK around reptiles,
+but when there's this many,
+it's sort of scary...
+###--------
+###Script:8
+###Mugshot:4
+I wonder if Luna is alright...
+###--------
+###Script:9
+###Mugshot:5
+Please don't associate
+with my Luna.
+###--------
+###Script:10
+###Mugshot:6
+Luna must study at a
+more elite school.
+###--------
+###Mugshot:6
+She doesn't belong in your
+little "world".
+###--------
+###Script:15
+###Mugshot:ProfSnake
+Oh noessss!
+###--------
+###Mugshot:ProfSnake
+The sssnakes went crazy
+all of a ssssudden!
+###--------
+###Mugshot:ProfSnake
+Don't get near them.
+They're dangeroussss!
+###--------
+###Script:20
+###Mugshot:ProfSnake
+Oooh...
+Uuugh...
+###--------
+###Mugshot:Geo
+Are you OK!?
+###--------
+###Mugshot:ProfSnake
+I-I'm alright...
+###--------
+###Mugshot:ProfSnake
+But I was bit by a Netopian
+Black Rattlesssnake...
+###--------
+###Mugshot:ProfSnake
+I... I can't go like thisss...
+###--------
+###Mugshot:Geo
+Prof. Snake! Is there a
+way to calm the snakes?
+###--------
+###Mugshot:ProfSnake
+Th-That's easy.
+SSSnakes are cold-blooded
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+and can't keep their body
+temperature steady, so if
+you lower the temperature,
+###--------
+###Mugshot:ProfSnake
+they won't be able to
+move and will calm down
+on their own.
+###--------
+###Mugshot:Geo
+Lower the temperature, huh?
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I know!
+I'll ask that maintenance guy!
+He'll know what to do!
+###--------
+###Mugshot:ProfSnake
+Yessss!!
+###--------
+###Mugshot:ProfSnake
+That maintenance man wasss
+taking his lunch break,
+###--------
+###Mugshot:ProfSnake
+so he should be on the
+1st floor sssomewhere...
+###--------
+###Mugshot:ProfSnake
+###--------
+###Mugshot:ProfSnake
+But if you want to find him,
+he'sss probably sssomewhere
+snakes won't go.
+###--------
+###Script:21
+###Mugshot:ProfSnake
+SSSnakesss are weak
+against the cold...
+###--------
+###Script:22
+###Mugshot:ProfSnake
+You lowered the temperature...
+###--------
+###Mugshot:ProfSnake
+Snakes hibernate at this
+temperature, yessss.
+###--------
+###Script:23
+###Mugshot:7
+I'm so scared!
+I'm so scared!
+###--------
+###Script:24
+###Mugshot:8
+###--------
+###Mugshot:8
+The exits are all blocked...
+Aaaah...
+###--------
+###Script:25
+###Mugshot:9
+L-Look! I just knew it!
+###--------
+###Mugshot:9
+This is what happens
+when you let snakes
+loose like this!!
+###--------
+###Script:26
+###Mugshot:17
+Nnngh...
+###--------
+###Script:30
+###Mugshot:7
+Oooonnn...
+*sniffle* *sniffle*
+###--------
+###Script:31
+###Mugshot:8
+Oh, the snakes seem to
+have calmed down...
+###--------
+###Script:32
+###Mugshot:9
+###--------
+###Mugshot:9
+That's strange.
+I wonder why the snakes
+suddenly calmed down...
+###--------
+###Script:33
+###Mugshot:17
+Oogh...
+###--------
+###Script:34
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Script:35
+The snakes seem to be
+in deep hibernation.
+###--------
+###Script:100
+###Mugshot:16
+###--------
+###Mugshot:16
+Welcome!!
+Welcome one and all to
+this fine exhibit!
+###--------
+###Script:101
+###Mugshot:16
+###--------
+###Mugshot:16
+There aren't that many
+people here today,
+so I'm kind of free...
+###--------
+###Mugshot:16
+And kind of lonely.
+###--------
+###Script:102
+###Mugshot:16
+###--------
+###Mugshot:16
+You're crinkling your
+eyebrows.
+Did something happen?
+###--------

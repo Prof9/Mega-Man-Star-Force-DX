@@ -1,0 +1,339 @@
+﻿###TextArchive:mess_1225
+###Script:0
+Your Nintendo Wi-Fi Connection
+User Information may have
+been erased.
+###--------
+###--------
+###--------
+Check your connection
+settings. For help, visit
+www.nintendowifi.com.
+###--------
+###Script:1
+<optionButtonSmall><optionButtonSmall>Connect to
+Nintendo Wi-Fi Connection?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:2
+###--------
+Nintendo Wi-Fi Connection
+treats your Nintendo DS
+Game Card and Nintendo DS
+###--------
+as a set. Save this
+Nintendo DS system's
+Nintendo Wi-Fi Connection
+###--------
+###--------
+###--------
+<optionButtonSmall><optionButtonSmall>User Information to this
+Game Card and connect to
+Nintendo Wi-Fi Connection?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:3
+###--------
+Nintendo Wi-Fi Connection
+User Information for this
+Nintendo DS has been
+###--------
+###--------
+saved to the Game Card.
+From now on, please use
+this Nintendo DS to
+###--------
+connect to Nintendo Wi-Fi
+Connection.
+###--------
+###Script:4
+###--------
+Unable to connect to
+Nintendo Wi-Fi Connection,
+###--------
+###--------
+because the
+Nintendo Wi-Fi Connection
+User Information
+###--------
+from the Nintendo DS
+and the Game Card
+do not match.
+###--------
+###Script:5
+###--------
+When you update your
+Nintendo Wi-Fi Connection
+User Information,
+###--------
+###--------
+you will lose all data that
+was used to connect to
+Nintendo Wi-Fi Connection.
+###--------
+###--------
+<optionButtonSmall><optionButtonSmall>Update Nintendo Wi-Fi
+Connection User Information
+saved on the Game Card?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:6
+<optionButtonSmall><optionButtonSmall>Do you still want to update?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:7
+###--------
+Connecting to
+Nintendo Wi-Fi Connection...
+Please wait a moment...
+###--------
+###Script:8
+###--------
+You cannot access
+Nintendo Wi-Fi Connection
+using this user name.
+###--------
+Please change your user
+name and try again.
+###--------
+###Script:9
+###--------
+<optionButtonSmall><optionButtonSmall>OK to disconnect from
+Nintendo Wi-Fi Connection?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:10
+Disconnecting from
+Nintendo Wi-Fi Connection.
+###--------
+###Script:11
+###--------
+You have been disconnected
+from Nintendo Wi-Fi Connection.
+###--------
+###Script:12
+###--------
+When Nintendo Wi-Fi Connection
+User Information from the
+Nintendo DS and the
+###--------
+###--------
+Game Card do not match,
+Real Brothers and friends
+standing by will be deleted.
+###--------
+###--------
+To become Brothers again,
+Brother registration will have
+to be performed again.
+###--------
+Or, re-enter Friend Codes
+and re-connect to
+Nintendo Wi-Fi Connection.
+###--------
+###--------
+Be aware that you too will
+be given a new Friend Code.
+###--------
+###Script:20
+Unable to connect to
+Nintendo Wi-Fi Connection.
+###--------
+###--------
+###--------
+For help, check the software
+Instruction Booklet, or visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:21
+Either Nintendo Wi-Fi
+Connection is experiencing
+high traffic volumes
+###--------
+or the service is down.
+###--------
+###--------
+Please try again later.
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:22
+###--------
+This Nintendo Wi-Fi Connection
+ID was removed because it
+was inactive for a long time.
+###--------
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:23
+###--------
+Nintendo Wi-Fi Connection
+service for this software
+has been discontinued.
+###--------
+Visit www.nintendowifi.com
+for a list of current
+###--------
+###--------
+Nintendo Wi-Fi Connection-
+compatible software.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:24
+The access point is busy.
+You cannot connect.
+###--------
+###--------
+Try again later.
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:25
+###--------
+No access point in range.
+Please try again when
+closer to an access point.
+###--------
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:26
+###--------
+No compatible access point in
+range. Check your connection
+settings and try again.
+###--------
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:27
+###--------
+Unable to connect to the
+Nintendo Wi-Fi USB Connector.
+###--------
+###--------
+Confirm connection setting
+in the Nintendo Wi-Fi
+Connection setup.
+###--------
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:28
+###--------
+Unable to connect to the
+Nintendo Wi-Fi Connection.
+###--------
+###--------
+Confirm connection settings
+and access point settings.
+###--------
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:29
+There is no response.
+###--------
+Either the player is not
+connected to Nintendo
+Wi-Fi Connection or you
+###--------
+###--------
+have been removed from
+the player's friend roster.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:30
+###--------
+###--------
+Communication error.
+You have been disconnected
+from Nintendo Wi-Fi Connection.
+###--------
+For help, visit
+www.nintendowifi.com.
+###--------
+(Error code <printBuffer>)
+###Command:printBuffer buffer=0 minLength=5 padMode=leftPadZeroes
+###--------
+###Script:31
+###--------
+###--------
+Communication error.
+You have been disconnected
+from Nintendo Wi-Fi Connection.
+###--------
+For help, visit
+www.nintendowifi.com.
+###--------
+###Script:40
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:50
+You have been disconnected.
+###--------
+###Script:62
+Saving...
+Don't turn off power!
+###--------
+###Script:63
+Save complete.
+###--------
+###Script:64
+Save failed...
+###--------
+###Script:65
+Save failed... Try again?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:67
+###Mugshot:Geo
+Initializing backup data...
+###--------
+###Script:69
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------

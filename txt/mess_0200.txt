@@ -1,0 +1,445 @@
+﻿###TextArchive:mess_0200
+###Script:0
+Three days later...
+###--------
+###--------
+Sonia held her retirement
+concert at Echo Ridge's
+own Vista Point.
+###--------
+###Script:1
+###Mugshot:Sonia
+Thank you, everyone
+for coming out today!!
+###--------
+###Mugshot:Sonia
+This is my last song!!
+###--------
+###Mugshot:Sonia
+"Good Night, Mama".
+###--------
+###Script:2
+###Mugshot:Sonia
+La la la la...
+La la... La...
+La... La la...
+###--------
+###Script:3
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Everyone... *sniffle*
+I want to thank... you all
+for supporting me...
+###--------
+###Mugshot:Sonia
+I'm sorry... I cancelled my
+concert... so suddenly...
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I made you sad because I...
+I wasn't strong...
+###--------
+###Mugshot:Sonia
+...Today... I'm retiring...
+But with this...
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I'm going to move beyond...
+the weak person I was
+yesterday...
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+One day, when I'm stronger,
+I'll stand on this stage again...
+###--------
+###Script:4
+Sonia!! Don't quit!!
+###--------
+###Script:5
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Waaaaaaaaaaah!!
+S-Sooniaaaaaaa!!
+I don't want you to quit!!
+###--------
+###Script:6
+###Mugshot:Zack
+We're here for you!!
+So please don't quit!!
+###--------
+###Script:7
+###Mugshot:Man
+Sonia!! We love you!!
+###--------
+###Script:8
+Sooooniaaaaa!!
+###--------
+###Script:9
+###Mugshot:Sonia
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:Sonia
+(I've got so many people
+supporting me, and all I
+can think about is myself...)
+###--------
+###Mugshot:Sonia
+Everyone!!
+###--------
+###Mugshot:Sonia
+I promise I'll be back!!
+###--------
+###Mugshot:Sonia
+Thank you for everything!!
+###--------
+###Script:10
+###Mugshot:0
+.........
+###--------
+###Script:11
+Even though the show
+had ended, the clapping
+kept on going.
+###--------
+###--------
+And then...
+###--------
+###Script:12
+###Mugshot:Sonia
+Thank you for coming today.
+###--------
+###Mugshot:Sonia
+And for helping me move on.
+###--------
+###Script:13
+###Mugshot:0
+I'm sure your mom was
+watching too...
+###--------
+###Script:14
+###Mugshot:Sonia
+Yeah...
+###--------
+###Mugshot:Sonia
+Well, it's time for me to go.
+###--------
+###Mugshot:Sonia
+I've got to try and make
+it by myself now.
+###--------
+###Mugshot:Sonia
+......*sob*...
+###--------
+###Mugshot:Sonia
+Wh-Why am I crying...?
+###--------
+###Mugshot:Sonia
+I told myself...
+I have to be strong...
+*sob*
+###--------
+###Script:15
+###Mugshot:0
+What's wrong!?
+###--------
+###Script:16
+###Mugshot:OmegaXis
+Ack!
+She's crying!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I saw on a TV show recently
+that on Earth, it's a crime
+to make a woman cry!
+###--------
+###Mugshot:OmegaXis
+Hurry up and do something
+before we get arrested!
+###--------
+###Script:17
+###Mugshot:0
+Do something?
+###--------
+###Mugshot:0
+She's already decided to
+live on her own...
+###--------
+###Mugshot:0
+What can I do??
+......
+###--------
+###Script:18
+###Mugshot:Kelvin
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:Kelvin
+Anything you can't solve on
+your own, can be overcome
+with the help of a friend.
+###--------
+###Mugshot:Kelvin
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:Kelvin
+Other people can make us
+stronger, and we can give
+other people strength, too.
+###--------
+###Mugshot:Kelvin
+If every person on this
+planet were connected
+by Brother Bands,
+###--------
+###Mugshot:Kelvin
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:Kelvin
+we'd all live in a wonderful
+world where we could
+support each other.
+###--------
+###Script:19
+###Mugshot:0
+(I wonder if I can
+stop her tears...)
+###--------
+###Mugshot:0
+(...by becoming Brothers
+with her...?)
+###--------
+###Script:20
+###Mugshot:Kelvin
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:Kelvin
+Other people can make us
+stronger, and we can give
+other people strength, too.
+###--------
+###Script:21
+###Mugshot:0
+But... But I...
+What can I...?
+###--------
+###Mugshot:0
+.........
+###--------
+###Mugshot:Kelvin
+Be brave, Geo!
+###--------
+###Mugshot:0
+(...Dad...)
+###--------
+###Script:22
+###Mugshot:Sonia
+*hiccup, hiccup*
+*sniffle*
+###--------
+###Script:23
+###Mugshot:0
+Uh, um...
+###--------
+###Mugshot:0
+So...
+Um...
+###--------
+###Mugshot:0
+Please become Brothers
+with me!!
+###--------
+###Script:24
+###Mugshot:Sonia
+*hiccup*...
+*sniffle*...
+.........
+###--------
+###Mugshot:Sonia
+......OK.
+###--------
+###Script:25
+###Mugshot:Sonia
+I guess I should get going...
+###--------
+###Script:26
+###Mugshot:0
+Are you going to be OK?
+###--------
+###Script:27
+###Mugshot:Sonia
+Yeah, I'll be OK.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I'll be OK from now on
+because we're connected.
+###--------
+###Mugshot:Sonia
+Now I have something to
+remind me I'm not all
+alone in this big world.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I can stop worrying about
+that starting today!!
+###--------
+###Mugshot:Sonia
+I have to work hard to
+find the new me.
+###--------
+###Mugshot:Sonia
+I'm sure you can find a
+new you, too, Geo!!
+###--------
+###Mugshot:Sonia
+Let's both work hard at it!
+###--------
+###Script:28
+###Mugshot:0
+O-OK...
+###--------
+###Mugshot:0
+Ah! And remember, you can't
+tell anyone about my secret!
+###--------
+###Script:29
+###Mugshot:Sonia
+The one about the alien
+living in your Transer?
+###--------
+###Mugshot:Sonia
+Well, no one would believe
+me even if I did!!
+###--------
+###Script:30
+Whoooooa!! What is with
+these Z waves!?
+###--------
+###Script:31
+###Mugshot:0
+Somehow, I think that
+guy would.
+###--------
+###Script:32
+###Mugshot:0
+Man, this is bad.
+There's no way to escape...
+###--------
+###Script:33
+###Mugshot:Sonia
+Lyra! Let's go!
+###--------
+###Script:34
+###Mugshot:Sonia
+Hai-ya!
+###--------
+###Script:35
+###Mugshot:Sonia
+OK, I'm really going this time!
+###--------
+###Mugshot:Sonia
+I'll contact you later, OK?
+And thank you...
+###--------
+###Mugshot:Sonia
+...for everything.
+###--------
+###Script:36
+###Mugshot:0
+Uh......
+###--------
+###Script:37
+###Mugshot:Lyra
+We'll meet again, Mega.
+###--------
+###Mugshot:Lyra
+It's almost like we're
+going steady...
+Almost. Hee hee.
+###--------
+###Script:38
+###Mugshot:0
+Huh!? Can a Brother Band
+really do that?
+###--------
+###Script:39
+###Mugshot:OmegaXis
+Don't ask me!
+###--------
+###Mugshot:OmegaXis
+You just HAD to go and
+become Brothers, huh?
+###--------
+###Script:40
+###Mugshot:0
+(A Brother Band...)
+###--------
+###Mugshot:0
+(I guess with this, I became
+a little stronger.)
+###--------
+###Mugshot:0
+(...Right, dad?)
+###--------
+###Mugshot:0
+.........
+###--------
+###Mugshot:0
+Ah!
+###--------
+###Script:41
+###Mugshot:0
+What's going on?
+My pendant is...!!
+###--------
+###Mugshot:0
+What's this supposed
+to mean!?
+###--------
+###Script:42
+###Mugshot:0
+...It's gone...
+###--------
+###Mugshot:0
+What was that all about?
+###--------
+###Mugshot:0
+Could it be a message
+from dad...?
+###--------
+###Script:43
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, while the old guy's still
+out cold, let's get while the
+getting's good and go home.
+###--------
+###Mugshot:OmegaXis
+I bet your mom would know
+about your pendant.
+###--------
+###Script:44
+###Mugshot:0
+That's true. I should ask
+her. She might know.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+That's enough excitement
+for one day.
+I'd better go home now.
+###--------

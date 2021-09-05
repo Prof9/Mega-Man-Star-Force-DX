@@ -1,0 +1,124 @@
+﻿###TextArchive:mess_0578
+###Script:0
+###Mugshot:5
+Welcome!!
+Please feel free to
+look around!
+###--------
+###Script:1
+###Mugshot:5
+Hmm, what should I get with
+my next paycheck?
+###--------
+###Script:2
+###Mugshot:6
+There are always so many
+things at these stores.
+###--------
+###Script:3
+###Mugshot:9
+Oh, hello.
+Where is your friend today?
+###--------
+###Script:5
+###Mugshot:5
+It's kinda loud outside.
+What's going on?
+###--------
+###Script:6
+###Mugshot:5
+I thought I saw a flash
+of light outside just a
+second ago.
+###--------
+###Mugshot:5
+Was that for some sort
+of event?
+###--------
+###Script:7
+###Mugshot:6
+Phew, I think I should take
+a small breather.
+###--------
+###Script:8
+###Mugshot:9
+###--------
+###Mugshot:9
+That light just now...
+I wonder what that was
+all about...?
+###--------
+###Script:10
+###Mugshot:5
+It feels like something is
+happening...
+###--------
+###Mugshot:5
+It's pretty scary,
+don't you think so?
+###--------
+###Script:11
+###Mugshot:5
+There aren't a lot of
+shoppers today...
+###--------
+###Script:15
+###Mugshot:5
+What should I do?
+###--------
+###Mugshot:5
+It sounds like the Earth is
+in danger, but I don't know
+what I can do...
+###--------
+###Script:16
+###Mugshot:5
+###--------
+###Mugshot:5
+They say there are aliens
+coming, but I don't see
+signs of anything...
+###--------
+###Mugshot:5
+Maybe it's all just hearsay?
+###--------
+###Script:17
+###Mugshot:6
+I feel safe inside such a
+large building.
+###--------
+###Script:18
+###Mugshot:9
+I hope Luna is alright...
+###--------
+###Script:100
+###Mugshot:12
+Welcome!!
+###--------
+###Mugshot:12
+I don't need to use my
+voice to speak.
+###--------
+###Mugshot:12
+My feelings show my
+sincerity to my customers!
+###--------
+###Script:101
+###Mugshot:12
+Welcome!!
+###--------
+###Mugshot:12
+###--------
+###Mugshot:12
+I'll protect the peace in
+here, even if a war
+breaks out there!
+###--------
+###Script:102
+###Mugshot:12
+###--------
+###Mugshot:12
+I don't think humans can
+feel it, but my body is
+not feeling all that good...
+###--------

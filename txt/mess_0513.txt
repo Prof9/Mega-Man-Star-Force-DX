@@ -1,0 +1,315 @@
+﻿###TextArchive:mess_0513
+###Script:0
+"Waves in our
+day-to-day lives"
+###--------
+"TVs, phones, GPS
+navigation etc..."
+###--------
+"Waves play a vital
+role in our lives."
+###--------
+###Script:1
+"Waves and Space"
+###--------
+"Waves can even travel
+into space..."
+###--------
+###--------
+"They circle around the Earth
+and are used to communicate
+with man-made satellites."
+###--------
+###Script:2
+This is a real rocket
+on display.
+###--------
+If it had fuel, it could
+really fly into space.
+###--------
+###Script:3
+Displayed in the showcase
+are devices that use waves:
+###--------
+a Transer, a cell phone,
+and a transceiver.
+###--------
+###Script:4
+"Satellites"
+###--------
+"24 hours a day,
+satellites like Pegasus,
+Leo, and Dragon"
+###--------
+###--------
+###--------
+"fly around the Earth
+providing us with all
+kinds of information."
+###--------
+###Script:5
+"Space Colony"
+###--------
+"In just a few years,
+the Space Colony will
+be a reality."
+###--------
+"People will live and
+work in space."
+###--------
+###Script:6
+"A black hole generator"
+###--------
+"Black holes have gravity
+fields that are so intense
+###--------
+"that not even EM or
+light waves can escape."
+###--------
+"This device generates
+black holes."
+###--------
+###Mugshot:0
+Wow... It even attracts
+EM waves.
+###--------
+###Mugshot:OmegaXis
+That's scary.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+...Hm, but?
+It says that this
+machine is broken.
+###--------
+###Mugshot:0
+Aww... We don't get to
+see a black hole.
+###--------
+###Script:7
+This is video of a NAZA
+rocket launch.
+###--------
+###Script:8
+Pictures of constellations
+visible from Earth are
+being shown.
+###--------
+They're truly beautiful.
+###--------
+###Script:9
+On screen is an image
+of the solar system...
+###--------
+###Script:10
+"Planetary Probe"
+###--------
+"This is the newest
+planetary probe."
+###--------
+###--------
+"Made to land on a planet's
+surface, it collects data
+about that planet."
+###--------
+###Script:11
+"Prehistoric Meteorite"
+###--------
+###--------
+"This is an ancient meteorite
+that once struck the Earth
+with a powerful force."
+###--------
+###Script:16
+###Mugshot:0
+We've seen pretty much
+everything...
+###--------
+###Mugshot:0
+Guess I'll go back to where
+Mr. Boreal is.
+###--------
+###Script:18
+"A black hole generator."
+###--------
+"Black holes have gravity
+fields that are so intense
+###--------
+"that not even EM or
+light waves can escape."
+###--------
+"This device generates
+black holes."
+###--------
+###Script:20
+###Mugshot:Man
+Through there is the
+SpaceSim.
+###--------
+###Mugshot:Man
+There's nothing else like
+it on the planet!
+###--------
+###Script:21
+The reception podium...
+###--------
+###Script:40
+###Mugshot:Man
+Sighing, you ask?
+###--------
+###Mugshot:Man
+Hm? Why am I sighing,
+you ask?
+###--------
+###Mugshot:Man
+Well, to tell you the truth,
+I've fallen in love.
+###--------
+###Mugshot:Man
+That's the girl over at
+the info desk.
+###--------
+###Mugshot:Man
+...What!?
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+What's that you say!?
+The gift counter guy has
+his eyes on her too?
+###--------
+###Mugshot:Man
+W-Well, I can't just sit back
+and do nothing!
+###--------
+###Mugshot:Man
+I have to be the one to
+make the first move...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+I remember her saying
+that she wanted a
+"<printCard>" card.
+###Command:printCard card=128
+###--------
+###Mugshot:Man
+I know! I'll give her one
+as a present!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+...But how will I get one
+of those? Dang!
+###--------
+###Script:41
+###Mugshot:Man
+I gotta make my move
+before that gift counter
+guy makes his...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+I remember her saying
+that she wanted a
+"<printCard>" card.
+###Command:printCard card=128
+###--------
+###Mugshot:Man
+I know! I'll give her one
+as a present!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+...But how will I get one
+of those? Dang!
+###--------
+###Script:42
+###Mugshot:Man
+What!?
+###--------
+###Mugshot:Man
+You say you have a
+"<printCard>" card!
+###Command:printCard card=128
+###--------
+###Mugshot:Man
+Oh, could you give it to me,
+pleeeease!!
+###--------
+###Mugshot:Man
+With that card, I just might
+have a chance...
+###--------
+###Mugshot:Man
+Pleeease! I'll give you
+something in return!
+###--------
+<positionOptionFromCenter> <optionText>  Give  <optionText>  No
+###Command:positionOptionFromCenter width=66
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+Geo gave away:
+"<printCard>"!!
+###Command:printCard card=128
+###--------
+###Mugshot:Man
+Ohh! Thank you sooo much!
+###--------
+###Mugshot:Man
+In exchange, I'll give you this!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=99
+###--------
+###Mugshot:Man
+OK, now I'm gonna go
+and make my move!
+###--------
+###Script:43
+###Mugshot:Man
+Aw, man! C'mon!
+###--------
+###Script:50
+"Space Colony"
+###--------
+"In just a few years,
+the Space Colony will
+be a reality."
+###--------
+"People will live and
+work in space."
+###--------
+It looks like there's a
+power switch.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whirr* *hum*
+###--------
+There's a wavehole near
+the Space Colony!
+###--------
+###Script:52
+"Space Colony"
+###--------
+"In just a few years,
+the Space Colony will
+be a reality."
+###--------
+"People will live and
+work in space."
+###--------

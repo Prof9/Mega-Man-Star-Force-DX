@@ -1,0 +1,36 @@
+﻿###TextArchive:mess_0139
+###Script:0
+###Mugshot:MegaMan
+Ah!
+I missed too many times!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+Whoaaa!!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Get ready, kid!
+###--------
+###Mugshot:OmegaXis
+Touch the balance icons
+with your stylus as
+they appear,
+###++++++++
+###Mugshot:OmegaXis
+or press the +Control
+Pad in the right direction!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Hey, you OK?
+###--------
+###Script:11
+###Mugshot:MegaMan
+Owwwww...
+I guess I'm OK.
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Good, then let's get going!
+###--------

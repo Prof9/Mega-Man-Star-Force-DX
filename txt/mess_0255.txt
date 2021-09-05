@@ -1,0 +1,256 @@
+﻿###TextArchive:mess_0255
+###Script:0
+###Mugshot:Geo
+Ah!!
+###--------
+###Script:1
+###Mugshot:VaughnPlatz
+Gngh...!
+H-Help...
+###--------
+###Script:2
+###Mugshot:VeilPlatz
+Aah...
+I-It hurts...
+###--------
+###Script:3
+###Mugshot:Sonia
+We've got to do something!
+###--------
+###Script:4
+Don't even think about it!
+###--------
+###Script:5
+###Mugshot:Geo
+Luna! Wake up!!
+###--------
+###Script:6
+###Mugshot:QueenOphiuca
+Don't call me that!
+###--------
+###Mugshot:QueenOphiuca
+I have been reborn!
+###--------
+###Mugshot:QueenOphiuca
+You shall address me as
+Queen Ophiuca!
+###--------
+###Mugshot:QueenOphiuca
+###--------
+###Mugshot:QueenOphiuca
+I have a mind of my own,
+and I will prove it to these
+people once and for all!
+###--------
+###Script:7
+###Mugshot:VaughnPlatz
+Y-You're... Luna...!?
+###--------
+###Mugshot:VaughnPlatz
+Ergnk...
+###--------
+###Script:8
+###Mugshot:VeilPlatz
+L-Luna... E-Explain...
+###--------
+###Mugshot:VeilPlatz
+Why... Why do this to us...?
+###--------
+###Script:9
+###Mugshot:QueenOphiuca
+I am not a doll.
+###--------
+###Mugshot:QueenOphiuca
+I am not for you to play
+with as you like!
+###--------
+###Mugshot:QueenOphiuca
+You two always say,
+"It's for your own good,"
+###--------
+###Mugshot:QueenOphiuca
+and decide everything by
+yourselves!
+###--------
+###Mugshot:QueenOphiuca
+###--------
+###Mugshot:QueenOphiuca
+Add on top of that your
+work, and I don't believe
+you see me at all!
+###--------
+###Mugshot:QueenOphiuca
+You value your work more
+than me, don't you!?
+###--------
+###Mugshot:QueenOphiuca
+###--------
+###Mugshot:QueenOphiuca
+That's why I stopped being
+your daughter, and started
+to live as a stranger to you!
+###--------
+###Script:10
+###Mugshot:VaughnPlatz
+Stop saying such nonsense!!
+###--------
+###Script:11
+###Mugshot:QueenOphiuca
+If you were to
+actually look at me,
+###--------
+###Mugshot:QueenOphiuca
+###--------
+###Mugshot:QueenOphiuca
+you'd see that my suffering
+is far worse than what
+you're suffering right now!!
+###--------
+###Mugshot:QueenOphiuca
+###--------
+###Mugshot:QueenOphiuca
+My darling snakes!
+Squeeze them even harder,
+and show them my pain!!
+###--------
+###Script:12
+###Mugshot:VaughnPlatz
+Gnaaaaaaah!!
+###--------
+###Script:13
+###Mugshot:VeilPlatz
+Aaaaaaaaaah!!
+###--------
+###Script:14
+###Mugshot:Geo
+Luna!! STOP!!
+###--------
+###Script:15
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Don't waste your breath.
+She's given herself
+over to Ophiuca.
+###--------
+###Mugshot:OmegaXis
+She's not gonna listen
+to anyone else.
+###--------
+###Script:16
+###Mugshot:Geo
+Luna!!
+###--------
+###Mugshot:Geo
+If you don't stop,
+your mom and dad are-
+###--------
+###Script:17
+###Mugshot:QueenOphiuca
+Silence!!
+###--------
+###Mugshot:QueenOphiuca
+That is enough out of you!
+I warned you!
+###--------
+###Mugshot:QueenOphiuca
+Come forth,
+oh venomous ones!
+###--------
+###Mugshot:QueenOphiuca
+And stop those who would
+oppose me!!
+###--------
+###Script:18
+###Mugshot:Geo
+Aah!!
+###--------
+###Script:19
+###Mugshot:Sonia
+Ungh...
+###--------
+###Script:20
+###Mugshot:QueenOphiuca
+What a fool to sacrifice
+yourself...
+###--------
+###Mugshot:QueenOphiuca
+Come forth, my darlings!!
+###--------
+###Script:21
+###Mugshot:Geo
+Aah!!
+###--------
+###Script:22
+###Mugshot:Sonia
+Nnngh...
+###--------
+###Script:23
+###Mugshot:OmegaXis
+Argh! She's loaded the dice
+on this one!
+###--------
+###Mugshot:OmegaXis
+We've gotta retreat for now!
+###--------
+###Script:24
+###Mugshot:Geo
+Urk...
+###--------
+###Script:25
+###Mugshot:Geo
+I really hope Sonia's OK...
+###--------
+###Mugshot:Geo
+We've gotta find some way
+to help her, and fast!
+###--------
+###Script:26
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+But you don't want to fight
+Ophiuca as long as she has
+a hostage, right?
+###--------
+###Script:27
+###Mugshot:Geo
+Of course not!
+###--------
+###Script:28
+###Mugshot:OmegaXis
+Then we've gotta take
+care of the snakes first.
+###--------
+###Script:29
+###Mugshot:Geo
+But how are we going
+to do that!?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+How am I supposed to know!?
+###--------
+###Mugshot:OmegaXis
+Snakes are Earth creatures.
+You should know about them!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+And if you don't, then
+someone out there does,
+so go ask them!
+###--------
+###Script:31
+###Mugshot:Geo
+Someone who knows
+about snakes...?
+###--------
+###Mugshot:Geo
+...Oh!
+###--------
+###Mugshot:Geo
+I have an idea who!
+Let's go!
+###--------

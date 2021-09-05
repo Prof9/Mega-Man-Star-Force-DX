@@ -1,0 +1,114 @@
+﻿###TextArchive:mess_0287
+###Script:0
+###Mugshot:0
+Ah!
+###--------
+###Script:1
+###Mugshot:0
+Found you!
+###--------
+###Script:2
+###Mugshot:0
+Stop controlling the
+SorterBots!
+###--------
+###Script:3
+###Mugshot:Jammer
+Hmm?
+###--------
+###Script:4
+###Mugshot:Jammer
+You...
+###--------
+###Mugshot:Jammer
+You're Mega Man!
+###--------
+###Script:5
+###Mugshot:Jammer
+Wh-Why are you here!?
+###--------
+###Script:6
+###Mugshot:Jammer
+What should we do...?
+Should we retreat?
+###--------
+###Script:7
+Stay calm.
+###--------
+###Script:8
+###Mugshot:OmegaXis
+This presence...
+###--------
+###Script:9
+###Mugshot:OmegaXis
+YOU!!
+###--------
+###Script:10
+###Mugshot:Gemini
+Annoying pests.
+Take care of them.
+###--------
+###Script:11
+###Mugshot:Jammer
+Yes, right away,
+Lord Gemini!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+G-Gemini??
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You're Gemini?
+So you're the one who's been
+butting into our business!
+###--------
+###Script:13
+###Mugshot:Gemini
+So you are Omega-Xis.
+###--------
+###Mugshot:Gemini
+This is the first time we've
+met face to face, but I've
+heard lots about you.
+###--------
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+Such as...
+it was you who stole
+the Andromeda Key...
+###--------
+###Script:14
+###Mugshot:OmegaXis
+I've heard plenty about
+you too, bub.
+###--------
+###Mugshot:OmegaXis
+But I can't say any of
+it was flattering.
+###--------
+###Script:15
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+If you've heard the rumors,
+then you know what I'm
+about to do, right?
+###--------
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+You will go down!
+And the Andromeda Key
+will be mine!!
+###--------
+###Script:16
+###Mugshot:OmegaXis
+They're attacking, Geo!
+###--------
+###Script:17
+###Mugshot:Jammer
+Raaaaaaaaaawr!!
+###--------

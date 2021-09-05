@@ -1,0 +1,38 @@
+﻿###TextArchive:mess_1066
+###Script:0
+###Mugshot:InfoNavi
+Ohh...
+I've got a bad feeling...
+###--------
+###Mugshot:InfoNavi
+It's almost like the stars
+can sense it too.
+###--------
+###Script:1
+###Mugshot:TruckNavi
+Those clouds look menacing.
+###--------
+###Mugshot:TruckNavi
+I'd better wrap up my
+deliveries for today!
+###--------
+###Script:2
+###Mugshot:FighterNavi
+I don't remember ever
+having this much mail.
+###--------
+###Mugshot:FighterNavi
+The more we deliver,
+the more comes in.
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Well, if there's something
+important that needs to
+get delivered fast,
+###--------
+###Mugshot:FighterNavi
+the big guy over there
+can handle it.
+###--------

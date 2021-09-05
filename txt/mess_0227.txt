@@ -1,0 +1,64 @@
+﻿###TextArchive:mess_0227
+###Script:0
+###Mugshot:8
+Gnnnngh!!
+###--------
+###Mugshot:8
+I'll get you for this!!
+###--------
+###Script:1
+###Mugshot:IcePegasusMegaMan
+He got away...
+###--------
+###Script:2
+###Mugshot:GreenDragonMegaMan
+He got away...
+###--------
+###Script:3
+###Mugshot:FireLeoMegaMan
+He got away...
+###--------
+###Script:4
+###Mugshot:OmegaXis
+The Star Force.
+###--------
+###Mugshot:OmegaXis
+What a power. With this,
+we can beat anyone!
+###--------
+###Script:5
+###Mugshot:1
+Yeah...
+###--------
+###Mugshot:1
+This is also all thanks
+to her.
+###--------
+###Script:6
+###Mugshot:1
+###--------
+###Mugshot:1
+Thanks, Luna. I got
+stronger because of you.
+###--------
+###Mugshot:1
+Now it's my turn.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+I'll protect you...
+Count on it!!
+###--------
+###Script:7
+###Mugshot:1
+OK, now to head for
+the studio!!
+###--------
+###Script:8
+###Mugshot:4
+That... voice...
+###--------
+###Mugshot:4
+Mega... Man...?
+###--------

@@ -1,0 +1,22 @@
+﻿###TextArchive:mess_0460
+###Script:0
+###Mugshot:8
+###--------
+###Mugshot:8
+You can see me, can't you?
+In that case, I can give you
+your next lesson right now!
+###--------
+###Mugshot:8
+So, your math homework
+is done, correct?
+###--------
+###Script:5
+###Mugshot:8
+You finished your English
+report, right?
+###--------
+###Mugshot:8
+No? Well, that's not good.
+Better get cracking!
+###--------

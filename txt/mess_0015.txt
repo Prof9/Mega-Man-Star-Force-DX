@@ -1,0 +1,221 @@
+﻿###TextArchive:mess_0015
+###Script:0
+###Mugshot:OmegaXis
+In the Wave World,
+we have wave battles.
+###--------
+###Mugshot:OmegaXis
+Check out the bottom
+screen, kid, and learn.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This is the Custom Screen.
+Here, 6 of your 30
+Battle Cards are shown.
+###--------
+###Mugshot:OmegaXis
+You can choose which of
+these you want to use.
+###--------
+###Mugshot:MegaMan
+So I can choose all 6,
+right?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This isn't an all-you-can-pick
+buffet! There are rules
+to follow, you know!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+First, cards in the same
+column can be picked
+in the same turn.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Next, cards that are the
+same can be picked
+###--------
+###Mugshot:OmegaXis
+no matter where they
+are positioned.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Think about what cards
+will work and pick wisely.
+###--------
+###Mugshot:MegaMan
+"Pick wisely"?
+But I don't know which
+to use.
+###--------
+###Mugshot:MegaMan
+I may have them, but I've
+never really used one.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Relax. You can read about
+the Battle Card by pressing
+the Y Button or R Button.
+###--------
+###Mugshot:OmegaXis
+And if you run across
+a really nasty enemy,
+###--------
+###Mugshot:OmegaXis
+you can press the
+L Button to try to
+run away.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+But whether you make it
+or not depends on luck.
+Ha ha ha.
+###--------
+###Mugshot:MegaMan
+I knew there was a catch.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK, let's put up or shut up.
+Touch the bottom screen
+to choose your cards, kid.
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Good, now push the
+OK button.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Or, instead, you can pick
+cards in the same row.
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Finally! Time to crush
+them with your cards!
+###--------
+###Mugshot:OmegaXis
+The cards you chose
+are in the bottom-right.
+###--------
+###Script:11
+###Mugshot:OmegaXis
+This is the next card's
+name and Attack Power.
+###--------
+###Script:12
+###Mugshot:OmegaXis
+To use a Battle Card,
+press the A Button,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and to fire the Mega
+Buster continuously,
+hold down the B Button!
+###--------
+###Mugshot:MegaMan
+OK, I get how to fight,
+but what about my health?
+###--------
+###Mugshot:OmegaXis
+It's here in the upper-left.
+###--------
+###Mugshot:OmegaXis
+These numbers are your
+hit points (HP), and
+represent your health.
+###--------
+###Script:13
+###Mugshot:OmegaXis
+If this drops to 0,
+we're kaput. Got it, kid?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You can use the +Control
+Pad to move left and right
+to avoid enemy fire.
+###--------
+###Mugshot:OmegaXis
+Now let's get fighting,
+partner!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Wait a sec! What if I use
+up all of my cards before
+I beat all of the enemies?
+###--------
+###Mugshot:OmegaXis
+Well, you're a
+troublesome one....
+Look here.
+###--------
+###Script:14
+###Mugshot:OmegaXis
+This is the Custom Gauge.
+It fills up automatically
+over time.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you hit the L Button
+or R Button when it's full,
+###--------
+###Mugshot:OmegaXis
+you will enter the
+Custom Screen again.
+###--------
+###Mugshot:OmegaXis
+OK, you should be all
+set now, so let's go!
+###--------
+###Mugshot:MegaMan
+O-OK!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+Hey! If you pick that,
+you only get that one!
+###--------
+###Script:21
+###Mugshot:OmegaXis
+Hey! If you pick that,
+you only get that one!
+###--------
+###Script:22
+###Mugshot:OmegaXis
+You haven't picked
+anything yet, kid!
+###--------
+###Script:23
+###Mugshot:OmegaXis
+Hey, you should pick
+1 more.
+
+###--------
+###Script:24
+###Mugshot:OmegaXis
+Hey, kid! You can't
+run away now!
+###--------

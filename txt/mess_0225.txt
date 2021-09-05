@@ -1,0 +1,145 @@
+﻿###TextArchive:mess_0225
+###Script:0
+###Mugshot:1
+You know...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+What now?
+###--------
+###Script:2
+###Mugshot:1
+Pat wasn't in the classroom...
+###--------
+###Script:3
+###Mugshot:1
+What if something happened
+to him?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You can think about it all you
+want, but you can't do a
+thing about him right now.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+We've gotta focus on
+beating Libra first.
+###--------
+###Script:6
+###Mugshot:1
+...Yeah.
+###--------
+###Script:7
+Do you really think you can?
+###--------
+###Script:8
+###Mugshot:1
+That voice!
+###--------
+###Script:9
+###Mugshot:1
+It's that guy from before!!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hmph! We've got our hands
+full with Libra, and now
+we've gotta deal with him!?
+###--------
+###Script:11
+###Mugshot:Jammer
+...*grin*
+###--------
+###Script:12
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, what's your deal, punk!?
+You working for Libra!?
+###--------
+###Script:13
+###Mugshot:Jammer
+......
+###--------
+###Mugshot:Jammer
+You won't get away this time.
+###--------
+###Script:14
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Here he comes!
+Get ready, Geo!!
+###--------
+###Script:15
+###Mugshot:OmegaXis
+...Geo?
+###--------
+###Script:16
+###Mugshot:1
+...I-I can't. I can't win...
+###--------
+###Mugshot:1
+Because I lost last time.
+###--------
+###Script:17
+###Mugshot:OmegaXis
+Don't be stupid, kid!
+###--------
+###Script:18
+###Mugshot:1
+B-But...
+###--------
+###Mugshot:OmegaXis
+What about your friends!?
+###--------
+###Mugshot:1
+I'm... I'm not a hero!!
+###--------
+###Mugshot:1
+I don't want to get hurt...
+I hate pain...
+###--------
+###Script:19
+###Mugshot:Jammer
+......
+###--------
+###Mugshot:Jammer
+Are you done?
+###--------
+###Script:20
+###Mugshot:1
+Ah!
+###--------
+###Script:21
+###Mugshot:Jammer
+Take this!!
+###--------
+###Script:22
+###Mugshot:1
+Aaaaaaaaaaaah!!
+###--------
+###Script:23
+###Mugshot:OmegaXis
+Not good!!
+###--------
+###Script:24
+###Mugshot:Jammer
+...*squeeze*
+###--------
+###Script:25
+###Mugshot:1
+I-It hurts so much!
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+I-I can't take much more...!
+I'm gonna... faint...
+###--------

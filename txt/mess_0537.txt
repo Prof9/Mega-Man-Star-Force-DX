@@ -1,0 +1,91 @@
+﻿###TextArchive:mess_0537
+###Script:0
+###Mugshot:5
+What happened during that
+last incident?
+###--------
+###Mugshot:5
+I don't remember a thing...
+###--------
+###Script:1
+###Mugshot:7
+Good morning!
+###--------
+###Mugshot:7
+Now hurry off to class!!
+###--------
+###Script:2
+###Mugshot:5
+What should I do after I
+get home?
+###--------
+###Script:3
+###Mugshot:7
+What should I have for
+supper tonight? Hmm...
+###--------
+###Script:10
+###Mugshot:5
+Hey, are you here to study?
+###--------
+###Mugshot:5
+I think I'm going to go
+inside soon...
+###--------
+###Script:11
+###Mugshot:7
+It's nice to not come to
+school on holidays,
+###--------
+###Mugshot:7
+but us teachers don't get
+days off like you!
+###--------
+###Mugshot:7
+It is the fate of all
+teachers to work!
+###--------
+###Mugshot:7
+But I'm going to work hard
+for you kids!
+###--------
+###Script:20
+###Mugshot:5
+Whoo-whee!
+School's out!
+###--------
+###Mugshot:5
+I'm going to fly my RC,
+or maybe take a walk!
+###--------
+###Script:21
+###Mugshot:7
+###--------
+###Mugshot:7
+School's out for the day!
+Please go straight home,
+alright?
+###--------
+###Script:22
+###Mugshot:5
+###--------
+###Mugshot:5
+There was a fight or
+some thing in Time Square
+yesterday, I heard.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+There's an RC shop I wanted
+to go to, but I got scared
+and ended up not going at all.
+###--------
+###Script:23
+###Mugshot:7
+###--------
+###Mugshot:7
+I've got to pull my grades
+up, so I'm really hitting
+the books today too.
+###--------

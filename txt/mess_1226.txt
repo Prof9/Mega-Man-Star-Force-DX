@@ -1,0 +1,7 @@
+﻿###TextArchive:mess_1226
+###Script:0
+Uploading Brother data...
+###--------
+###Script:20
+Downloading Brother data...
+###--------

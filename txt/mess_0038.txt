@@ -1,0 +1,182 @@
+﻿###TextArchive:mess_0038
+###Script:1
+###Mugshot:OldMan
+This is my Transer.
+I love teas from around
+the world.
+###--------
+###Mugshot:OldMan
+And I like my Brothers too!
+###--------
+###Script:3
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I'm a little absent-minded
+these days. Not as quick
+as I used to be.
+###--------
+###Mugshot:OldMan
+...Am I getting old?
+###--------
+###Mugshot:OldMan
+...Could I be going senile?
+###--------
+###Mugshot:OldMan
+Bird watching...
+Now that's what I like...
+###--------
+###Script:4
+###Mugshot:OldMan
+Now I've done it.
+###--------
+###Mugshot:OldMan
+Boo hoo...
+I lost the money...
+###--------
+###Mugshot:OldMan
+Boo hoo...
+That I was going to
+give to...
+###--------
+###Mugshot:OldMan
+Boo hoo...
+My grandson...
+###--------
+###Mugshot:OldMan
+Oh, honey...
+What should I do?
+###--------
+###Mugshot:MegaMan
+It looks like this old
+guy is in trouble.
+###--------
+###Mugshot:OmegaXis
+Wanna help him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK, let's do it.
+Let go find out his problem!
+###--------
+###Mugshot:MegaMan
+Right!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+What...?
+You were raring to go
+just a minute ago.
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+###--------
+###Script:6
+###Mugshot:OldMan
+Now I've done it.
+###--------
+###Mugshot:OldMan
+Boo hoo...
+I lost the money...
+###--------
+###Mugshot:OldMan
+Boo hoo...
+That I was going to
+give to...
+###--------
+###Mugshot:OldMan
+Boo hoo...
+My grandson...
+###--------
+###Mugshot:OldMan
+Oh, honey...
+What should I do?
+###--------
+###Script:7
+###Mugshot:OldMan
+I got my money back!
+###--------
+###Mugshot:OldMan
+Yahoo! I'm gonna buy my
+grandson a video game.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+To the hip lad with the
+glasses... Thank you!
+###--------
+###Script:10
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:15
+###Mugshot:OldMan
+I've got this strange
+feeling in my chest.
+###--------
+###Mugshot:OldMan
+It's just like the feeling I
+had that day 3 years ago.
+###--------
+###Mugshot:OldMan
+On a day like this, it's better
+that I just have my favorite
+tropical tea and lie down.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+But it is a little hard
+to come by...
+###--------
+###Mugshot:OldMan
+I believe the owner of
+BIG WAVE had some.
+But I don't wanna just
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+walk up to his shop
+and start shouting,
+"Gimme some tropical tea!"
+###--------
+###Mugshot:OldMan
+That's the trouble...
+###--------
+###Script:16
+###Mugshot:OldMan
+There's sum'n strange
+in the air.
+###--------
+###Mugshot:OldMan
+...Jes like that day, the
+day of the incident...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

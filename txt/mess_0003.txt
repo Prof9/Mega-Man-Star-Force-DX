@@ -1,0 +1,244 @@
+﻿###TextArchive:mess_0003
+###Script:0
+###Mugshot:Geo
+You don't have enough
+Battle Cards in your
+folder.
+###--------
+###Mugshot:Geo
+Wanna quit editing and
+restore folder?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:1
+###Mugshot:Geo
+Move all cards in the folder
+back to the Card Box?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:2
+###Mugshot:Geo
+You need to choose
+6 favorite cards.
+###--------
+###Mugshot:Geo
+Let your Transer
+auto-select for you?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:3
+1 card 1 type
+###--------
+###Script:4
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+You can add a maximum
+of 2 Mega or Giga Class
+cards to your Favorites!
+###--------
+###Script:5
+###Mugshot:Geo
+Add this card to Favorites?
+
+<positionOptionFromCenter><optionText>  OK  <optionText>  No
+###Command:positionOptionFromCenter width=56
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:7
+Favorite card change
+complete!
+###--------
+###Script:8
+###Mugshot:Geo
+You can add up to 6
+cards to your Favorites.
+###--------
+###Script:9
+###Mugshot:Geo
+You can only add up to
+<printBuffer> Mega Class cards
+to your folder.
+###Command:printBuffer buffer=0 minLength=2 padMode=noPad
+###--------
+###Script:10
+###Mugshot:Geo
+You can only add up to
+<printBuffer> Giga Class card(s)
+to your folder.
+###Command:printBuffer buffer=0 minLength=1 padMode=noPad
+###--------
+###Script:11
+###Mugshot:Geo
+You can't add 2 of the
+same Mega or Giga Class
+cards.
+###--------
+###Script:12
+###Mugshot:Geo
+You can't add more than
+4 of the same Standard
+Class cards.
+###--------
+###Script:13
+###Mugshot:Geo
+You can't switch this
+card out.
+###--------
+###Script:14
+###Mugshot:Geo
+You can't add that card
+to your Favorites!
+###--------
+###Script:15
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+You can't choose Favorites
+with less than 30 cards
+in your folder!
+###--------
+###Script:16
+###Mugshot:Geo
+Legend Cards can only
+go on the bottom!
+###--------
+###Script:17
+###Mugshot:Geo
+You can only add 1
+Legend Card to the
+Folder.
+###--------
+###Script:18
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+You can't swap Battle
+Cards with Legend Cards!
+###--------
+###Script:19
+###Mugshot:Geo
+That's only for
+Legend Cards!
+###--------
+###Script:21
+###Mugshot:Geo
+Un-select all and
+choose again?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:25
+###Mugshot:Geo
+There's a 5 card limit
+for Star Cards.
+###--------
+###Script:26
+###Mugshot:Geo
+You can't put that card
+in the Folder.
+###--------
+###Script:30
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Oops...
+Looks like that Friend
+cancelled the trade.
+###--------
+###Script:31
+None
+###--------
+###Script:32
+###Mugshot:Geo
+Cancel the trade?
+
+<positionOptionFromCenter><optionText>  Continue  <optionText>  Quit
+###Command:positionOptionFromCenter width=99
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:33
+###Mugshot:Geo
+Trade cancelled.
+###--------
+###Script:34
+###Mugshot:Geo
+Trade complete!
+###--------
+###Script:35
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+You have 10 Legend Cards!
+###--------
+###Mugshot:Geo
+To get more, reduce the
+number of Legend Cards
+in your Card Box!
+###--------
+###Script:36
+###Mugshot:Geo
+Looks like this Friend
+can't get this card.
+###--------
+###Script:60
+###Mugshot:Geo
+Are you sure you want to
+give this card away?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  Umm, no
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:61
+###Mugshot:Geo
+Don't send a present?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:62
+###Mugshot:Geo
+Choose the present.
+###--------
+###Script:80
+###Mugshot:Geo
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:Geo
+Which Battle Cards do you
+wanna add to the Trader?
+###--------
+###Script:81
+###Mugshot:Geo
+Exit the Trader?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:82
+###Mugshot:Geo
+Do you wanna put these
+cards in the Trader?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------

@@ -1,0 +1,21 @@
+﻿###TextArchive:mess_0414
+###Script:0
+Temp message
+###--------
+###Script:37
+###Mugshot:MegaMan
+I've got to press on!!
+###--------
+###Script:38
+###Mugshot:MegaMan
+There's nothing else to
+do here. Gotta press on!!
+###--------
+###Script:52
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+C'mon, let's get outta here!!
+Or we won't be able to
+get back to Earth!
+###--------

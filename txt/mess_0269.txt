@@ -1,0 +1,82 @@
+﻿###TextArchive:mess_0269
+###Script:0
+Mega Man gave the
+Antidote
+to the Mr. Hertz!
+###--------
+###Script:1
+###Mugshot:MrHertz
+...HMM?
+###--------
+###Script:2
+###Mugshot:MrHertz
+OH! I'VE BEEN CURED!
+###--------
+###Mugshot:MrHertz
+THANK YOU SO VERY MUCH!
+###--------
+###Script:3
+###Mugshot:MrHertz
+IT LOOKS LIKE YOU'VE
+BEEN POISONED.
+###--------
+###Mugshot:MrHertz
+THERE'S STILL SOME
+ANTIDOTE LEFT. DRINK UP!
+###--------
+###Script:4
+Mega Man has been cured!
+###--------
+###Script:5
+###Mugshot:MrHertz
+OH, YEAH, THE DOOR!
+###--------
+###Script:6
+###Mugshot:MrHertz
+MMM!!
+###--------
+###Script:7
+*ka-chunk!*
+###--------
+###Script:8
+###Mugshot:MrHertz
+THERE YOU GO!
+###--------
+###Script:9
+Mega Man gave the
+Antidote
+to the Mr. Hertz!
+###--------
+###Script:10
+###Mugshot:MrHertz
+...HMM?
+###--------
+###Script:11
+###Mugshot:MrHertz
+OH! I'VE BEEN CURED!
+###--------
+###Mugshot:MrHertz
+THANK YOU SO VERY MUCH!
+###--------
+###Script:12
+###Mugshot:MrHertz
+IT LOOKS LIKE YOU'VE
+BEEN POISONED.
+###--------
+###Mugshot:MrHertz
+THERE'S STILL SOME
+ANTIDOTE LEFT. DRINK UP!
+###--------
+###Script:13
+Mega Man has been cured!
+###--------
+###Script:14
+###Mugshot:MrHertz
+I CAN'T OPEN THIS
+DOOR BY MYSELF...
+###--------
+###Mugshot:MrHertz
+IF YOU CAN SAVE MY
+FRIEND, THEN WE CAN
+OPEN IT.
+###--------

@@ -1,0 +1,41 @@
+﻿###TextArchive:mess_0209
+###Script:0
+###Mugshot:8
+Is that all you've got?
+###--------
+###Script:1
+###Mugshot:1
+H-He's really strong!
+###--------
+###Script:2
+###Mugshot:8
+Now have a taste of
+my power!
+###--------
+###Script:3
+###Mugshot:8
+Take this!
+###--------
+###Script:4
+###Mugshot:1
+Argh!!!
+###--------
+###Script:5
+###Mugshot:8
+...Mmmgh!!
+###--------
+###Script:6
+###Mugshot:1
+Too... powerful...
+###--------
+###Mugshot:1
+I can't... hold out...
+###--------
+###Script:7
+###Mugshot:8
+Here, have some more!!
+###--------
+###Script:8
+###Mugshot:1
+Nngwaaaaaaaah!!
+###--------

@@ -1,0 +1,252 @@
+﻿###TextArchive:mess_0580
+###Script:1
+A swimsuit girl on an igloo...
+It doesn't fit.
+###--------
+###Script:3
+A collection of clothes of
+muted colors.
+###--------
+Seems to be targeting
+women in their 30's.
+###--------
+###Script:4
+Ridiculously expensive jewels
+are on display.
+###--------
+###--------
+The price tags are more
+eye-catching than the
+jewels themselves.
+###--------
+###Script:6
+A store map and directory.
+###--------
+###Script:7
+There's an explanation of
+each floor.
+###--------
+The event stage on the
+roof looks cool.
+###--------
+###Script:8
+Foliage plants are always
+therapeutic.
+###--------
+###Script:9
+###--------
+A cool poster of a boy
+warrior named Aaron
+posed valiantly.
+###--------
+###Script:10
+The latest collection of
+designer bags.
+###--------
+Must-have items for women
+in their 20's.
+###--------
+###Script:11
+###Mugshot:0
+A Card Trader 5.
+Put in 5 cards?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=65
+###--------
+###Mugshot:0
+<optionText>  Yes!  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:13
+All kinds of stylish clothes
+are on display.
+###--------
+###--------
+They're all so nice, I can
+see why going shopping
+takes so long...
+###--------
+###Script:14
+A big window...
+You can see outside clearly.
+###--------
+###Script:16
+###Mugshot:7
+This is the customer
+service counter.
+###--------
+###Mugshot:7
+Please feel free to
+inquire any time.
+###--------
+###Script:17
+###Mugshot:19
+You there! I'm TraderMan 5!
+###--------
+###Mugshot:19
+Give me 5 cards! Then I'll
+let you have 1 of mine.
+###--------
+###Mugshot:19
+Whatzit gonna be, YOU!?
+<positionOptionFromCenter><optionText>  Give  <optionText>  No
+###Command:positionOptionFromCenter width=66
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:19
+###Mugshot:0
+I don't have enough
+Battle Cards in my box.
+###--------
+###Script:20
+A floor guide that explains
+each floor.
+###--------
+With this, I can't get lost
+in here.
+###--------
+###Script:21
+A floor guide...
+###--------
+###Mugshot:Geo
+With this, even that old
+woman can't get lost.
+###--------
+###Mugshot:Geo
+...OK, I'll give it to her.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=48
+###--------
+###Script:22
+###Mugshot:19
+What the...!?
+Gonna renege, are ya!
+###--------
+###Mugshot:19
+Git outta here, and don't
+ever come 'round here again!
+###--------
+###Script:23
+###Mugshot:19
+###--------
+###Mugshot:19
+Ah! Ah! Ah! Ya don't havanuff
+Battle Cards in your box!
+Git outta here!
+###--------
+###Script:26
+Cold air is blowing out of
+that igloo.
+###--------
+I'll catch a cold if I stay
+here too long.
+###--------
+###Script:30
+###Mugshot:BusinessMan
+This is the customer
+service counter.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+...Huh? Are we getting
+customer complaints?
+###--------
+###Mugshot:BusinessMan
+Yes, that's right!
+###--------
+###Mugshot:BusinessMan
+It's the same complaint over
+and over.
+###--------
+###Mugshot:BusinessMan
+They say there's something
+in the fitting room mirror.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+But I've looked and I don't
+see anything. I'm telling you
+it's a mystery.
+###--------
+###Script:31
+###Mugshot:BusinessMan
+We keep getting the same
+complaint over and over
+again.
+###--------
+###Mugshot:BusinessMan
+It seems there's something
+in the fitting room mirror.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+But I've looked and I
+couldn't see anything.
+It's really odd...
+###--------
+###Script:32
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+You say the mirror problem
+has been taken care of?
+That's wonderful!!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Please accept this token
+of thanks from all us
+here at Nacys.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=75
+###--------
+###Mugshot:7
+That should take care of
+those complaints.
+###--------
+###Script:35
+A large mirror.
+###--------
+Wow, you can see your
+whole self in this mirror.
+###--------
+###Script:36
+A large mirror.
+###--------
+Wow, you can see your
+whole self in this mirror.
+###--------
+If you look real close,
+there's a wavehole here!
+###--------
+###Script:40
+Clothing by famous designer
+O. Jolie.
+###--------
+###--------
+Hip, cute, yet with a certain
+grown-up appeal. Perfect for
+up-and-coming young people.
+###--------
+###Script:41
+Clothing by famous designer
+O. Jolie.
+###--------
+###--------
+Hip, cute, yet with a certain
+grown-up appeal. Perfect for
+up-and-coming young people.
+###--------
+If you look real close,
+there's a wavehole here!
+###--------

@@ -1,0 +1,109 @@
+﻿###TextArchive:mess_0034
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Welcooome!!
+You're in Chrys Golds's
+Transer. Stay a while.
+###--------
+###Script:2
+###Mugshot:ChrysGolds
+Money, money!!
+It makes the world
+go 'round!
+###--------
+###Mugshot:ChrysGolds
+There's nothing money
+can't buy!
+###--------
+###Script:3
+###Mugshot:ChrysGolds
+Money, money!!
+It makes the world
+go 'round!
+###--------
+###Mugshot:ChrysGolds
+There's nothing money
+can't buy!
+###--------
+###Script:10
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Baby!
+Money makes the
+world go 'round!
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Ever since Sonia left,
+I've been low on work
+and low on MONEY!
+###--------
+###Mugshot:ChrysGolds
+Can't somebody help me
+find a new STAR!?
+###--------
+###Mugshot:MegaMan
+...Hmm, should I talk to him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK...
+But I don't like this guy.
+He's bad news.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Baby!
+Money makes the
+world go 'round!
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Ever since Sonia left,
+I've been low on work
+and low on MONEY!
+###--------
+###Mugshot:ChrysGolds
+Can't somebody help me
+find a new STAR!?
+###--------
+###Script:12
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's just let him be.
+That guy's bad news.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

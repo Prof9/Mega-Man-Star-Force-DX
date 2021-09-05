@@ -1,0 +1,48 @@
+﻿###TextArchive:mess_1233
+###Script:0
+###Mugshot:Geo
+OK, let's see...
+###--------
+###Script:1
+###Mugshot:Geo
+"Key Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:KeyMan
+Open Sesame!
+###--------
+###Mugshot:KeyMan
+Please enter the passcode!
+###--------
+Hint: It's my birthday!
+###--------
+###Script:3
+*beep*
+*click*
+###--------
+###Script:4
+###Mugshot:LittleGirl
+Thank you!!
+###--------
+###Mugshot:LittleGirl
+This is for you!
+###--------
+###Script:5
+Geo got:
+"<printItem>"!!
+###Command:printItem item=73
+###--------
+###Script:6
+###Mugshot:LittleGirl
+I've got to be more
+careful from now on!
+###--------
+###Script:7
+###Mugshot:KeyMan
+The passcode is incorrect!
+###--------
+###Script:8
+###Mugshot:LittleGirl
+My birthday is January 30th!
+###--------

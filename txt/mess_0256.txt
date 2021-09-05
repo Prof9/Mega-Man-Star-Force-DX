@@ -1,0 +1,25 @@
+﻿###TextArchive:mess_0256
+###Script:0
+###Mugshot:MegaMan
+There's snakes here too!
+###--------
+###Script:1
+###Mugshot:MegaMan
+I've got to find the
+maintenance guy
+###--------
+###Mugshot:MegaMan
+who's got the card that
+controls the thermostat.
+###--------
+###Mugshot:MegaMan
+He's gotta be somewhere
+on this floor...
+###--------
+###Mugshot:MegaMan
+He's probably in a place
+where snakes won't go.
+###--------
+###Mugshot:MegaMan
+OK, time to get cracking!
+###--------

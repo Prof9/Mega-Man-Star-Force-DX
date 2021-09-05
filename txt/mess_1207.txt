@@ -1,0 +1,46 @@
+﻿###TextArchive:mess_1207
+###Script:0
+Open this door by defeating
+the giant scales.
+###--------
+###Script:1
+Open this door by defeating
+the snake charmer.
+###--------
+###Script:2
+Open this door by defeating
+the shocking twins.
+###--------
+###Script:3
+This door opens only to
+those of lonely hearts.
+###--------
+###Script:4
+This door opens only
+to those who posses
+150 different S Cards.
+###--------
+###Script:5
+###--------
+You who have defeated the
+giant scales may proceed...
+###--------
+###Script:6
+###--------
+You who have defeated the
+snake charmer may proceed...
+###--------
+###Script:7
+###--------
+You who have defeated the
+shocking twins may proceed...
+###--------
+###Script:8
+You who possess a
+lonely heart may proceed...
+###--------
+###Script:9
+You who possess
+150 different S Cards
+may proceed...
+###--------

@@ -1,0 +1,233 @@
+﻿###TextArchive:mess_0143
+###Script:0
+###Mugshot:9
+I see, I see...
+###--------
+###Mugshot:9
+Very, very interesting...
+###--------
+###Mugshot:0
+It's that guy...
+###--------
+###Script:1
+###Mugshot:9
+...Hmm, but...
+###--------
+###Mugshot:9
+I wonder where Tom
+went off to?
+###--------
+###Mugshot:9
+He's taking an awfully long
+bathroom break.
+###--------
+###Mugshot:9
+*shuffle, shuffle*
+###--------
+###Script:2
+###Mugshot:9
+Well, what do we have here?
+###--------
+###Script:3
+###Mugshot:9
+If it isn't little Geo!
+###--------
+###Mugshot:9
+How are you doing?
+###--------
+###Script:4
+###Mugshot:0
+Hi, Mr. Boreal...
+###--------
+###Script:5
+###Mugshot:9
+###--------
+###Mugshot:9
+I'm here today on business,
+but I'm sure you heard about
+the rash of incidents, right?
+###--------
+###Mugshot:9
+You know, where red things
+were being broken?
+###--------
+###Mugshot:9
+###--------
+###Mugshot:9
+I was curious, so I stopped
+to see the truck that was
+involved in the whole affair.
+###--------
+###Mugshot:9
+...Hmm?
+###--------
+###Script:6
+###Mugshot:10
+S-Sorry I took so long...
+###--------
+###Script:7
+###Mugshot:9
+###--------
+###Mugshot:9
+That sure took a while.
+I was beginning to wonder
+if you had fallen in!
+###--------
+###Script:8
+###Mugshot:10
+Hmm? Well, um...
+###--------
+###Script:9
+###Mugshot:0
+Hey...
+###--------
+###Mugshot:0
+It's the guy from before...
+###--------
+###Script:10
+###Mugshot:9
+You know him?
+###--------
+###Script:11
+###Mugshot:10
+Um, actually...
+###--------
+###Script:12
+###Mugshot:9
+.<wait>.<wait>.<wait>What!?
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:9
+You performed an experiment
+all by yourself!?
+###--------
+###Script:13
+###Mugshot:10
+Yeah...
+That's when I met this boy...
+###--------
+###Script:14
+###Mugshot:9
+Hmm, I see.
+###--------
+###Mugshot:9
+You always do experiments
+by yourself.
+###--------
+###Mugshot:9
+It seems kind of reclusive,
+don't you think?
+###--------
+###Mugshot:9
+I would help, you know.
+Just say the word.
+###--------
+###Script:15
+###Mugshot:10
+...Um, don't worry about me.
+###--------
+###Mugshot:10
+Let's just hurry and check
+out the truck.
+###--------
+###Script:16
+###Mugshot:9
+Well, Geo, let me
+formally introduce you.
+###--------
+###Mugshot:9
+This is my assistant,
+Mr. Tom Dubius.
+###--------
+###Mugshot:9
+###--------
+###Mugshot:9
+He used to work at NAZA.
+Just like me.
+###--------
+###Script:17
+###Mugshot:0
+Used to?
+###--------
+###Script:18
+###Mugshot:9
+Hmm? Oh, there was a
+small problem, and...
+###--------
+###Mugshot:9
+Anyway...
+###--------
+###Script:19
+###Mugshot:9
+How's school going, Geo?
+Are you going?
+###--------
+###Script:20
+###Mugshot:0
+......Uh, um...
+###--------
+###Script:21
+###Mugshot:9
+I see...
+###--------
+###Mugshot:9
+Alright! How about this?
+###--------
+###Mugshot:9
+Why don't you come down
+to my lab tomorrow?
+###--------
+###Script:22
+###Mugshot:0
+Eh!? But why?
+###--------
+###Script:23
+###Mugshot:9
+I think it'd be a good
+change of pace for you.
+###--------
+###Mugshot:9
+So? What do you say?
+###--------
+###Script:24
+###Mugshot:0
+Um, that's...
+###--------
+###Script:25
+###Mugshot:9
+Tomorrow's a holiday,
+so it's perfect!
+###--------
+###Mugshot:9
+Glad we settled that!
+###--------
+###Script:26
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+(I don't want him to
+care about me.)
+###--------
+###Mugshot:0
+(I'm... I'm...)
+###--------
+###Mugshot:OmegaXis
+(Doesn't it sound like a
+ton of fun, kid?)
+###--------
+###Mugshot:OmegaXis
+(We can test how much
+he knows about space!)
+###--------
+###Script:27
+###Mugshot:Zack
+Ha ha...
+I heard it all.
+###--------
+###Mugshot:Zack
+Now to report everything
+to the Prez.
+###--------

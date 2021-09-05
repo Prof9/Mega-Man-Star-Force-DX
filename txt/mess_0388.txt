@@ -1,0 +1,206 @@
+﻿###TextArchive:mess_0388
+###Script:6
+###Mugshot:0
+Doesn't look like Mega's
+around here...
+###--------
+###Script:8
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Head back to Echo Ridge
+and check out that old
+guy's Transer!!
+###--------
+###Script:9
+###Mugshot:OmegaXis
+If you don't knock this guy
+out, we can't lookit his info.
+###--------
+###Mugshot:OmegaXis
+Find something to hit him with.
+###--------
+###Script:10
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Find out who owns that
+pitching machine! He'll know
+how to make it work.
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Well, I know another way
+to make it work!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+I think it was under the
+bench at Vista Point.
+###--------
+###Script:13
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+With the card, the pitching
+machine should work!!
+###--------
+###Script:14
+###Mugshot:OmegaXis
+What!? It doesn't work?
+###--------
+###Mugshot:OmegaXis
+Darn! Let's check out its
+Comp Space.
+###--------
+###Script:15
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK, while he's taking a nap,
+let's have a look inside
+that Transer of his!
+###--------
+###Script:16
+###Mugshot:OmegaXis
+We've wasted enough time
+for one day.
+###--------
+###Mugshot:OmegaXis
+I'm beat!
+Let's go home.
+###--------
+###Script:21
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You're going to look for that
+Sonia girl, aren't you? It's
+written all over your face.
+###--------
+###Script:22
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You going to that Boreal
+guy's place? I guess that's
+as safe a place as any.
+###--------
+###Script:23
+###Mugshot:OmegaXis
+There are 5 EM balls in all...
+Let's crush 'em!
+###--------
+###Script:24
+###Mugshot:OmegaXis
+Don't you have to go back
+to Boreal's lab?
+###--------
+###Script:25
+###Mugshot:OmegaXis
+I guess humans all have
+their own problems...
+###--------
+###Mugshot:OmegaXis
+Oh, well. Enough about that.
+Let's head home.
+###--------
+###Script:26
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Aren't you gonna go after
+her? Hurry up before she
+can do any more damage!
+###--------
+###Script:27
+###Mugshot:OmegaXis
+If you go after her,
+you can't go easy on her!
+###--------
+###Script:28
+###Mugshot:OmegaXis
+I can sense Harp Note's
+presence.
+###--------
+###Script:43
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's finish what we
+started. You were going
+to AMAKEN, right?
+###--------
+###Script:44
+###Mugshot:OmegaXis
+Shouldn't we go up to
+the roof?
+###--------
+###Script:50
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+They really rub me the wrong
+way, but we'll pass their test
+in the blink of an eye!
+###--------
+###Mugshot:OmegaXis
+Pulse in, Geo!
+###--------
+###Script:51
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+They really rub me the wrong
+way, but we'll pass their test
+in the blink of an eye!
+###--------
+###Mugshot:OmegaXis
+Pulse in, Geo!
+###--------
+###Script:52
+###Mugshot:OmegaXis
+Let's go home and get
+some sleep.
+###--------
+###Script:53
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+So, now you wanna go to
+school, huh? Well, it doesn't
+make any difference to me...
+###--------
+###Script:54
+###Mugshot:OmegaXis
+Aren't you gonna say
+good morning to your
+teacher?
+###--------
+###Script:55
+###Mugshot:OmegaXis
+Well... Let's get to class!
+###--------
+###Script:56
+###Mugshot:OmegaXis
+Time to find out what
+your classmates are like.
+###--------
+###Script:57
+###Mugshot:OmegaXis
+Play rehearsal in the Gym?
+Geez this is tiring.
+###--------
+###Script:58
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That was enough fun
+for one day. Let's go
+home and hit the sack.
+###--------
+###Script:60
+###Mugshot:OmegaXis
+School... again?
+Aren't you tired of it yet?
+###--------

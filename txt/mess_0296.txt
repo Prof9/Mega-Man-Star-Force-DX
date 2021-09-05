@@ -1,0 +1,172 @@
+﻿###TextArchive:mess_0296
+###Script:0
+###Mugshot:Rey
+So wake up, Pat!
+###--------
+###Mugshot:Rey
+We have to take the
+Andromeda Key from them!!
+###--------
+###Script:1
+###Mugshot:0
+Pat!!
+###--------
+###Mugshot:Pat
+......
+###--------
+###Script:2
+###Mugshot:Pat
+......
+###--------
+###Mugshot:Pat
+...Geo.
+###--------
+###Mugshot:Pat
+I'm sorry...
+###--------
+###Script:3
+###Mugshot:0
+P-Pat?
+###--------
+###Script:4
+###Mugshot:Rey
+It's true.
+Revenge is all we have.
+###--------
+###Mugshot:Rey
+Gemini, it's your turn.
+###--------
+###Script:5
+###Mugshot:Gemini
+Good.
+###--------
+###Script:6
+###Mugshot:0
+N-No!!
+###--------
+###Script:7
+###Mugshot:GeminiSparkBlack
+Let's go, Pat!!
+###--------
+###Script:8
+###Mugshot:GeminiSparkWhite
+......
+###--------
+###Script:9
+###Mugshot:GeminiSparkBlack
+Hah!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Those are the + and -
+waves from last time!
+###--------
+###Script:11
+###Mugshot:Man
+Aaaaaah!!
+###--------
+###Script:12
+###Mugshot:Man
+You asked for it now!
+###--------
+###Script:13
+###Mugshot:BusinessMan
+What in the-!?
+###--------
+###Script:14
+###Mugshot:Woman
+Eek!!
+###--------
+###Script:15
+###Mugshot:Woman
+Wait, you!!
+###--------
+###Script:16
+###Mugshot:OldWoman
+You talking to me!?
+###--------
+###Script:17
+###Mugshot:GeminiSparkBlack
+Heh heh heh.
+###--------
+###Script:18
+###Mugshot:GeminiSparkBlack
+The waves this time are
+not the same.
+###--------
+###Mugshot:GeminiSparkBlack
+They won't go away unless
+you defeat me.
+###--------
+###Mugshot:GeminiSparkBlack
+###--------
+###Mugshot:GeminiSparkBlack
+###--------
+###Mugshot:GeminiSparkBlack
+If you can bring yourself
+to try, come to the
+scrapyard in the city dump.
+###--------
+###Script:19
+###Mugshot:GeminiSparkWhite
+...Geo.
+###--------
+###Mugshot:GeminiSparkWhite
+Please, do what he says...
+###--------
+###Script:20
+###Mugshot:0
+Pat...
+###--------
+###Script:21
+###Mugshot:GeminiSparkBlack
+Make sure you bring the
+Andromeda Key!
+###--------
+###Mugshot:GeminiSparkBlack
+You got that!?
+###--------
+###Script:22
+###Mugshot:0
+Wait! Pat!!
+###--------
+###Script:23
+###Mugshot:0
+I can't believe it...
+###--------
+###Mugshot:0
+Pat... I can't believe he's
+doing this...
+###--------
+###Script:24
+###Mugshot:OmegaXis
+What are you gonna do?
+###--------
+###Mugshot:OmegaXis
+We don't have any time
+to waste!!
+###--------
+###Script:25
+###Mugshot:0
+......
+###--------
+###Script:26
+###Mugshot:OmegaXis
+Geo!!
+###--------
+###Script:27
+###Mugshot:0
+We're... going after them.
+###--------
+###Mugshot:0
+And we're going to have
+a talk with him.
+###--------
+###Mugshot:0
+There's something very
+wrong going on.
+###--------
+###Script:28
+###Mugshot:0
+Th-That form!!
+###--------

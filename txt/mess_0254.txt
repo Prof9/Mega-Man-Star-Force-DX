@@ -1,0 +1,242 @@
+﻿###TextArchive:mess_0254
+###Script:0
+###Mugshot:Luna
+I hate them.
+I hate them both...
+###--------
+###Script:1
+You lie to their faces that
+you are the perfect daughter
+who can do anything,
+###--------
+###--------
+but where is the real you?
+###--------
+###Script:2
+###Mugshot:Luna
+Who's there!?
+###--------
+###Script:3
+Over here...
+###--------
+###Script:4
+###Mugshot:Ophiuca
+I am Ophiuca.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+I am here to give to you
+the power to break the
+bonds that tied you down.
+###--------
+###Script:5
+###Mugshot:Luna
+A monster!!
+###--------
+###Script:6
+###Mugshot:Ophiuca
+Don't be scared.
+###--------
+###Mugshot:Ophiuca
+I came to give you power.
+###--------
+###Script:7
+###Mugshot:Luna
+You think I'm going to
+fall for that!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I've already had a few
+run-ins with monsters
+just like you!!
+###--------
+###Script:8
+###Mugshot:Ophiuca
+I see. So you've met
+other FM-ians before.
+###--------
+###Mugshot:Ophiuca
+In that case,
+I'll keep it short.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+Let me borrow your body.
+If you do, you can stop
+them from transferring you.
+###--------
+###Script:9
+###Mugshot:Luna
+What??
+###--------
+###Script:10
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+You can stop both of your
+parents from sending you
+off. It's not impossible.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+However, if you don't let
+me in, I'm afraid it might
+be too late...
+###--------
+###Script:11
+###Mugshot:Luna
+But how...?
+###--------
+###Script:12
+###Mugshot:Ophiuca
+Show them your will.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+Make it crystal clear to your
+parents how you feel; that
+you are not their little doll!
+###--------
+###Script:13
+###Mugshot:Luna
+How I feel...
+###--------
+###Script:14
+###Mugshot:Ophiuca
+That's right.
+Let me in.
+###--------
+###Mugshot:Ophiuca
+I can help you show them
+your true feelings.
+###--------
+###Script:15
+###Mugshot:Luna
+.........
+###--------
+###Script:16
+###Mugshot:0
+Stop!
+Don't let her in, Luna!!
+###--------
+###Script:17
+###Mugshot:0
+Luna! Stop!!
+###--------
+###Mugshot:0
+She just wants to use you!!
+###--------
+###Script:18
+###Mugshot:Ophiuca
+It's your choice whether
+you want to let me in,
+###--------
+###Mugshot:Ophiuca
+but if you don't, you won't
+be able to change a thing.
+###--------
+###Script:19
+###Mugshot:Luna
+.........
+###--------
+###Script:20
+###Mugshot:0
+Luna!!
+###--------
+###Script:21
+###Mugshot:Luna
+.........
+###--------
+###Mugshot:Luna
+...I don't want to transfer
+to another school!
+###--------
+###Script:22
+###Mugshot:Ophiuca
+I will make your wish
+come true!
+###--------
+###Script:23
+###Mugshot:0
+Nooo!!
+###--------
+###Script:24
+###Mugshot:0
+Luna!!
+###--------
+###Mugshot:0
+Where'd she go!?
+###--------
+###Script:25
+###Mugshot:OmegaXis
+Look up by the sign!!
+###--------
+###Script:26
+###Mugshot:QueenOphiuca
+Don't try to stop me...
+###--------
+###Script:27
+###Mugshot:0
+Luna!!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+She's in the Wave World,
+inside the exhibit!
+We've gotta hurry!!
+###--------
+###Script:28
+###Mugshot:Lyra
+Ophiuca, huh?
+###--------
+###Mugshot:Lyra
+She sure picked a bad
+spot to show up.
+###--------
+###Script:29
+###Mugshot:0
+A bad spot?
+What do you mean?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+Well, bad for us,
+good for her.
+###--------
+###Mugshot:OmegaXis
+Ophiuca is an FM-ian who
+can control snakes.
+###--------
+###Mugshot:OmegaXis
+And you know what's inside
+that exhibit...
+###--------
+###Mugshot:OmegaXis
+I bet she's having a blast
+in there.
+###--------
+###Script:31
+###Mugshot:0
+Gotcha.
+I'll be careful.
+###--------
+###Script:32
+*screeeeeeech!!*<wait>
+###Command:wait frames=60
+###--------
+###Script:33
+###Mugshot:0
+Sounds like something's
+happening!
+###--------
+###Mugshot:0
+We'll be too late if we
+don't get in there!!
+###--------

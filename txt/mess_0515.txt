@@ -1,0 +1,124 @@
+﻿###TextArchive:mess_0515
+###Script:0
+###Mugshot:2
+I'm glad you could make it!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I'm a bit busy with my work
+today, but I hope you'll
+have a good time!
+###--------
+###Script:11
+###Mugshot:2
+Wh-What was that!?
+What is going on!?
+###--------
+###Script:12
+###Mugshot:8
+I-I'm scared...
+###--------
+###Script:13
+###Mugshot:8
+If it's OK with you,
+can I talk with you?
+###--------
+###Mugshot:0
+S-Sure...
+###--------
+###Mugshot:8
+Can you please wait for
+me on the roof?
+###--------
+###Mugshot:0
+Y-Yeah, sure.
+###--------
+###Script:14
+###Mugshot:8
+###--------
+###Mugshot:8
+You can get to the roof
+from the door at the
+far end of this room.
+###--------
+###Script:15
+###Mugshot:2
+I see...
+You can't right now...
+###--------
+###Mugshot:2
+But I hope someday you
+can have some Brothers.
+###--------
+###Script:20
+###Mugshot:2
+What's wrong?
+Did something happen?
+###--------
+###Script:25
+###Mugshot:2
+Nnngh...
+My head feels terrible...
+###--------
+###Script:51
+###Mugshot:2
+###--------
+###Mugshot:2
+If you take your pendant
+to the roof, I think someone
+may try to contact you.
+###--------
+###Script:52
+###Mugshot:2
+So? Did the pendant react
+to anything?
+###--------
+###Script:100
+###Mugshot:7
+*BEEP BEEP BEEP*
+###--------
+###Mugshot:7
+I'M A FAN OF MR. BOREAL.
+###--------
+###Mugshot:7
+IT'S GREAT THAT HE'S SO
+INVOLVED IN HIS WORK!
+###--------
+###Script:105
+###Mugshot:7
+MR. BOREAL'S RESEARCH
+IS TOO HARD FOR ME
+TO UNDERSTAND,
+###--------
+###Mugshot:7
+BUT I STILL WANT TO
+HELP ANYWAY!
+###--------
+###Script:110
+###Mugshot:7
+EM WAVES ARE SCARY......
+###--------
+###Script:115
+###Mugshot:7
+I'M FEELING SOME REALLY
+STRONG EM WAVES!!
+###--------
+###Script:120
+###Mugshot:7
+MR. BOREAL...
+###--------
+###Mugshot:7
+HE WENT PARTYING WITH
+MR. DUBIUS LAST NIGHT.
+###--------
+###Script:125
+###Mugshot:7
+MR. BOREAL SEEMS TO BE
+VERY BUSY RECENTLY.
+###--------
+###Script:130
+###Mugshot:7
+MR. BOREAL PUT ON SOME
+WEIGHT, I THINK...
+###--------

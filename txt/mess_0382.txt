@@ -1,0 +1,313 @@
+﻿###TextArchive:mess_0382
+###Script:0
+###Mugshot:MegaMan
+Lucian!!
+###--------
+###Script:1
+###Mugshot:Lucian
+*huff huff*
+Mega Man...
+###--------
+###Script:2
+###Mugshot:MegaMan
+A-Are you okay!?
+###--------
+###Script:3
+###Mugshot:MargraveRymer
+###--------
+###Mugshot:MargraveRymer
+Who are you...?
+A greenhorn vampire hunter?
+###--------
+###Mugshot:MargraveRymer
+Hmph. It doesn't matter
+how many flies gather.
+###--------
+###Mugshot:MargraveRymer
+There's no way I can be
+defeated in this state!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+That must be
+Margrave Rymer...
+###--------
+###Mugshot:OmegaXis
+Looks like he's sucking up
+this area's flame power.
+###--------
+###Script:5
+###Mugshot:Lucian
+I see... It does seem like
+he's getting stronger.
+###--------
+###Mugshot:Lucian
+Mega Man, did you
+find Aaron...?
+###--------
+###Script:6
+###Mugshot:MegaMan
+Yeah, I found him, but...
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It sounds like it'll take some
+time for his Solar Gun
+to charge its energy.
+###--------
+###Mugshot:MegaMan
+We've got to hold him back
+until Aaron comes...
+###--------
+###Script:7
+###Mugshot:Lucian
+No way around it, then...
+###--------
+###Mugshot:Lucian
+###--------
+###Mugshot:Lucian
+Mega Man, when I give
+the signal, make a brief
+opening for me to attack.
+###--------
+###Script:8
+###Mugshot:MegaMan
+...OK!
+###--------
+###Script:9
+###Mugshot:MargraveRymer
+What are you muttering
+about!?
+###--------
+###Mugshot:MargraveRymer
+###--------
+###Mugshot:MargraveRymer
+No matter what sort of
+plan you may conceive, you
+cannot hope to defeat me!
+###--------
+###Script:10
+###Mugshot:Lucian
+Now!!
+###--------
+###Script:11
+###Mugshot:MegaMan
+Got it!
+###--------
+###Script:12
+###Mugshot:MargraveRymer
+Bah! Such impertinence!
+###--------
+###Script:13
+###Mugshot:Lucian
+Take this!
+Dark Sword Vanargand!
+###--------
+###Mugshot:Lucian
+Haaaahh!!
+###--------
+###Script:14
+###Mugshot:Lucian
+W-What...?
+###--------
+###Script:15
+###Mugshot:MargraveRymer
+That tickles...
+###--------
+###Mugshot:MargraveRymer
+Watch! I'll show you a
+real attack!
+###--------
+###Script:16
+###Mugshot:MegaMan
+S-So strong...
+###--------
+###Script:17
+###Mugshot:Lucian
+Dang it...
+###--------
+###Script:18
+###Mugshot:MargraveRymer
+You vampire hunters that
+dare to oppose me...!
+###--------
+###Mugshot:MargraveRymer
+Prepare to be skewered!
+###--------
+###Script:19
+###Mugshot:MegaMan
+I-I can't move...!
+###--------
+###Script:20
+###Mugshot:MargraveRymer
+Farewell, Lucian!
+And you as well, Blue Bomber!
+###--------
+###Script:21
+###Mugshot:MargraveRymer
+Hm!?
+###--------
+###Script:22
+###Mugshot:Aaron
+Sorry to keep you waiting!!
+###--------
+###Script:23
+###Mugshot:MargraveRymer
+Bah!
+###--------
+###Script:24
+###Mugshot:Lucian
+What took you...?
+###--------
+###Script:25
+###Mugshot:Aaron
+Sorry!
+###--------
+###Mugshot:Aaron
+It took a bit longer to
+charge using the sunlight.
+###--------
+###Mugshot:Aaron
+With the real sun, it's
+totally different!
+###--------
+###Script:26
+###Mugshot:MargraveRymer
+S-Sunlight...!?
+###--------
+###Script:27
+###Mugshot:Aaron
+Here we go, everyone!!
+###--------
+###Script:28
+###Mugshot:MargraveRymer
+###--------
+###Mugshot:MargraveRymer
+Even with sunlight, the likes
+of you cannot beat me!
+###--------
+###Script:29
+###Mugshot:MargraveRymer
+Return to the dust from
+whence you came, fools!!
+###--------
+###Mugshot:MargraveRymer
+Hraaaahh!
+###--------
+###Script:30
+###Mugshot:Aaron
+Eat this!
+###--------
+###Script:31
+###Mugshot:MargraveRymer
+Gwaaaaaah!!
+###--------
+###Mugshot:MargraveRymer
+M-My Casket Armor...
+Hrrrrgh...
+###--------
+###Script:32
+###Mugshot:MegaMan
+Mega Buster!!
+###--------
+###Script:33
+###Mugshot:MargraveRymer
+M-My armor...
+It's falling off...!
+###--------
+###Script:34
+###Mugshot:Lucian
+###--------
+###Mugshot:Lucian
+Margrave Rymer...
+Looks like you're the
+one returning to dust.
+###--------
+###Script:35
+###Mugshot:MargraveRymer
+So this... is the end...
+###--------
+###Mugshot:MargraveRymer
+N-Noooooo!!
+###--------
+###Script:36
+###Mugshot:Lucian
+Thanks for the help,
+Mega Man.
+###--------
+###Script:37
+###Mugshot:MegaMan
+It's fine... You two
+helped me out, too.
+###--------
+###Mugshot:MegaMan
+More importantly,
+are you leaving already?
+###--------
+###Script:38
+###Mugshot:Lucian
+Yes, we still have business
+to take care of...
+###--------
+###Script:39
+###Mugshot:Aaron
+###--------
+###Mugshot:Aaron
+I kinda want to relax
+in this world a bit
+longer, though...
+###--------
+###Mugshot:Aaron
+It's been so long since
+I've seen the real sun!
+###--------
+###Script:40
+###Mugshot:MegaMan
+Yeah, we only just met...
+You should take it easy!
+###--------
+###Script:41
+###Mugshot:Aaron
+Right!?
+###--------
+###Mugshot:Aaron
+Lucian, let's take
+Mega Man up on that.
+###--------
+###Script:42
+###Mugshot:Lucian
+Mega Man...
+If fate allows us,
+let's meet again.
+###--------
+###Mugshot:Lucian
+We're leaving, Aaron.
+###--------
+###Script:43
+###Mugshot:Aaron
+H-Hey, Lucian!
+Hold on!
+###--------
+###Script:44
+###Mugshot:Aaron
+Let's meet again somewhere,
+Mega Man!
+###--------
+###Script:45
+###Mugshot:MegaMan
+You got it!
+###--------
+###Script:46
+###Mugshot:Aaron
+###--------
+###Mugshot:Aaron
+See ya!
+Keep the sun always
+in your heart!
+###--------
+###Script:47
+###Mugshot:MegaMan
+Lucian, Aaron...
+I'm sure... we'll meet again!
+###--------

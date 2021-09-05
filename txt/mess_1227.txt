@@ -1,0 +1,24 @@
+﻿###TextArchive:mess_1227
+###Script:0
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------
+###Script:1
+###Mugshot:Geo
+Save data <printBuffer> is corrupted
+and will be deleted.
+###Command:printBuffer buffer=0 minLength=2 padMode=leftPadZeroes
+###--------
+###Mugshot:Geo
+Deleting corrupted data...
+Do not turn off the power!
+###--------
+###Script:2
+Delete failed.
+###--------
+###Script:3
+Corrupted data has
+been deleted.
+###--------

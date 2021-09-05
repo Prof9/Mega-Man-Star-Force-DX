@@ -1,0 +1,226 @@
+﻿###TextArchive:mess_0163
+###Script:0
+###Mugshot:AaronBoreal
+Tom, I think there is a
+misunderstanding.
+###--------
+###Script:1
+###Mugshot:CygnusWing
+A-Aaron...
+###--------
+###Mugshot:CygnusWing
+I-I see you've stopped
+dancing.
+###--------
+###Script:2
+###Mugshot:AaronBoreal
+I would never steal
+anyone's invention.
+###--------
+###Script:3
+###Mugshot:CygnusWing
+###--------
+###Mugshot:CygnusWing
+P-Please don't lie. I heard
+you... You were bragging to
+the kids about the FlapPack.
+###--------
+###Script:4
+###Mugshot:4
+No, you've got it all wrong!!
+###--------
+###Script:5
+###Mugshot:6
+"The FlapPack is my
+assistant's invention."
+###--------
+###Mugshot:6
+That's what Mr. Boreal said!
+###--------
+###Script:6
+###Mugshot:5
+He said it's really good
+and he praised it!
+###--------
+###Script:7
+###Mugshot:CygnusWing
+L-Lies!
+###--------
+###Script:8
+###Mugshot:CygnusWing
+###--------
+###Mugshot:CygnusWing
+I see... You are banding
+together in an effort
+to defeat me...
+###--------
+###Script:9
+###Mugshot:AaronBoreal
+...What...
+###--------
+###Script:10
+###Mugshot:AaronBoreal
+What do I have to do to
+make you believe me?
+###--------
+###Script:11
+###Mugshot:CygnusWing
+Something you can do to
+make me believe you?
+###--------
+###Mugshot:CygnusWing
+I know. How about this?
+###--------
+###Mugshot:CygnusWing
+Aaron, I want you to
+show me some proof.
+###--------
+###Mugshot:CygnusWing
+Show me how one person
+trusts another!
+###--------
+###Script:12
+###Mugshot:AaronBoreal
+What do you want me to do?
+###--------
+###Script:13
+###Mugshot:CygnusWing
+I want you...
+###--------
+###Mugshot:CygnusWing
+to remove your helmet.
+Right here, right now.
+###--------
+###Script:14
+###Mugshot:AaronBoreal
+What!?
+###--------
+###Script:15
+###Mugshot:Woman
+Do you know what you're
+asking!?
+###--------
+###Script:16
+###Mugshot:Woman
+His helmet? But there is
+no oxygen in here!!
+###--------
+###Script:17
+###Mugshot:CygnusWing
+What if I were to say,
+###--------
+###Mugshot:CygnusWing
+"I filled this space with
+oxygen earlier"?
+###--------
+###Mugshot:CygnusWing
+Would you believe my words!?
+###--------
+###Script:18
+###Mugshot:AaronBoreal
+......
+###--------
+###Script:19
+###Mugshot:Woman
+You filled this space with
+oxygen?
+###--------
+###Mugshot:Woman
+But that's impossible!
+How?
+###--------
+###Script:20
+###Mugshot:CygnusWing
+What if I said I did it last
+night?
+###--------
+###Script:21
+###Mugshot:Woman
+No...
+###--------
+###Script:22
+###Mugshot:CygnusWing
+###--------
+###Mugshot:CygnusWing
+See, just as I thought.
+You can't trust me,
+can you?
+###--------
+###Mugshot:CygnusWing
+You have no reason to
+trust me either.
+###--------
+###Mugshot:CygnusWing
+I may be lying, and maybe
+so are you.
+###--------
+###Mugshot:CygnusWing
+You see!?
+That is how it is!
+###--------
+###Mugshot:CygnusWing
+We can't even trust our
+so-called friends!
+###--------
+###Mugshot:CygnusWing
+To say nothing of
+other people!
+###--------
+###Script:23
+###Mugshot:AaronBoreal
+You want me to take
+off my helmet?
+###--------
+###Script:24
+###Mugshot:CygnusWing
+Yes. One simple task.
+###--------
+###Mugshot:CygnusWing
+But you can't, can you?
+You won't!
+###--------
+###Script:25
+###Mugshot:AaronBoreal
+I trust you, Tom...
+###--------
+###Script:26
+###Mugshot:Woman
+M-Mr. Boreal!?
+###--------
+###Mugshot:Woman
+You're not serious...?
+###--------
+###Script:27
+###Mugshot:CygnusWing
+(There's no way he's
+going to!)
+###--------
+###Script:28
+###Mugshot:Woman
+Aaaaaaaah!!
+###--------
+###Script:29
+###Mugshot:CygnusWing
+!!!!!
+###--------
+###Script:30
+###Mugshot:AaronBoreal
+......*phoooo*
+###--------
+###Mugshot:AaronBoreal
+There really is oxygen
+in here.
+###--------
+###Mugshot:AaronBoreal
+But it's a bit thin...
+and not the best either.
+###--------
+###Script:31
+###Mugshot:Woman
+No way...
+There really is oxygen?
+###--------
+###Script:32
+###Mugshot:CygnusWing
+I-Impossible...
+###--------

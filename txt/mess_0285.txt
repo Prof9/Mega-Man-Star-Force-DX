@@ -1,0 +1,162 @@
+﻿###TextArchive:mess_0285
+###Script:0
+*riiiiiiiiing!!*<wait>
+###Command:wait frames=40
+###--------
+###Script:1
+###Mugshot:0
+I've got a call.
+###--------
+###Mugshot:0
+Hello?
+###--------
+###Script:2
+...Yo.
+###--------
+###Script:3
+###Mugshot:0
+You're that guy from before!
+###--------
+###Mugshot:0
+What do you want now!?
+###--------
+###Script:4
+Ha ha ha ha.
+###--------
+Listen good.
+I'm gonna tell you something.
+###--------
+Be careful not to get
+trashed out there.
+###--------
+Ha ha ha ha.
+###--------
+*click*
+###--------
+###Script:5
+###Mugshot:0
+He hung up.
+###--------
+###Mugshot:0
+What the heck is that
+supposed to mean?
+"Trashed"?
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Trashed?
+###--------
+###Mugshot:OmegaXis
+I have no idea either.
+###--------
+###Mugshot:OmegaXis
+Whatever. We can deal
+with him later.
+###--------
+###Mugshot:OmegaXis
+Let's just go home.
+###--------
+###Script:7
+###Mugshot:0
+Yeah...
+###--------
+###Script:8
+*beep beep beep*<wait>
+###Command:wait frames=90
+###--------
+###Script:9
+###Mugshot:0
+What's going on?
+###--------
+###Script:10
+INTRUDER ALERT!
+INTRUDER ALERT!
+###--------
+###Script:11
+INTRUDER ALERT!
+INTRUDER ALERT!
+###--------
+###Script:13
+###Mugshot:0
+Intruder?
+###--------
+###Script:14
+BEGIN IMMEDIATE DISPOSAL.
+###--------
+###Script:15
+###Mugshot:0
+Disposal? They don't mean...
+###--------
+###Script:16
+###Mugshot:0
+Me!?
+###--------
+###Script:17
+INTRUDER ALERT!
+INTRUDER ALERT!
+###--------
+###Script:18
+###Mugshot:0
+They're over here too!
+###--------
+###Mugshot:0
+I must be the one
+they're after...
+###--------
+###Mugshot:0
+But why?
+###--------
+###Mugshot:0
+Ack! And Pat!
+###--------
+###Script:19
+###Mugshot:0
+Where is he!?
+###--------
+###Mugshot:0
+No... They didn't "dispose"
+him, did they!?
+###--------
+###Script:20
+###Mugshot:OmegaXis
+Geo! That's a dead end!
+###--------
+###Script:21
+###Mugshot:OmegaXis
+Hurry!
+Put on your Visualizer!
+###--------
+###Script:22
+###Mugshot:0
+Gotcha!
+###--------
+###Script:23
+###Mugshot:0
+Ah!
+###--------
+###Script:24
+###Mugshot:0
+A wavehole!
+###--------
+###Script:25
+###Mugshot:OmegaXis
+We can escape to the
+Wave World for now!
+###--------
+###Mugshot:OmegaXis
+Hurry!!
+###--------
+###Script:26
+###Mugshot:0
+Roger!
+###--------
+###Script:27
+###Mugshot:0
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------

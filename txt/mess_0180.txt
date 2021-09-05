@@ -1,0 +1,296 @@
+﻿###TextArchive:mess_0180
+###Script:0
+###Mugshot:0
+Yes, who is it?
+###--------
+###Script:1
+###Mugshot:BobCopper
+Hmm, abnormally high levels
+of Z waves...
+###--------
+###Mugshot:BobCopper
+I'll need to do a more
+thorough search here...
+###--------
+###Script:2
+###Mugshot:BobCopper
+What on Earth is going
+on in this town??
+###--------
+###Mugshot:BobCopper
+I'm going to get to
+the bottom of this!!
+###--------
+###Script:3
+###Mugshot:0
+Th-Thief...
+A-A THIEF!!
+###--------
+###Script:4
+###Mugshot:BobCopper
+Aw, I did it again!
+###--------
+###Script:5
+###Mugshot:BobCopper
+Sorry to surprise you,
+little boy!
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+When I really get into my
+work, I kinda forget
+about my surroundings!
+###--------
+###Mugshot:BobCopper
+I'm not a thief,
+so calm down, yeah?
+###--------
+###Script:6
+###Mugshot:0
+W-Well,
+if you're not a thief,
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+then what are you doing
+randomly busting into
+people's houses like that...?
+###--------
+###Script:7
+###Mugshot:BobCopper
+The name's Bob Copper.
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+I got a lead, so I'm here
+to do some investigating
+here in your town!
+###--------
+###Script:8
+###Mugshot:0
+Investigating?
+Then, you're a police guy?
+###--------
+###Script:9
+###Mugshot:BobCopper
+Yeppers!
+###--------
+###Mugshot:BobCopper
+Now how about calming
+down, yeah?
+###--------
+###Script:10
+###Mugshot:0
+...If you're really a cop...
+###--------
+###Mugshot:0
+Then, what are you
+investigating?
+###--------
+###Script:11
+###Mugshot:BobCopper
+That incident with the
+truck recently,
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+and the thing that happened
+at AMAKEN a few days
+ago in the SpaceSim.
+###--------
+###Script:12
+###Mugshot:0
+But I thought they were
+all taken care of...
+###--------
+###Script:13
+###Mugshot:BobCopper
+Yes, that's true.
+They were.
+###--------
+###Mugshot:BobCopper
+But there's something
+they have in common.
+###--------
+###Mugshot:BobCopper
+Both sites were covered
+in Z waves.
+###--------
+###Mugshot:BobCopper
+We detected some of
+that special kind of wave,
+and I don't know what
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+kind of thing is giving
+them off, but it's my
+job to find the source.
+###--------
+###Script:14
+###Mugshot:0
+(H-He's talking about
+waves the FM-ians make!)
+###--------
+###Mugshot:0
+...S-So what if you find
+the source? Then...?
+###--------
+###Script:15
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+It's probably a bad thing
+for humans. Waves and
+radiation after all.
+###--------
+###Mugshot:BobCopper
+So, obviously I'll destroy
+it when I find it.
+###--------
+###Script:16
+###Mugshot:BobCopper
+Bang! Yeah?
+###--------
+###Script:17
+###Mugshot:0
+D-Destroy...
+###--------
+###Script:18
+###Mugshot:BobCopper
+Anyway, this area...
+No... Actually...
+###--------
+###Mugshot:BobCopper
+this house is giving off
+very strong Z waves.
+###--------
+###Mugshot:BobCopper
+You notice anything
+strange, boy?
+###--------
+###Script:19
+###Mugshot:0
+S-Strange...?
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(Telling this guy about Mega
+and the FM-ians is probably
+not such a good idea...)
+###--------
+###Script:20
+###Mugshot:BobCopper
+The other places I
+checked out, you...
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+You were at AMAKEN
+when it happened,
+right, Geo?
+###--------
+###Script:21
+###Mugshot:0
+H-How do you know my name?
+###--------
+###Script:22
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+I've put any and all info
+related to Z waves into
+my Transer as reference.
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+So, during the AMAKEN
+incident, you were exposed to
+a large quantity of Z waves...
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+I would guess that's why
+you've got Z waves coming
+out the ears from you now.
+###--------
+###Script:23
+###Mugshot:0
+R-Really?
+###--------
+###Script:24
+###Mugshot:BobCopper
+You been feeling OK?
+Nothing odd with your body?
+###--------
+###Script:25
+###Mugshot:0
+Nope!
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(It's not like I'm about to tell
+you I can fuse with an alien
+and turn into EM waves.)
+###--------
+###Script:26
+###Mugshot:BobCopper
+You telling me the truth?
+###--------
+###Mugshot:BobCopper
+Then, have you seen any
+monsters around?
+###--------
+###Script:27
+###Mugshot:0
+Nope!
+###--------
+###Mugshot:0
+(Although an alien does
+live in my Transer.)
+###--------
+###Script:28
+###Mugshot:BobCopper
+You really telling me the
+truth here?
+###--------
+###Script:29
+###Mugshot:0
+Y-Yes, sir!
+###--------
+###Script:30
+###Mugshot:BobCopper
+I see...
+###--------
+###Mugshot:BobCopper
+Well, I'll be on my way then.
+###--------
+###Mugshot:BobCopper
+Thanks for your help and
+cooperation.
+###--------
+###Script:31
+###Mugshot:0
+Y-You're welcome...
+###--------
+###Script:32
+###Mugshot:0
+Great. Someone else to
+complicate my life.
+###--------
+###Mugshot:0
+I've gotta hurry up and
+find Mega.
+###--------

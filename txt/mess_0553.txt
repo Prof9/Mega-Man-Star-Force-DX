@@ -1,0 +1,14 @@
+﻿###TextArchive:mess_0553
+###Script:10
+###Mugshot:11
+###--------
+###Mugshot:11
+Everybody's worried about
+you! Hurry and come back
+to school!
+###--------
+###Script:20
+###Mugshot:11
+I wonder if the others
+are OK...
+###--------

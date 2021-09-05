@@ -1,0 +1,104 @@
+###TextArchive:mess_1250
+###Script:0
+<printLegendForce>
+###Command:printLegendForce index=256
+###--------
+###Script:1
+<printLegendForce>
+###Command:printLegendForce index=257
+###--------
+###Script:2
+<printLegendForce>
+###Command:printLegendForce index=258
+###--------
+###Script:3
+<printLegendForce>
+###Command:printLegendForce index=259
+###--------
+###Script:4
+<printLegendForce>
+###Command:printLegendForce index=260
+###--------
+###Script:5
+<printLegendForce>
+###Command:printLegendForce index=261
+###--------
+###Script:6
+<printLegendForce>
+###Command:printLegendForce index=262
+###--------
+###Script:7
+<printLegendForce>
+###Command:printLegendForce index=263
+###--------
+###Script:8
+<printLegendForce>
+###Command:printLegendForce index=264
+###--------
+###Script:9
+<printLegendForce>
+###Command:printLegendForce index=265
+###--------
+###Script:16
+<printBrotherName>
+###Command:printBrotherName brother=1 part=0
+###--------
+###Script:17
+<printBrotherName>
+###Command:printBrotherName brother=2 part=0
+###--------
+###Script:18
+<printBrotherName>
+###Command:printBrotherName brother=3 part=0
+###--------
+###Script:19
+<printBrotherName>
+###Command:printBrotherName brother=4 part=0
+###--------
+###Script:20
+<printBrotherName>
+###Command:printBrotherName brother=5 part=0
+###--------
+###Script:21
+<printBrotherName>
+###Command:printBrotherName brother=6 part=0
+###--------
+###Script:22
+LunarKngts
+###--------
+###Script:24
+Star Force
+###--------
+###Script:25
+Star Force
+###--------
+###Script:26
+Star Force
+###--------
+###Script:32
+Leo Blazer
+###--------
+###Script:33
+PoisnApple
+###--------
+###Script:34
+SpiritFury
+###--------
+###Script:35
+GigaMine
+###--------
+###Script:36
+AntiSword
+###--------
+###Script:37
+DrgnCyclon
+###--------
+###Script:38
+PegasFreez
+###--------
+###Script:39
+????
+###--------
+###Script:41
+????
+###--------

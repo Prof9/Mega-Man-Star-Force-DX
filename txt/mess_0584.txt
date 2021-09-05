@@ -1,0 +1,428 @@
+﻿###TextArchive:mess_0584
+###Script:0
+###Mugshot:OldMan
+I have a problem...
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+The thing is... It's my
+grandson's birthday, and I
+want to get him a present.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+But, I want it to be a
+surprise, so I can't just
+come out and ask him
+###--------
+###Mugshot:OldMan
+what he wants, if you
+catch my drift...
+###--------
+###Mugshot:OldMan
+I'd like you to take a
+look inside his Transer
+without him knowing
+###--------
+###Mugshot:OldMan
+and find out what he wants.
+###--------
+###Mugshot:OldMan
+He should be over there
+playing.
+###--------
+###Script:1
+###Mugshot:OldMan
+I want to get my grandson
+a surprise birthday present.
+###--------
+###Mugshot:OldMan
+But I don't know what
+he wants.
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+Could you take a look inside
+his Transer and find out
+what he wants?
+###--------
+###Mugshot:OldMan
+He should be over there
+playing.
+###--------
+###Script:2
+###Mugshot:OldMan
+Did you find out what
+he wants?
+###--------
+###Mugshot:OldMan
+So, he wants a baseball
+glove, eh?
+###--------
+###Mugshot:OldMan
+OK! I'm gonna get him the
+best glove they make!
+###--------
+###Mugshot:OldMan
+Thank you!
+Here, have this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=100
+###--------
+###Mugshot:OldMan
+Hmm, do they sell baseball
+gloves here, I wonder.
+###--------
+###Script:3
+###Mugshot:OldMan
+Hmm, do they sell baseball
+gloves here, I wonder.
+###--------
+###Script:5
+###Mugshot:LittleBoy
+Say! You know that video
+arcade over there?
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Well, they have this really
+hard baseball game.
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+If you actually win, you get
+this really cool baseball card!
+Boy, do I want that card!
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Do you think you could beat
+it for me, and get me that
+baseball card?
+###--------
+###Script:6
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+There's this really hard
+baseball game in the
+video game arcade.
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+But if you beat it, you win
+this really cool baseball card!
+Boy, do I want that card!
+###--------
+###Mugshot:LittleBoy
+Do you think you could
+beat it for me?
+###--------
+###Script:7
+###Mugshot:LittleBoy
+Wow! It's the baseball card!
+###--------
+###Mugshot:LittleBoy
+For me?
+###--------
+Geo gave:
+"<printItem>"
+to the boy!!
+###Command:printItem item=49
+###--------
+###Mugshot:LittleBoy
+Yes! Thank you!
+###--------
+###Mugshot:LittleBoy
+You can have this!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=50
+###--------
+###Mugshot:LittleBoy
+I'm gonna show this off
+to all my friends!
+###--------
+###Script:8
+###Mugshot:LittleBoy
+I'm gonna show this off
+to all my friends!
+###--------
+###Script:10
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+How about a Nacys limited
+Mowa Mowa figure for only
+500 Zennys?
+###--------
+<positionOptionFromCenter><optionText>  Buy  <optionText>  Don't
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=51
+###--------
+###Script:11
+###Mugshot:BusinessMan
+Thank you!
+###--------
+###Script:12
+###Mugshot:Geo
+I don't have enough money.
+###--------
+###Script:13
+###Mugshot:Geo
+I'd better not.
+###--------
+###Script:20
+###Mugshot:VaughnPlatz
+Oh, it's you...
+###--------
+###Mugshot:VaughnPlatz
+I wanna thank you again
+for the other day.
+###--------
+###Mugshot:VaughnPlatz
+By the way, I'd like to ask
+a favor of you.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+I'm planning to open a
+Mowa Mowa exhibition, and
+I'm calling it, "Mowai Expo".
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+I would like to cover
+an entire wall with
+"<printCard>" cards!
+###Command:printCard card=103
+###--------
+###Mugshot:VaughnPlatz
+But I don't have enough
+of them.
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+You wouldn't, by any
+chance, happen to have,
+say, 5 or so
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+that you could give me,
+now would you? I'll definitely
+make it worth your while.
+###--------
+###Script:21
+###Mugshot:VaughnPlatz
+I'm planning to open a
+Mowa Mowa exhibition, and
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+I would like to cover
+an entire wall with
+"<printCard>" cards!
+###Command:printCard card=103
+###--------
+###Mugshot:VaughnPlatz
+But the thing is, I don't
+have enough of them.
+###--------
+###Mugshot:VaughnPlatz
+You wouldn't, by any
+chance, happen to have,
+say, 5 or so
+###--------
+###Mugshot:VaughnPlatz
+###--------
+###Mugshot:VaughnPlatz
+that you could give me,
+now would you?
+###--------
+###Script:22
+###Mugshot:VaughnPlatz
+Can you spare 5
+"<printCard>" cards?
+###Command:printCard card=103
+###--------
+<positionOptionFromCenter><optionText>  Give  <optionText>  Don't
+###Command:positionOptionFromCenter width=82
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:VaughnPlatz
+Thank you so much!
+###--------
+###Mugshot:VaughnPlatz
+This is a gift from Nacys!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Mugshot:VaughnPlatz
+I'd better start setting up!
+###--------
+###Script:23
+###Mugshot:VaughnPlatz
+Oh...
+###--------
+###Script:24
+###Mugshot:VaughnPlatz
+I'd better start setting up!
+###--------
+###Script:30
+Geo got:
+"<printItem>"!!
+###Command:printItem item=55
+###--------
+###Script:35
+There's a SorterBot!
+###--------
+It looks pretty old, and
+has lots of scratches.
+###--------
+###Mugshot:Geo
+What's a SorterBot
+doing here?
+###--------
+###Mugshot:Geo
+I'd better let Pat know...
+###--------
+###Script:51
+###Mugshot:DamianWolfe
+Hey, would you mind
+going somewhere else?
+###--------
+###Mugshot:DamianWolfe
+I hate children!
+###--------
+###Mugshot:Geo
+Huh...?
+###--------
+###Mugshot:DamianWolfe
+...Hold it.
+###--------
+###Mugshot:DamianWolfe
+There's something different
+about you.
+###--------
+###Mugshot:DamianWolfe
+Can you Wave Change?
+###--------
+###Mugshot:Geo
+Uhh, yeah. So...?
+###--------
+###Mugshot:DamianWolfe
+I see...
+###--------
+###Mugshot:DamianWolfe
+Actually, so can I.
+###--------
+###Mugshot:Geo
+Really!
+###--------
+###Mugshot:DamianWolfe
+Anyway, enough about that.
+You should get away.
+###--------
+###Mugshot:DamianWolfe
+###--------
+###Mugshot:DamianWolfe
+I always get a little
+bloodthirsty when
+there's a full moon.
+###--------
+###Mugshot:Geo
+O-OK...
+###--------
+###Mugshot:DamianWolfe
+...Hold it!
+###--------
+###Mugshot:DamianWolfe
+You can Wave Change,
+can't you?
+###--------
+###Mugshot:DamianWolfe
+###--------
+###Mugshot:DamianWolfe
+Help me calm my wild
+excitement! Battle me!
+###--------
+###Mugshot:Geo
+Are you serious?
+###--------
+###Mugshot:DamianWolfe
+I beg you!!
+###--------
+###Mugshot:Geo
+OK...but who are you anyway?
+###--------
+###Mugshot:DamianWolfe
+Me? I am Damian Wolfe.
+A gardener!
+###--------
+###Mugshot:DamianWolfe
+###--------
+###Mugshot:DamianWolfe
+Now, Wave Change!
+###--------
+###Mugshot:DamianWolfe
+We battle on the
+Wave Roads of the
+Event Stage!
+###--------
+###Script:52
+###Mugshot:DamianWolfe
+Now, Wave Change!
+###--------
+###Mugshot:DamianWolfe
+We battle on the
+Wave Roads of the
+Event Stage!
+###--------
+###Script:53
+###Mugshot:DamianWolfe
+Hey, get away from me!
+###--------
+###Mugshot:DamianWolfe
+I don't like children!!
+###--------
+###Script:60
+###--------
+Careful!! Those snakes are
+extremely venomous!
+###--------
+###Mugshot:0
+I don't think I can get to
+1F on this elevator...
+###--------
+###Script:100
+###Mugshot:0
+###--------
+###Mugshot:0
+Sonia might freak if I just
+disappeared all of a sudden.
+...I'll hold off on pulsing in.
+###--------

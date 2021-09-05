@@ -1,0 +1,57 @@
+﻿###TextArchive:mess_1109
+###Script:50
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP* I'M LOST!
+THIS SCHOOL'S TOO BIG!!
+###--------
+###Mugshot:MrHertz
+SO, UM, WHERE'S
+CLASS 1-A?
+###--------
+###Script:51
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP* I FINALLY
+GET A PIECE OF MAIL,
+###--------
+###Mugshot:MrHertz
+AND THERE'S NO ONE HERE!
+I'VE BEEN TRICKED!
+###--------
+###Script:52
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Ha ha ha... This is the
+2nd floor Wave Road.
+###--------
+###Mugshot:InfoNavi
+And if my calculations
+are correct...
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+then the floor below us
+is the 1st floor! Ha ha ha...
+###--------
+###Script:53
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Ha ha ha... This is the
+2nd floor Wave Road.
+###--------
+###Mugshot:InfoNavi
+And if my calculations
+are correct...
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+you should show up right
+about now! Ha ha ha...
+###--------

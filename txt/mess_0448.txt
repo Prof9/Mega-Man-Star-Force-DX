@@ -1,0 +1,761 @@
+﻿###TextArchive:mess_0448
+###Script:0
+ABCDE
+###--------
+###Script:4
+###Mugshot:2
+Oh, I guess you don't need
+me to explain then...
+###--------
+###Script:5
+###Mugshot:2
+Do you know about Navis?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:2
+In every Navi Card,
+there is a Navi.
+###--------
+###Mugshot:2
+They're programs but they
+can do a lot of things.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+If you swipe a card with the
+skill you need through your
+Transer, that Navi'll appear.
+###--------
+###Mugshot:2
+There are all kinds of skills
+on those cards! For example,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+if you swipe DriveMan's card
+through your Transer, he
+can drive your car.
+###--------
+###Mugshot:2
+Long ago, people could only
+have 1 Navi, but now you
+can have a lot of them
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+and use them when you
+need to, all thanks to
+the card system.
+###--------
+###Mugshot:2
+It's a really convenient age
+we live in, huh?
+###--------
+###Script:6
+###Mugshot:3
+###--------
+###Mugshot:3
+The device on your arm is
+a Transer, and in it, your
+personal information is stored.
+###--------
+###Mugshot:3
+So you shouldn't show it to
+strangers, OK?
+###--------
+###Mugshot:3
+You should only show it to
+your Brothers.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Brothers are people you
+truly trust; enough to form
+a Brother Band with them.
+###--------
+###Mugshot:3
+Oh, but when you form a
+Brother Band,
+###--------
+###Mugshot:3
+you have to tell each other
+your biggest secret!
+###--------
+###Mugshot:3
+Do you have any Brothers?
+###--------
+###Mugshot:0
+Um, no...
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Well, you have to choose
+your Brothers wisely,
+so I totally understand!
+###--------
+###Script:7
+###Mugshot:4
+###--------
+###Mugshot:4
+If you swipe a card through
+your Transer, the wave inside
+that card will be activated.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+Then, you can operate
+electronics using the EM
+wave power of that card.
+###--------
+###Mugshot:4
+Navis can become EM waves
+and control things too.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+You know, we can't see
+them, but I wonder if
+they really fly around...?
+###--------
+###Script:8
+###Mugshot:5
+Looks like we finally have
+a card shop now.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+They're still building the
+place, so I guess it'll be
+a while before it opens.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+What kind of cards do they
+sell? I'm looking forward
+to finding out too!
+###--------
+###Script:9
+###Mugshot:8
+You have Battle Cards, right?
+###--------
+###Mugshot:8
+These cards were created
+3 years ago,
+###--------
+###Mugshot:8
+to help people deal
+with the EM viruses
+that started popping up.
+###--------
+###Mugshot:8
+###--------
+###Mugshot:8
+There are all different
+kinds, so they're more
+than just to stop viruses.
+###--------
+###Mugshot:8
+You can have fun collecting
+them as well!
+###--------
+###Mugshot:8
+Oh, yeah...
+###--------
+###Mugshot:8
+###--------
+###Mugshot:8
+You can edit your card deck
+by going to the Menu Screen,
+then the Battle Card Screen.
+###--------
+###Mugshot:8
+Your equipped cards will
+be in a folder, OK?
+###--------
+###Script:10
+###Mugshot:2
+All my mom does is use the
+TeacherMan card.
+###--------
+###Mugshot:2
+Math TeacherMan's lessons
+are really hard!
+###--------
+###Mugshot:2
+They're totally yucky!
+###--------
+###Script:11
+###Mugshot:3
+There's someone I want to
+form a Brother Band with,
+###--------
+###Mugshot:3
+but I never get the
+chance to talk to him.
+###--------
+###Mugshot:3
+*sigh* What a dilemma.
+###--------
+###Script:12
+###Mugshot:4
+Waves are signals that
+we can't see...
+###--------
+###Mugshot:4
+You can't see them, but
+they're strange things.
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+There are even roads
+made out of them.
+Or so the TV tells me.
+###--------
+###Script:13
+###Mugshot:5
+Something big fell from
+the sky last night over
+at Vista Point.
+###--------
+###Mugshot:5
+What was it, I wonder...?
+###--------
+###Script:14
+###Mugshot:8
+###--------
+###Mugshot:8
+I've never seen you
+at school. Are you in a
+higher grade than me?
+###--------
+###Mugshot:8
+Or maybe you're from
+another school?
+###--------
+###Script:15
+###Mugshot:2
+Aren't there any cards
+just for fun?
+###--------
+###Script:16
+###Mugshot:3
+###--------
+###Mugshot:3
+You should only form
+Brother Bands with
+people you really trust.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Some people I know became
+Brothers with other people,
+and had their secrets leaked.
+###--------
+###Script:17
+###Mugshot:5
+I can't wait for the
+store to open!
+###--------
+###Script:18
+###Mugshot:4
+The world nowadays is
+run by wave power!
+###--------
+###Mugshot:4
+Or that's what
+they say on TV.
+###--------
+###Script:19
+###Mugshot:8
+Mr. Shepar is a popular
+teacher at our school.
+###--------
+###Mugshot:8
+He's like a big squishy bear!
+###--------
+###Script:25
+###Mugshot:2
+###--------
+###Mugshot:2
+Recently, a lot of things
+have been getting
+destroyed around town.
+###--------
+###Mugshot:2
+You've got to be careful
+when you go out at night.
+###--------
+###Script:26
+###Mugshot:3
+Things have been getting
+broken one after another.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+The only thing connecting
+these incidents is the
+color red.
+###--------
+###Mugshot:3
+Actually, your shirt's red
+too. You should probably
+be really careful.
+###--------
+###Script:27
+###Mugshot:4
+Hmm, what should I
+eat tonight?
+###--------
+###Script:28
+###Mugshot:5
+I wonder if this place will
+open soon...
+###--------
+###Mugshot:5
+Oh, I didn't know it's this
+late. Time to go home.
+###--------
+###Script:29
+###Mugshot:8
+"Mowa Mowa" is on TV
+tonight! It's the best!
+###--------
+###Mugshot:8
+I can't wait to see it!
+###--------
+###Script:40
+###Mugshot:8
+Oh man...
+###--------
+###Mugshot:0
+Um, what's wrong?
+###--------
+###Mugshot:8
+###--------
+###Mugshot:8
+Oh...
+Are you here about my
+help signal?
+###--------
+###Mugshot:8
+I was playing with my
+ball and it got stuck
+in that tree,
+###--------
+###Mugshot:8
+but we can't get up
+there to get it.
+###--------
+###Mugshot:0
+Yeah, I'd say it's stuck.
+###--------
+###Mugshot:0
+......
+###--------
+###Mugshot:0
+A place high up...
+###--------
+###Mugshot:0
+Maybe the flying guy at
+Vista Point can...
+###--------
+###Mugshot:8
+Do you know how to
+get it down?
+###--------
+###Mugshot:0
+Well, um...
+###--------
+###Mugshot:8
+Please! I'll give you
+something in return.
+###--------
+###Mugshot:8
+Please!!
+###--------
+###Mugshot:0
+A-Alright...
+###--------
+###Mugshot:0
+(Guess I have to go back
+to Vista Point...)
+###--------
+###Mugshot:0
+(I wonder if he will help us?)
+###--------
+###Script:41
+###Mugshot:8
+###--------
+###Mugshot:8
+If we can't get the ball
+back, we'll be in trouble...
+###--------
+###Mugshot:8
+Please help us get it back!
+###--------
+###Mugshot:8
+I'll even give you something
+in return!
+###--------
+###Mugshot:0
+A-Alright...
+###--------
+###Mugshot:0
+(Guess I have to go back
+to Vista Point...)
+###--------
+###Mugshot:0
+(I wonder if he will help us?)
+###--------
+###Script:42
+###Mugshot:8
+Thank you so much!!
+###--------
+###Script:44
+###Mugshot:2
+You can't reach it...
+###--------
+###Script:45
+###Mugshot:2
+That's a really cool RC!
+###--------
+###Script:46
+###Mugshot:8
+###--------
+###Mugshot:8
+If we can't get the ball
+back, we'll be in trouble...
+###--------
+###Mugshot:8
+Please help us get it back!
+###--------
+###Mugshot:8
+I'll even give you something
+in return!
+###--------
+###Mugshot:0
+A-Alright...
+###--------
+###Script:47
+###Mugshot:5
+I'm going to fly it today!
+###--------
+###Mugshot:5
+Huh?
+What am I going to fly?
+###--------
+###Mugshot:5
+That's a secret!
+###--------
+###Script:48
+###Mugshot:5
+Hmm?
+Do you need something?
+###--------
+###Mugshot:0
+Um, I was just wondering
+what that thing was.
+###--------
+###Mugshot:5
+Oh, this is an RC chopper.
+###--------
+###Mugshot:0
+It's remote-controlled?
+###--------
+###Mugshot:0
+(I can probably use this.)
+###--------
+###Mugshot:0
+Um...
+###--------
+###Mugshot:5
+Hmm? What?
+###--------
+###Mugshot:5
+You want to use this to
+get a ball down?
+###--------
+###Mugshot:0
+Please?
+###--------
+###Mugshot:5
+Hmm... Well...
+###--------
+###Mugshot:5
+I just bought another
+new RC.
+###--------
+###Mugshot:5
+So I guess I can give this
+old one to you.
+###--------
+###Mugshot:0
+Really?
+###--------
+###Mugshot:5
+For 1,000,000 Zennys,
+that is.
+###--------
+###Mugshot:0
+Whaaaaaaat!?
+###--------
+###Mugshot:5
+Ha ha, just kidding.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+It is an old RC, so I'll
+let you have it for a
+can of juice.
+###--------
+###Mugshot:5
+So how about it?
+###--------
+###Mugshot:5
+There's a vending machine
+that sells juice just behind
+the card shop, alright?
+###--------
+###Script:49
+###Mugshot:5
+It is an old RC, so I'll
+let you have it for a
+can of juice.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+There's a vending machine
+that sells juice just behind
+the card shop, alright?
+###--------
+###Script:50
+###Mugshot:5
+Oh, you're back with
+my juice!
+###--------
+###Mugshot:5
+Here's the RC,
+just like I promised.
+###--------
+###Mugshot:5
+This type needs a card
+to work. Use it well.
+###--------
+Geo got:
+"<printItem>" and
+"<printItem>"!!
+###Command:printItem item=10
+###Command:printItem item=82
+###--------
+###Script:51
+###Mugshot:5
+Use the RC with care, OK?
+###--------
+###Script:52
+It's an RC shaped like a
+chopper.
+###--------
+###Script:55
+###Mugshot:9
+I'll be waiting for you
+tomorrow.
+###--------
+###Script:56
+###Mugshot:10
+......
+###--------
+###Script:57
+###Mugshot:3
+###--------
+###Mugshot:3
+Hey... I saw something
+flying over there just now.
+###--------
+###Mugshot:3
+Was that an RC?
+###--------
+###Script:60
+###Mugshot:Woman
+I was so scared during
+the truck incident.
+###--------
+###Mugshot:Woman
+I wonder what was the
+cause of it all?
+###--------
+###Script:61
+###Mugshot:OldMan
+Umm...
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+Because of that truck
+incident, I'm afraid to
+cross the street.
+###--------
+###Mugshot:OldMan
+Nngh...
+###--------
+###Script:70
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Huh?
+You're going to AMAKEN?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+That is one popular place.
+You're so lucky you get
+to go!
+###--------
+###Script:71
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+The owner of this store...
+seems to be a big surfer...
+###--------
+###Mugshot:Boy
+The store's not open
+'cause he's at the beach.
+###--------
+###Script:72
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+You're going to AMAKEN?
+You should try their
+Shooting Star Cakes!
+###--------
+###Script:73
+###Mugshot:OldMan
+Being down by the riverside
+sure feels good.
+###--------
+###Mugshot:OldMan
+It always makes
+me doze off...
+...zzz...zzz...
+###--------
+###Script:74
+###Mugshot:Man
+###--------
+###Mugshot:Man
+There's a nice breeze today!
+Perfect day for some
+RC action!
+###--------
+###Script:100
+###Mugshot:20
+*vroooooom*
+Oh! You can see me?
+###--------
+###Mugshot:20
+I'm the Mail Navi!
+I deliver everyone's mail!
+###--------
+###Mugshot:20
+I'll be the one delivering
+mail to you today!
+###--------
+###Script:105
+###Mugshot:20
+Phew, I'm tired!
+People need to stop mailing!
+###--------
+###Script:110
+###Mugshot:20
+###--------
+###Mugshot:20
+*vroooom* I hear it's a
+crazy bull that's causing
+the truck to go nuts!
+###--------
+###Script:120
+###Mugshot:20
+*vrooooooom*
+###--------
+###Mugshot:20
+It's another perfect day!!
+###--------
+###Mugshot:20
+*vrooooooom*
+###--------
+###Script:125
+###Mugshot:20
+I'll deliver any mail, no
+matter how heavy it is!
+###--------
+###Mugshot:20
+###--------
+###Mugshot:20
+That's my motto!
+*vrooooooom*
+###--------
+###Script:250
+###Mugshot:5
+Do you know about the
+3 Satellites up there?
+###--------
+###Mugshot:5
+They're called Pegasus,
+Leo, and Dragon.
+###--------
+###Mugshot:5
+The 3 Satellites host a
+variety of Transers,
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+and Transers on the same
+Satellite are connected
+in their own network.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+But ever since the space
+station incident 3 years
+ago, they have been
+###--------
+###Mugshot:5
+in charge of stopping
+harmful EM viruses from
+landing on Earth as well.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+Anyway, people of this
+country all belong to one
+Satellite or another.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+Which Satellite do you
+belong to? I belong
+to the Dragon one!
+###--------

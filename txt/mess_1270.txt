@@ -1,0 +1,84 @@
+﻿###TextArchive:mess_1270
+###Script:0
+###Mugshot:MegaMan
+*huff, huff...*
+###--------
+###Mugshot:MegaMan
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:MegaMan
+(We beat him, but...
+This guy is on a whole
+other level!)
+###--------
+###Mugshot:OmegaXis
+Alright, start talking!
+###--------
+###Mugshot:OmegaXis
+Who are you and what's
+your beef with us!?
+###--------
+###Mugshot:Hollow
+You may think of me as
+simply an observer...
+###--------
+###Mugshot:Hollow
+And I have seen enough.
+You are strong indeed.
+###--------
+###Mugshot:Hollow
+I predict this is not the
+last time we will meet...
+###--------
+###Mugshot:Hollow
+But for now...
+I bid you farewell.
+###--------
+###Mugshot:MegaMan
+Hey, wait!
+###--------
+###Script:1
+###Mugshot:MegaMan
+...He's gone.
+###--------
+###Script:2
+###Mugshot:MegaMan
+Mega, any idea who
+that was?
+###--------
+###Mugshot:OmegaXis
+Nope. Never seen
+anyone like it.
+###--------
+###Mugshot:OmegaXis
+Not on Planet FM or
+even Planet AM.
+###--------
+###Mugshot:OmegaXis
+But you heard him.
+Better get ready for
+round 2, huh?
+###--------
+###Mugshot:MegaMan
+First the FM-ians,
+and now this...
+###--------
+###Mugshot:MegaMan
+Sometimes it feels like
+everyone is out to get me.
+###--------
+###Mugshot:OmegaXis
+Hey, look on the bright side.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Did we or didn't we just
+send him running off with
+his tail between his legs?
+###--------
+###Mugshot:OmegaXis
+If he shows up again,
+we'll just have to drive
+the message home!
+###--------

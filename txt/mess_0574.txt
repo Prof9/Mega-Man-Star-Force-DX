@@ -1,0 +1,680 @@
+﻿###TextArchive:mess_0574
+###Script:0
+###Mugshot:OmegaXis
+Hey, you don't have any
+business there!
+###--------
+###Script:5
+###Mugshot:0
+I've gotta hurry to where
+we're meeting.
+###--------
+###Script:10
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Hmm, that's odd.
+I wonder what's wrong?
+###--------
+###Mugshot:BusinessMan
+My Transer's phone seems
+to be OK...
+###--------
+###Mugshot:BusinessMan
+I was trying to call my
+customer just now, but
+I couldn't get through.
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Maybe there's something
+wrong with the reception?
+###--------
+###Mugshot:BusinessMan
+Hmm, not good at all...
+###--------
+###Script:11
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+I was trying to call my
+customer just now, but
+I couldn't get through.
+###--------
+###Mugshot:BusinessMan
+Maybe there's something
+wrong with the reception?
+###--------
+###Mugshot:BusinessMan
+Hmm, not good at all...
+###--------
+###Script:12
+###Mugshot:BusinessMan
+So here's something
+interesting.
+###--------
+###Mugshot:BusinessMan
+My phone call just now
+suddenly went through!
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+...What?
+You fixed it?
+###--------
+###Mugshot:BusinessMan
+Wow, you may be a kid,
+but you know your stuff!
+###--------
+###Mugshot:BusinessMan
+Here you go. A little
+reward for your time.
+###--------
+Geo got:
+"3500 Zennys"!!
+###--------
+###Mugshot:BusinessMan
+Now to make that call
+about my work...
+###--------
+###Script:13
+###Mugshot:BusinessMan
+Now to make that call
+about my work...
+###--------
+###Script:15
+###Mugshot:Man
+Um, could you lend a fellow
+guy an ear?
+###--------
+###Mugshot:Man
+See, lately, my girlfriend's
+been kinda cold.
+###--------
+###Mugshot:Man
+And I think she may be
+hiding something...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+What should I do? I couldn't
+stand it if she left me!
+###--------
+###Mugshot:Man
+I think my girlfriend is over
+there somewhere.
+###--------
+###Script:16
+###Mugshot:Man
+Lately, my girlfriend has
+been kinda cold.
+###--------
+###Mugshot:Man
+And I think she may be
+hiding something...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+What should I do? I couldn't
+stand it if she left me!
+###--------
+###Mugshot:Man
+I think my girlfriend is over
+there somewhere.
+###--------
+###Script:17
+###Mugshot:Man
+What? She isn't seeing
+someone else?
+###--------
+###Mugshot:Man
+She's taking cooking lessons
+for my sake?
+###--------
+###Mugshot:Man
+O-Oh...
+###--------
+###Mugshot:Man
+I'm sorry!
+I should've trusted her!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Thank you for finding out
+the truth. I feel so much
+better now.
+###--------
+###Mugshot:Man
+Here, take this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=74
+###--------
+###Mugshot:Man
+Wow, I can't wait to try
+her cooking!
+###--------
+###Script:18
+###Mugshot:Man
+Wow, I can't wait to try
+her cooking!
+###--------
+###Script:20
+###Mugshot:Woman
+Um, you haven't seen a
+ring around, have you?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+That ring is very important
+to me. It's a present
+from my boyfriend...
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+*sigh*
+I usually don't take it off
+because of how special it is...
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Oh, wait... But I did take it
+off once because I didn't
+have much of a choice.
+###--------
+###Mugshot:Woman
+I think it was when I
+went bowling...
+###--------
+###Script:21
+###Mugshot:Woman
+I lost the ring my boyfriend
+gave to me.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+*sigh*
+I usually don't take it off
+because of how special it is...
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Oh, wait... But I did take it
+off once because I didn't
+have much of a choice.
+###--------
+###Mugshot:Woman
+I think it was when I
+went bowling...
+###--------
+###Script:22
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Ah!!
+That's my ring!
+###--------
+###Mugshot:Woman
+Oh, thank goodness!!
+###--------
+###Mugshot:Woman
+And thank you for finding it!
+###--------
+Geo gave the
+"<printItem>"
+to the lady!!
+###Command:printItem item=47
+###--------
+###Mugshot:Woman
+I don't know how I would've
+faced him had he found out
+I had lost this!
+###--------
+###Mugshot:Woman
+Thank you so much!
+###--------
+###Mugshot:Woman
+Here's something for your
+time and trouble!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=101
+###--------
+###Mugshot:Woman
+Ah, this is such a
+pretty ring!
+###--------
+###Script:23
+###Mugshot:Woman
+Ah, this is such a
+pretty ring!
+###--------
+###Script:25
+###Mugshot:Girl
+Hmm? Yes...?
+###--------
+###Mugshot:Girl
+What?
+###--------
+###Mugshot:Girl
+Ah, I see...
+Ha ha ha.
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+You're very perceptive to
+have figured out that I am
+a lover of quizzes!
+###--------
+###Mugshot:Girl
+In that case,
+I will sing for you...
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+this theme song!
+*ahem*
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+Who called the Quiz Queen!
+Who called the Quiz Queen!
+###--------
+###Mugshot:Girl
+It's OK to say!
+It's OK to play!
+###--------
+###Mugshot:Girl
+Hey Hey! Ho Ho!
+Quiz Power!
+It's time to go!
+###--------
+###Mugshot:Girl
+Care to try a Quiz Battle
+with me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:26
+###Mugshot:Girl
+Care to try a Quiz Battle
+with me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:27
+###Mugshot:Girl
+Here we go! Question #1:
+###--------
+###Mugshot:Girl
+The combined Attack
+Power of a Cannon
+and a HeatBall1 is?
+###--------
+<positionOptionFromCenter><optionText>  80
+<positionOptionFromCenter><optionText>  90
+<positionOptionFromCenter><optionText>  100
+###Command:positionOptionFromCenter width=21
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=21
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=21
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+That's right!
+###--------
+###Mugshot:Girl
+OK, Question #2!
+###--------
+###Mugshot:Girl
+AMAKEN has which one
+of the following?
+###--------
+<positionOptionFromCenter><optionText>  A museum
+<positionOptionFromCenter><optionText>  A library
+<positionOptionFromCenter><optionText>  A launch pad
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=75
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+Yup!
+###--------
+###Mugshot:Girl
+Time for Question #3!
+###--------
+###Mugshot:Girl
+How many telescopes do
+they have at AMAKEN?
+###--------
+<positionOptionFromCenter><optionText>  3
+<positionOptionFromCenter><optionText>  4
+<positionOptionFromCenter><optionText>  5
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+Nice one!
+###--------
+###Mugshot:Girl
+On to Question #4!
+###--------
+###Mugshot:Girl
+Bud's last name, Bison,
+is related to what animal?
+###--------
+<positionOptionFromCenter><optionText>  Pig
+<positionOptionFromCenter><optionText>  Cow
+<positionOptionFromCenter><optionText>  Chicken
+###Command:positionOptionFromCenter width=42
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=42
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=42
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+Perfect!
+###--------
+###Mugshot:Girl
+Question #5!
+###--------
+###Mugshot:Girl
+Who's the owner of the
+card shop, BIG WAVE?
+###--------
+<positionOptionFromCenter><optionText>  Ken Suther
+<positionOptionFromCenter><optionText>  Ken South
+<positionOptionFromCenter><optionText>  Kan Suthern
+###Command:positionOptionFromCenter width=73
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=73
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=73
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+Cool!
+###--------
+###Mugshot:Girl
+Next one coming at you!
+###--------
+###Mugshot:Girl
+What number question is this?
+###--------
+<positionOptionFromCenter><optionText>  #5
+<positionOptionFromCenter><optionText>  #6
+<positionOptionFromCenter><optionText>  #7
+###Command:positionOptionFromCenter width=14
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=14
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=14
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+Very good!
+###--------
+###Mugshot:Girl
+Here's Question #7 for you!
+###--------
+###Mugshot:Girl
+3 + 4 [-] 5 + 1 = ?
+###--------
+<positionOptionFromCenter><optionText>  1
+<positionOptionFromCenter><optionText>  2
+<positionOptionFromCenter><optionText>  3
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+Yeah!
+###--------
+###Mugshot:Girl
+Question #8 is ready to go!
+###--------
+###Mugshot:Girl
+1 + 1 + 2 + 1 [-] 3 + 1...
+###--------
+###Mugshot:Girl
+How many 1's did I say
+just now?
+###--------
+<positionOptionFromCenter><optionText>  3
+<positionOptionFromCenter><optionText>  4
+<positionOptionFromCenter><optionText>  5
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+Awesome!
+###--------
+###Mugshot:Girl
+Question #9, on the line!
+###--------
+###Mugshot:Girl
+Class 5-A has how many
+students in all?
+###--------
+<positionOptionFromCenter><optionText>  9
+<positionOptionFromCenter><optionText>  10
+<positionOptionFromCenter><optionText>  11
+###Command:positionOptionFromCenter width=13
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=13
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=13
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+OK!
+###--------
+###Mugshot:Girl
+Last one! Here we go!
+Question #10:
+###--------
+###Mugshot:Girl
+Which of these cards has
+the highest Attack Power?
+###--------
+<positionOptionFromCenter><optionText>  JetAttack1
+<positionOptionFromCenter><optionText>  PowerBomb1
+<positionOptionFromCenter><optionText>  WideSword
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+N-No way! I can't believe
+you got them all right...
+###--------
+###Mugshot:Girl
+I... lost.
+###--------
+###Mugshot:Girl
+Well, this is for you,
+the winner.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Mugshot:Girl
+I bet you have more brain
+power than just that!
+###--------
+###Script:28
+###Mugshot:Girl
+Man, you should have more
+confidence!
+###--------
+###Script:29
+###Mugshot:Girl
+Buzz! Nope!
+###--------
+###Mugshot:Girl
+Ha ha, you've got a long
+way to go, buddy!
+###--------
+###Script:30
+###Mugshot:Girl
+I bet you have more brain
+power than just that!
+###--------
+###Script:35
+###Mugshot:Woman
+Huh? Why don't I try to
+be a star?
+###--------
+###Mugshot:Woman
+Tee hee hee... Do you think
+I'm pretty enough?
+###--------
+###Mugshot:Woman
+You do? Well, I guess it
+can't hurt to try...
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Do you think you could put
+in a good word with that
+talent scout for me?
+###--------
+###Script:36
+###Mugshot:Woman
+Well, I guess it can't hurt
+to try...
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Do you think you can ask
+that manager person over
+there for me?
+###--------
+###Script:40
+Geo got:
+"<printItem>"!!
+###Command:printItem item=53
+###--------
+###Script:45
+###Mugshot:BobCopper
+Hey, Geo.
+###--------
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+I picked up a strange wave
+just now, and it's coming
+from someplace nearby...
+###--------
+###Mugshot:BobCopper
+There have been
+3 anomalies,
+###--------
+###Mugshot:BobCopper
+and I've got to do
+something about them
+before anything happens!
+###--------
+###Script:46
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+I picked up a strange wave
+just now, and it's coming
+from someplace nearby...
+###--------
+###Mugshot:BobCopper
+There have been
+3 anomalies,
+###--------
+###Mugshot:BobCopper
+and I've got to do
+something about them
+before anything happens!
+###--------
+###Script:47
+###Mugshot:BobCopper
+###--------
+###Mugshot:BobCopper
+What? The waves have
+been taken care of?
+###--------
+###Mugshot:BobCopper
+You're right... The strange
+waves are gone.
+###--------
+###Mugshot:BobCopper
+Are you saying you got
+rid of them, Geo?
+###--------
+###Mugshot:BobCopper
+No? It's just my imagination?
+###--------
+###Mugshot:BobCopper
+Hmm...
+###--------
+###Mugshot:BobCopper
+Well, anyway, thanks for
+the report, kid.
+###--------
+###Mugshot:BobCopper
+Take this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=113
+###--------
+###Mugshot:BobCopper
+You sure you didn't do
+anything to it...?
+###--------
+###Script:48
+###Mugshot:BobCopper
+You sure you didn't do
+anything to it...?
+###--------

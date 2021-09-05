@@ -1,0 +1,209 @@
+﻿###TextArchive:mess_1203
+###Script:0
+###Mugshot:Jammer
+*snicker!*
+###--------
+###Mugshot:Jammer
+It's not often I get
+visitors up here.
+###--------
+###Mugshot:Jammer
+And what's this?
+You have a Transer on you.
+###--------
+###Mugshot:Jammer
+Well, you've come to
+the right Jammer.
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+If you want... I could
+change which Satellite your
+Transer is registered to.
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Normally, you can't change
+a Transer's Satellite after
+you've registered it.
+###--------
+###Mugshot:Jammer
+But I know a few tricks...
+###--------
+###Mugshot:Jammer
+Look, I'll even cut you
+a nice deal.
+###--------
+###Mugshot:Jammer
+It's not every day I get
+to do business here.
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+What do you say?
+You wanna change your
+Transer's Satellite?
+###--------
+###Mugshot:Jammer
+It'll cost you 1000z...
+###--------
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:Jammer
+Great!
+Which Satellite will it be?
+###--------
+###Script:1
+###Mugshot:Jammer
+You wanna change your
+Transer's Satellite?
+###--------
+###Mugshot:Jammer
+It'll cost you 1000z...
+###--------
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:Jammer
+Great!
+Which Satellite will it be?
+###--------
+###Script:2
+###Mugshot:Jammer
+Yeah...
+I don't think so, pal.
+###--------
+###Mugshot:Jammer
+Why don't you come back
+once you've saved up 1000z?
+###--------
+###Script:3
+<positionOptionFromCenter><optionText>  Pegasus
+<positionOptionFromCenter><optionText>  Leo
+<positionOptionFromCenter><optionText>  Dragon
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Script:4
+<positionOptionFromCenter><optionText>  Pegasus
+<positionOptionFromCenter><optionText>  Leo
+<positionOptionFromCenter><optionText>  Dragon
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Script:5
+<positionOptionFromCenter><optionText>  Pegasus
+<positionOptionFromCenter><optionText>  Leo
+<positionOptionFromCenter><optionText>  Dragon
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Script:6
+<positionOptionFromCenter><optionText>  Pegasus
+<positionOptionFromCenter><optionText>  Leo
+<positionOptionFromCenter><optionText>  Dragon
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=47
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Script:7
+###Mugshot:Jammer
+Don't want to change?
+That's fine too...
+###--------
+###Script:8
+###Mugshot:Jammer
+Pegasus it is, then!
+Gimme that Transer
+for a sec.
+###--------
+###Mugshot:Jammer
+...<wait>
+###Command:wait frames=30
+###--------
+###Mugshot:Jammer
+Done!
+Enjoy your new life
+as a Pegasus!
+###--------
+###Mugshot:Jammer
+Come back anytime you
+want your Satellite changed.
+###--------
+###Script:9
+###Mugshot:Jammer
+Leo it is, then!
+Gimme that Transer
+for a sec.
+###--------
+###Mugshot:Jammer
+...<wait>
+###Command:wait frames=30
+###--------
+###Mugshot:Jammer
+Done!
+Enjoy your new life
+as a Leo!
+###--------
+###Mugshot:Jammer
+Come back anytime you
+want your Satellite changed.
+###--------
+###Script:10
+###Mugshot:Jammer
+Dragon it is, then!
+Gimme that Transer
+for a sec.
+###--------
+###Mugshot:Jammer
+...<wait>
+###Command:wait frames=30
+###--------
+###Mugshot:Jammer
+Done!
+Enjoy your new life
+as a Dragon!
+###--------
+###Mugshot:Jammer
+Come back anytime you
+want your Satellite changed.
+###--------
+###Script:20
+###Mugshot:PegasusMagic
+...!<wait>
+###Command:wait frames=30
+###--------
+###Script:21
+<wait>
+###Command:wait frames=15
+###--------
+###Mugshot:OmegaXis
+Get outta here for now!
+###--------

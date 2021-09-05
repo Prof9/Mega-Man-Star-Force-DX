@@ -1,0 +1,128 @@
+﻿###TextArchive:mess_0216
+###Script:0
+###Mugshot:GeoNoVisualizer
+...Nngh...
+###--------
+###Script:1
+###Mugshot:GeoNoVisualizer
+...Ooonngh...
+###--------
+###Script:2
+"...Maybe you should try
+going to school again."
+###--------
+###Script:3
+###Mugshot:GeoNoVisualizer
+......
+###--------
+###Script:4
+"And I was thinking
+about casting you."
+###--------
+"For our class play,
+of course."
+###--------
+###Script:5
+###Mugshot:GeoNoVisualizer
+......
+###--------
+###Script:6
+*rustle rustle*
+###--------
+###Mugshot:GeoNoVisualizer
+(I can't sleep.)
+###--------
+###Script:7
+"If you ever want to talk,
+you know where I am."
+###--------
+###Script:8
+###Mugshot:GeoNoVisualizer
+......
+###--------
+###Script:9
+"I hope I'll see you again."
+###--------
+###Script:10
+###Mugshot:GeoNoVisualizer
+......
+###--------
+###Script:11
+###Mugshot:GeoNoVisualizer
+...Gnaagh!!
+###--------
+###Script:12
+###Mugshot:GeoNoVisualizer
+*sigh*
+###--------
+###Script:13
+###Mugshot:Geo
+I can't sleep... I keep
+thinking about school.
+###--------
+###Mugshot:Geo
+......
+###--------
+###Script:14
+"I'm sure you can find a
+new you, too, Geo!!"
+###--------
+"Let's both work hard at it!"
+###--------
+###Script:15
+###Mugshot:0
+A new me...
+###--------
+###Script:16
+###Mugshot:Geo
+I know...
+###--------
+###Mugshot:Geo
+I finally get it, Sonia...
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I can't go on like this.
+I have to change.
+###--------
+###Mugshot:Geo
+.<wait>.<wait>.<wait>Dad.
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###--------
+###Mugshot:Geo
+I've decided I...
+###--------
+###Mugshot:Geo
+I want to move forward
+with my life.
+###--------
+###Mugshot:Geo
+I'm going...
+###--------
+###Mugshot:Geo
+I'm going to try going
+to school.
+###--------
+###Script:17
+A few days later...
+###--------
+###Script:18
+###Mugshot:2
+Well, I told the school
+you're going again,
+###--------
+###Mugshot:2
+but Geo, are you
+really ready?
+###--------
+###Script:19
+###Mugshot:Geo
+I'm OK, mom.
+You don't need to worry.
+###--------
+###Mugshot:Geo
+Alright, I'm off.
+###--------

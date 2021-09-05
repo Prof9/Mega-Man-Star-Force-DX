@@ -1,0 +1,161 @@
+﻿###TextArchive:mess_0260
+###Script:0
+###Mugshot:MegaMan
+Ophiuca!!
+###--------
+###Mugshot:MegaMan
+Let Luna go now!!
+###--------
+###Script:1
+###Mugshot:QueenOphiuca
+Mega Man!!
+###--------
+###Script:2
+###Mugshot:Ophiuca
+So you show yourself
+at last, Omega-Xis.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+I could smell your stench
+coming from this girl
+from miles away.
+###--------
+###Mugshot:Ophiuca
+I thought maybe taking her
+over would force you out
+of hiding,
+###--------
+###Mugshot:Ophiuca
+and look, here you are!
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Guess you're still the
+same arrogant creep.
+###--------
+###Mugshot:OmegaXis
+I think it's time I taught
+you a lesson!
+###--------
+###Mugshot:OmegaXis
+Come on, Ophiuca!
+Take your best shot!!
+###--------
+###Script:4
+###Mugshot:Ophiuca
+Sounds like you haven't
+changed either. Hmph.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+Why don't you calm down,
+and let's talk business,
+shall we?
+###--------
+###Script:5
+###Mugshot:OmegaXis
+You wanna talk business?
+###--------
+###Script:6
+###Mugshot:Ophiuca
+That's right.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+The Andromeda Key that
+you have; why don't we
+use it together?
+###--------
+###Mugshot:Ophiuca
+We can destroy this planet,
+just the 2 of us...
+###--------
+###Mugshot:Ophiuca
+You know as well as I
+that without the Key,
+"it" won't work.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+It needs 2 items to work:
+the Key you have, and the
+controller the FM King has.
+###--------
+###Mugshot:Ophiuca
+If you join forces
+with me,
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+I can charm the FM King
+into handing the controller
+over to us.
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+And then, Planet FM's ultimate
+weapon of destruction,
+"Andromeda" will be ours!!
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Hmm, and what if I were
+to turn down your offer?
+###--------
+###Script:8
+###Mugshot:Ophiuca
+I'm afraid I'd have to
+use force on you.
+###--------
+###Mugshot:Ophiuca
+But I don't think you'll
+refuse...
+###--------
+###Script:9
+###Mugshot:OmegaXis
+And that's where you'd
+be wrong!
+###--------
+###Mugshot:OmegaXis
+I have no interest in
+ruining this planet!!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The only thing I'm interested
+in is bringing an end to all
+of you FM-ians!
+###--------
+###Script:10
+###Mugshot:Ophiuca
+Looks like I've failed in my
+negotiations.
+###--------
+###Mugshot:Ophiuca
+Now I've got to use
+brute force, it seems.
+###--------
+###Mugshot:Ophiuca
+You'll regret turning down
+my offer!!
+###--------
+###Mugshot:Ophiuca
+Hyaaaaaaa!!
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Here she comes!
+###--------
+###Script:12
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------

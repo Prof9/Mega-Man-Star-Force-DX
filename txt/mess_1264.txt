@@ -1,0 +1,757 @@
+﻿###TextArchive:mess_1264
+###Script:0
+## Mettenna
+Commonly appears in:
+[-] Train Comp
+[-] Sign Comp
+###--------
+Also appears in:
+[-] Fridge Comp
+[-] VendingMachnComp
+###--------
+###Script:1
+## Mettenna2
+Commonly appears in:
+[-] Foyer EM-Rd
+[-] Class 5-B EM-Rd
+###--------
+Also appears in:
+[-] 1F Hallway EM-Rd
+[-] Class 1-A EM-Rd
+###--------
+###Script:2
+## Mettenna3
+Commonly appears in:
+[-] Space Colny Comp
+[-] StationComp2
+###--------
+Also appears in:
+[-] Crane Comp
+[-] City Dump EM-Rd
+###--------
+###Script:3
+## CannonBase
+Commonly appears in:
+[-] Car Comp
+[-] Pitcher Comp
+###--------
+Also appears in:
+[-] Fridge Comp
+[-] Vista Pt. EM-Rd
+###--------
+###Script:4
+## MegaBase
+Commonly appears in:
+[-] Class 1-B EM-Rd
+###--------
+Also appears in:
+[-] 1F Hallway EM-Rd
+[-] Class 5-B EM-Rd
+###--------
+###Script:5
+## GigaBase
+Commonly appears in:
+[-] Scrapyard2 EM-Rd
+###--------
+Also appears in:
+[-] StationComp2
+###--------
+###Script:6
+## Melamander
+Commonly appears in:
+[-] Doghouse Comp
+[-] VendingMachnComp
+###--------
+Also appears in:
+[-] Car Comp
+[-] Video Game Comp
+###--------
+###Script:7
+## Melalizard
+Commonly appears in:
+[-] VCR Comp
+[-] Light Comp
+###--------
+Also appears in:
+[-] SchoolComp2
+[-] SchoolComp3
+###--------
+###Script:8
+## Melaleon
+Commonly appears in:
+[-] AC Mod Comp
+[-] StationComp2
+###--------
+Also appears in:
+[-] AC Mod EM-Rd
+###--------
+###Script:9
+## HotRoader
+Commonly appears in:
+[-] TruckComp1
+[-] TruckComp2
+###--------
+Also appears in:
+[-] Enormatron Comp
+###--------
+###Script:10
+## HotMotor
+Commonly appears in:
+[-] Cake Shop Comp
+[-] Enormatron Comp
+###--------
+Also appears in:
+[-] ScrapComp1
+[-] Time Sq. EM-Rd
+###--------
+###Script:11
+## HotBiker
+Commonly appears in:
+[-] StationComp2
+###--------
+###Script:12
+## Peekaboo
+Commonly appears in:
+[-] Tcket Machn Comp
+[-] Black Hole Comp
+###--------
+Also appears in:
+[-] AMAKEN Towr Comp
+[-] Telescope Comp
+###--------
+###Script:13
+## Wavyboo
+Commonly appears in:
+[-] 5-A Comp
+[-] 5-B Comp
+###--------
+Also appears in:
+[-] 1-B Comp
+[-] 1-A Comp
+###--------
+###Script:14
+## Shakyboo
+Commonly appears in:
+[-] StationComp1
+[-] Servce Mod EM-Rd
+###--------
+###Script:15
+## ZapAce
+Commonly appears in:
+[-] Exerciser Comp
+[-] Black Hole Comp
+###--------
+Also appears in:
+[-] Telescope Comp
+[-] Antenna Comp
+###--------
+###Script:16
+## ZapKing
+Commonly appears in:
+[-] Light Comp
+###--------
+Also appears in:
+[-] Class 1-B EM-Rd
+[-] Class 5-A Em-Rd
+###--------
+###Script:17
+## ZapJoker
+Commonly appears in:
+[-] Space Colny Comp
+###--------
+Also appears in:
+[-] StationComp1
+###--------
+###Script:18
+## Wibbledee
+Commonly appears in:
+[-] Exerciser Comp
+[-] Rocket Comp
+###--------
+Also appears in:
+[-] AMAKEN Fyr EM-Rd
+[-] Antenna Comp
+###--------
+###Script:19
+## Wibbledoo
+Commonly appears in:
+[-] 2F Speaker Comp
+[-] SchoolComp3
+###--------
+Also appears in:
+[-] Nacys 1F EM-Rd
+###--------
+###Script:20
+## Wibbledum
+Commonly appears in:
+[-] StationComp1
+###--------
+###Script:21
+## Crowcar
+Commonly appears in:
+[-] SpaceSimComp3
+[-] SpaceSimComp2
+###--------
+Also appears in:
+[-] Panda Comp
+[-] SpaceSimComp1
+###--------
+###Script:22
+## Crowket
+Commonly appears in:
+[-] Panda Comp
+[-] Nacys Roof EM-Rd
+###--------
+Also appears in:
+[-] Vanity Comp
+[-] Mowa Mowa Comp
+###--------
+###Script:23
+## Crowbus
+Commonly appears in:
+[-] StationComp1
+###--------
+Also appears in:
+[-] City Dump EM-Rd
+###--------
+###Script:24
+## MonoSword
+Commonly appears in:
+[-] Video Game Comp
+[-] Piano Comp
+###--------
+Also appears in:
+[-] Principal Comp
+[-] AMAKEN Grd EM-Rd
+###--------
+###Script:25
+## MonoSwordin
+Commonly appears in:
+[-] Nacys 1F EM-Rd
+[-] Enormatron Comp
+###--------
+Also appears in:
+[-] Event Stge EM-Rd
+[-] Nacys Roof EM-Rd
+###--------
+###Script:26
+## MonoSwordil
+Commonly appears in:
+[-] Service Mod Comp
+###--------
+Also appears in:
+[-] Power Mod EM-Rd
+###--------
+###Script:27
+## LuPelvis
+Commonly appears in:
+[-] Geo's LvRm EM-Rd
+[-] Echo Ridge EM-Rd
+###--------
+Also appears in:
+[-] Luna's Rm EM-Rd
+[-] Zack's Rm EM-Rd
+###--------
+###Script:28
+## LupiNatra
+Commonly appears in:
+[-] Video Game Comp
+###--------
+Also appears in:
+[-] AMAKEN Grd EM-Rd
+[-] AMAKEN Fyr EM-Rd
+###--------
+###Script:29
+## LupaDonna
+Commonly appears in:
+[-] Studio EM-Rd
+[-] 1F Speaker Comp
+###--------
+Also appears in:
+[-] Piano Comp
+###--------
+###Script:30
+## LuPavarot
+Commonly appears in:
+[-] Cake Shop Comp
+[-] Vanity Comp
+###--------
+Also appears in:
+[-] ScrapComp2
+[-] Tailor's Comp
+###--------
+###Script:31
+## LupBach
+Commonly appears in:
+[-] DeepSpace1 EM-Rd
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:32
+## DoomCount
+Commonly appears in:
+[-] BIG WAVE EM-Rd
+[-] VCR Comp
+###--------
+Also appears in:
+[-] Luna's Rm EM-Rd
+[-] Bud's Rm RM-Rd
+###--------
+###Script:33
+## DoomBomber
+Commonly appears in:
+[-] Crane Comp
+[-] Recycld Itm Comp
+###--------
+Also appears in:
+[-] Pirate Ship Comp
+[-] Drm Island EM-Rd
+###--------
+###Script:34
+## DoomPlosion
+Commonly appears in:
+[-] DeepSpace3 EM-Rd
+###--------
+###Script:35
+## BellGong
+Commonly appears in:
+[-] Pitcher Comp
+[-] Zack's Rm EM-Rd
+###--------
+Also appears in:
+[-] Geo's Rm EM-Rd
+[-] Bud's Rm EM-Rd
+###--------
+###Script:36
+## BellRef
+Commonly appears in:
+[-] Piano Comp
+[-] 1F Speaker Comp
+###--------
+###Script:37
+## BellBoxer
+Commonly appears in:
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:38
+## OctoNinja
+Commonly appears in:
+[-] 2F Hallway EM-Rd
+[-] 5-A Comp
+###--------
+Also appears in:
+[-] Gym EM-Rd
+[-] 1-A Comp
+###--------
+###Script:39
+## OctoIcer
+Commonly appears in:
+[-] Dream Park EM-Rd
+[-] Pirate Ship Comp
+###--------
+Also appears in:
+[-] ScrapComp2
+###--------
+###Script:40
+## OctoPoison
+Commonly appears in:
+[-] StationComp3
+###--------
+###Script:41
+## BoomBolt
+Commonly appears in:
+[-] 5-B Comp
+[-] Class 5-A EM-Rd
+###--------
+Also appears in:
+[-] 1-B Comp
+[-] Class 1-A EM-Rd
+###--------
+###Script:42
+## BoomSpark
+Commonly appears in:
+[-] Lighthouse Comp
+###--------
+Also appears in:
+[-] Drm Island EM-Rd
+[-] Dream Park EM-Rd
+###--------
+###Script:43
+## BoomThunder
+Commonly appears in:
+[-] StationComp3
+###--------
+###Script:44
+## Rocky
+Commonly appears in:
+[-] SchoolComp1
+[-] SchoolComp2
+###--------
+Also appears in:
+[-] SchoolComp3
+###--------
+###Script:45
+## Craggy
+Commonly appears in:
+[-] Incinerator Comp
+[-] Pirate Ship Comp
+###--------
+###Script:46
+## Cliffy
+Commonly appears in:
+[-] StationComp3
+###--------
+###Script:47
+## StreamCancro
+Commonly appears in:
+[-] SchoolComp1
+[-] SchoolComp3
+###--------
+Also appears in:
+[-] SchoolComp2
+###--------
+###Script:48
+## RiverCancro
+Commonly appears in:
+[-] Boat Comp
+[-] Drm Island EM-Rd
+###--------
+###Script:49
+## SeaCancro
+Commonly appears in:
+[-] StationComp3
+###--------
+###Script:50
+## Moaian
+Commonly appears in:
+[-] Mowa Mowa Comp
+[-] Mirror Comp
+###--------
+Also appears in:
+[-] Time Sq. EM-Rd
+[-] Mowai Comp
+###--------
+###Script:51
+## Stonehead
+Commonly appears in:
+[-] Recycld Itm Comp
+[-] Boat Comp
+###--------
+###Script:52
+## GiantFace
+Commonly appears in:
+[-] StationComp4
+###--------
+###Script:53
+## Gooey
+Commonly appears in:
+[-] Mirror Comp
+[-] Tailor's Comp
+###--------
+Also appears in:
+[-] Nacys 1F EM-Rd
+[-] Vanity Comp
+###--------
+###Script:54
+## Goopy
+Commonly appears in:
+[-] Test Mnitor Comp
+[-] Living Mod Comp
+###--------
+###Script:55
+## Gloppy
+Commonly appears in:
+[-] StationComp4
+###--------
+###Script:56
+## Lampis
+Commonly appears in:
+[-] RoboSnakeComp2
+###--------
+Also appears in:
+[-] RoboSnakeComp3
+[-] RoboSnakeComp1
+###--------
+###Script:57
+## Lucis
+Commonly appears in:
+[-] Spacesuit Comp
+[-] ScrapComp2
+###--------
+###Script:58
+## Lumis
+Commonly appears in:
+[-] StationComp4
+###--------
+###Script:59
+## PrivateMop
+Commonly appears in:
+[-] RoboSnakeComp1
+[-] Tailor's Comp
+###--------
+Also appears in:
+[-] Event Stge EM-Rd
+[-] RoboSnakeComp2
+###--------
+###Script:60
+## ColonelMop
+Commonly appears in:
+[-] Boat Comp
+[-] Spacesuit Comp
+###--------
+###Script:61
+## GeneralMop
+Commonly appears in:
+[-] StationComp4
+###--------
+###Script:62
+## RhinoHorn
+Commonly appears in:
+[-] RoboSnakeComp3
+[-] RoboSnakeComp2
+###--------
+Also appears in:
+[-] RoboSnakeComp1
+###--------
+###Script:63
+## RhinoHammer
+Commonly appears in:
+[-] Test Mnitor Comp
+###--------
+###Script:64
+## RhinoDrill
+Commonly appears in:
+[-] AC Mod Comp
+[-] StationComp4
+###--------
+###Script:65
+## TropiConga
+Commonly appears in:
+[-] Lighthouse Comp
+[-] City Dump EM-Rd
+###--------
+Also appears in:
+[-] Scrapyard1 EM-Rd
+[-] Drm Island EM-Rd
+###--------
+###Script:66
+## TropiCoppa
+Commonly appears in:
+[-] Servce Mod EM-Rd
+[-] Service Mod Comp
+###--------
+###Script:67
+## TropiCoola
+Commonly appears in:
+[-] DeepSpace3 EM-Rd
+###--------
+###Script:68
+## Junk-O
+Commonly appears in:
+[-] IsldUndrgndEM-Rd
+[-] Scrapyard1 EM-Rd
+###--------
+Also appears in:
+[-] Crane Comp
+[-] Scrapyard2 EM-Rd
+###--------
+###Script:69
+## Junk-O2
+Commonly appears in:
+[-] IsldUndrgndEM-Rd
+###--------
+###Script:70
+## Junk-O3
+Commonly appears in:
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:71
+## Fokx
+Commonly appears in:
+[-] ScrapComp3
+[-] ScrapComp1
+###--------
+###Script:72
+## CopyFokx
+Commonly appears in:
+[-] Living Mod EM-Rd
+[-] Living Mod Comp
+###--------
+###Script:73
+## GuiseFokx
+Commonly appears in:
+[-] DeepSpace3 EM-Rd
+###--------
+###Script:74
+## GreatAx
+Commonly appears in:
+[-] ScrapComp2
+[-] ScrapComp1
+###--------
+Also appears in:
+[-] ScrapComp3
+###--------
+###Script:75
+## MagnaAx
+Commonly appears in:
+[-] Power Mod EM-Rd
+###--------
+###Script:76
+## KaiserAx
+Commonly appears in:
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:77
+## Eyez
+Commonly appears in:
+[-] Living Mod Comp
+[-] Service Mod Comp
+###--------
+Also appears in:
+[-] Space Colny Comp
+[-] Spacesuit Comp
+###--------
+###Script:78
+## GuardEyez
+Commonly appears in:
+[-] DeepSpace1 EM-Rd
+###--------
+###Script:79
+## ProtectEyez
+Commonly appears in:
+[-] DeepSpace2 EM-Rd
+[-] DeepSpace3 EM-Rd
+###--------
+###Script:80
+## Magera
+Commonly appears in:
+[-] AC Mod EM-Rd
+###--------
+Also appears in:
+[-] Servce Mod EM-Rd
+[-] Spacesuit Comp
+###--------
+###Script:81
+## Mageri
+Commonly appears in:
+[-] DeepSpace1 EM-Rd
+###--------
+###Script:82
+## Magero
+Commonly appears in:
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:83
+## McCleaver
+Commonly appears in:
+[-] Service Mod Comp
+[-] Power Mod EM-Rd
+###--------
+Also appears in:
+[-] AC Mod EM-Rd
+###--------
+###Script:84
+## McDicer
+Commonly appears in:
+[-] DeepSpace1 EM-Rd
+###--------
+###Script:85
+## McLopper
+Commonly appears in:
+[-] DeepSpace3 EM-Rd
+###--------
+Also appears in:
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:86
+## Grabity
+Commonly appears in:
+[-] Living Mod EM-Rd
+###--------
+Also appears in:
+[-] Test Mnitor Comp
+###--------
+###Script:87
+## Grabotron
+Commonly appears in:
+[-] DeepSpace1 EM-Rd
+###--------
+###Script:88
+## Grabaklone
+Commonly appears in:
+[-] DeepSpace3 EM-Rd
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:89
+## Jammer
+Location unknown.
+###--------
+###Script:90
+## Taurus Fire
+Appears in:
+[-] Echo Ridge EM-Rd
+###--------
+###Script:91
+## Cygnus Wing
+Appears in:
+[-] Lab EM-Rd
+###--------
+###Script:92
+## Harp Note
+Appears in:
+[-] Vista Pt. EM-Rd
+###--------
+###Script:93
+## Libra Scales
+Appears in:
+[-] Class 5-A EM-Rd
+###--------
+###Script:94
+## Queen Ophiuca
+Appears in:
+[-] Time Sq. EM-Rd
+###--------
+###Script:95
+## Gemini Spark
+Appears in:
+[-] Dream Park EM-Rd
+###--------
+###Script:96
+## Cancer Bubble
+Appears in:
+[-] AMAKEN Fyr EM-Rd
+###--------
+###Script:97
+## Wolf Woods
+Appears in:
+[-] Event Stge EM-Rd
+###--------
+###Script:98
+## Crown Thunder
+Appears in:
+[-] City Dump EM-Rd
+###--------
+###Script:99
+## Andromeda
+Appears in:
+[-] Lab Module 2
+###--------
+###Script:100
+## Pegasus Magic
+Appears in:
+[-] DeepSpace1 EM-Rd
+###--------
+###Script:101
+## Leo Kingdom
+Appears in:
+[-] DeepSpace2 EM-Rd
+###--------
+###Script:102
+## Dragon Sky
+Appears in:
+[-] DeepSpace3 EM-Rd
+###--------
+###Script:103
+## Hollow
+Appears in:
+[-] Vista Pt. EM-Rd
+###--------

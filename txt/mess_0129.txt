@@ -1,0 +1,168 @@
+﻿###TextArchive:mess_0129
+###Script:0
+###Mugshot:Taurus
+M-Mega...
+Don't be too happy...
+###--------
+###Mugshot:Taurus
+You may have beaten me...
+###--------
+###Mugshot:Taurus
+but we'll... Andromeda K...
+for sure...
+###--------
+###Mugshot:Taurus
+Ooooooww!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+We... won...
+###--------
+###Mugshot:MegaMan
+I can't believe I...
+###--------
+###Mugshot:OmegaXis
+See, didn't I tell you to
+trust me?
+###--------
+###Mugshot:OmegaXis
+That was our power
+just now.
+###--------
+###Mugshot:MegaMan
+Our... power...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Now you get it, right?
+So give me a little more
+credit, and trust me, OK?
+###--------
+###Mugshot:MegaMan
+...OK.
+###--------
+###Mugshot:OmegaXis
+We stopped the truck,
+and beat Taurus!
+###--------
+###Mugshot:OmegaXis
+Time to skedaddle!
+###--------
+###Script:2
+###Mugshot:0
+Wait. What about
+these three?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+The FM-ian that brought
+them to this Comp Space
+is gone,
+###--------
+###Mugshot:OmegaXis
+so they'll return to the
+Real World soon.
+###--------
+###Script:4
+###Mugshot:0
+That's a relief.
+###--------
+###Mugshot:0
+By the way, what was
+Taurus talking about?
+###--------
+###Mugshot:0
+And what's this "Andromeda"?
+###--------
+###Mugshot:OmegaXis
+...Heh. It's one of their
+treasured items.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+So if you have it, then
+other FM-ians will come
+after us for it, right?
+###--------
+###Mugshot:OmegaXis
+Maybe.
+###--------
+###Mugshot:0
+Maybe!? This sounds like
+more trouble!!
+###--------
+###Mugshot:OmegaXis
+You'd be in even bigger
+trouble if they had it!
+###--------
+###Mugshot:0
+Huh??
+###--------
+###Mugshot:OmegaXis
+We'll probably face off
+against FM-ians again.
+###--------
+###Mugshot:OmegaXis
+Fight like we did just now,
+and we'll be fine.
+###--------
+###Mugshot:0
+Hey, don't say it like it
+was a piece of cake!
+###--------
+###Mugshot:OmegaXis
+Don't worry! We can do
+anything together!
+###--------
+###Mugshot:OmegaXis
+You can worry about it
+later. Let's get going!
+###--------
+###Mugshot:0
+O-OK...
+###--------
+###Script:5
+###Mugshot:0
+Come on. Ready to get
+out of here?
+###--------
+###Script:6
+###Mugshot:2
+Nngh...
+###--------
+###Mugshot:2
+B-Bud...?
+###--------
+###Script:7
+###Mugshot:0
+He's fine. He's returned
+to his normal self.
+###--------
+###Script:8
+###Mugshot:2
+D-Did you save us...?
+###--------
+###Mugshot:2
+Who are you...?
+###--------
+###Script:9
+###Mugshot:0
+Me...? I'm, uh...
+###--------
+###Script:10
+###Mugshot:0
+(Mega...)
+###--------
+###Script:11
+###Mugshot:0
+I'm, uh... I'm Mega Man!
+###--------
+###Script:12
+###Mugshot:2
+.<waitSkip>.<waitSkip>.<waitSkip>Mega Man.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------

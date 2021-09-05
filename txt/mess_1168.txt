@@ -1,0 +1,61 @@
+﻿###TextArchive:mess_1168
+###Script:100
+###Mugshot:SpeedNavi
+Whoa! Nature is so awesome!
+###--------
+###Mugshot:SpeedNavi
+I can't believe this place
+was made from trash!
+###--------
+###Mugshot:SpeedNavi
+Humans are really something
+else!
+###--------
+###Script:101
+###Mugshot:SpeedNavi
+Whoa!
+The humans are going nuts!
+###--------
+###Mugshot:SpeedNavi
+Why must they?
+Humans sure are scary
+sometimes!
+###--------
+###Script:102
+###Mugshot:MrHertz
+*OOOH BEEP*
+PARKS ARE GREAT!
+###--------
+###Mugshot:MrHertz
+I CAN FEEL ALL MY
+STRESS LEAVING ME!
+###--------
+###Script:103
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I'M SCARED...
+THE HUMANS ARE ACTING
+WEIRD ALL OF A SUDDEN.
+###--------
+###Mugshot:MrHertz
+WHAT IS THIS TURBULENT
+WAVE I FEEL...?
+###--------
+###Script:104
+###Mugshot:FighterNavi
+A picnic! Oh, I love picnics!
+###--------
+###Mugshot:FighterNavi
+Wow, parks are so cool!
+Ah, I can't help myself!
+###--------
+###Script:105
+###Mugshot:FighterNavi
+Ahh!!
+What's wrong with everyone?
+###--------
+###Mugshot:FighterNavi
+Is the strange wave the
+cause of all this?
+###--------

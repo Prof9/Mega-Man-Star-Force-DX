@@ -1,0 +1,277 @@
+﻿###TextArchive:mess_0342
+###Script:0
+###Mugshot:0
+So... This is the piece of
+my dad's station...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+You think it'll work?
+###--------
+###Script:2
+###Mugshot:0
+It doesn't look too bad,
+so I think the main system
+is probably still intact.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+But I may not know
+enough to fix it...
+###--------
+###Script:3
+...Geo?
+###--------
+I'm really surprised to
+find you here.
+###--------
+###Script:4
+###Mugshot:0
+Who's there!?
+###--------
+###Script:5
+###Mugshot:0
+M-Mr. Boreal?
+###--------
+###Script:6
+###Mugshot:0
+Why are you here?
+###--------
+###Script:7
+###Mugshot:3
+I got a call from Iver
+after you left.
+###--------
+###Mugshot:3
+He said you had asked
+him for his help.
+###--------
+###Script:8
+###Mugshot:0
+Mr. Gatte...
+###--------
+###Script:9
+###Mugshot:3
+I never knew it was hidden
+in a place like this.
+###--------
+###Mugshot:3
+Well, let's fix this up,
+shall we?
+###--------
+###Mugshot:3
+And then we've gotta
+contact NAZA...
+###--------
+###Script:10
+###Mugshot:0
+Wait! Please!
+Don't tell NAZA, Mr. Boreal!
+###--------
+###Script:11
+###Mugshot:3
+Geo, I know you feel like
+you've gotta do something,
+but let's be realistic.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+How do you plan to fight
+against Planet FM?
+###--------
+###Mugshot:3
+We don't have any way
+to fight them.
+###--------
+###Script:12
+###Mugshot:0
+I... Well...
+###--------
+###Script:13
+###Mugshot:0
+Another earthquake!?
+###--------
+###Script:14
+###Mugshot:3
+That's...
+###--------
+###Script:15
+###Mugshot:0
+It was able to make
+it down here!?
+###--------
+###Script:16
+###--------
+Hey... Who would have thought
+that such a place could
+exist underground...?
+###--------
+###Script:17
+###Mugshot:0
+Gemini!!
+###--------
+###Script:18
+###Mugshot:3
+Get back, Geo!
+###--------
+###Script:19
+###Mugshot:Gemini
+Sorry, but I'm not going
+to let you interfere.
+###--------
+###Script:20
+###Mugshot:0
+Aaaaaaaaah!!
+###--------
+###Script:21
+###Mugshot:3
+Gnaaaaaaawh!!
+###--------
+###Script:22
+###Mugshot:Gemini
+What's wrong? Why not
+change into wave form?
+###--------
+###Mugshot:Gemini
+The wave ball has changed
+this area into a wave space,
+###--------
+###Mugshot:Gemini
+so you should be able to,
+right?
+###--------
+###Mugshot:Gemini
+Heh, but if you want to
+offer me a free shot,
+###--------
+###Mugshot:Gemini
+I might just hit you with
+another electric shock.
+###--------
+###Script:23
+###Mugshot:0
+Nngh...
+###--------
+###Script:24
+###Mugshot:3
+R...Run... Geo...
+###--------
+###Script:25
+###Mugshot:0
+(If I transform, it would
+leave me wide open.)
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(My only option is to
+somehow slow him down.
+Even just a little...)
+###--------
+###Script:26
+###Mugshot:Gemini
+Now to finish you off.
+###--------
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+We wouldn't want something to
+interrupt us again because I
+was having too much fun.
+###--------
+###Script:27
+###Mugshot:0
+*gasp!*
+###--------
+###Script:28
+###Mugshot:Gemini
+See you!!
+###--------
+###Script:29
+###Mugshot:Gemini
+What!?
+###--------
+###Script:30
+###Mugshot:0
+P-Pat!
+###--------
+###Script:31
+###Mugshot:Pat
+Aaaaah!!
+###--------
+###Mugshot:Pat
+Don't... worry about... me...
+###--------
+###Mugshot:Pat
+Geo... Transform...
+Now...
+###--------
+###Script:32
+###Mugshot:0
+Gotcha!
+###--------
+###Mugshot:0
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Script:33
+###Mugshot:1
+Gemini! I'm your opponent!
+###--------
+###Mugshot:AaronBoreal
+Geo... You... What...?
+###--------
+###Script:34
+###Mugshot:Gemini
+Tsk, never fails.
+Someone always gets
+in the way.
+###--------
+###Script:35
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+Now that you're Mega Man,
+I'm through playing around.
+###--------
+###Mugshot:Gemini
+Hah!
+###--------
+###Script:36
+###Mugshot:1
+B-But how!?
+###--------
+###Script:37
+###Mugshot:GeminiSparkBlack
+I recreated this shape
+from data in my memory.
+###--------
+###Mugshot:GeminiSparkBlack
+I don't need Pat or
+his body anymore!
+###--------
+###Mugshot:GeminiSparkBlack
+Prepare yourself,
+Mega Man!
+###--------
+###Script:38
+###Mugshot:1
+Mega, he's attacking!
+###--------
+###Script:39
+###Mugshot:OmegaXis
+Don't get sloppy now!
+###--------
+###Script:40
+###Mugshot:1
+Wave Battle!
+Ride On!!
+###--------

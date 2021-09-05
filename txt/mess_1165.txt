@@ -1,0 +1,37 @@
+﻿###TextArchive:mess_1165
+###Script:0
+###Mugshot:CommonNavi
+Yippee-ki-yay!
+I'm Telly, Diehard Telly.
+###--------
+###Mugshot:CommonNavi
+I was actually thrown away
+once.
+###--------
+###Mugshot:CommonNavi
+But the woman from the
+second-hand shop found me
+and fixed me up good as new.
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+Ever since then, everyone
+calls me Diehard Telly!
+###--------
+###Mugshot:CommonNavi
+You get it?
+Because I'm still alive...?
+###--------
+###Mugshot:CommonNavi
+But you can just call
+me Telly if you want.
+'Cause that's my name!
+###--------
+###Script:20
+###Mugshot:CommonNavi
+Ooh... This is baaad...
+###--------
+###Mugshot:CommonNavi
+It's all ooover...for us...
+###--------

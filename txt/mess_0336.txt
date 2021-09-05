@@ -1,0 +1,346 @@
+﻿###TextArchive:mess_0336
+###Script:0
+###Mugshot:Taurus
+Mmrrgh...!!
+###--------
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+You're such an idiot to
+side with that human, Geo
+or whatever he's called.
+###--------
+###Mugshot:Taurus
+Never would've thought you'd
+be beaten this easily either.
+###--------
+###Mugshot:Taurus
+But then, you never stood
+a chance against us
+###--------
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+after we were given life
+again by the FM King!
+###--------
+###Mugshot:Taurus
+Mmmrrrrgh!!
+###--------
+###Script:1
+###Mugshot:Cygnus
+###--------
+###Mugshot:Cygnus
+And how nice it was of
+you to bring the traitor,
+Lyra, with you.
+###--------
+###Mugshot:Cygnus
+Will wonders never cease!
+###--------
+###Script:2
+###Mugshot:Libra
+But you're not the same
+Omega-Xis as before.
+###--------
+###Mugshot:Libra
+You took hits for Lyra
+when she was injured.
+###--------
+###Script:3
+###Mugshot:Ophiuca
+You've lost your fangs
+since coming to Earth.
+###--------
+###Mugshot:Ophiuca
+You didn't stand a chance
+against me and my fangs!
+###--------
+###Script:4
+###Mugshot:Gemini
+That's enough talk.
+###--------
+###Mugshot:Gemini
+Omega-Xis, it looks like
+you have lost.
+###--------
+###Mugshot:Gemini
+We'll be taking our prize
+now, the Andromeda Key!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+C-Curse you...
+###--------
+###Script:6
+###Mugshot:Taurus
+Mmrrrgh...
+###--------
+###Mugshot:Taurus
+Your Majesty!
+We got the Andromeda Key.
+###--------
+###Mugshot:Taurus
+Please take it!
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Urgh...
+###--------
+###Script:8
+###Mugshot:0
+Mega!!
+###--------
+###Script:9
+###Mugshot:0
+Mega... I'm sorry...
+I was wrong...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I was scared of losing
+what was precious to me,
+but I'm different now!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I'm going to fight from now
+on to protect those I love
+so I won't lose them!
+###--------
+###Script:10
+###Mugshot:Cygnus
+Oh? How brave.
+###--------
+###Mugshot:Cygnus
+But you're too late.
+###--------
+###Mugshot:Cygnus
+###--------
+###Mugshot:Cygnus
+Our ultimate weapon,
+Andromeda, is awakening
+as we speak!
+###--------
+###Script:11
+###Mugshot:Libra
+Ha ha ha ha.
+###--------
+###Mugshot:Libra
+Just the thought of it
+excites me and reminds me
+###--------
+###Mugshot:Libra
+###--------
+###Mugshot:Libra
+of the war we had with
+Planet AM where we
+crushed them!
+###--------
+###Script:12
+###Mugshot:Ophiuca
+I'll never forget the terror
+on those AM-ians' faces
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+as they were being
+eaten by Andromeda...
+Ah, those were the days...
+###--------
+###Mugshot:Ophiuca
+###--------
+###Mugshot:Ophiuca
+I'm so looking forward to
+seeing the terror on the
+humans' faces this time!
+###--------
+###Script:13
+###Mugshot:OmegaXis
+R-Run away... Geo...
+###--------
+###Mugshot:OmegaXis
+You... can't win against them...
+by yourself...
+###--------
+###Script:14
+###Mugshot:Gemini
+To think you actually care
+about a human.
+###--------
+###Mugshot:Gemini
+Now that we have the
+Andromeda Key, you are
+of no use to us,
+###--------
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+so I might as well
+finish you off.
+###--------
+###Mugshot:Gemini
+Consider this payment for
+what you did to me last time!!
+###--------
+###Script:15
+###Mugshot:Gemini
+Goodbye, traitor.
+###--------
+###Mugshot:Gemini
+Gemini Thunder!!
+###--------
+###Script:16
+###Mugshot:OmegaXis
+Is this it...?
+###--------
+###Script:17
+###Mugshot:Gemini
+Ha ha ha, how was that?
+###--------
+###Mugshot:Gemini
+...WHAT!?
+###--------
+###Script:18
+###Mugshot:OmegaXis
+Y-You fool...
+###--------
+###Script:19
+###Mugshot:0
+Y-You just said I can't
+beat them by myself,
+###--------
+###Mugshot:0
+so let's fight together...
+the two of us...
+###--------
+###Script:20
+###Mugshot:Gemini
+###--------
+###Mugshot:Gemini
+Hmph, stupid human.
+All you had to do was
+sit by and watch.
+###--------
+###Script:21
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Unn... Geo...
+You just had to follow your
+human heart, didn't you...?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You fool... But it's your
+fight, so I guess you
+can't help it...
+###--------
+###Script:22
+###Mugshot:Gemini
+Enough fooling around.
+Let's finish this!!
+###--------
+###Mugshot:Gemini
+Gemini Thunder!!
+###--------
+EM Wave Change!<wait>
+Geo Stelar,<wait>
+On<wait> The<wait> Air!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:Gemini
+Huh!?
+###--------
+###Script:23
+###Mugshot:MegaMan
+FM-ians! I'm your opponent!
+###--------
+###Script:24
+###Mugshot:OmegaXis
+You guys have been
+dead wrong about us.
+###--------
+###Script:25
+###Mugshot:Gemini
+Hmph, don't get too
+confident!
+###--------
+###Mugshot:Gemini
+We can beat you no
+matter how many times
+you are reborn...
+###--------
+###Script:26
+<wait>
+###Command:wait frames=60
+###--------
+...My warriors,
+return to me...
+###--------
+###Script:27
+###Mugshot:Gemini
+Yes, Your Majesty!
+###--------
+###Script:28
+###Mugshot:Gemini
+Sorry, but we'll need
+to postpone this.
+###--------
+###Mugshot:Gemini
+It looks like Andromeda's
+awake...
+###--------
+###Script:29
+###Mugshot:MegaMan
+Wait!
+###--------
+###Script:30
+Give it up!
+###--------
+You've got me to deal with.
+###--------
+###Script:31
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+I'm gonna have my fun
+with you before Andromeda
+gobbles you up!
+###--------
+###Script:32
+###Mugshot:OmegaXis
+Geo!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+It's been a while since
+we did any busting.
+You remember everything?
+###--------
+###Script:33
+###Mugshot:MegaMan
+I'll be fine.
+###--------
+###Script:34
+###Mugshot:OmegaXis
+Then let's kick some
+Jammer butt!!
+###--------
+###Script:35
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------
+###Script:36
+###Mugshot:Jammer
+Ready or not, here I come!
+###--------

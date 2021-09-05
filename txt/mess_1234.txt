@@ -1,0 +1,55 @@
+﻿###TextArchive:mess_1234
+###Script:0
+###Mugshot:Geo
+OK! Here we go!
+###--------
+###Script:1
+###Mugshot:Geo
+"Pitcher Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:PitcherMan
+Remember, you've gotta
+throw with all you've got.
+###--------
+###Mugshot:PitcherMan
+That's what makes a
+pitch great!
+###--------
+###Mugshot:PitcherMan
+I'll even show you, so
+get your glove ready!!
+###--------
+###Script:3
+###Mugshot:PitcherMan
+Batteeeeer up!!
+###--------
+###Script:4
+*WHOOSH*
+###--------
+###Script:5
+###Mugshot:LittleBoy
+W-Wowwww!!
+###--------
+###Script:6
+###Mugshot:LittleBoy
+He really put a lot into it...
+###--------
+###Mugshot:LittleBoy
+That isn't something just
+anyone can do!
+###--------
+###Mugshot:LittleBoy
+Thank you! I'm gonna keep
+on practicing now!
+###--------
+###Script:7
+Geo got:
+"<printCard>"!!
+###Command:printCard card=2
+###--------
+###Script:8
+###Mugshot:LittleBoy
+Wow! 95 miles per hour!
+###--------

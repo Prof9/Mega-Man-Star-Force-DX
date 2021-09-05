@@ -1,0 +1,126 @@
+﻿###TextArchive:mess_0642
+###Script:0
+###Mugshot:0
+Hmm, maybe I'll try this
+control panel.
+###--------
+Geo restored the
+control panel!!
+###--------
+###--------
+Something came out of the
+hatch in the control panel...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=2
+###--------
+###Script:1
+###Mugshot:0
+I'll restore the control panel...
+###--------
+Geo restored the
+control panel!!
+###--------
+###--------
+Something came out of the
+hatch in the control panel...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=3
+###--------
+###Script:2
+###Mugshot:0
+I'll restore the control panel...
+###--------
+Geo restored the
+control panel!!
+###--------
+###--------
+Something came out of the
+hatch in the control panel...
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=4
+###--------
+###Script:3
+Security in operation...
+###--------
+Please present your
+"<printItem>".
+###Command:printItem item=2
+###--------
+###Script:4
+Security in operation...
+###--------
+Please present your
+"<printItem>".
+###Command:printItem item=3
+###--------
+###Script:5
+Security in operation...
+###--------
+Please present your
+"<printItem>".
+###Command:printItem item=4
+###--------
+###Script:10
+This control panel is
+operating normally.
+###--------
+###Script:13
+Security in operation...
+###--------
+Please present your
+"<printItem>".
+###Command:printItem item=2
+###--------
+Geo used:
+"<printItem>"!!
+###Command:printItem item=2
+###--------
+"<printItem>" has been
+verified...
+###Command:printItem item=2
+###--------
+Security has been
+deactivated.
+###--------
+###Script:14
+Security in operation...
+###--------
+Please present your
+"<printItem>".
+###Command:printItem item=3
+###--------
+Geo used:
+"<printItem>"!!
+###Command:printItem item=3
+###--------
+"<printItem>" has been
+verified...
+###Command:printItem item=3
+###--------
+Security has been
+deactivated.
+###--------
+###Script:15
+Security in operation...
+###--------
+Please present your
+"<printItem>".
+###Command:printItem item=4
+###--------
+Geo used:
+"<printItem>"!!
+###Command:printItem item=4
+###--------
+"<printItem>" has been
+verified...
+###Command:printItem item=4
+###--------
+Security has been
+deactivated.
+###--------

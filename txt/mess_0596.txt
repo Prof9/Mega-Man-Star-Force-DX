@@ -1,0 +1,128 @@
+﻿###TextArchive:mess_0596
+###Script:0
+###Mugshot:Pat
+There's a park just up
+ahead.
+###--------
+###Mugshot:Pat
+The place I want to show
+you is in the back.
+###--------
+###Mugshot:Pat
+Well, let's go.
+###--------
+###Script:1
+###Mugshot:Pat
+The place I want to show
+you is in the back.
+###--------
+###Mugshot:Pat
+Well, let's go.
+###--------
+###Script:2
+###Mugshot:Pat
+Let's go further in, Geo.
+###--------
+###Mugshot:Pat
+I think we can talk better
+back there.
+###--------
+###Script:3
+###Mugshot:Pat
+Let's go further in, Geo.
+###--------
+###Script:4
+###Mugshot:Pat
+Thank you so much, Geo.
+###--------
+###Script:10
+###Mugshot:LittleGirl
+Oooh... I'm sooo hungry...
+###--------
+###Mugshot:LittleGirl
+I soooo want to eat
+something good right now.
+###--------
+###Script:11
+###Mugshot:OldWoman
+This is a second-hand shop.
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+If you have anything you
+don't need or want anymore,
+you can bring them right here!
+###--------
+###Script:12
+###Mugshot:BusinessMan
+Dream Island is man-made,
+you know.
+###--------
+###Mugshot:BusinessMan
+Basically, this whole area
+used to be just ocean
+waves!
+###--------
+###Script:15
+###Mugshot:LittleGirl
+Man, why is there no place
+to get some grub here?
+###--------
+###Mugshot:LittleGirl
+This is a huge problem
+for a gourmet like me!
+###--------
+###Script:16
+###Mugshot:OldWoman
+Welcome!
+###--------
+###Mugshot:OldWoman
+I have some nice
+refrigerators on sale
+for cheap!
+###--------
+###Script:17
+###Mugshot:BusinessMan
+This island was made from
+piles of garbage.
+###--------
+###Mugshot:BusinessMan
+Now, normally, "garbage"
+isn't a pretty thing,
+###--------
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+but that's why this island
+has such a pretty name like
+Dream Island, you know?
+###--------
+###Script:20
+###Mugshot:LittleGirl
+Huh? Time Square is in
+an uproar?
+###--------
+###Mugshot:LittleGirl
+Really? Maybe I should stay
+away from there then.
+###--------
+###Script:21
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+What's wrong?
+You have such a grim
+look on your face...
+###--------
+###Script:22
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Sounds like something is
+happening in Time Square.
+###--------
+###Mugshot:BusinessMan
+I just hope it doesn't
+spread over here...
+###--------

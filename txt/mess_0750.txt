@@ -1,0 +1,30 @@
+﻿###TextArchive:mess_0750
+###Script:0
+###Mugshot:MegaMan
+If I operate this control
+panel and block the path,
+###--------
+###Mugshot:MegaMan
+I may be able to stop
+the truck.
+###--------
+###Mugshot:MegaMan
+It's kinda crude, but we
+really don't have a choice!
+###--------
+###Mugshot:MegaMan
+...Hm?
+Something moved just now.
+###--------
+###Mugshot:MegaMan
+Whoa!!
+The viruses are bolting!!
+###--------
+###Script:1
+The control panel is
+working normally again.
+###--------
+###Script:2
+This control panel should
+drive the car...
+###--------

@@ -1,0 +1,194 @@
+﻿###TextArchive:mess_0236
+###Script:0
+One week after the
+wildly successful play...
+###--------
+*ding dong!!*<wait>
+###Command:wait frames=60
+###--------
+###Script:1
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+Geo!!
+Everyone's waiting for you!
+###--------
+###Script:2
+###Mugshot:Geo
+Got it!
+###--------
+###Script:3
+###Mugshot:Luna
+How long were you planning
+on making us wait!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+I took the time to personally
+come and get you. The least
+you could do is hurry up!
+###--------
+###Script:4
+###Mugshot:Geo
+I wasn't even 5 minutes.
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Besides, no one said you
+have to pick me up
+every single morning...
+###--------
+###Script:5
+###Mugshot:Luna
+I just don't want you to
+stop coming to school again!
+###--------
+###Mugshot:Luna
+Now THAT would be a
+problem!
+###--------
+###Script:6
+###Mugshot:Bud
+Yeah!
+So show the Prez some
+thanks for her kindness
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+and get ready earlier,
+got it!?
+###--------
+###Script:7
+###Mugshot:Zack
+Please wake up 30 minutes
+earlier!
+###--------
+###Script:8
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Man, you guys need to chill
+and stop pushing so hard.
+I've got my own speed, I...
+###--------
+###Script:9
+###Mugshot:Hope
+Thank you so much,
+everyone, for doing this.
+###--------
+###Script:10
+###Mugshot:Luna
+Oh, good morning,
+Ms. Stelar!
+###--------
+###Script:11
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+So how is Geo doing
+in class?
+###--------
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+He didn't go to school for so
+long, I'm afraid he might be a
+bit behind everyone else.
+###--------
+###Script:12
+###Mugshot:Luna
+You don't need to worry,
+Ms. Stelar!
+###--------
+###Mugshot:Luna
+I am the Class President
+of Class 5-A of Echo
+Elementary, Luna Platz!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+It's my duty to watch over
+all of my fellow classmates!!
+###--------
+###Mugshot:Luna
+Right, Geo?
+###--------
+###Script:13
+###Mugshot:Geo
+Uh, um, yeah...
+###--------
+###Script:14
+###Mugshot:Hope
+Oh, I see!
+###--------
+###Mugshot:Hope
+Well, I hope you will continue
+to be good friends.
+###--------
+###Script:15
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Of course we will!
+Right, Bud, Zack?
+###--------
+###Script:16
+###Mugshot:Bud
+Yeah!! 'Course!
+###--------
+###Script:17
+###Mugshot:Zack
+Certainly!
+###--------
+###Script:18
+###Mugshot:Hope
+Wow, really?
+That's great!
+###--------
+###Mugshot:Hope
+###--------
+###Mugshot:Hope
+It's nice that he's made
+such good friends!
+Oh, I'm so happy!
+###--------
+###Script:19
+###Mugshot:Luna
+OH! We have to go or
+we'll be late!!
+###--------
+###Script:20
+###Mugshot:Hope
+Well we wouldn't want that!
+###--------
+###Mugshot:Hope
+Off you guys go then!
+See you!
+###--------
+###Script:21
+###Mugshot:Luna
+Bye, Ms. Stelar!
+###--------
+###Mugshot:Luna
+Come on, let's go!!
+###--------
+###Script:22
+###Mugshot:Geo
+You sure act different
+around my mom.<wait>
+###Command:wait frames=60
+###--------
+###Script:23
+###Mugshot:Luna
+You think so?<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:Luna
+Anyway, we have to hurry
+or we'll be late!!<wait>
+###Command:wait frames=60
+###--------

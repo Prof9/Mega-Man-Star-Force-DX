@@ -1,0 +1,34 @@
+﻿###TextArchive:mess_0557
+###Script:0
+###Mugshot:3
+Where is everybody?
+###--------
+###Script:1
+###Mugshot:3
+*sigh*
+I'm tired...
+###--------
+###Script:5
+###Mugshot:3
+###--------
+###Mugshot:3
+I'm working on an extra
+credit homework assignment!
+###--------
+###Script:10
+###Mugshot:3
+Everybody went home,
+but I stayed after class
+to help clean up!
+###--------
+###Mugshot:3
+Wanna give me a hand?
+###--------
+###Script:11
+###Mugshot:3
+###--------
+###Mugshot:3
+Did you hear about some
+fight in Time Square?
+...Unbelievable!
+###--------

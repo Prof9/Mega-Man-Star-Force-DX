@@ -1,0 +1,175 @@
+﻿###TextArchive:mess_0016
+###Script:0
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This bunch...
+Hmm, nah, I'll tell you about
+white Battle Cards first.
+###--------
+###Mugshot:MegaMan
+White cards?
+###--------
+###Mugshot:OmegaXis
+Take a gander at the
+bottom screen.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+White Battle Cards are
+useful little buggers.
+###--------
+###Mugshot:OmegaXis
+No matter where they are,
+they can be paired up
+###--------
+###Mugshot:OmegaXis
+with another card,
+even different ones!
+###--------
+###Mugshot:MegaMan
+Really? Sounds like it's
+easy to combine them.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Yeah. For example,
+take this wide area
+attack, AirSpread...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Choose the Attack+10 card
+in order to add 10 to the
+Attack Power of the card.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+AirSpread hits 3 times in
+one attack, so these two
+cards are a great match.
+###--------
+###Mugshot:OmegaXis
+Plus, you can also pick
+the Sword card right
+below it.
+###--------
+###Mugshot:MegaMan
+Hmm, guess I'll give these
+combo rules a try!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Good, then what are
+we waiting for!?
+###--------
+###Script:10
+###Mugshot:OmegaXis
+This is it, kid; our
+special combo attack!
+###--------
+###Mugshot:OmegaXis
+I'm gonna tell you
+about Mega Attack.
+###--------
+###Mugshot:MegaMan
+Mega Attack!?
+###--------
+###Mugshot:OmegaXis
+Listen! Sword only
+attacks 1 square
+ahead of you,
+###--------
+###Mugshot:OmegaXis
+which means it won't
+hit the baddies.
+###--------
+###Mugshot:MegaMan
+Then, what am I
+supposed to do?
+###--------
+###Mugshot:OmegaXis
+That's where the Mega
+Attack comes in handy!
+###--------
+###Mugshot:OmegaXis
+Use AirSpread to deal
+with the two pests in
+the front first,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and then, before you use
+the Sword card, press
+Down on the +Control Pad.
+###--------
+###Mugshot:OmegaXis
+Do that, and I'll lock-on
+to the enemy.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+When I'm locked-on, a sight
+will appear on enemies in
+front or diagonal from us.
+###--------
+###Mugshot:OmegaXis
+When you see that sight,
+use the Sword card!
+###--------
+###Mugshot:OmegaXis
+We'll dash right up to
+'em and cut 'em in two!
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Okay... So before I use
+the Sword card, I push
+Down on the +Control Pad.
+###--------
+###Mugshot:MegaMan
+And when the sight
+appears, I use Sword!
+###--------
+###Mugshot:MegaMan
+OK! Let's give the
+Mega Attack a try!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+Hey, I told you to pick
+AirSpread, right?
+###--------
+###Script:21
+###Mugshot:OmegaXis
+Gotta pick AirSpread
+first, kid.
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Hey, you didn't pick
+anything yet!
+###--------
+###Script:23
+###Mugshot:OmegaXis
+Hey, you're forgetting
+the Attack+10.
+###--------
+###Script:24
+###Mugshot:OmegaXis
+Gotta pick the Sword
+card, too, kid.
+###--------
+###Script:25
+###Mugshot:OmegaXis
+Hey, you can't run
+away now!
+###--------

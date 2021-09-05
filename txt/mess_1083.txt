@@ -1,0 +1,82 @@
+﻿###TextArchive:mess_1083
+###Script:50
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+THIS SUDDENLY POPPED
+INTO MY HEAD, BUT...
+###--------
+###Mugshot:MrHertz
+YOU KNOW ABOUT
+SATELLITES, RIGHT?
+###--------
+###Mugshot:MrHertz
+THEY'RE MOSTLY KINDA
+SMALL AND GET DRAGGED
+ALONG, RIGHT?
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+THEY LOOK LIKE THEY
+COULD FLOAT OFF INTO
+SPACE AT ANY SECOND.
+###--------
+###Mugshot:MrHertz
+*BEEP*
+UM... THAT'S IT.
+...*BEEP BEEP*
+###--------
+###Script:100
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Oh, no... According to my
+analysis, this is a dead end.
+###--------
+###Mugshot:InfoNavi
+Oh, no...
+###--------
+###Script:101
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Oh, no... According to my
+analysis, the humans are
+in big trouble.
+###--------
+###Mugshot:InfoNavi
+On top of that, I am lost.
+###--------
+###Mugshot:InfoNavi
+Oh, no...
+###--------
+###Script:102
+###Mugshot:MrHertz
+I DECLARE THAT
+MR. DUBIUS HAS...
+###--------
+###Mugshot:MrHertz
+BAD POSTURE!
+###--------
+###Mugshot:MrHertz
+NOW POSE FOR ME!
+###--------
+###Script:103
+###Mugshot:MrHertz
+I DECLARE THAT
+MR. DUBIUS HAS...
+###--------
+###Mugshot:MrHertz
+A BAD HAIRCUT!
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+AND THE HUMANS SEEM
+TO BE CONFUSED!
+*BEEP BEEP*
+###--------

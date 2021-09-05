@@ -1,0 +1,321 @@
+﻿###TextArchive:mess_0512
+###Script:0
+NO ENTRY BEYOND THIS
+POINT.
+###--------
+###Script:1
+This door is locked and
+can't be opened!!
+###--------
+###Script:5
+###Mugshot:Man
+Uh? How did you get
+back here!?
+###--------
+###Script:10
+###Mugshot:LittleGirl
+Heeey!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I have some homework to do
+on space, but it's hard and I
+don't know much about space.
+###--------
+###Mugshot:LittleGirl
+Could you help me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I have some homework to do
+on space, but it's hard and I
+don't know much about space.
+###--------
+###Mugshot:LittleGirl
+Could you help me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+###Mugshot:LittleGirl
+OK, can you help me with
+these questions?
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+What's that thing in
+space that sucks in
+everything around it?
+###--------
+<positionOptionFromCenter><optionText>  A manhole
+
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=2 down=1 left=0 right=0
+###--------
+<positionOptionFromCenter><optionText>  A white hole
+
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=2 left=1 right=1
+###--------
+<positionOptionFromCenter><optionText>  A black hole
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleGirl
+Wow! That's great!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+OK, how many of those
+special Satellites are
+there orbiting the Earth?
+###--------
+<positionOptionFromCenter><optionText>  2
+
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=2 down=1 left=0 right=0
+###--------
+<positionOptionFromCenter><optionText>  3
+
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=0 down=2 left=1 right=1
+###--------
+<positionOptionFromCenter><optionText>  4
+###Command:positionOptionFromCenter width=7
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleGirl
+Wow! That's great!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+OK, I know two of them are
+called Dragon and Pegasus.
+What is the third one called?
+###--------
+<positionOptionFromCenter><optionText>  Taurus
+
+###Command:positionOptionFromCenter width=39
+###Command:optionText up=2 down=1 left=0 right=0
+###--------
+<positionOptionFromCenter><optionText>  Leo
+
+###Command:positionOptionFromCenter width=39
+###Command:optionText up=0 down=2 left=1 right=1
+###--------
+<positionOptionFromCenter><optionText>  Lupus
+###Command:positionOptionFromCenter width=39
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:LittleGirl
+Wow! That's great!
+###--------
+###Mugshot:LittleGirl
+Now I should get an A on
+my homework!
+###--------
+###Mugshot:LittleGirl
+Thanks for the help.
+Take this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=67
+###--------
+###Mugshot:LittleGirl
+If I get more homework,
+I'll call on you!
+###--------
+###Script:13
+###Mugshot:LittleGirl
+Aw, dude, some pal you are!
+###--------
+###Script:14
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+...Hmmm? That seems wrong
+to me, and I don't even
+know much about space.
+###--------
+###Script:15
+###Mugshot:LittleGirl
+If I get more homework,
+I'll call on you!
+###--------
+###Script:20
+###Mugshot:Worker
+What could be the problem...?
+###--------
+###Mugshot:Worker
+Argh! The black hole
+generator is acting up again.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+This is the second time it's
+done this recently. I can't
+figure out what's causing it.
+###--------
+###Script:21
+###Mugshot:Worker
+Argh! The black hole
+generator is acting up again.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+This is the second time it's
+done this recently. I can't
+figure out what's causing it.
+###--------
+###Script:22
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+You won't believe it, but I
+was looking at the black hole
+generator just now,
+###--------
+###Mugshot:Worker
+and it seems to have
+fixed itself!
+###--------
+###Mugshot:Worker
+Huh? You fixed it?
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I dunno how you did it,
+but you sure know your
+way around machinery.
+###--------
+###Mugshot:Worker
+Here, take this!
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=16
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Why don't you think about
+becoming an engineer one day
+and coming here to work?
+###--------
+###Script:23
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Why don't you think about
+becoming an engineer one day
+and coming here to work?
+###--------
+###Script:30
+###Mugshot:TomDubius
+W-Why are you staring at
+me like that...?
+###--------
+###Mugshot:TomDubius
+Is this the FlapPack?
+###--------
+###Mugshot:TomDubius
+Y-Yes... it is.
+###--------
+###Mugshot:TomDubius
+I'm thinking about upgrading it.
+I-I want to give it hovering
+capabilities...
+###--------
+###Mugshot:TomDubius
+###--------
+###Mugshot:TomDubius
+But, I'm not really sure how
+to do it.
+###--------
+###Mugshot:TomDubius
+###--------
+###Mugshot:TomDubius
+I wish there were someone
+who could give me some
+good advice...
+###--------
+###Script:31
+###Mugshot:TomDubius
+I'm thinking about upgrading it.
+I-I want to give it hovering
+capabilities...
+###--------
+###Mugshot:TomDubius
+###--------
+###Mugshot:TomDubius
+But, I'm not really sure how
+to do it.
+###--------
+###Mugshot:TomDubius
+###--------
+###Mugshot:TomDubius
+I wish there were someone
+who could give me some
+good advice...
+###--------
+###Script:32
+###Mugshot:PropellerMan
+*whirl!*
+###--------
+###Mugshot:PropellerMan
+Did you say you were looking
+for a hover expert!?
+###--------
+###Mugshot:TomDubius
+T-That card...
+###--------
+###Mugshot:PropellerMan
+Listen, what that FlapPack
+needs is a propeller!
+###--------
+###Mugshot:PropellerMan
+That'll give you hover power!
+###--------
+###Mugshot:TomDubius
+I-I see!
+I hadn't thought about that!
+###--------
+###Mugshot:TomDubius
+###--------
+###Mugshot:TomDubius
+T-Thank you very much!
+###--------
+###Mugshot:TomDubius
+P-Please accept this.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=78
+###--------
+###Mugshot:TomDubius
+I'll get to work on it
+right away!
+###--------
+###Script:33
+###Mugshot:TomDubius
+I'll get to work on it
+right away!
+###--------

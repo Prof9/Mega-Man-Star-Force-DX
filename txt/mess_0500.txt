@@ -1,0 +1,680 @@
+﻿###TextArchive:mess_0500
+###Script:0
+###Mugshot:OmegaXis
+Yo, don't you have to go
+see that Boreal guy?
+###--------
+###Script:1
+###Mugshot:2
+Geo, can I have a moment?
+###--------
+###Script:5
+It won't open!!
+###--------
+###Script:10
+###Mugshot:Girl
+What are you looking at?
+###--------
+###Mugshot:Girl
+Huh? Is there something
+wrong with my mail?
+###--------
+###Mugshot:Girl
+Like, yeah, there is!
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+When I try to send mail,
+it doesn't seem to get
+to the recipient.
+###--------
+###Mugshot:Girl
+It's like, so annoying!
+###--------
+###Script:11
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+When I try to send mail,
+it doesn't seem to get
+to the recipient.
+###--------
+###Mugshot:Girl
+It's like, so annoying!
+###--------
+###Script:12
+###Mugshot:Girl
+Huh? My mail is fixed?
+###--------
+###Mugshot:Girl
+Like, that's so unbelievable!
+###--------
+###Mugshot:Girl
+OK, lemme try it out...
+###--------
+###Mugshot:Girl
+......
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+Like, omigawd!
+It works now!
+###--------
+###Mugshot:Girl
+You're totally cool!
+I want you to have this.
+###--------
+Geo got:
+"1000 Zennys"!!
+###--------
+###Mugshot:Girl
+Thnx! I was like so
+disconnected!
+###--------
+###Script:13
+###Mugshot:Girl
+Thnx! I was like so
+disconnected!
+###--------
+###Script:20
+###Mugshot:OldWoman
+...*sigh*...
+###--------
+###Mugshot:OldWoman
+This big city life is too
+much for me.
+###--------
+###Mugshot:OldWoman
+Hiya, sonny.
+Did you need something?
+###--------
+###Mugshot:OldWoman
+...Am I alright?
+Well no, not really.
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I'm not from around here,
+and I dunno a thing about
+the big city...
+###--------
+###Mugshot:OldWoman
+You're from around here,
+aren't you?
+###--------
+###Mugshot:OldWoman
+Is it OK if I ask you a
+few questions?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:21
+###Mugshot:OldWoman
+I dunno a thing about the
+big city...
+###--------
+###Mugshot:OldWoman
+You're from around here,
+aren't you?
+###--------
+###Mugshot:OldWoman
+Is it OK if I ask you a
+few questions?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:22
+###Mugshot:OldWoman
+So tell me, sonny...
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+these cards that you use
+to drive cars and turn on
+the TV and such;
+###--------
+###Mugshot:OldWoman
+what's that whole system
+called again?
+###--------
+<positionOptionFromCenter><optionText>  Card Force
+
+###Command:positionOptionFromCenter width=67
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+<positionOptionFromCenter><optionText>  Chip Force
+###Command:positionOptionFromCenter width=67
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Mugshot:OldWoman
+Hoh... I see...
+###--------
+###Mugshot:OldWoman
+OK, next...
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+That special connection
+that only truly close
+friends can have;
+###--------
+###Mugshot:OldWoman
+what do they call that?
+###--------
+<positionOptionFromCenter><optionText>  Mega Band
+
+###Command:positionOptionFromCenter width=80
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+<positionOptionFromCenter><optionText>  Brother Band
+###Command:positionOptionFromCenter width=80
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Mugshot:OldWoman
+Hoh, now I see.
+###--------
+###Mugshot:OldWoman
+OK, next...
+###--------
+###Mugshot:OldWoman
+And when two people
+want to join each other's
+Brother Band,
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+what's the thing that they
+tell each other?
+###--------
+<positionOptionFromCenter><optionText>  A secret
+
+###Command:positionOptionFromCenter width=55
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+<positionOptionFromCenter><optionText>  Their age  
+###Command:positionOptionFromCenter width=55
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Mugshot:OldWoman
+Hoh, now I see.
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Thank you, sonny.
+Now I know a little bit more
+about life in the big city.
+###--------
+###Mugshot:OldWoman
+This is for your time.
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=124
+###--------
+###Mugshot:OldWoman
+Maybe you can teach me
+more another time.
+###--------
+###Script:23
+###Mugshot:OldWoman
+I'm sorry to hear that...
+###--------
+###Script:24
+###Mugshot:OldWoman
+Are you trying put one
+over on me?
+###--------
+###Script:25
+###Mugshot:OldWoman
+Maybe you can teach me
+more another time.
+###--------
+###Script:27
+###Mugshot:Worker
+Oh, what have I done!?
+###--------
+###Mugshot:Worker
+I'm sorry, I can't talk right
+now.
+###--------
+###Mugshot:Worker
+I'm about to lose my job
+because the very expensive
+antenna that's on the roof
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+is broken!
+I can't get it to work.
+###--------
+###Script:28
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I'm about to lose my job
+because the very expensive
+antenna that's on the roof
+###--------
+###Mugshot:Worker
+is broken!
+I can't get it to work.
+###--------
+###Script:29
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Ohh! It's a miracle! I can't
+believe you really did it!
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+You saved my career from
+utter and total destruction!
+Even science needs miracles!
+###--------
+###Mugshot:Worker
+This is from me!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=99
+###--------
+###Mugshot:Worker
+This case is closed!
+###--------
+###Script:30
+###Mugshot:Worker
+This case is closed!
+###--------
+###Script:35
+###Mugshot:ChrysGolds
+Hello, I remember you...
+You're Sonia's...
+###--------
+###Mugshot:ChrysGolds
+Hmm? What am I doing here?
+###--------
+###Mugshot:ChrysGolds
+Well, er, um, ever since
+Sonia left, I've been low
+on work.
+###--------
+###Mugshot:ChrysGolds
+So, I'm pretty much acting
+as a talent scout right now.
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+Say, you wouldn't happen
+to know any talented,
+cute, young girls
+###--------
+###Mugshot:ChrysGolds
+who could take Sonia's place
+now, would you?
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+I'd love for you to help me
+out and do some scouting
+for me! Whaddaya say?
+###--------
+###Script:36
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+I'm looking for some talented,
+cute, young girls who could
+take Sonia's place.
+###--------
+###Mugshot:ChrysGolds
+###--------
+###Mugshot:ChrysGolds
+I'd love for you to help me
+out and do some scouting
+for me in Time Square.
+###--------
+###Mugshot:ChrysGolds
+...I'll even pay you!
+###--------
+###Script:37
+###Mugshot:ChrysGolds
+Oh!? Did you find anyone
+promising?
+###--------
+###Mugshot:ChrysGolds
+Wow, you work fast!!
+I'm impressed...
+###--------
+###Mugshot:ChrysGolds
+This is for you.
+###--------
+Geo got:
+"7000 Zennys"!!
+###--------
+###Mugshot:ChrysGolds
+You said she's in
+Time Square?
+###--------
+###Mugshot:ChrysGolds
+OK, I'm on my way.
+###--------
+###Script:38
+###Mugshot:ChrysGolds
+You said she's in
+Time Square?
+###--------
+###Mugshot:ChrysGolds
+OK, I'm on my way.
+###--------
+###Script:39
+###Mugshot:ChrysGolds
+I'm always looking for a
+"golden goose".
+###--------
+###Script:51
+###Mugshot:LegendaryMasterShin
+I'm the famous
+Legendary Master Shin!!
+###--------
+###Mugshot:LegendaryMasterShin
+I decide what becomes
+Legendary and what
+doesn't!
+###--------
+###Mugshot:LegendaryMasterShin
+Oh yeah!
+And I feel there's something
+very special about you!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+You haven't done anything...
+...Legendary lately, have you?
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Because that would most
+certainly require my
+attention!
+###--------
+###Mugshot:LegendaryMasterShin
+We'll be in touch...
+###--------
+###Mugshot:LegendaryMasterShin
+Legendary!
+###--------
+###Script:54
+###Mugshot:LegendaryMasterShin
+I'm sorry to hear that.
+###--------
+###Script:55
+###Mugshot:LegendaryMasterShin
+...Hm?
+###--------
+###Mugshot:LegendaryMasterShin
+Do you want to be
+Brothers with me again?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No 
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:57
+###Mugshot:LegendaryMasterShin
+Come, if you'd like!!
+###--------
+###Script:58
+###Mugshot:LegendaryMasterShin
+Your Brother Band is full..
+###--------
+###Script:59
+###Mugshot:LegendaryMasterShin
+Oh... Well, maybe some
+other time...
+###--------
+###Script:65
+###Mugshot:LegendaryMasterShin
+You!
+###--------
+###Mugshot:LegendaryMasterShin
+I can feel your
+Legendary soul!
+###--------
+###Mugshot:LegendaryMasterShin
+But, you'll need
+3000 Zennys to sign up...
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+<optionButtonWide><optionButtonWide><optionButtonWide>Why don't you change
+your Personal Best Combo
+into a Legend Card?
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Pay 3000 Zennys"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Legend Card?"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Quit"
+###--------
+Geo got:
+"<printBestComboBuffer>"!!
+###Command:printBestComboBuffer
+###--------
+###Mugshot:LegendaryMasterShin
+Legendary!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Your Personal Best Combo
+has been changed into a
+Legend Card!
+###--------
+###Mugshot:LegendaryMasterShin
+See you...
+###--------
+###Mugshot:LegendaryMasterShin
+Legendary!
+###--------
+###Script:66
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Huh! Not Legendary
+material at all!
+###--------
+###Script:67
+###Mugshot:LegendaryMasterShin
+OK!... But wait! You don't
+have enough Zennys!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+To change something into
+a Legend Card, you'll need
+3000 Zennys! Sorry!
+###--------
+###Script:68
+###Mugshot:LegendaryMasterShin
+OK!... But you haven't
+even equipped a
+Personal Best Combo yet!
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Go to your Best Combo
+Screen and do that first!
+###--------
+###Script:69
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+OK!... But you already have
+10 Legend Cards! That's the
+max number you can have!
+###--------
+###Mugshot:LegendaryMasterShin
+Why don't you try giving a
+few to your Brothers
+###--------
+###Mugshot:LegendaryMasterShin
+or using them in battles,
+and then come back!
+###--------
+###Script:70
+###Mugshot:LegendaryMasterShin
+When you take your Personal
+Best Combo and convert it
+into a Battle Card,
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+you've created a powerful
+card; a Legend Card!
+###--------
+###Mugshot:LegendaryMasterShin
+A Legend Card records your
+Personal Best Combo data,
+###--------
+###Mugshot:LegendaryMasterShin
+and is then used to initiate
+that Personal Best Combo.
+###--------
+###Mugshot:LegendaryMasterShin
+But! Only 1 Legend Card
+can be used per battle!
+###--------
+###Mugshot:LegendaryMasterShin
+Also beware of this!
+###--------
+###Mugshot:LegendaryMasterShin
+Legend Cards shatter
+after one use.
+###--------
+###Mugshot:LegendaryMasterShin
+When you make a Legend
+Card, make sure you put
+it in your card box
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+and only put it in your
+folder when you think
+you will need it.
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+You can have a maximum
+of 10 Legend Cards in
+your card box at once!
+###--------
+###Mugshot:LegendaryMasterShin
+You can also give
+them to your Brothers.
+###--------
+###Mugshot:LegendaryMasterShin
+###--------
+###Mugshot:LegendaryMasterShin
+Master their use, and
+something Legendary
+is bound to happen!
+###--------
+###Script:91
+###Mugshot:Worker
+Oh, where is it?
+Where is it!?
+###--------
+###Mugshot:Worker
+Ken is going to chew
+me out over this...
+###--------
+###Mugshot:Geo
+Um, excuse me?
+Are you talking about
+Mr. Suther?
+###--------
+###Mugshot:Worker
+...Hm?
+Ken sent you?
+###--------
+###Script:92
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I was supposed to deliver
+this "<printItem>", but I must
+have dropped it somewhere.
+###Command:printItem item=84
+###--------
+###Mugshot:Worker
+In my haste, I took a
+nasty tumble down the
+stairs earlier.
+###--------
+###Mugshot:Worker
+Maybe you could help
+me look?
+###--------
+###Script:93
+###Mugshot:Worker
+Hey, you found the
+"<printItem>"!
+###Command:printItem item=84
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Go ahead and take it.
+You're going back to
+Echo Ridge anyway, right?
+###--------
+###Script:94
+###Mugshot:Worker
+Tell Ken I said hi!
+Oh, and sorry for
+the wait, too.
+###--------
+###Script:101
+I can't go in now.
+###--------
+###Script:200
+###Mugshot:Worker
+<optionButtonSmall><optionButtonSmall>I have Sub Cards.
+Want a look?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+Please come back again
+sometime!
+###--------
+###Script:202
+###Mugshot:Worker
+Sorry, I'm all sold out...
+###--------

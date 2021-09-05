@@ -1,0 +1,74 @@
+﻿###TextArchive:mess_0187
+###Script:0
+The next morning...
+###--------
+###Script:1
+Unngh...
+###--------
+###Script:2
+###Mugshot:GeoNoVisualizer
+Morning...already...?
+###--------
+###Mugshot:GeoNoVisualizer
+......Mega?
+###--------
+###Script:3
+###Mugshot:OmegaXis
+I'm here today.
+###--------
+###Script:4
+*ding dong!*<waitOWVar>
+###Command:waitOWVar variable=1 value=2
+###--------
+###Script:5
+###Mugshot:GeoNoVisualizer
+Someone's here.
+###--------
+###Mugshot:GeoNoVisualizer
+But mom'll get the door...
+Wait!
+###--------
+###Mugshot:GeoNoVisualizer
+Mom's got her part-time
+job again today.
+###--------
+###Mugshot:GeoNoVisualizer
+Guess I have to go
+answer it...
+###--------
+###Mugshot:GeoNoVisualizer
+...Why does this feel so
+familiar...?
+###--------
+###Script:6
+###Mugshot:Geo
+What am I going to do if
+it's that man again?
+###--------
+###Mugshot:Geo
+Mega's here with me today...
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Heh, if it's him, I'll give
+him a nice little nap.
+###--------
+###Script:8
+*ding dong!*<waitOWVar>
+*ding dong!*<waitOWVar>
+###Command:waitOWVar variable=1 value=4
+###Command:waitOWVar variable=1 value=5
+###--------
+###Script:9
+###Mugshot:Geo
+I could pretend I'm
+not home,
+###--------
+###Mugshot:Geo
+but what if they need
+to find mom for something
+important...?
+###--------
+###Mugshot:Geo
+Alright, I'll get the door.
+###--------

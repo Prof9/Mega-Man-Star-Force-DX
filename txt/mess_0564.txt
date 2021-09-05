@@ -1,0 +1,131 @@
+﻿###TextArchive:mess_0564
+###Script:0
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Go after that creep!
+Find a wavehole!
+###--------
+###Script:10
+###Mugshot:LittleBoy
+...Hm?
+###--------
+###Mugshot:LittleBoy
+My name's Lei. Did you need
+me for something?
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+What? ...Did you say that
+student council chick is
+looking for me?
+###--------
+###Mugshot:LittleBoy
+As usual, she's being a pain
+in the neck.
+###--------
+###Mugshot:LittleBoy
+Could you do me a favor
+and tell her to buzz off!
+###--------
+###Mugshot:LittleBoy
+And one more thing.
+Tell her that she's never
+gonna find a husband
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+if she doesn't stop
+annoying people!
+###--------
+###Script:11
+###Mugshot:LittleBoy
+Look, could you tell her to
+just buzz off for me!
+###--------
+###Mugshot:LittleBoy
+And tell her that she's
+never gonna find a husband
+###--------
+###Mugshot:LittleBoy
+if she doesn't stop
+annoying people!
+###--------
+###Script:15
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Aw, man...!
+I just can't get it right!
+###--------
+###Mugshot:LittleBoy
+Huh? What am I doing?
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+I'm an ace pitcher on my
+baseball team, but I can't
+seem get my fastball right.
+###--------
+###Mugshot:LittleBoy
+At this rate, we'll lose
+the game again!
+###--------
+###Mugshot:LittleBoy
+Somebody please help me!!
+###--------
+###Script:16
+###Mugshot:LittleBoy
+I just can't get my
+fastball right.
+###--------
+###Mugshot:LittleBoy
+At this rate, we'll lose
+the game again!!
+###--------
+###Mugshot:LittleBoy
+Somebody please help me!!
+###--------
+###Script:17
+###Mugshot:PitcherMan
+When it comes to pitching,
+leave it to me!!
+###--------
+###Mugshot:LittleBoy
+What? Who said that?
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Ah!
+That was the
+PitcherMan card!
+###--------
+###Mugshot:PitcherMan
+Let me show you the
+secret of pitching.
+###--------
+###Mugshot:PitcherMan
+Do you have a pitching
+machine around here?
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Huh? Uh, yeah. I think
+there's one in the Gym.
+###--------
+###Script:18
+###Mugshot:LittleBoy
+Shoot for 100 mph!
+###--------
+###Script:100
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Don't you have someplace to
+be besides the Wave World?
+###--------

@@ -1,0 +1,37 @@
+﻿###TextArchive:mess_1148
+###Script:0
+###Mugshot:FighterNavi
+Alright!
+Everything's A-OK here!
+###--------
+###Mugshot:FighterNavi
+Now I'm off to take a
+quick look outside!
+###--------
+###Script:10
+###Mugshot:FighterNavi
+What's this!?
+Snakes on the loose!?
+###--------
+###Mugshot:FighterNavi
+What happened!?
+###--------
+###Script:50
+###Mugshot:12
+It's really loud outside.
+Is everything OK?
+###--------
+###Script:55
+###Mugshot:12
+It seems the humans are
+fighting each other,
+###--------
+###Mugshot:12
+but don't worry!
+You're safe in here!
+###--------
+###Script:60
+###Mugshot:12
+Another round of patrolling
+done! Things are A-OK!
+###--------

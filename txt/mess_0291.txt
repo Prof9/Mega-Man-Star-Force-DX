@@ -1,0 +1,172 @@
+﻿###TextArchive:mess_0291
+###Script:0
+A little later...
+###--------
+###Script:1
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+He wants to be Brothers...
+It's like a dream.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+But...
+Can I really become
+Brothers with him?
+###--------
+###Mugshot:Pat
+...Geo,
+###--------
+###Mugshot:Pat
+Can you handle being
+Brothers with two of me...?
+###--------
+###Script:2
+Hey!
+###--------
+###Script:3
+###Mugshot:Worker
+This is a restricted area.
+###--------
+###Mugshot:Worker
+You can't just come
+wandering in here!
+###--------
+###Script:4
+###Mugshot:Pat
+S-Sorry.
+###--------
+###Script:5
+###Mugshot:Worker
+Kids nowadays have no
+respect for rules.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I would love to meet your
+parents, and teach them
+how to raise kids right!
+###--------
+###Script:6
+###Mugshot:Pat
+Parents...?
+###--------
+###Mugshot:Pat
+Did you say "parents"?
+###--------
+###Script:7
+###Mugshot:Worker
+You learned your manners
+from your folks, ri-?
+###--------
+###Mugshot:Pat
+Heh heh heh...
+###--------
+###Script:8
+###Mugshot:Pat
+Urmph!
+###--------
+###Mugshot:Pat
+Nnnngh!!
+###--------
+###Script:9
+###Mugshot:Worker
+You want to start
+something kid?
+###--------
+###Script:10
+###Mugshot:Rey
+...Shuddap.
+###--------
+###Script:11
+###Mugshot:Worker
+What did you say!?
+###--------
+###Mugshot:Worker
+And can't you even
+speak properly!?
+###--------
+###Script:12
+###Mugshot:Rey
+Shut up!!
+###--------
+###Mugshot:Rey
+I never had parents to
+teach me nothing!
+###--------
+###Script:13
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Wh-What's going on?
+What's with the sudden
+change in attitude?
+###--------
+###Script:14
+###Mugshot:Rey
+I've had enough of your
+useless blathering.
+###--------
+###Mugshot:Rey
+Now it's time to take
+your medicine.
+###--------
+###Script:15
+*bam* <wait>*thud*<wait>
+###Command:wait frames=20
+###Command:wait frames=30
+###--------
+###Script:16
+###Mugshot:Worker
+Oof!!
+###--------
+###Script:17
+###Mugshot:Worker
+Uuugh...
+###--------
+###Script:18
+###Mugshot:Rey
+*huff huff*
+###--------
+###Mugshot:Rey
+Weakling!
+###--------
+###Mugshot:Rey
+Heh heh heh...
+###--------
+###Mugshot:Rey
+......
+###--------
+###Script:19
+###Mugshot:Pat
+...*gasp!*
+###--------
+###Mugshot:Pat
+I...!
+###--------
+###Mugshot:Pat
+I can't believe you did
+it again...
+###--------
+###Mugshot:Pat
+...Rey.
+###--------
+###Script:20
+###Mugshot:Rey
+You were being way
+too nice...
+###--------
+###Mugshot:Rey
+...Pat.
+###--------
+###Script:21
+###Mugshot:Pat
+......
+###--------
+###Script:22
+###Mugshot:Pat
+......
+###--------

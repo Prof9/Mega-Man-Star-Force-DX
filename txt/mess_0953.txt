@@ -1,0 +1,139 @@
+﻿###TextArchive:mess_0953
+###Script:0
+###Mugshot:MrHertz
+EEK! YOU SCARED ME!
+###--------
+###Mugshot:MrHertz
+THERE WERE VIRUSES
+HERE UNTIL A FEW
+SECONDS AGO, YOU KNOW...
+###--------
+###Mugshot:MrHertz
+WAIT. AREN'T YOU THE BLUE
+GUY WHO DELETED THEM?
+###--------
+###Mugshot:MrHertz
+MAN, THAT WAS A
+GREAT FIGHT!
+###--------
+###Mugshot:MrHertz
+YOU MUST BE SOME KIND
+OF WARRIOR NAVI!
+###--------
+###Mugshot:MrHertz
+WHAT? NO?
+THEN WHAT ARE YOU?
+###--------
+###Script:1
+###Mugshot:MrHertz
+TICKETS!
+GET YOUR TICKETS!
+###--------
+###Mugshot:MrHertz
+I'VE GOT GROUP DISCOUNTS
+TOO!
+###--------
+###Mugshot:MrHertz
+YOUNG MAN IN THE BLUE,
+HOW 'BOUT IT?
+###--------
+###Mugshot:MrHertz
+UM...
+ARE YOU ALONE?
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+...WAIT, YOU'VE GOT
+SOMEONE ON YOUR ARM.
+###--------
+###Mugshot:MrHertz
+YOU'RE GONNA NEED A
+TICKET FOR HIM TOO.
+###--------
+###Script:10
+###Mugshot:MrHertz
+*PANT* *PANT*
+###--------
+###Mugshot:MrHertz
+H-HELLO...
+###--------
+###Mugshot:MrHertz
+I'M A VENDING MACHINE
+WAVE...
+###--------
+###Mugshot:MrHertz
+I'M UP TO MY AMPLITUDE
+IN WORK...
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+I CAN'T KEEP THIS UP...
+IF I DON'T TAKE A BREAK...
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+UM... I HATE TO BOTHER
+YOU, BUT COULDYA
+SPARE A "<printItem>"?
+###Command:printItem item=96
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+UM... I HATE TO BOTHER
+YOU, BUT COULDYA
+SPARE A "<printItem>"?
+###Command:printItem item=96
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+Mega Man gave:
+"<printItem>"
+to the Mr. Hertz!!
+###Command:printItem item=96
+###--------
+###Mugshot:MrHertz
+...WH?
+###--------
+###Mugshot:MrHertz
+WHOA!!
+###--------
+###Mugshot:MrHertz
+I CAN FEEL MY ENERGY
+COMING BACK!
+###--------
+###Mugshot:MrHertz
+NOW I CAN GET BACK
+TO WORK!
+###--------
+###Mugshot:MrHertz
+THANK YOU!
+THANK YOU!
+###--------
+###Script:13
+###Mugshot:MrHertz
+OH, OK...
+###--------
+###Script:14
+###Mugshot:MrHertz
+IT LOOKS LIKE YOU
+DON'T HAVE ANY.
+###--------
+###Script:15
+###Mugshot:MrHertz
+THANK YOU!
+THANK YOU!
+###--------

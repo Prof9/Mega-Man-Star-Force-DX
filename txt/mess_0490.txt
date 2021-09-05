@@ -1,0 +1,143 @@
+﻿###TextArchive:mess_0490
+###Script:0
+Apparently, this is a
+FlapPack.
+###--------
+I probably shouldn't
+stare at it too much...
+###--------
+###Script:1
+Dummy message
+###--------
+###Script:15
+###Mugshot:7
+Could you please stop
+eye-balling my things?
+###--------
+###Mugshot:7
+###--------
+###Mugshot:7
+I-It's not nice to spy on
+other people's inventions...
+###--------
+###Script:16
+###Mugshot:7
+P-Please, I asked you to
+not look at my things...
+###--------
+###Mugshot:7
+.<wait>.<wait>.<wait><wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:7
+Huh?
+###--------
+###Mugshot:7
+You want me to help you
+get a ball?
+###--------
+###Mugshot:0
+If I used your invention,
+then maybe I can...
+###--------
+###Mugshot:7
+.<wait>.<wait>.<wait>.<wait>.<wait>.<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:7
+No.
+###--------
+###Mugshot:0
+But why?
+###--------
+###Mugshot:7
+###--------
+###Mugshot:7
+Th-This FlapPack hasn't
+been publicly announced yet.
+So I can't let you use it.
+###--------
+###Mugshot:7
+Plus...
+###--------
+###Mugshot:7
+......
+###--------
+###Mugshot:0
+Plus...?
+###--------
+###Mugshot:7
+N-No, nothing...
+###--------
+###Mugshot:7
+Anyway, my answer is no.
+###--------
+###Mugshot:0
+......
+###--------
+###Mugshot:7
+Don't look at me like that!
+###--------
+###Mugshot:7
+No means no!
+###--------
+###Mugshot:0
+...
+Okaaaay...
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(I guess we don't have
+a choice... I've gotta find
+something else to use.)
+###--------
+###Mugshot:0
+(And why am I doing this
+for someone else?)
+###--------
+###Script:17
+###Mugshot:7
+Don't look at me like that!
+No means no!
+###--------
+###Mugshot:0
+...
+Okaaaay...
+###--------
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(I guess we don't have
+a choice... I've gotta find
+something else to use.)
+###--------
+###Mugshot:0
+(And why am I doing this
+for someone else?)
+###--------
+###Script:120
+###Mugshot:12
+*sigh*
+###--------
+###Mugshot:12
+Vista Point was made for
+people to relax.
+###--------
+###Mugshot:12
+###--------
+###Mugshot:12
+We EM waves need to take
+a breather every once in a
+while too, just like humans.
+###--------

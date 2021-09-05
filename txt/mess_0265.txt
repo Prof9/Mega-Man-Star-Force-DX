@@ -1,0 +1,20 @@
+﻿###TextArchive:mess_0265
+###Script:0
+*rustle rustle*
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Hmm?
+###--------
+###Script:2
+*rustle rustle*
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Looks like the snakes
+are here to party!
+###--------
+###Mugshot:OmegaXis
+Watch yourself, Geo,
+and don't get bit.
+###--------

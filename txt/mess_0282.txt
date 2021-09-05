@@ -1,0 +1,116 @@
+﻿###TextArchive:mess_0282
+###Script:0
+###Mugshot:0
+What is this place...?
+###--------
+###Script:1
+###Mugshot:Pat
+This garden is my
+safe haven.
+###--------
+###Mugshot:Pat
+This is where I come
+to heal my pain.
+###--------
+###Script:2
+###Mugshot:0
+It's beautiful.
+###--------
+###Script:3
+###Mugshot:0
+It really is a wonderful place.
+###--------
+###Script:4
+###Mugshot:0
+My dad moved into outer
+space.
+###--------
+###Script:5
+###Mugshot:0
+And then the space station
+my dad was on had that
+accident... And...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+He's still out there...
+Somewhere...
+###--------
+###Script:6
+###Mugshot:Pat
+I'm sure that was a real
+shock when you heard.
+###--------
+###Script:7
+###Mugshot:0
+Yeah.
+###--------
+###Mugshot:0
+After that, I was afraid of
+getting close to other people.
+I kept saying things like,
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+"The pain of losing
+someone is too much," and
+###--------
+###Mugshot:0
+"I should just be alone
+so I won't get hurt."
+###--------
+###Mugshot:0
+That's why I didn't want
+to go to school.
+###--------
+###Script:8
+###Mugshot:Pat
+I see...
+###--------
+###Script:9
+###Mugshot:0
+......
+###--------
+###Script:10
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+This might sound a little odd,
+Geo, but thank you for
+talking openly with me.
+###--------
+###Script:11
+###Mugshot:0
+Aww, you don't need to
+thank me or anything.
+###--------
+###Script:12
+###Mugshot:Pat
+Next time, I'll tell you
+more about me.
+###--------
+###Mugshot:Pat
+Do you want to know
+why I have no parents?
+###--------
+###Script:13
+###Mugshot:0
+Yeah, of course!
+###--------
+###Script:14
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Then let's go someplace else.
+It'll be easier for me to
+explain there...
+###--------
+###Mugshot:Pat
+So will you follow me?
+###--------
+###Mugshot:Pat
+First, we'll leave this
+garden area.
+###--------

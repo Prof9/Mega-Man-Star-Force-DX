@@ -1,0 +1,95 @@
+﻿###TextArchive:mess_0682
+###Script:0
+###Mugshot:MrHertz
+OOOGH...
+###--------
+###Mugshot:MegaMan
+What's wrong?
+###--------
+###Mugshot:MrHertz
+A... A SNAKE CHARMER
+SUDDENLY CAME BY HERE...
+###--------
+###Mugshot:MrHertz
+AND LEFT SOME VENOMOUS
+SNAKES BEHIND...
+###--------
+###Mugshot:MrHertz
+I-I WAS BIT BY ONE OF
+THOSE SNAKES...
+###--------
+###Mugshot:MegaMan
+Will you be OK?
+###--------
+###Mugshot:MrHertz
+MORE IMPORTANT THAN
+MYSELF IS THAT DOOR
+THERE.
+###--------
+###Mugshot:MrHertz
+THAT DOOR CAN ONLY
+BE OPENED BY ME.
+###--------
+###Mugshot:MrHertz
+BUT I... WITH ME POISONED
+LIKE THIS...
+###--------
+###Mugshot:MegaMan
+Wh-What should I do?
+###--------
+###Mugshot:MrHertz
+THERE SHOULD BE SOME
+ANTIDOTE SOMEWHERE IN
+THIS COMP SPACE.
+###--------
+###Mugshot:MrHertz
+IF YOU COULD GET THAT
+FOR ME...
+###--------
+###Mugshot:MegaMan
+The Antidote, huh?
+###--------
+###Mugshot:MegaMan
+OK! I'll go look for it!
+###--------
+###Script:1
+###Mugshot:MrHertz
+THERE SHOULD BE SOME
+ANTIDOTE SOMEWHERE IN
+THIS COMP SPACE.
+###--------
+###Mugshot:MrHertz
+IF YOU COULD GET THAT
+FOR ME...
+###--------
+###Mugshot:MegaMan
+The Antidote, huh?
+###--------
+###Mugshot:MegaMan
+OK! I'll go look for it!
+###--------
+###Script:2
+###Mugshot:MrHertz
+OOOGH... A SNAKE GOT ME...
+###--------
+###Mugshot:MegaMan
+Hang on! I'll be back with
+the Antidote!
+###--------
+###Script:5
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:6
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:9
+###Mugshot:MrHertz
+PLEASE BE VERY CAREFUL!
+###--------
+###Script:10
+###Mugshot:MrHertz
+I'LL NEVER FORGET WHAT
+YOU'VE DONE FOR ME!
+###--------

@@ -1,0 +1,13 @@
+﻿###TextArchive:mess_0314
+###Script:0
+###Mugshot:1
+OK, EVERYONE'S ALL HERE!
+###--------
+###Mugshot:1
+ON THE COUNT OF 3!
+1... 2... 3!
+###--------
+###Script:1
+The garbage has been
+cleared away!
+###--------

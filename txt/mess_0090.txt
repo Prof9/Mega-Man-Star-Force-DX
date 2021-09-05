@@ -1,0 +1,20 @@
+﻿###TextArchive:mess_0090
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:DamianWolfe
+Damian Wolfe's Transer...
+###--------
+###Script:2
+###Mugshot:DamianWolfe
+When the moon is full,
+my blood stirs and I
+get restless.
+###--------
+###Mugshot:DamianWolfe
+I need someone to
+calm my soul...
+###--------

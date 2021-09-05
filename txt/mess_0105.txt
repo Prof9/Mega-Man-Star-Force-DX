@@ -1,0 +1,177 @@
+﻿###TextArchive:mess_0105
+###Script:0
+###Mugshot:GeoNoVisualizer
+My name is <printPlayerName1> <printPlayerName2>.
+......
+###Command:printPlayerName1
+###Command:printPlayerName2
+###--------
+###Mugshot:GeoNoVisualizer
+<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:2
+Now, young man.
+Your real name,
+if you please.
+###--------
+###Mugshot:GeoNoVisualizer
+......<wait>
+I'm Geo Stelar.
+###Command:wait frames=60
+###--------
+###Script:1
+###Mugshot:3
+Nice to meet you, Geo!
+###--------
+###Mugshot:3
+Oh, before I forget,
+I brought you a present!
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+This is a very special
+pair of glasses.
+It's called a "Visualizer".
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+I heard your father used
+it in his work, but I don't
+know much else beyond that.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+I found it when I quit
+NAZA, and I just thought
+I'd give it to you.
+###--------
+###Script:2
+Geo got the
+"Visualizer"!!
+###--------
+###Script:3
+###Mugshot:Geo
+This was<waitSkip> dad's...<waitSkip>
+Thanks.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:4
+###Mugshot:2
+He's always like that.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I wish he could develop a
+few Brother Band relation-
+ships with some friends.
+###--------
+###Script:5
+###Mugshot:3
+By the way, where's
+Geo heading off to?
+###--------
+###Script:6
+###Mugshot:2
+Vista Point, just behind
+the school.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+He goes there every day
+around dusk and just
+stares up at the sky.
+###--------
+###Mugshot:2
+He thinks...
+he'll see his dad...
+*sniffle*
+###--------
+###Mugshot:2
+Ever since that day,
+time has come to a
+stop, for us anyway.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I know we should move on,
+but... it's so hard to.
+###--------
+###Script:7
+###Mugshot:3
+......
+###--------
+###Script:8
+###Mugshot:2
+Are you heading to
+your usual spot?
+###--------
+###Script:9
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Yeah. It's gonna be clear
+out tonight, so I'll be able
+to see the stars really well.
+###--------
+###Script:10
+###Mugshot:2
+Geo, your Transer
+isn't on.
+###--------
+###Script:11
+###Mugshot:Geo
+Oh.
+###--------
+###Script:12
+Geo turned on
+his Transer!!
+###--------
+###Script:13
+###Mugshot:2
+###--------
+###Mugshot:2
+Honestly, why must I
+always remind you to
+keep your Transer on!
+###--------
+###Mugshot:2
+Now check your Battle Cards.
+Your Brothers--
+###--------
+###Script:14
+###Mugshot:Geo
+Who cares?
+I don't have any Brothers,
+###--------
+###Mugshot:Geo
+so no one is going to see
+my personal page anyway.
+###--------
+###Mugshot:2
+.<waitSkip>.<waitSkip>.<waitSkip>What are you talking about?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+If your Transer isn't
+on, no one can see
+your ID info either.
+###--------
+###Mugshot:Geo
+OK, I get it.
+###--------
+###Mugshot:Geo
+I'm going now, mom.
+Be back in a bit.
+###--------

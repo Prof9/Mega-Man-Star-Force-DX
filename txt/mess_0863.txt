@@ -1,0 +1,120 @@
+﻿###TextArchive:mess_0863
+###Script:0
+###Mugshot:MrHertz
+I'M THE MR. HERTZ OF
+CLASS 1-A!
+###--------
+###Mugshot:MrHertz
+THE KIDS HERE STUDY AND
+PLAY HARD EVERY DAY!
+###--------
+###Mugshot:MrHertz
+I WANT TO PLAY TOO!
+*BEEP BEEP*
+###--------
+###Script:50
+###Mugshot:5
+Excuse me, but do you
+have a "<printCard>"?
+###Command:printCard card=98
+###--------
+###Mugshot:5
+If so, I'd be grateful if
+you gave it to me...
+###--------
+###Mugshot:5
+It looks like I lost mine
+in transit...
+###--------
+###Mugshot:5
+I'd gladly repay you with
+something of mine!
+###--------
+###Mugshot:5
+Please give me a
+"<printCard>"
+if you have one!
+###Command:printCard card=98
+###--------
+<positionOptionFromCenter><optionText>  OK  <optionText>  No!
+###Command:positionOptionFromCenter width=58
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:5
+Oh...
+###--------
+###Script:51
+###Mugshot:5
+Oh, thank the stars!!
+###--------
+###Mugshot:5
+Now the teachers won't
+get mad at me.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+We Navis must also
+take responsibility
+for our mistakes.
+###--------
+###Mugshot:5
+This is for your kindness.
+###--------
+Mega Man got a
+Mega Weapon:
+"<printItem>"!!
+###Command:printItem item=21
+###--------
+###Mugshot:5
+You helped me sooo much!!
+###--------
+###Script:52
+###Mugshot:5
+I appreciate the thought,
+but it looks like you
+don't have a "<printCard>".
+###Command:printCard card=98
+###--------
+###Mugshot:5
+Thanks anyway.
+###--------
+###Script:53
+###Mugshot:5
+Excuse me, but do you
+have a "<printCard>"?
+###Command:printCard card=98
+###--------
+###Mugshot:5
+If so, I'd be grateful if
+you gave it to me...
+###--------
+###Mugshot:5
+It looks like I lost mine
+in transit...
+###--------
+###Mugshot:5
+I'd gladly repay you with
+something of mine!
+###--------
+###Mugshot:5
+Please give me a
+"<printCard>"
+if you have one!
+###Command:printCard card=98
+###--------
+<positionOptionFromCenter><optionText>  OK  <optionText>  No!
+###Command:positionOptionFromCenter width=58
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:5
+Oh...
+###--------
+###Script:54
+###Mugshot:5
+*vroom*
+Now I won't lose
+anything else!
+###--------

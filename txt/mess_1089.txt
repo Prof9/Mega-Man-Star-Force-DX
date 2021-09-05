@@ -1,0 +1,158 @@
+﻿###TextArchive:mess_1089
+###Script:50
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+That man named Boreal...
+He's studying all sorts of
+things, isn't he?
+###--------
+###Mugshot:FighterNavi
+I wondered if he was finally
+able to see waves,
+###--------
+###Mugshot:FighterNavi
+so I thought I'd test him
+by making this oddball pose
+and waiting.
+###--------
+###Mugshot:FighterNavi
+But I don't think he
+noticed... *sigh*
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+I even went out of my
+way to make this pose
+as silly as possible...
+###--------
+###Script:100
+###Mugshot:CommonNavi
+I totally understand if you
+get lost in here.
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+I love this place, you know.
+This is where you can find a
+half-complete space shuttle,
+###--------
+###Mugshot:CommonNavi
+and the perpetually lost
+yours truly...
+###--------
+###Script:101
+###Mugshot:CommonNavi
+I totally understand if you
+get lost in here.
+###--------
+###Mugshot:CommonNavi
+The humans look like
+they're in trouble.
+###--------
+###Mugshot:CommonNavi
+...I take that back.
+They ARE in trouble.
+###--------
+###Script:102
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Ha ha ha! If I stand here,
+I'm blocking the way!
+###--------
+###Mugshot:FighterNavi
+Right? Right??
+I'm blocking you, aren't I?
+###--------
+###Mugshot:MegaMan
+...
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionFromCenter><optionText>  Yeah  <optionText>  Um, no
+###Command:positionOptionFromCenter width=97
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:FighterNavi
+Oooh...
+###--------
+###Mugshot:FighterNavi
+You're an honest one!
+###--------
+###Mugshot:FighterNavi
+But you wound me,
+because I'm a naive one.
+###--------
+###Script:103
+###Mugshot:FighterNavi
+Oooh...
+Cool like ice!
+###--------
+###Mugshot:FighterNavi
+But I'll teach you
+something obvious!
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Things that are in the middle
+of the road are considered
+"in the way"! Heh!
+###--------
+###Script:104
+###Mugshot:FighterNavi
+Ha ha ha! Those humans
+are going coo-coo!
+###--------
+###Mugshot:FighterNavi
+But I refuse to move
+from this spot!
+###--------
+###Mugshot:MegaMan
+...
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionFromCenter><optionText>  Yeah  <optionText>  Um, no
+###Command:positionOptionFromCenter width=97
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Oooh...
+You're an honest one!
+###--------
+###Mugshot:FighterNavi
+But you've wounded
+this naive heart!
+###--------
+###Mugshot:FighterNavi
+Watch out that I don't
+get all coo-coo on you!
+###--------
+###Script:105
+###Mugshot:FighterNavi
+Oooh...
+Cool like ice!
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Alright, I'll tell you something
+good.
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Those humans are going
+coo-coo because of some
+sort of strange wave. Whoo!
+###--------

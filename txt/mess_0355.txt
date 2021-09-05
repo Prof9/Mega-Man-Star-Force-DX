@@ -1,0 +1,41 @@
+﻿###TextArchive:mess_0355
+###Script:0
+###Mugshot:0
+ThermoMan,
+I'm counting on you...
+###--------
+###Script:1
+###Mugshot:ThermoMan
+TheeeermoMan is in
+the house!
+###--------
+###Mugshot:ThermoMan
+So what'll it be?
+Hotter or colder?
+###--------
+###Script:2
+###Mugshot:ThermoMan
+Whoooooosh!!
+Windy days are a-coming!
+###--------
+###Script:3
+###Mugshot:0
+###--------
+###Mugshot:0
+Much better.
+Thanks, ThermoMan!
+###--------
+###Script:4
+###Mugshot:ThermoMan
+You're welcome!
+###--------
+###Script:5
+###Mugshot:0
+The air's pretty stable,
+so back to the pile!
+###--------
+###Script:6
+###Mugshot:0
+No good...
+It's not responding.
+###--------

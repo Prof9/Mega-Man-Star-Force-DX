@@ -1,0 +1,174 @@
+﻿###TextArchive:mess_0275
+###Script:0
+###Mugshot:0
+Ah...
+###--------
+###Script:1
+###Mugshot:0
+Hey! Luna!
+###--------
+###Script:2
+###Mugshot:4
+Oh, hi Geo.
+###--------
+###Script:3
+###Mugshot:0
+Are you heading home
+now too?
+###--------
+###Script:4
+###Mugshot:4
+......
+###--------
+###Script:5
+###Mugshot:0
+...?
+###--------
+###Script:6
+###Mugshot:4
+(He...)
+###--------
+###Mugshot:4
+(He really is Mega Man,
+isn't he?)
+###--------
+###Mugshot:4
+(......)
+###--------
+###Mugshot:4
+(Oh no, why is my heart
+beating so fast again!?)
+###--------
+###Script:7
+###Mugshot:0
+###--------
+###Mugshot:0
+You OK, Luna?
+You look kinda ill...
+###--------
+###Script:8
+###Mugshot:4
+I-It's nothing!
+###--------
+###Mugshot:4
+Come on!
+Let's get going!
+###--------
+###Script:9
+*riiiiiing!*
+###--------
+###Script:10
+###Mugshot:0
+Oh, I have a call on
+my Transer.
+###--------
+###Mugshot:0
+Excuse me, Luna.
+###--------
+###Script:11
+###Mugshot:0
+...Hello?
+###--------
+###Script:12
+Geo Stelar.
+###--------
+I want to show you
+something interesting.
+###--------
+So come to Time Square
+right away.
+###--------
+###Script:13
+###Mugshot:0
+Huh?
+###--------
+###Script:14
+I know you are Mega Man.
+###--------
+###Script:15
+###Mugshot:0
+What!?
+###--------
+###Script:16
+*click*<wait>
+...*beep beep*<wait>
+###Command:wait frames=30
+###Command:wait frames=120
+###--------
+###Script:17
+###Mugshot:0
+What was that all about?
+###--------
+###Script:18
+###Mugshot:OmegaXis
+No idea, but it's worth
+finding out.
+###--------
+###Mugshot:OmegaXis
+Let's go see what's up
+in Time Square.
+###--------
+###Script:19
+###Mugshot:0
+OK!
+###--------
+###Script:20
+###Mugshot:4
+H-Hey!
+###--------
+###Script:21
+###Mugshot:4
+Did something happen?
+###--------
+###Script:22
+###Mugshot:0
+Well...
+###--------
+###Script:23
+###Mugshot:4
+Something dangerous?
+###--------
+###Script:24
+###Mugshot:0
+I don't know yet.
+###--------
+###Mugshot:0
+But for now, I'm gonna
+go check out Time Square.
+###--------
+###Script:25
+###Mugshot:4
+...H-Hey!
+###--------
+###Script:26
+###Mugshot:0
+What...?
+###--------
+###Script:27
+###Mugshot:4
+Be careful, OK?
+###--------
+###Script:28
+###Mugshot:0
+Ha ha, you don't have
+to worry about me.
+###--------
+###Script:29
+###Mugshot:4
+I'm not joking!
+###--------
+###Mugshot:4
+You're my Brother,
+so I have to!
+###--------
+###Script:30
+###Mugshot:0
+...Thanks.
+###--------
+###Mugshot:0
+I'll be back.
+###--------
+###Script:31
+###Mugshot:4
+......
+###--------

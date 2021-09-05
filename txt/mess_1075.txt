@@ -1,0 +1,81 @@
+﻿###TextArchive:mess_1075
+###Script:50
+###Mugshot:TruckNavi
+Welcome! Welcome!
+###--------
+###Mugshot:TruckNavi
+Welcome to the
+AMAKEN Gift Shop!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Hey!
+You there, in the blue!
+###--------
+###Mugshot:TruckNavi
+You know you want to
+pick up some gifts!
+###--------
+###Script:51
+###Mugshot:TruckNavi
+Welcome!
+Welcome!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Hey!
+What's wrong, blue fella!?
+###--------
+###Mugshot:TruckNavi
+You're looking more blue
+than usual!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Hmm? You think your
+colleagues have too much
+time on their hands?
+###--------
+###Script:52
+###Mugshot:FighterNavi
+*huff puff*
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Hmm? What am I doing?
+Well, you know that Navi that
+circles above the gift shop?
+###--------
+###Mugshot:FighterNavi
+It looks like so much fun
+that I'm copying him!
+###--------
+###Mugshot:FighterNavi
+*huff puff*
+###--------
+###Script:53
+###Mugshot:FighterNavi
+*huff puff*
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Hmm? What am I doing?
+Well, you know how humans
+are really busy?
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+It looks like a lot of fun,
+so I'm trying to be busy too!
+###--------
+###Mugshot:FighterNavi
+*huff puff*
+###--------

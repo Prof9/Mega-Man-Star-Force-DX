@@ -1,0 +1,115 @@
+﻿###TextArchive:mess_0058
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Woman
+Welcome Brothers,
+to my Transer!
+###--------
+###Script:3
+###Mugshot:Woman
+I'm a teacher at Echo
+Elementary School.
+###--------
+###Mugshot:Woman
+The students in my
+class are adorable!
+###--------
+###Script:4
+###Mugshot:Woman
+Brrr...
+It's c-cold.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+S-Something's wrong with
+the temperature c-control
+system in my classroom.
+###--------
+###Mugshot:Woman
+I don't want my darling
+students t-to catch cold!
+###--------
+###Mugshot:Woman
+S-Somebody please d-do
+something...
+###--------
+###Mugshot:MegaMan
+Ms. Tudor's in a jam!
+###--------
+###Mugshot:OmegaXis
+It could be the work
+of FM-ians!
+###--------
+###Mugshot:OmegaXis
+Should we do something?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK! Let's do this!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well I guess those kids
+won't be screaming for
+ice cream...
+###--------
+###Mugshot:MegaMan
+...What's that's supposed
+to mean?
+###--------
+###Script:6
+###Mugshot:Woman
+Brrr...
+It's c-cold.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+S-Something's wrong with
+the temperature c-control
+system in my classroom.
+###--------
+###Mugshot:Woman
+I don't want my darling
+students t-to catch cold!
+###--------
+###Mugshot:Woman
+S-Somebody please d-do
+something...
+###--------
+###Script:7
+###Mugshot:Woman
+Ahh! It's great to have
+the temperature back
+to normal.
+###--------
+###Mugshot:Woman
+Now my students won't
+get sick!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

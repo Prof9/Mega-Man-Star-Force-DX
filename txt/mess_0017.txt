@@ -1,0 +1,99 @@
+﻿###TextArchive:mess_0017
+###Script:0
+###Mugshot:OmegaXis
+One last thing - countering
+and Bonus Cards.
+###--------
+###Mugshot:MegaMan
+Um, how about one at
+a time, please?
+###--------
+###Mugshot:MegaMan
+First, what's countering?
+###--------
+###Mugshot:OmegaXis
+*sigh*
+Countering is when one
+of your card attacks
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+hits an enemy at the
+exact moment it's launching
+an attack at you.
+###--------
+###Mugshot:OmegaXis
+Your attack will stun
+them for a little while.
+###--------
+###Mugshot:MegaMan
+Sounds a little hard, but
+I get countering now.
+###--------
+###Mugshot:OmegaXis
+Ah, but you don't only
+stun the enemy when
+you Counter.
+###--------
+###Mugshot:OmegaXis
+You also get 1
+Bonus Card.
+###--------
+###Mugshot:MegaMan
+Bonus Card?
+###--------
+###Mugshot:OmegaXis
+You know how normally, you
+can only use the cards you
+chose on the Custom Screen?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well, if you Counter, you
+can get a Bonus Card.
+###--------
+###Mugshot:OmegaXis
+Bonus Cards are random,
+but this way, you don't
+have to wait for the
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Custom Gauge to fill up
+before trashing the enemy.
+###--------
+###Mugshot:MegaMan
+I see...
+I think I get it now.
+###--------
+###Mugshot:OmegaXis
+It's hard to get the timing
+right on a Counter, so
+don't push your luck
+###--------
+###Mugshot:OmegaXis
+trying to get one.
+But just this 1 time, try
+to get a Bonus Card,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and delete the viruses
+in 1 turn!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Hey, don't run away now!
+###--------
+###Script:11
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You didn't pick a card yet!
+You can't Counter with
+just the Mega Buster!
+###--------

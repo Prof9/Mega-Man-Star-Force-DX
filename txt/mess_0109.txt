@@ -1,0 +1,88 @@
+﻿###TextArchive:mess_0109
+###Script:0
+###Mugshot:0
+There they are...
+*gulp*
+###--------
+###Script:1
+###Mugshot:0
+###--------
+###Mugshot:0
+You want me to beat them?
+I think they're going to
+do the beating here...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+I told you I'm gonna
+teach you to fight!
+###--------
+###Mugshot:OmegaXis
+And you have to or
+you aren't going home!
+###--------
+###Script:3
+###Mugshot:0
+Stop scaring me with
+that kind of talk!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Hmph. Your old man sure
+wasn't a wuss like you!
+###--------
+###Script:5
+###Mugshot:0
+...If I fight those viruses,
+###--------
+###Mugshot:0
+you'll tell me about
+my dad, right?
+###--------
+###Script:6
+###Mugshot:OmegaXis
+...Heh.
+I'll think about it.
+###--------
+###Script:7
+###Mugshot:0
+Ungh...
+This is kinda scary...
+###--------
+###Script:8
+###Mugshot:OmegaXis
+Save your whining for
+afterwards!!
+###--------
+###Mugshot:OmegaXis
+Now listen up. I can give
+you a quick rundown,
+###--------
+###Mugshot:OmegaXis
+or you can try it for
+yourself. What'll it be?
+###--------
+<optionText>  Explain it
+<optionText>  I'm good
+###Command:optionText up=1 down=1 left=0 right=0
+###Command:optionText up=0 down=0 left=1 right=1
+###--------
+###Mugshot:OmegaXis
+OK, then just do exactly
+what I tell you and fight!
+###--------
+###Mugshot:OmegaXis
+Let's go!!
+###--------
+###Script:9
+###Mugshot:0
+Aaaaah!!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Learn on the fly, huh?
+Maybe you're not so bad.
+###--------
+###Mugshot:OmegaXis
+Let's go!!
+###--------

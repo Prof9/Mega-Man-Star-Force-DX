@@ -1,0 +1,72 @@
+﻿###TextArchive:mess_1152
+###Script:0
+###Mugshot:MrHertz
+WEATHER DATA AHOY!!
+###--------
+###Mugshot:MrHertz
+TODAY WILL BE SUNNY WITH
+A FEW CLOUDS MIXED IN.
+###--------
+###Script:10
+###Mugshot:MrHertz
+WEATHER DATA AHOY!!
+###--------
+###Mugshot:MrHertz
+TODAY WILL BE SUNNY WITH
+A FEW CLOUDS MIXED IN.
+###--------
+###Mugshot:MrHertz
+OK, SO THAT MAY NOT BE
+TRUE, BUT THIS IS MY JOB!
+###--------
+###Script:11
+###Mugshot:2
+*BEEP BEEP*
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+IF YOU TOUCH THAT
+ROUND, SHINY RED SPOT
+WITH YOUR STYLUS,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+YOU WILL INSTANTLY
+BE WARPED TO THAT
+WARP SPOT!
+###++++++++
+###Mugshot:2
+OH, BUT YOU CAN ALSO
+USE THE Y BUTTON!
+*BEEP BEEP*
+###--------
+###Script:50
+###Mugshot:2
+###--------
+###Mugshot:2
+IT'S GETTING QUITE LOUD
+OUT THERE... IS THERE
+SOMETHING GOING ON?
+###--------
+###Script:51
+###Mugshot:2
+###--------
+###Mugshot:2
+THERE'S A FIGHT?
+HOW SCARY...
+###--------
+###Script:55
+###Mugshot:2
+###--------
+###Mugshot:2
+WELCOME!
+LET'S GET READY TO
+SEIZE THE DAY!
+###--------
+###Script:56
+###Mugshot:2
+SOMETHING HAPPENED
+OUTSIDE YESTERDAY...
+###--------

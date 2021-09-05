@@ -1,0 +1,218 @@
+﻿###TextArchive:mess_0027
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Zack
+Welcome to the Transer
+of one Zack Temple.
+###--------
+###Script:2
+###Mugshot:Zack
+That incident with Bud
+turning into that beast,
+what could have caused that?
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Could there be some kind
+of scientific explanation?
+###--------
+###Mugshot:Zack
+My height today is
+3 feet 10.47 inches.
+###--------
+###Script:3
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Boy, my back still hurts
+from that weird space
+dancy thingy...
+###--------
+###Mugshot:Zack
+And who IS that Mega Man
+guy anyway...
+###--------
+###Mugshot:Zack
+...Or maybe it was
+all a dream.
+###--------
+###Mugshot:Zack
+My height today is
+3 feet 10.47 inches.
+###--------
+###Script:4
+###Mugshot:Zack
+The image of seeing
+Sonia live in person is
+burned in my mind...
+###--------
+###Mugshot:Zack
+She can't possibly be
+retiring...
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Honestly, I haven't
+been able to study
+since that day.
+###--------
+###Mugshot:Zack
+My height today is
+3 feet 10.47 inches.
+###--------
+###Script:5
+###Mugshot:Zack
+That there was an
+incident at school proves
+###--------
+###Mugshot:Zack
+that there just isn't
+anywhere SAFE anymore...
+###--------
+###Mugshot:Zack
+My height today is
+3 feet 10.47 inches.
+###--------
+###Script:6
+###Mugshot:Zack
+Recently, Prez has been
+sighing a lot more...
+###--------
+###Mugshot:Zack
+I've never seen her
+this way...
+###--------
+###Mugshot:Zack
+My height today is
+3 feet 10.47 inches.
+###--------
+###Script:7
+###Mugshot:Zack
+Prez looks a little down.
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+I wonder if something
+happened after she
+went to Geo's house.
+###--------
+###Mugshot:Zack
+My height today is
+3 feet 10.47 inches.
+###--------
+###Script:8
+###Mugshot:Zack
+I found out who
+Mega Man really is...
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+Bud was pretty surprised,
+but I flipped out so much
+that I grew a little taller!
+###--------
+###Mugshot:Zack
+My height today is
+3 feet 10.48 inches.
+###--------
+###Script:9
+###Mugshot:Zack
+Geo, don't let us down!
+###--------
+###Script:10
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+I tell everyone in
+class that I'm 3'11",
+but I'm really 3'10".
+###--------
+###Script:18
+###Mugshot:Zack
+Geo, don't let us down!
+###--------
+###Script:20
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+All this time, Geo has been
+protecting us from danger
+during those incidents...
+###--------
+###Mugshot:Zack
+But I can't do anything
+to help him.
+###--------
+###Mugshot:Zack
+I'm just completely
+useless, aren't I?
+###--------
+###Mugshot:OmegaXis
+Kid's got some serious
+self-esteem issues.
+###--------
+###Mugshot:MegaMan
+(Zack...)
+###--------
+###Mugshot:MegaMan
+(I'm sure you tried really
+hard in your own way.)
+###--------
+###Mugshot:MegaMan
+Maybe I should go
+cheer him up.
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Yeah, wouldn't want
+some FM-ian to get him.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:21
+###Mugshot:Zack
+###--------
+###Mugshot:Zack
+All this time, Geo has been
+protecting us from danger
+during those incidents...
+###--------
+###Mugshot:Zack
+But I can't do anything
+to help him.
+###--------
+###Mugshot:Zack
+I'm just completely
+useless, aren't I?
+###--------
+###Script:22
+###Mugshot:OmegaXis
+...You're just going to
+leave him like that?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,92 @@
+﻿###TextArchive:mess_0821
+###Script:0
+###Mugshot:Jammer
+Mwahahaha...
+###--------
+###Mugshot:Jammer
+This incredible data's going
+to make me rich.
+###--------
+###Mugshot:Jammer
+...Hm?
+What are YOU looking at?
+###--------
+###Mugshot:MegaMan
+Where did you get that
+data you're holding?
+###--------
+###Mugshot:Jammer
+Some strange waves
+appeared all of a sudden.
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Carefully, I looked inside and
+saw a world I'd never seen
+before. It's called the Net.
+###--------
+###Mugshot:MegaMan
+The Net?
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+So I thought to myself...
+If I brought things from the
+Net world to this one,
+###--------
+###Mugshot:Jammer
+I could sell them for a
+handsome profit.
+###--------
+###Mugshot:MegaMan
+T-That's stealing!
+###--------
+###Mugshot:Jammer
+###--------
+###Mugshot:Jammer
+Silence!! If you have a
+problem with that,
+prepare to be crushed!!
+###--------
+###Mugshot:OmegaXis
+Here he comes, Geo!
+###--------
+###Script:1
+###Mugshot:MegaMan
+Alright! We won!
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=58
+###--------
+###Mugshot:MegaMan
+Let's go bring this to
+that guy!
+###--------
+###Script:50
+###Mugshot:MrHertz
+IT'S AN EXPLOSION!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+AN EXPLOSION IN THE
+WORLD OF ART!
+###--------
+###Mugshot:MrHertz
+I, BEING THE RENAISSANCE
+HERTZ THAT I AM, PURSUE
+THE FINE ARTS EVERY DAY!
+###--------
+###Mugshot:MrHertz
+AH, IT'S COMING ANY
+DAY NOW...
+###--------
+###Mugshot:MrHertz
+...
+###--------
+###Mugshot:MrHertz
+THE EXPLOSION, I MEAN!
+*BEEP BEEP*
+###--------

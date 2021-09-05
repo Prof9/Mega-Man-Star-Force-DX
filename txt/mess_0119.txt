@@ -1,0 +1,74 @@
+﻿###TextArchive:mess_0119
+###Script:0
+Evening, 3 days later...
+###--------
+###Script:1
+And now, the news.
+###--------
+###--------
+The Echo Ridge mailbox was
+destroyed in the wee hours
+of morning today.
+###--------
+Recently, there have been
+a rash of incidents.
+From bright red bicycles
+###--------
+and rose petals, to the
+warehouses where bricks
+for flower beds are stored,
+###--------
+###--------
+all sorts of things are
+being destroyed all
+across town.
+###--------
+###--------
+Satella Police are looking into
+whether this latest incident
+is related to the others.
+###--------
+###Script:2
+###Mugshot:0
+A rash of incidents?
+###--------
+###Script:3
+###Mugshot:0
+Hey, Mega.
+You don't think...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+you don't think those guys
+who were after you are
+behind this, do you?
+###--------
+###Script:4
+###Mugshot:OmegaXis
+...I doubt it.
+###--------
+###Mugshot:OmegaXis
+But these incidents...
+Interesting...
+###--------
+###Script:5
+###Mugshot:0
+###--------
+###Mugshot:0
+Red bicycles, roses
+and warehouses...
+and the mailbox.
+###--------
+###Mugshot:0
+.<waitSkip>.<waitSkip>.<waitSkip>Whatever.
+It's got nothing to do
+with me.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:0
+Well, let's get going
+to Vista Point.
+###--------

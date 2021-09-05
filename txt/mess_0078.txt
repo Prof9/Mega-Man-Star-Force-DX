@@ -1,0 +1,103 @@
+﻿###TextArchive:mess_0078
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Worker
+Oh!
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+A man's work is
+done with his hands...
+Not sitting at a desk!
+###--------
+###Script:4
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Oh, no!
+This robot is acting
+up again!
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I'm good at working with my
+hands, but I'm hopeless when
+it comes to these robots!
+###--------
+###Mugshot:Worker
+Aww man, my supervisor's
+going to be mad!
+###--------
+###Mugshot:MegaMan
+Looks like this guy's
+having a hard time.
+###--------
+###Mugshot:OmegaXis
+Yeah, well, do you wanna
+give him a hand?
+###--------
+###Mugshot:MegaMan
+Hmm...
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's do it.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+...Oh, well.
+###--------
+###Script:6
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+Oh, no!
+This robot is acting
+up again!
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I'm good at working with my
+hands, but I'm hopeless when
+it comes to these robots!
+###--------
+###Mugshot:Worker
+Aww man, my supervisor's
+going to be mad!
+###--------
+###Script:7
+###Mugshot:Worker
+Oh, I'm saved!
+###--------
+###Mugshot:Worker
+I guess it pays to
+study hard!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

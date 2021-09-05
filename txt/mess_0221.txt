@@ -1,0 +1,389 @@
+﻿###TextArchive:mess_0221
+###Script:0
+###Mugshot:2
+So what is it you'd like
+to talk about?
+###--------
+###Script:1
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Your classes are, as usual,
+not in line with this
+school's curriculum.
+###--------
+###Script:2
+###Mugshot:Principal
+I have warned you
+several times now.
+###--------
+###Script:3
+###Mugshot:2
+If I may say something,
+Principal Loude,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I wholeheartedly disagree
+with the school's curriculum.
+###--------
+###Script:4
+###Mugshot:Principal
+I'm sure you're well aware,
+Mr. Shepar,
+###--------
+###Mugshot:Principal
+of what my goals were
+when I was made principal!
+###--------
+###Mugshot:Principal
+I want to turn this school
+into one of the best.
+If I did that,
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+enrollment would go up,
+and then we could raise
+the tuition fee as well.
+###--------
+###Mugshot:Principal
+Are you saying there is a
+problem here?
+###--------
+###Script:5
+###Mugshot:2
+###--------
+###Mugshot:2
+I think studying is important,
+but there are many things
+that are equally as important.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Raising a bunch of people who
+only know how to study isn't
+going to do anyone any good.
+###--------
+###Script:6
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+You speak of ideals, but if
+the students' grades can't
+compete with their peers,
+###--------
+###Mugshot:Principal
+they may transfer to
+another school. Am I wrong?
+###--------
+###Mugshot:2
+......
+###--------
+###Script:7
+###Mugshot:Principal
+Oh yes, speaking of
+curriculum...
+###--------
+###Script:8
+###Mugshot:Principal
+You were also against
+the use of this...
+###--------
+###Mugshot:Principal
+<waitOWVar>
+###Command:waitOWVar variable=2 value=1
+###--------
+###Script:9
+###Mugshot:2
+The Study Wave?
+###--------
+###Script:10
+###Mugshot:Principal
+Yes, this is my trump card.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+This will allow me to turn
+this school into something
+much better.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+This Study Wave's
+transmissions connects it
+with all of the classrooms...
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+and the waves it broadcasts
+induces brain activity in
+each and every student.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Every class except yours,
+of course, has yielded
+favorable results.
+###--------
+###Script:11
+###Mugshot:2
+###--------
+###Mugshot:2
+School should be about
+people learning from other
+people, not machines.
+###--------
+###Mugshot:2
+And who knows what bad
+effect the waves
+###--------
+###Mugshot:2
+from the Study Wave may
+have on the human body.
+###--------
+###Script:12
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Use the waves in the
+prescribed amount and
+everything will be fine.
+###--------
+###Mugshot:Principal
+Listen, I want you to
+use the Study Wave in
+your classroom
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+effective immediately.
+If you do not, it will
+be your neck!
+###--------
+###Script:13
+###Mugshot:2
+...!
+###--------
+###Script:14
+###Mugshot:Principal
+There are many other
+qualified teachers.
+###--------
+###Mugshot:Principal
+You need money to survive,
+don't you?
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+That is the reality! So
+give up on your foolish
+ideals and deal with it!
+###--------
+###Script:15
+###Mugshot:2
+......
+###--------
+###Script:16
+###Mugshot:2
+I can't...
+###--------
+###Script:17
+###Mugshot:2
+###--------
+###Mugshot:2
+I'd rather be fired than to
+teach classes aimed at
+raising test grades.
+###--------
+###Mugshot:2
+But...
+###--------
+###Mugshot:2
+If I got fired...
+###--------
+###Script:18
+Daddyyy!
+###--------
+###Script:19
+Daddy, come play with us!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+What will happen to my kids?
+Where will I get the money
+to raise them?
+###--------
+###Mugshot:2
+I have a duty as a father...
+###--------
+###Mugshot:2
+But...
+###--------
+###Script:20
+Mr. Shepar!
+###--------
+###Script:21
+###Mugshot:2
+Those kids are like my own.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I don't want to raise kids
+who can't do anything
+except study.
+###--------
+###Mugshot:2
+Aaah!
+###--------
+###Script:22
+###Mugshot:2
+What am I supposed to do??
+###--------
+###Script:23
+What a dilemma, I'd say.
+###--------
+###Script:24
+###Mugshot:2
+Who's there!?
+###--------
+###Script:25
+###Mugshot:12
+Wanna weigh your dilemma
+on my balance?
+###--------
+###Script:26
+###Mugshot:2
+Wh-What are you!?
+###--------
+###Script:27
+###Mugshot:12
+It doesn't really matter
+who I am.
+###--------
+###Mugshot:12
+Isn't your problem much
+more important?
+###--------
+###Script:28
+###Mugshot:2
+###--------
+###Mugshot:2
+How did you know I was
+having problems...?
+###--------
+###Script:29
+###Mugshot:12
+I can see through a lot
+of things.
+###--------
+###Script:30
+###Mugshot:2
+Oh...
+Yes, I'm in a real pickle.
+###--------
+###Mugshot:2
+Should I go with my ideals,
+or be more realistic?
+###--------
+###Script:31
+###Mugshot:12
+You don't even need to
+weigh that one.
+###--------
+###Mugshot:12
+The answer is obvious.
+
+###--------
+###Mugshot:12
+###--------
+###Mugshot:12
+You should pick what's most
+stable for you and stick
+with the people in charge.
+###--------
+###Script:32
+###Mugshot:2
+But!!
+###--------
+###Script:33
+###Mugshot:12
+Look at it this way.
+###--------
+###Mugshot:12
+Haven't you been kinda
+unhappy at this school?
+###--------
+###Mugshot:2
+Th-That's!
+###--------
+###Script:34
+###Mugshot:2
+...Mgh.
+###--------
+###Mugshot:12
+###--------
+###Mugshot:12
+You feel like other teachers
+give you the cold shoulder,
+don't you?
+###--------
+###Mugshot:2
+How do you know about
+that!?
+###--------
+###Mugshot:12
+It's the fate of all idealists.
+###--------
+###Mugshot:2
+Wh-What should I do...?
+###--------
+###Script:35
+###Mugshot:12
+I think you have an
+Earth saying that goes,
+###--------
+###Mugshot:12
+"The nail that sticks up
+gets hammered down."
+###--------
+###Mugshot:12
+Sounds like that's what's
+happening, no?
+###--------
+###Mugshot:12
+It's a smart way of doing
+things, I'd say.
+###--------
+###Mugshot:12
+Heh heh heh.
+###--------
+###Script:36
+*whisper
+        whisper*
+###--------
+"What is with that guy...?"
+###--------
+"...Things more important
+than textbooks? Bah."
+###--------
+"Our job is to teach
+what's in the books."
+###--------
+"Isn't he only trying to
+be hip with the kids?"
+###--------
+*whisper
+        whisper*
+###--------

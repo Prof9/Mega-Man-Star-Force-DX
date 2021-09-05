@@ -1,0 +1,153 @@
+﻿###TextArchive:mess_0396
+###Script:0
+Temp message
+###--------
+###Script:50
+###Mugshot:OmegaXis
+C'mon, let's call it a day.
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Let's go to Time Square.
+###--------
+###Script:52
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's find out what
+that wave really is!
+Geo, pulse in!
+###--------
+###Script:53
+###Mugshot:OmegaXis
+Let's find the source
+of that wave!
+###--------
+###Script:60
+###Mugshot:OmegaXis
+Pulse out!
+###--------
+###Script:61
+###Mugshot:OmegaXis
+Let's show those admins
+what we're made of!
+###++++++++
+###Mugshot:OmegaXis
+Head for the AMAKEN
+rooftop Wave Road!
+###--------
+###Script:62
+###Mugshot:OmegaXis
+Aren't we going to that
+Dream Island place?
+###--------
+###Script:63
+###Mugshot:OmegaXis
+There's a park.
+C'mon, let's go!
+###--------
+###Script:64
+###Mugshot:OmegaXis
+Aren't we going to leave
+the park?
+###--------
+###Script:65
+###Mugshot:OmegaXis
+Do as you were told
+and keep going.
+###--------
+###Script:66
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Isn't there supposed to be
+something at the City Dump?
+###--------
+###Script:67
+###Mugshot:OmegaXis
+We should be getting home.
+###--------
+###Script:68
+###Mugshot:OmegaXis
+Find the guy controlling
+the SorterBot!
+###--------
+###Script:70
+###Mugshot:OmegaXis
+Aren't we gonna go home?
+###--------
+###Script:71
+###Mugshot:OmegaXis
+Let's go home and get
+some sleep.
+###--------
+###Script:75
+###Mugshot:OmegaXis
+Aren't we going to
+Time Square?
+###--------
+###Script:76
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Go inside the City Dump!
+###--------
+###Script:77
+###Mugshot:OmegaXis
+Think of a way to move
+that backhoe!
+###--------
+###Script:78
+###Mugshot:OmegaXis
+Look for the ShovelMan
+card!
+###--------
+###Script:79
+###Mugshot:OmegaXis
+Give the ShovelMan card
+to that one guy!
+###--------
+###Script:80
+###Mugshot:OmegaXis
+Move that backhoe outta
+the way!
+###--------
+###Script:81
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Go inside the City Dump!
+###--------
+###Script:88
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Take the Dream Island
+Wave Road and keep going!
+Geo, pulse in!
+###--------
+###Script:89
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Head for the Scrap Comp
+where Gemini is!
+###--------
+###Script:90
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Follow that Gemini guy!
+Head for the Scrap Comp
+where Gemini is!
+###--------
+###Script:91
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Gemini is definitely close!
+Stay focused!
+###--------

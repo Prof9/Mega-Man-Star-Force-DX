@@ -1,0 +1,72 @@
+﻿###TextArchive:mess_0745
+###Script:0
+###Mugshot:OmegaXis
+Thought it might be an
+FM-ian, but it's a peon.
+###--------
+###Mugshot:MegaMan
+Wh-What?
+###--------
+###Mugshot:OmegaXis
+Just get ready, kid.
+Here he comes!
+###--------
+###Mugshot:Jammer
+Are you a car thief too?
+###--------
+###Mugshot:Jammer
+Sorry, but this here's mine!
+###--------
+###Mugshot:Jammer
+Go git yer own or
+face my wrath!
+###--------
+###Mugshot:Jammer
+Kyahahahaha!!
+###--------
+###Script:5
+###Mugshot:TaurusFire
+Mmmrrrrgh...
+Who are you...?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+M-Mega... Y-You didn't
+tell me there'd be
+someone THIS huge!
+###--------
+###Mugshot:OmegaXis
+That's Taurus Fire!
+###--------
+###Mugshot:OmegaXis
+He's an FM-ian with a
+powerful tackle who
+controls fierce flames!
+###--------
+###Mugshot:TaurusFire
+That voice... is that you,
+Omega-Xis!?
+###--------
+###Mugshot:TaurusFire
+How lucky for me that
+you'd come right to me!
+###--------
+###Mugshot:TaurusFire
+###--------
+###Mugshot:TaurusFire
+I'm going to mow you
+down and take back
+the Andromeda Key!!
+###--------
+###Mugshot:TaurusFire
+MMMRRRRGH!!
+###--------
+###Mugshot:OmegaXis
+...Here he comes!
+Don't get careless!
+###--------
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------

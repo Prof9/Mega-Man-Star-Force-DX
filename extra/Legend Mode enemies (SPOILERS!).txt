@@ -1,0 +1,114 @@
+New boss abilities:
+- Combo Guard: While the enemy has a status effect, hitting them again with the
+  same status effect will not reset the status effect timer. Additionally,
+  hitting them with a different status effect will have a reduced effect.
+- Element Armor: Takes 50% damage from attacks that are not super effective,
+  unless they have breaking properties.
+- No Bubble: Unaffected by bubble status effect.
+- No Paralyze: Unaffected by paralysis status effect.
+- Poison Shoes: Unaffected by poison panels and creates poison panels when
+  moving.
+- Gemini Heal: When Gemini Spark W is hit by an attack, Gemini Spark B recovers
+  HP equal to 25% of the damage.
+- Wolf Boost: Becomes invulnerable and pierces Invisible during close-range
+  attacks.
+- Green Heal: Recovers HP constantly as if always on grass panels. (Does not
+  stack with grass panels.)
+
+CANNONBASE
+- Power Bomb: now rotates to target Mega Man.
+
+CRAGGY
+- Magma Bazooka: now deals breaking damage.
+
+MCCLEAVER
+- Berserk Sword: now deals non-flashing damage.
+- Berserk Sword: no longer stops its combo when it hits Mega Man.
+
+TROPICONGA
+- Now has shield when not attacking.
+
+STREAMCANCRO
+- Aqua Bubble: now inflicts bubble.
+
+TAURUS FIRE
+Gains: Combo Guard, Super Armor
+- Anger Punch: now creates Guard Null panel.
+
+CYGNUS WING
+Gains: Combo Guard
+- Cygnus Feather: now deals non-flashing damage.
+- Cygnus Feather: now inflicts confusion.
+- Cygnus Feather: now creates gravity panel, unless it hits Mega Man or shield.
+- Cygnus Feather: may miss on purpose if Mega Man is shielding prematurely.
+- Dancing Swan: now inflicts confusion.
+
+HARP NOTE
+Gains: Combo Guard
+- Periodically summons a LuPelvis with 50/75/100 HP.
+- Shock Note: speakers are now indestructible except with breaking attacks.
+- Shock Note: speakers now respawn each time the attack is used.
+
+LIBRA SCALES
+Gains: Combo Guard, Element Armor
+
+QUEEN OPHIUCA
+Gains: Combo Guard, Step Poison, Poison Shoes
+- Snake Legion: snakes now have 1/2 HP but gain shield.
+- Snake Legion: more random patterns added.
+- Snake Legion: now inflicts HP Bug.
+- Snake Legion: no longer causes invisibility on hit.
+- Snake Legion: now deals breaking damage.
+
+GEMINI SPARK
+Gains: Combo Guard, Gemini Heal, Undershirt
+- Elec Sword: now hits in a Wide Sword range.
+
+CANCER BUBBLE
+Gains: Combo Guard, No Bubble
+- Bubble Pop: at EX and SP level, the bubbles now have more HP.
+- Boomerang Cutter: one of the claws will be thrown a random time after the
+  attack ends.
+- Boomerang Cutter: will be thrown immediately if Mega Man is frozen and in
+  range.
+- Tidal Wave: now creates ice panels.
+
+WOLF WOODS
+Gains: Combo Guard, Wolf Boost
+- Wide Claw: now inflicts blind.
+- Upper Claw: now pierces invisibility.
+
+CROWN THUNDER
+Gains: Combo Guard, No Paralyze
+- Attacks with multiple ghosts more frequently.
+- When attacking with multiple ghosts, they now target different columns.
+
+ANDROMEDA
+- Once Andromeda's HP falls below the transformation threshold, it will no
+  longer take damage until it finishes transforming.
+- Meteors: now deals Fire damage.
+- Big Bang Eater/Crash: now inflicts gravity.
+- Big Bang Eater/Crash: now pierces and removes invisibility.
+- New attack: Ice Meteor. Aqua Elemental and inflicts freeze.
+- New attack: Lone Thunder. Elec Elemental and inflicts paralysis.
+
+PEGASUS MAGIC
+- Blizzard: now creates ice panels.
+- Ice Edge: now attacks twice in a row.
+- Star Road: will now use it immediately if Mega Man is frozen.
+
+LEO KINGDOM
+- Magma Ball: now shoots several homing Magma Balls in a row. Only the first one
+  can be Counter Hit.
+- Gigaton Press: now inflicts gravity.
+
+DRAGON SKY
+Gains: Green Heal
+- Leaf Tornado: now blocks attacks and is used as a shield at 50% and higher HP.
+- Flowering Burst: now inflicts confusion.
+
+????
+Gains: Combo Guard
+- Magic Panels cannot be overwritten.
+- Magic Thunder: now deals breaking damage.
+- Magic Thunder: now pierces invisibility.

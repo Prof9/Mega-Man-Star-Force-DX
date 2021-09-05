@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_1238
+###Script:0
+###Mugshot:0
+Hey! Can you hear me?
+###--------
+###Mugshot:0
+I got your data back!
+###--------
+###Script:1
+Really!? What a relief!
+###--------
+###Script:2
+###Mugshot:0
+So how am I supposed
+to get this to you?
+###--------
+###Script:3
+...I don't know.
+Oh, wait a sec.
+###--------
+I'm going to try jumping
+through to you!
+###--------
+...Hah!
+###--------
+###Script:4
+###Mugshot:MegaManEXE
+Wh-Where am I?
+###--------
+###Script:5
+###Mugshot:0
+You...
+###--------
+###Mugshot:0
+You look like me...
+###--------
+###Script:6
+*rumble rumble*
+###--------
+###Script:7
+###Mugshot:MegaManEXE
+###--------
+###Mugshot:MegaManEXE
+Oh no!!
+The wave ball is collapsing!
+###--------
+###Mugshot:MegaManEXE
+Sorry, but I've got to hurry!
+###--------
+###Script:8
+Mega Man gave:
+"<printItem>"
+to ...MegaMan!
+###Command:printItem item=58
+###--------
+###Script:9
+###Mugshot:MegaManEXE
+Thank you!!
+###--------
+###Mugshot:MegaManEXE
+###--------
+###Mugshot:MegaManEXE
+Here's something for
+helping us! A little something
+to show our thanks!
+###--------
+Mega Man got
+Mega weapon: "<printItem>"!!
+###Command:printItem item=35
+###--------
+###Script:10
+###Mugshot:0
+Thanks...
+###--------
+###Mugshot:0
+By the way, who are you...?
+###--------
+###Script:11
+###Mugshot:MegaManEXE
+Me?
+###--------
+###Mugshot:MegaManEXE
+I'm MegaMan!
+I'm Lan Hikari's Navi!
+###--------
+###Script:12
+###Mugshot:0
+Wha!? MegaMan!?
+###--------
+###Script:13
+###Mugshot:0
+MegaMan...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I guess there are others
+out there with the same
+name as me, huh?
+###--------

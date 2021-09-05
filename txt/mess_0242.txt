@@ -1,0 +1,122 @@
+﻿###TextArchive:mess_0242
+###Script:0
+Jammmm!!
+Jammmmmmmm!!
+###--------
+Jammmm...
+###--------
+###Script:1
+###Mugshot:Geo
+Phew...
+###--------
+###Mugshot:Geo
+I think we gave them
+the slip...
+###--------
+###Script:2
+###Mugshot:Luna
+Argh! How many of those
+creepy guys are there!?
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+There's so many,
+they're bound to spot
+us sooner or later...
+###--------
+###Script:3
+###Mugshot:OmegaXis
+(She's right, you know.
+You can't run forever...)
+###--------
+###Mugshot:OmegaXis
+(If you don't do something
+about the Jammer,
+###--------
+###Mugshot:OmegaXis
+you guys aren't gonna
+get outta here.)
+###--------
+###Script:4
+###Mugshot:Geo
+(Then it looks like I don't
+have a choice...)
+###--------
+###Mugshot:Geo
+(This room seems to be
+safe for now...)
+###--------
+###Mugshot:Geo
+(This may be our only
+chance. Let's go!)
+###--------
+###Script:5
+###Mugshot:Geo
+Luna, I'm going to try to
+get rid of them.
+###--------
+###Mugshot:Geo
+So I want you to wait here.
+###--------
+###Mugshot:Geo
+Can you handle being here
+by yourself?
+###--------
+###Script:6
+###Mugshot:Luna
+Are you stupid!?
+###--------
+###Mugshot:Luna
+You can't go out there alone!!
+What can you do?
+###--------
+###Script:7
+###Mugshot:Geo
+My dad used to say that
+###--------
+###Mugshot:Geo
+even if it was a sliver
+of a chance, it's better
+to do something.
+###--------
+###Script:8
+###Mugshot:Luna
+But it's dangerous!!
+###--------
+###Script:9
+###Mugshot:Geo
+It'll be alright.
+I'll protect you.
+###--------
+###Script:10
+###Mugshot:Luna
+(*ba-dump!!*)
+###--------
+###Script:11
+###Mugshot:Geo
+So promise me you won't
+leave this room!
+###--------
+###Script:12
+###Mugshot:Luna
+Wh-What did you just say...?
+###--------
+###Script:13
+###Mugshot:MegaMan
+...It'll be alright.
+I'll protect you.
+###--------
+###Script:14
+###Mugshot:Luna
+Wh-What am I thinking at
+a time like this!?
+###--------
+###Mugshot:Luna
+It's not like he's Mega Man
+or anything!!
+###--------
+###Mugshot:Luna
+But... he was sorta,
+kinda cool just now...
+###--------

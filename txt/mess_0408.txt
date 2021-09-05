@@ -1,0 +1,12 @@
+﻿###TextArchive:mess_0408
+###Script:0
+Temp message
+###--------
+###Script:5
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It looks like Libra Scales's
+attack didn't do any
+lasting damage.
+###--------

@@ -1,0 +1,125 @@
+﻿###TextArchive:mess_0063
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+Hello everyone!
+I'm Echo Ridge Elementary's
+favorite Dee Jay!
+###--------
+###Script:3
+###Mugshot:Boy
+Hello everyone. In the
+face of the recent rash
+of mysterious occurrences,
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+all of us at Echo Ridge
+Elementary School Radio
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+are making a concerted
+effort to get to the
+bottom of the situation.
+###--------
+###Script:4
+###Mugshot:Boy
+Hello everyone!
+###--------
+###Mugshot:Boy
+Recently, there's been
+a lot of interference in
+our broadcast signal.
+###--------
+###Mugshot:Boy
+Anyone who notices
+something suspicious
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+should notify the school
+radio station right away.
+###--------
+###Mugshot:MegaMan
+I'll bet that's the work
+of an FM-ian.
+###--------
+###Mugshot:OmegaXis
+You're probably right!
+###--------
+###Mugshot:OmegaXis
+Do you think we should
+do something?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Let' go get unruly!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Aw man! I was just
+startin' to feel frisky.
+###--------
+###Script:6
+###Mugshot:Boy
+Recently, there's been
+a lot of interference in
+our broadcast signal.
+###--------
+###Mugshot:Boy
+Anyone who notices
+something suspicious
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+should notify the school
+radio station right away.
+###--------
+###Script:7
+###Mugshot:Boy
+Hello everyone!
+###--------
+###Mugshot:Boy
+The interference problem
+affecting the broadcast
+signal of Echo Ridge
+###--------
+###Mugshot:Boy
+Elementary School Radio
+has been solved by a boy
+with green glasses.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+Thank you mystery boy!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

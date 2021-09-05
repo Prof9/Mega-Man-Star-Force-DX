@@ -1,0 +1,30 @@
+﻿###TextArchive:mess_1181
+###Script:0
+###Mugshot:TruckNavi
+Woo-whee! I feel good!
+###--------
+###Mugshot:TruckNavi
+If you're gonna drive,
+do it over the ocean!
+###--------
+###Mugshot:TruckNavi
+The sun on my roof,
+the wind in my grill!
+###--------
+###Mugshot:TruckNavi
+I'm tellin' you, it can't be
+beat!
+###--------
+###Mugshot:TruckNavi
+Huh? I'm working! I was
+just checking the road...
+###--------
+###Script:20
+###Mugshot:TruckNavi
+Ugh... I feel like I'm about
+to stall...
+###--------
+###Mugshot:TruckNavi
+Is it already too late to
+do anything...?
+###--------

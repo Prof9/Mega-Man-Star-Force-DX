@@ -1,0 +1,238 @@
+﻿###TextArchive:mess_0026
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Bud
+Welcome to Bud's Transer!
+###--------
+###Script:2
+###Mugshot:Bud
+Who the heck was that
+cow-looking dude...?
+###--------
+###Mugshot:Bud
+If I see him again,
+I'll make steak outta him!
+###--------
+###Script:3
+###Mugshot:Bud
+That Mega Man guy
+saved me again!
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+The way he took down that
+monster, that guy's a hero!
+I wanna be just like him.
+###--------
+###Mugshot:Bud
+I know it's not related,
+but I want some pizza.
+###--------
+###Script:4
+###Mugshot:Bud
+Sonia's concert was phat!!
+###--------
+###Mugshot:Bud
+I can't believe she's
+gonna retire...
+###--------
+###Mugshot:Bud
+It's definitely gonna take a
+few chili dogs with cheese
+###--------
+###Mugshot:Bud
+for me to get over a
+shock like that.
+###--------
+###Script:5
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+What is it with me getting
+caught up in all these
+strange happenings lately!?
+###--------
+###Mugshot:Bud
+I've gotta give it up
+for that Mega Man dude...
+He's the man!
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Whoa, I just got this hunger
+for some beef stew.
+###--------
+###Script:6
+###Mugshot:Bud
+Is it just me, or has
+the Prez been acting
+a little funny?
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+I get the feeling that
+something happened
+last Sunday...
+###--------
+###Mugshot:Bud
+Anyway, I sure could go
+for some fries...
+###--------
+###Script:7
+###Mugshot:Bud
+Something weird is going
+on with the Prez. I wonder
+what happened this time.
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Oh well, roast duck always
+puts me in a good mood.
+###--------
+###Script:8
+###Mugshot:Bud
+I can't believe HE was
+Mega Man all this time!
+###--------
+###Mugshot:Bud
+And I wanted to be
+just like him too!
+###--------
+###Mugshot:Bud
+I need a burrito just
+to take my mind off it.
+###--------
+###Script:9
+###Mugshot:Bud
+I can usually handle any
+situation with brute force,
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+but now there's nothing
+I can do...
+Good luck, dude!
+###--------
+###Script:10
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+I act tough on the outside,
+but actually, I'm insecure,
+and I just want to fit in.
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+If Prez cut our Brother-
+Band, I'm afraid I'd go
+back to being a nobody...
+###--------
+###Script:17
+###Mugshot:Bud
+I can't believe HE was
+Mega Man all this time!
+###--------
+###Mugshot:Bud
+And I wanted to be
+just like him too!
+###--------
+###Mugshot:Bud
+I need a burrito just
+to take my mind off it.
+###--------
+###Script:18
+###Mugshot:Bud
+I can usually handle any
+situation with brute force,
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+but now there's nothing
+I can do...
+Good luck, dude!
+###--------
+###Script:20
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+There's this legendary
+burger I've never been
+able to get my hands on...
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Aaaargh, just thinking
+about it is enough to
+keep me up at night!!
+###--------
+###Mugshot:OmegaXis
+Can this guy go a minute
+without thinking of food?
+###--------
+###Mugshot:MegaMan
+It seems like he really
+needs that burger.
+###--------
+###Mugshot:MegaMan
+Should I help him look
+for it?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+I guess it sounds
+kinda interesting.
+###--------
+###Mugshot:OmegaXis
+OK. But leave some
+for me!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:21
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+There's this legendary
+burger I've never been
+able to get my hands on...
+###--------
+###Mugshot:Bud
+###--------
+###Mugshot:Bud
+Aaaargh, just thinking
+about it is enough to
+keep me up at night!!
+###--------
+###Script:22
+###Mugshot:OmegaXis
+What, so you're just
+going to let him starve?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

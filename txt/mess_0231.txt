@@ -1,0 +1,43 @@
+﻿###TextArchive:mess_0231
+###Script:0
+Mr. Shepar!
+###--------
+###Script:1
+###Mugshot:3
+He's not here either...
+###--------
+###Script:2
+###Mugshot:5
+Where did he go?
+###--------
+###Script:3
+###Mugshot:4
+Do you think he ate
+something bad?
+###--------
+###Script:4
+###Mugshot:9
+Does he have a fever?
+###--------
+###Script:5
+###Mugshot:8
+###--------
+###Mugshot:8
+If he wasn't sick, Mr. Shepar
+wouldn't say things like we
+need to get better grades!
+###--------
+###Script:6
+###Mugshot:3
+That's why we must
+hurry and take him
+to the doctor's.
+###--------
+###Mugshot:3
+We've got to get our
+teacher back!
+###--------
+###Mugshot:3
+Let's split up and look
+for him!
+###--------

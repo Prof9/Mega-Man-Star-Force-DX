@@ -1,0 +1,90 @@
+﻿###TextArchive:mess_0562
+###Script:0
+###Mugshot:11
+Hey, why don't you run
+with me?
+###--------
+###Mugshot:11
+50 laps around the
+basketball court is fun!!
+###--------
+###Script:1
+###Mugshot:12
+*huff huff*
+Working out everyday is
+really good for you.
+###--------
+###Mugshot:12
+Wanna give it a try?
+###--------
+###Script:5
+###Mugshot:11
+###--------
+###Mugshot:11
+I run even on my days off!
+Because it's good for me!
+###--------
+###Script:6
+###Mugshot:12
+Phew!
+Running is fun!!
+###--------
+###Mugshot:12
+You get such a runner's
+high from it!
+###--------
+###Script:10
+###Mugshot:11
+Alright! Special training today
+after school!
+###--------
+###Mugshot:11
+I'm gonna try my best!!
+###--------
+###Script:11
+###Mugshot:11
+I'm dashing towards the
+futuuuuuure!!
+###--------
+###Script:100
+###Mugshot:14
+###--------
+###Mugshot:14
+People mistake me for a
+ghost every so often, even
+though I'm the curtain Navi...
+###--------
+###Script:101
+###Mugshot:14
+Hmm... Do you feel a bad
+vibe too?
+###--------
+###Mugshot:14
+I wonder if the students
+are alright.
+###--------
+###Script:102
+###Mugshot:14
+The wave's gone. I'm glad
+nothing bad happened...
+###--------
+###Script:103
+###Mugshot:14
+I think I'm just going to
+loaf around today.
+###--------
+###Mugshot:14
+The curtain goes up,
+the curtain goes down...
+###--------
+###Script:104
+###Mugshot:14
+Hmm...
+###--------
+###Mugshot:14
+Something seems a bit off
+about the curtain...
+###--------
+###Mugshot:14
+Hmm...
+###--------

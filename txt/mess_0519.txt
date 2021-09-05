@@ -1,0 +1,86 @@
+﻿###TextArchive:mess_0519
+###Script:0
+Someone works hard here.
+The desk is a mess.
+###--------
+###Script:1
+It's a staff member's desk.
+###--------
+Looks like a lot of
+important info's on here,
+so no touching!
+###--------
+###Script:2
+A blueprint for a rocket.
+###--------
+"Brother Band" is scribbled
+here, but what does it
+mean...?
+###--------
+###Script:3
+Mr. Boreal's desk.
+It's really clean.
+###--------
+###Script:4
+###--------
+It's a drawing of something
+Mr. Boreal says he saw when
+he didn't sleep for 3 days.
+###--------
+Now where have I seen
+this before...?
+###--------
+###Script:5
+It's a rocket that's still in
+development.
+###--------
+I'd love to see it take off
+one day!
+###--------
+###Script:6
+Looks like an engine...
+###--------
+It's too large for the
+rocket next to it.
+###--------
+I bet it's for something else.
+###--------
+###Script:9
+It says, "Caution!
+Rocket Under Construction!"
+###--------
+###Script:15
+They're lockers for the
+staff to use.
+###--------
+###Script:16
+Something fell out of one
+of the lockers!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=56
+###--------
+###Script:20
+A big monitor that shows
+very important info.
+###--------
+###Script:21
+A big monitor that shows
+very important info.
+###--------
+But the power's not on
+now, so it's blank.
+###--------
+Turn on the power?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whiiiiiiiir*
+###--------
+A wavehole has appeared
+near the monitor!
+###--------

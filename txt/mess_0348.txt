@@ -1,0 +1,15 @@
+﻿###TextArchive:mess_0348
+###Script:0
+###Mugshot:OmegaXis
+We're getting close to
+the exit!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Get ready to come out
+of standby!
+###--------
+###Mugshot:OmegaXis
+We're just a hop away
+from the space station!
+###--------

@@ -1,0 +1,96 @@
+﻿###TextArchive:mess_1082
+###Script:10
+###Mugshot:MegaMan
+A wave ball!
+OK, let's go take care of it!
+###--------
+###Mugshot:MegaMan
+Hah!!
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Looks like we got them all
+in this area.
+###--------
+###Script:50
+###Mugshot:InfoNavi
+A black hole will suck up
+anything...
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Hmm, I wonder if there's
+a really hungry monster
+hiding out at its center...
+###--------
+###Mugshot:InfoNavi
+Does it eat anything and
+everything...?
+###--------
+###Script:70
+###Mugshot:InfoNavi
+I sense a very ominous
+wave nearby.
+###--------
+###Mugshot:InfoNavi
+I-It's using the black hole
+machine...
+###--------
+###Script:90
+###Mugshot:InfoNavi
+You know, there's
+something I've wanted
+to ask the staff here.
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+Wherever there is a galaxy,
+there seems to be a
+black hole there.
+###--------
+###Mugshot:InfoNavi
+If my theory is correct,
+###--------
+###Mugshot:InfoNavi
+there is a large, hungry
+monster living inside each
+and every one.
+###--------
+###Mugshot:InfoNavi
+Ah, I get the chills when
+I think about it.
+###--------
+###Script:150
+###Mugshot:InfoNavi
+You think about it when
+you see a rocket too...
+###--------
+###Mugshot:InfoNavi
+You're so easy to read...
+###--------
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+But then, when I look,
+I simply melt away...
+###--------
+###Script:151
+###Mugshot:MrHertz
+I THOUGHT ALL THE GOODS
+HERE WERE DESTROYED
+###--------
+###Mugshot:MrHertz
+DURING THAT MUSIC
+INCIDENT RECENTLY!
+###--------
+###Mugshot:MrHertz
+AS A TECH-LOVER, I
+COULDN'T SLEEP FOR
+MANY NIGHTS!
+###--------
+###Mugshot:MrHertz
+BUT I'M REALLY GLAD NO
+ONE WAS SERIOUSLY HURT!
+###--------

@@ -1,0 +1,491 @@
+﻿###TextArchive:mess_0449
+###Script:0
+###Mugshot:13
+###--------
+###Mugshot:13
+Hmm...
+I wonder why this town's
+Z wave levels are so high...?
+###--------
+###Script:1
+###Mugshot:2
+Tomorrow is Sonia's concert!
+###--------
+###Mugshot:2
+Ooooh yeah!
+I'm so looking forward to it!
+###--------
+###Script:2
+###Mugshot:3
+What is with that police guy!?
+###--------
+###Mugshot:3
+Hmph, barging into people's
+Transers!!
+###--------
+###Mugshot:3
+I only allow my Brothers
+into my Transer!
+###--------
+###Script:3
+###Mugshot:4
+Starting today, the card
+shop is open.
+###--------
+###Mugshot:4
+And tomorrow, I hear
+there's a concert.
+###--------
+###Mugshot:4
+It's good that this town is
+growing so much.
+###--------
+###Script:4
+###Mugshot:5
+That card shop, BIG WAVE,
+seems to have it all.
+###--------
+###Mugshot:5
+###--------
+###Mugshot:5
+The shop owner, Mr. Suther,
+is a bit gaudy, but he's a
+nice, laid-back person.
+###--------
+###Script:5
+###Mugshot:8
+###--------
+###Mugshot:8
+Soccer is the new "in" thing.
+The era of baseball is over.
+###--------
+###Mugshot:8
+So why aren't there any
+soccer cards here!?
+###--------
+###Script:10
+###Mugshot:8
+Ahh, what great weather!
+###--------
+###Mugshot:8
+I'd love to play soccer on
+a big field right now!
+###--------
+###Script:11
+###Mugshot:8
+Huh? Well, I am Joe, but...
+###--------
+###Mugshot:8
+The pitching machine at
+Vista Point?
+###--------
+###Mugshot:8
+Sorry, but I can't lend it
+to you!
+###--------
+###Mugshot:8
+###--------
+###Mugshot:8
+Why?
+I don't need to tell
+you why!
+###--------
+###Mugshot:8
+I gave up on baseball,
+so stop mentioning it!
+###--------
+###Script:12
+###Mugshot:8
+###--------
+###Mugshot:8
+Sorry, but I've got nothing
+to say about that pitching
+machine.
+###--------
+###Script:13
+###Mugshot:13
+###--------
+###Mugshot:13
+Hmm...
+This town is covered
+with Z waves...
+###--------
+###Mugshot:13
+How suspicious.
+###--------
+###Script:14
+###Mugshot:2
+I have to listen to Sonia's
+album one more time!
+###--------
+###Mugshot:2
+La lalala...
+###--------
+###Script:15
+###Mugshot:3
+That guy with the funky doo
+is hanging around and mumbling
+"suspicious" to himself but...
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+he's the one that is being
+suspicious!
+###--------
+###Script:16
+###Mugshot:4
+###--------
+###Mugshot:4
+That guy keeps talking
+about Z waves, but
+what are they?
+###--------
+###Script:17
+###Mugshot:5
+Actually, I'm a big fan
+of Sonia...
+###--------
+###Mugshot:5
+But most people don't
+know that.
+###--------
+###Script:20
+###Mugshot:2
+###--------
+###Mugshot:2
+I heard it from Sonia's
+manager that she's
+disappeared!
+###--------
+###Mugshot:2
+What's gonna happen to
+today's concert?
+###--------
+###Script:21
+###Mugshot:3
+###--------
+###Mugshot:3
+Just when I thought "Creepy
+Guy" was gone, an odd
+businessman shows up...
+###--------
+###Mugshot:3
+What is it with this town
+and creepy people?
+###--------
+###Script:22
+###Mugshot:4
+BIG WAVE's owner is just
+like me; cool and kind!
+###--------
+###Mugshot:4
+You should never judge
+a book by its cover.
+###--------
+###Script:23
+###Mugshot:5
+Where did you go,
+dear Sonia?
+###--------
+###Mugshot:5
+Ah... I'm so worried for her.
+###--------
+###Script:24
+###Mugshot:8
+I did see a new face
+hanging around here...
+###--------
+###Mugshot:8
+and it was a cute girl too!
+###--------
+###Script:30
+###Mugshot:3
+Unnngh...
+###--------
+###Script:31
+###Mugshot:4
+*huff huff*...
+###--------
+###Script:32
+###Mugshot:5
+Aaaargh...
+###--------
+###Script:33
+###Mugshot:13
+Oooongh...
+###--------
+###Script:34
+###Mugshot:6
+......Ugh.
+###--------
+###Script:35
+###Mugshot:19
+Eeeeh...
+###--------
+###Script:50
+###Mugshot:Luna
+I see you are going to
+listen to me.
+###--------
+###Mugshot:Luna
+That's good.
+Attendance will be important.
+###--------
+###Mugshot:Luna
+Now, welcome back to
+school, Geo!
+###--------
+###Mugshot:Luna
+You'd better appreciate
+my kindness.
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Now before you go to our
+classroom, you should say
+good morning to our teacher.
+###--------
+###Mugshot:Luna
+He is always in front of
+the teacher's room.
+###--------
+###Script:51
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Now before you go to
+our classroom, you should
+say hi to our teacher.
+###--------
+###Mugshot:Luna
+He is always in front of
+the teacher's room.
+###--------
+###Script:52
+Looks like you finally
+decided to come.
+###--------
+You'd better go thank
+the Prez later.
+###--------
+###Script:53
+Looks like you finally
+decided to come.
+###--------
+You'd better go thank
+the Prez later.
+###--------
+###Script:54
+###--------
+Her words seem to have
+persuaded you.
+That's our Prez for you!
+###--------
+###Script:55
+###--------
+Her words seem to have
+persuaded you.
+That's our Prez for you!
+###--------
+###Script:60
+###Mugshot:Woman
+Oh!
+When did this store re-open?
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Maybe I'll go have a
+look around...
+###--------
+###Script:61
+###Mugshot:Boy
+Did you go to Sonia's
+final concert?
+###--------
+###Mugshot:Boy
+I was totally moved...
+*sniffle*
+###--------
+###Script:62
+###Mugshot:LittleBoy
+You think this mailbox
+is fake?
+###--------
+###Mugshot:LittleBoy
+The shape and color kind
+of stick out...
+###--------
+###Mugshot:LittleBoy
+I guess it's not a great
+copy job...
+###--------
+###Script:63
+###Mugshot:OldMan
+Sour Soda... Is this good
+for your health?
+###--------
+###Mugshot:OldMan
+Do you know anything
+about this?
+###--------
+###Script:64
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Did you hear?
+Sonia Strumm retired!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Ah... What am I supposed
+to listen to now?
+###--------
+###Script:70
+###Mugshot:Woman
+Sour Soda...
+I wonder how it is...
+###--------
+###Mugshot:Woman
+Do you know?
+###--------
+###Script:71
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+I heard there have been
+a lot of ghost sightings
+lately...
+###--------
+###Mugshot:LittleBoy
+Well, let's go find us some!
+###--------
+###Script:73
+###Mugshot:OldMan
+BIG WAVE... You know,
+that reminds me...
+###--------
+###Mugshot:OldMan
+When I was young,
+I used to ride them.
+###--------
+###Mugshot:OldMan
+I'm serious!
+I was a surfer!
+###--------
+###Script:74
+###Mugshot:Man
+Try flying your RC copter
+along the surface of
+the water.
+###--------
+###Mugshot:Man
+It's a neat feeling when
+you do it!
+###--------
+###Script:80
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+*sigh*... I'd love to go to
+Vista Point someday with
+someone special.
+###--------
+###Mugshot:Woman
+Ahh...
+###--------
+###Script:81
+###Mugshot:Boy
+That ghost only goes
+after lonely people...
+###--------
+###Mugshot:LittleBoy
+Well, let's go find it!
+###--------
+###Script:83
+###Mugshot:OldMan
+Ahh, school...
+Sure brings back memories.
+###--------
+###Mugshot:OldMan
+Back then, I used to
+be a little rascal.
+###--------
+###Mugshot:OldMan
+Those were the days...
+###--------
+###Script:84
+###Mugshot:Man
+You go to Echo Elementary,
+right?
+###--------
+###Mugshot:Man
+There's a RC lover's
+club, you know.
+###--------
+###Mugshot:Man
+Why don't you try looking
+for them?
+###--------
+###Script:100
+###Mugshot:20
+*vroooooom*
+###--------
+###Mugshot:20
+I'm so busy again today!!
+###--------
+###Script:105
+###Mugshot:20
+Mails with big attachments
+are really heavy!
+###--------
+###Mugshot:20
+Some of them are even
+too much for us to carry.
+###--------
+###Script:110
+###Mugshot:20
+*vroom*...
+###--------
+###Mugshot:20
+###--------
+###Mugshot:20
+I'm done with all the
+heavy mail, so it's time
+for a quick break!
+###--------
+###Script:115
+###Mugshot:20
+###--------
+###Mugshot:20
+Who was that cute girl
+that just ran by?
+###--------
+###Script:120
+###Mugshot:20
+###--------
+###Mugshot:20
+Everyone's in an uproar
+over Sonia's retirement.
+What is up with that...?
+###--------
+###Script:125
+###Mugshot:20
+I'm delivering long distance
+mail today!
+###--------
+###Mugshot:20
+*vroooooooom*
+###--------
+###Script:130
+###Mugshot:20
+Got any data you
+want me to deliver?
+###--------
+###Mugshot:20
+Just say the word and
+it's a done deal!
+###--------

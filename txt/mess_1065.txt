@@ -1,0 +1,96 @@
+﻿###TextArchive:mess_1065
+###Script:50
+###Mugshot:InfoNavi
+Another day of good air,
+and when it's night,
+###--------
+###Mugshot:InfoNavi
+it'll be another great night
+to see the stars.
+###--------
+###Mugshot:InfoNavi
+We can see the stars,
+but they are really
+very far away.
+###--------
+###Mugshot:InfoNavi
+They are far for even
+us waves!
+###--------
+###Script:51
+###Mugshot:TruckNavi
+There's something big coming
+down the line.
+###--------
+###Mugshot:TruckNavi
+But until it gets to me
+to be delivered,
+###--------
+###Mugshot:TruckNavi
+I'm keeping myself ready
+with some exercises!
+###--------
+###Mugshot:TruckNavi
+That way, I can deliver
+it at super speed!
+###--------
+###Script:52
+###Mugshot:FighterNavi
+Hmm, it should get here
+very soon...
+###--------
+###Mugshot:FighterNavi
+I'm supposed to get some
+data from AMAKEN today,
+###--------
+###Mugshot:FighterNavi
+and take it to the next
+relay point.
+###--------
+###Mugshot:FighterNavi
+I've got to get going to
+make the schedule,
+###--------
+###Mugshot:FighterNavi
+but the guy before me
+hasn't shown up yet.
+###--------
+###Mugshot:FighterNavi
+I wonder if he got lost.
+Should I look for him?
+###--------
+###Script:70
+###Mugshot:InfoNavi
+*beep whee*
+###--------
+###Mugshot:InfoNavi
+The wave situation is
+all normal!
+###--------
+###Script:71
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+HANGING AROUND SCHOOL
+LIKE THIS FOR SO LONG
+###--------
+###Mugshot:MrHertz
+HAS MADE ME FEEL LIKE
+AN ELEMENTARY KID TOO.
+###--------
+###Mugshot:MrHertz
+I WONDER WHY I WAS
+BORN A WAVE.
+###--------
+###Script:72
+###Mugshot:14
+*vroooom*
+###--------
+###Mugshot:14
+###--------
+###Mugshot:14
+As long as there is
+something to be delivered,
+I'll be there to deliver it!
+###--------

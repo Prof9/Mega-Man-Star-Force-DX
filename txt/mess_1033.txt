@@ -1,0 +1,25 @@
+﻿###TextArchive:mess_1033
+###Script:0
+###Mugshot:MrHertz
+OH, ARE YOU BY CHANCE...?
+###--------
+###Mugshot:MrHertz
+NAH... I MEAN, GEO IS A
+HUMAN, AFTER ALL.
+###--------
+###Script:5
+###Mugshot:MrHertz
+*BEEP BEEP!*
+###--------
+###Mugshot:MrHertz
+THE ATMOSPHERE OUTSIDE
+IS KIND OF ODD TODAY.
+###--------
+###Mugshot:MrHertz
+IT'S KIND OF... TENSE,
+STRAINED IF YOU WILL.
+###--------
+###Mugshot:MrHertz
+IF I WERE YOU, I WOULDN'T
+GO OUT THERE... *BEEP*
+###--------

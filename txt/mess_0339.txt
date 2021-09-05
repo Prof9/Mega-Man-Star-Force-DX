@@ -1,0 +1,275 @@
+﻿###TextArchive:mess_0339
+###Script:0
+###Mugshot:Jammer
+Gwaaaaah!!
+###--------
+###Script:1
+###Mugshot:1
+Phew...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We're not out of the fire
+yet. We still have to take
+care of the wave ball.
+###--------
+###Mugshot:OmegaXis
+...Over there!
+###--------
+###Script:3
+###Mugshot:1
+Hang on, OK?
+I'll get you down in a sec.
+###--------
+###Script:4
+###Mugshot:16
+...*ba-dump*
+###--------
+###Script:5
+###Mugshot:1
+Mega!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Got it!
+###--------
+###Script:7
+###Mugshot:1
+Mega Buster!!
+###--------
+###Script:8
+###Mugshot:1
+Alright.
+###--------
+###Script:9
+###Mugshot:0
+Is everyone OK?
+###--------
+###Script:10
+###Mugshot:6
+......Yeah.
+###--------
+###Mugshot:6
+###--------
+###Mugshot:6
+But wow... I never thought
+that you were Mega Man...
+###--------
+###Mugshot:6
+Why didn't you tell us!?
+###--------
+###Script:11
+###Mugshot:0
+I-I-I'm sorry!
+###--------
+###Script:12
+###Mugshot:6
+You were the one
+that saved me when
+I went nuts,
+###--------
+###Mugshot:6
+###--------
+###Mugshot:6
+and it was you again at
+AMAKEN... and that time
+at school too...
+###--------
+###Mugshot:6
+...I'm sorry!!
+###--------
+###Mugshot:6
+I'm sorry for treating
+you like dirt!
+###--------
+###Script:13
+###Mugshot:19
+Mega Man has always
+been our idol.
+###--------
+###Mugshot:19
+To think that he was
+you, Geo... Someone
+we see every day,
+###--------
+###Mugshot:19
+###--------
+###Mugshot:19
+I... I feel honored...
+###--------
+###Mugshot:19
+Eheh heh...
+###--------
+###Script:14
+###Mugshot:16
+.........
+###--------
+###Script:15
+###Mugshot:0
+...*gulp*
+###--------
+###Script:16
+###Mugshot:16
+Well, what are you
+waiting for?
+###--------
+###Mugshot:16
+Hold out your Transer
+already!
+###--------
+###Script:17
+Geo became Brothers
+with Luna Platz!
+###--------
+###Script:18
+###Mugshot:0
+Luna...
+###--------
+###Script:19
+###Mugshot:16
+###--------
+###Mugshot:16
+Consider it a thank you
+for saving us. Next time,
+I won't be so forgiving!
+###--------
+###Mugshot:16
+Bud! Zack!
+Let's go!
+###--------
+###Script:20
+###Mugshot:6
+OK.
+###--------
+###Script:21
+###Mugshot:19
+Yes, madam!
+###--------
+###Script:22
+###Mugshot:6
+Um... Geo...
+###--------
+###Mugshot:6
+Please be my Brother!
+###--------
+###Mugshot:0
+HUH!?
+###--------
+###Mugshot:6
+###--------
+###Mugshot:6
+I know it might seem strange
+because I've done nothing
+but pick on you until now,
+###--------
+###Mugshot:6
+but I've always really
+looked up to Mega Man.
+###--------
+###Mugshot:6
+I really want to be
+like Mega Man!
+###--------
+###Mugshot:6
+I'm really sorry for
+everything!
+###--------
+###Mugshot:6
+So please be Brothers
+with me!
+###--------
+###Mugshot:6
+...Please?
+###--------
+###Mugshot:0
+Um... sure.
+I'd be happy to be Brothers.
+###--------
+###Mugshot:6
+Really!?
+###--------
+###Mugshot:6
+I'm gonna learn how to
+be a good guy from you!
+###--------
+###Script:23
+###Mugshot:19
+Um... I want to be
+Brothers with you too,
+###--------
+###Mugshot:19
+but I don't think I can
+personally handle it now.
+###--------
+###Mugshot:19
+But one day...
+###--------
+###Script:24
+###Mugshot:16
+What are you two
+doing back there!?
+###--------
+###Script:25
+###Mugshot:6
+Well, see ya!
+###--------
+###Mugshot:6
+Don't worry, your secret's
+safe with me!
+###--------
+###Mugshot:6
+That's a promise from one
+man to another!
+###--------
+###Script:26
+###Mugshot:19
+Goodbye!
+###--------
+###Script:27
+###Mugshot:0
+A promise from one
+man to another...?
+###--------
+###Script:28
+###Mugshot:OmegaXis
+Hey, you don't have time
+to lollygag.
+###--------
+###Mugshot:OmegaXis
+You still have a few
+FM-ians left to mop up.
+###--------
+###Script:29
+###Mugshot:0
+But how are we supposed
+to find them?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+I bet they're on your
+dad's space station.
+###--------
+###Mugshot:OmegaXis
+If only we could find
+some way to get there...
+###--------
+###Script:31
+###Mugshot:0
+Get there?
+But they're in outer space.
+###--------
+###Mugshot:0
+How are we supposed to
+even get into space?
+###--------
+###Script:32
+###Mugshot:OmegaXis
+Heh. I bet that Boreal
+guy would know how.
+###--------
+###Script:33
+###Mugshot:0
+Ah, good idea!
+###--------

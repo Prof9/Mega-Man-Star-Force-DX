@@ -1,0 +1,117 @@
+﻿###TextArchive:mess_0141
+###Script:0
+*whiiii, whiiii*
+*whiiii, whiiii*
+###--------
+###Script:1
+###Mugshot:0
+Oh, it's the help signal.
+###--------
+###Script:2
+###Mugshot:OmegaXis
+What's that?
+###--------
+###Script:3
+###Mugshot:0
+The help signal is basically
+an SOS signal...
+###--------
+###Mugshot:0
+It means someone around
+here needs help.
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Earthlings call on strangers
+for help?
+###--------
+###Mugshot:OmegaXis
+That's such a foreign
+concept.
+###--------
+###Script:5
+###Mugshot:0
+Well, you're really supposed
+to go and help,
+###--------
+###Mugshot:0
+but I don't want to get
+involved with others.
+###--------
+###Mugshot:0
+I'm sure someone else
+will take care of it...
+###--------
+###Script:6
+###Mugshot:OmegaXis
+.<waitSkip>.<waitSkip>.<waitSkip>I've decided!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:OmegaXis
+We're going to go
+take a look!
+###--------
+###Mugshot:OmegaXis
+I want to see the
+source of this signal.
+###--------
+###Script:7
+###Mugshot:0
+Hey! Wait a sec!
+###--------
+###Mugshot:0
+How come you're the one
+who gets to decide this!?
+###--------
+###Mugshot:0
+You pushy freeloader!!
+###--------
+###Script:8
+###Mugshot:OmegaXis
+Aw, can it!
+Your life is beyond boring!
+###--------
+###Mugshot:OmegaXis
+You wake up, read a book
+about space, mess with
+some gadgets, study,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and when it gets dark,
+go stare at some stars
+up in the sky.
+###--------
+###Mugshot:OmegaXis
+You need some variety
+to spice up your life!
+###--------
+###Mugshot:0
+I don't need any spice!!
+###--------
+###Mugshot:0
+I won't let you run my
+life anymore!!
+###--------
+###Mugshot:OmegaXis
+Stuff it!
+###--------
+###Mugshot:OmegaXis
+When I say go, we go!!
+###--------
+###Script:9
+###Mugshot:0
+OWWWWWW!!
+Alright, alright!
+###--------
+###Script:10
+###Mugshot:0
+###--------
+###Mugshot:0
+Geez! You keep this up,
+and my left arm's gonna
+be longer than my right!
+###--------

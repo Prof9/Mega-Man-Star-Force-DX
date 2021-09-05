@@ -1,0 +1,123 @@
+﻿###TextArchive:mess_0044
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+Welcome to my Transer!
+Please take your time
+and look around!
+###--------
+###Script:4
+###Mugshot:Woman
+I work as a receptionist,
+but I have few opportunities
+to actually meet people.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+I wonder if there's someone
+nice out there for me.
+###--------
+###Script:5
+###Mugshot:Woman
+I don't know what to do.
+###--------
+###Mugshot:Woman
+The ticket machine isn't
+working, and I'm terrible
+with machines.
+###--------
+###Mugshot:Woman
+What am I going to do
+if someone complains?
+###--------
+###Mugshot:MegaMan
+Looks like that woman
+is having some trouble.
+###--------
+###Mugshot:OmegaXis
+I'll bet some FM-ian's behind it.
+###--------
+###Mugshot:OmegaXis
+Do you wanna check it out?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK! Let's go beat 'em at
+their own game!
+###--------
+###Mugshot:MegaMan
+We don't know if it's
+really FM-ians or not!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Aw man! I was just
+startin' to feel frisky.
+###--------
+###Script:7
+###Mugshot:Woman
+I don't know what to do.
+###--------
+###Mugshot:Woman
+The ticket machine isn't
+working, and I'm terrible
+with machines.
+###--------
+###Mugshot:Woman
+What am I going to do
+if someone complains?
+###--------
+###Script:8
+###Mugshot:Woman
+The strangest thing
+happened today.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+A kid with green glasses
+just shows up and fixes the
+ticket machine. Unbelievable!
+###--------
+###Script:9
+###Mugshot:Woman
+My hobby ever since I was
+a little girl has been cooking.
+###--------
+###Mugshot:Woman
+###--------
+###Mugshot:Woman
+But I'm a little sad that
+I don't have anyone to
+cook for.
+###--------
+###Mugshot:MegaMan
+(I should report back
+to Mr. Mann.)
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,139 @@
+﻿###TextArchive:mess_0052
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+Hello and welcome to
+Holly Wacher's Transer!
+###--------
+###Script:3
+###Mugshot:Girl
+I'm a senior member of the
+Echo Ridge Elementary
+Student Council.
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+Tardiness is not
+acceptable!
+###--------
+###Script:4
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+I'm a senior member of the
+Echo Ridge Elementary
+Student Council,
+###--------
+###Mugshot:Girl
+and quite frankly, I'm
+having a problem with
+habitually tardy students.
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+There is a certain
+egregious offender
+in particular.
+###--------
+###Mugshot:MegaMan
+Man, she's scary!
+###--------
+###Mugshot:OmegaXis
+Yeah, be careful!
+She could be a problem
+for you!
+###--------
+###Mugshot:OmegaXis
+You are a habitual truant,
+you know!
+###--------
+###Mugshot:MegaMan
+Hey...
+###--------
+###Mugshot:OmegaXis
+You might be the offender
+she's talking about.
+###--------
+###Mugshot:MegaMan
+I wonder if I should find out?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+He, he, he!
+She might getcha!
+###--------
+###Mugshot:MegaMan
+...I hope not.
+###--------
+###Mugshot:OmegaXis
+OK! Let's go find out.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Alright, but she might
+getcha later!
+He, he, he.
+###--------
+###Script:6
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+I'm a senior member of the
+Echo Ridge Elementary
+Student Council,
+###--------
+###Mugshot:Girl
+and quite frankly, I'm
+having a problem with
+habitually tardy students.
+###--------
+###Mugshot:Girl
+###--------
+###Mugshot:Girl
+There is a certain
+egregious offender
+in particular.
+###--------
+###Mugshot:MegaMan
+Man, she's scary!
+###--------
+###Script:7
+###Mugshot:Girl
+Boys are stupid!
+A lot of boys like me!
+###--------
+###Mugshot:Girl
+And I don't even like him!
+###--------
+###Mugshot:Girl
+I'm only doing my job as
+a senior member of the
+Student Council!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

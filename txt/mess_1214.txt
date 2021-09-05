@@ -1,0 +1,60 @@
+﻿###TextArchive:mess_1214
+###Script:0
+Navi Card
+###--------
+###Script:10
+PropellerMan
+###--------
+###Script:11
+KeyMan
+###--------
+###Script:12
+KeyMan
+###--------
+###Script:13
+PitcherMan
+###--------
+###Script:14
+ShovelMan
+###--------
+###Script:15
+ThermoMan
+###--------
+###Script:16
+KeyMan
+###--------
+###Script:17
+KeyMan
+###--------
+###Script:20
+Let's spin some propeller
+and fly, RC-style!
+###--------
+###Script:21
+Open Sesame! I can handle
+any door in the way!
+###--------
+###Script:22
+Open Sesame! I can handle
+any door in the way!
+###--------
+###Script:23
+Touch the button for a
+smokin' pitch!
+###--------
+###Script:24
+I can shovel anything out
+of the way!
+###--------
+###Script:25
+ThermoMan here, for all
+your hot and cold needs!
+###--------
+###Script:26
+Open Sesame! I can handle
+any door in the way!
+###--------
+###Script:27
+Open Sesame! I can handle
+any door in the way!
+###--------

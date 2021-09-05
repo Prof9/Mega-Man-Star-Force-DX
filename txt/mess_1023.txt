@@ -1,0 +1,101 @@
+﻿###TextArchive:mess_1023
+###Script:0
+###Mugshot:SpeedNavi
+Everything's normal in
+Echo Ridge!
+###--------
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+With all the incidents lately,
+I've been trying to help the
+police in any way I can.
+###--------
+###Script:1
+###Mugshot:InfoNavi
+###--------
+###Mugshot:InfoNavi
+I sense that the wave
+disturbance is coming from
+the direction of the school...
+###--------
+###Mugshot:InfoNavi
+I'm a little curious to know
+what's going on.
+###--------
+###Script:50
+###Mugshot:7
+*BEEP BEEP*
+###--------
+###Mugshot:7
+THERE ARE RECKLESS
+PEOPLE IN THIS TOWN, HUH?
+###--------
+###Mugshot:7
+THAT'S KIND OF SCARY...
+###--------
+###Script:51
+###Mugshot:21
+*beep wheeeee*
+###--------
+###Mugshot:21
+###--------
+###Mugshot:21
+It seems that the incident at
+Nacys recently was caused
+by a system malfunction!
+###--------
+###Script:55
+###Mugshot:7
+*BEEP BEEP BEEP*
+###--------
+###Mugshot:7
+IS THERE ANYTHING IN THIS
+WORLD THAT IS PERFECT,
+###--------
+###Mugshot:7
+OR DOESN'T BREAK
+EVENTUALLY?
+###--------
+###Script:56
+###Mugshot:21
+I heard people were arguing
+in Time Square!
+###--------
+###Mugshot:21
+But they quickly came to
+their senses, it seems!
+###--------
+###Mugshot:21
+What was that about,
+I wonder?
+###--------
+###Script:57
+###Mugshot:21
+I heard people were arguing
+in Time Square!
+###--------
+###Mugshot:21
+But they quickly came to
+their senses, it seems!
+###--------
+###Mugshot:21
+What was that about,
+I wonder?
+###--------
+###Script:61
+###Mugshot:21
+If only my waves could
+calm human hearts.
+###--------
+###Mugshot:21
+That would be really nice.
+###--------
+###Script:62
+###Mugshot:21
+*beep wheeeeee*
+###--------
+###Mugshot:21
+There's another incident
+today somewhere!!
+###--------

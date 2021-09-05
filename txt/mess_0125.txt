@@ -1,0 +1,62 @@
+﻿###TextArchive:mess_0125
+###Script:0
+###Mugshot:1
+Got it!
+We're moving!
+###--------
+###Script:1
+###Mugshot:1
+Now the brakes!!<wait>
+###Command:wait frames=30
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Not bad, kid!
+###--------
+###Script:3
+###Mugshot:Luna
+H-Hey!!<wait>
+###Command:wait frames=30
+###--------
+###Mugshot:Luna
+Why's a car stopped in a
+place like that?<wait>
+###Command:wait frames=30
+###--------
+###Script:4
+###Mugshot:Zack
+Eeeeek!!<wait>
+###Command:wait frames=30
+###--------
+###Script:5
+###Mugshot:Luna
+Aaaaaah!!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Alright!
+Mission accomplished!!
+###--------
+###Mugshot:OmegaXis
+Let's go!!
+###--------
+###Script:7
+###Mugshot:1
+Is everyone OK!?
+###--------
+###Script:8
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I don't know.
+If the safety devices
+went off, then maybe.
+###--------
+###Mugshot:OmegaXis
+But we've gotta focus
+on getting that FM-ian!!
+###--------
+###Script:9
+###Mugshot:1
+Yeah!
+###--------

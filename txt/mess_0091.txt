@@ -1,0 +1,27 @@
+﻿###TextArchive:mess_0091
+###Script:0
+Jean Couronne XIV
+###--------
+###Script:1
+###Mugshot:JeanCouronneXIV
+Bonjour!
+###--------
+###Mugshot:JeanCouronneXIV
+###--------
+###Mugshot:JeanCouronneXIV
+Welcome to the Transer of
+Jean Couronne Welmond
+Jour Jovonne XIV.
+###--------
+###Script:2
+###Mugshot:JeanCouronneXIV
+For centuries this crown
+and I have wandered
+the Earth.
+###--------
+###Mugshot:JeanCouronneXIV
+###--------
+###Mugshot:JeanCouronneXIV
+Alas, I have grown weary...
+When will this journey end?
+###--------

@@ -1,0 +1,139 @@
+﻿###TextArchive:mess_0039
+###Script:1
+###Mugshot:Man
+Hey! Hello!
+I love flying!
+###--------
+###Script:3
+###Mugshot:Man
+I am a fan of RCs,
+helicopters especially.
+###--------
+###Mugshot:Man
+They are a perfect
+match for PropellerMan!
+###--------
+###Script:4
+###Mugshot:Man
+I wonder if the kid with
+glasses I gave the RC to
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+is getting any good at it,
+and if my PropellerMan
+is helping.
+###--------
+###Mugshot:MegaMan
+That's the guy who gave
+me the RC helicopter.
+###--------
+###Mugshot:MegaMan
+I haven't been using
+it at all.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Do you think we should
+go over there and show
+him that it's still working?
+###--------
+###Mugshot:MegaMan
+Uhh...
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK!
+Let's get over there
+and fly this thing!
+###--------
+###Mugshot:MegaMan
+Right!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Ya know, you oughta
+try to be more sociable...
+###--------
+###Mugshot:MegaMan
+Hey, I'm not unsociable...
+###--------
+###Mugshot:OmegaXis
+Whatever.
+###--------
+###Script:6
+###Mugshot:Man
+I wonder if the kid with
+glasses I gave the RC to
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+is getting any good at it,
+and if my PropellerMan
+is helping.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's go over there
+and show him that it's
+still working.
+###--------
+###Script:7
+###Mugshot:Man
+I've loved RCs ever
+since I was a kid!
+###--------
+###Mugshot:Man
+Now I'm in my 30s and
+love them more than ever.
+###--------
+###Mugshot:Man
+I wish I had a friend
+to play RCs with.
+###--------
+###Mugshot:MegaMan
+(I should report back
+to Ms. White.)
+###--------
+###Script:8
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Wow, I must say the kid
+with glasses I gave the RC
+to has gotten really good.
+###--------
+###Mugshot:Man
+I hope we can play
+together one day.
+###--------
+###Script:10
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

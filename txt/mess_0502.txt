@@ -1,0 +1,142 @@
+﻿###TextArchive:mess_0502
+###Script:0
+###Mugshot:2
+This is the pass for the
+Science Museum.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=11
+###--------
+###Mugshot:2
+Everyone else has already
+gone inside.
+###--------
+###Mugshot:2
+I hope you'll have fun too,
+Geo!
+###--------
+###Script:1
+###Mugshot:2
+Oh, you're back.
+###--------
+###Mugshot:2
+Are you finished looking
+at everything?
+###--------
+###Mugshot:2
+Alright then. Next, let's go
+to my personal lab!
+###--------
+###Mugshot:2
+I can show you guys what
+I've been working on.
+###--------
+###Mugshot:2
+My lab is upstairs, so take
+the elevator.
+###--------
+###Mugshot:2
+You'll need this to get by
+the security gate.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=12
+###--------
+###Script:2
+###Mugshot:2
+Alright then. Next, let's go
+to my personal lab!
+###--------
+###Mugshot:2
+I can show you guys what
+I've been working on.
+###--------
+###Mugshot:2
+My lab is upstairs, so take
+the elevator.
+###--------
+###Script:3
+###Mugshot:2
+Everyone else has already
+gone inside.
+###--------
+###Mugshot:2
+I hope you'll have fun too,
+Geo!
+###--------
+###Script:10
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+Whoooo...
+Yup, nothing like a cup of
+coffee after a job well done!
+###--------
+###Script:11
+###Mugshot:BusinessMan
+###--------
+###Mugshot:BusinessMan
+What!? There's something
+going on in the SpaceSim?
+That's terrible!
+###--------
+###Script:50
+###Mugshot:TruckNavi
+Welcome! Welcome!
+###--------
+###Mugshot:TruckNavi
+Welcome to the
+AMAKEN Gift Shop!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Hey!
+You there, in the blue!
+###--------
+###Mugshot:TruckNavi
+You know you want to
+get some gifts!
+###--------
+###Script:51
+###Mugshot:TruckNavi
+Welcome! Welcome!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Hey!
+What's wrong, blue fella!?
+###--------
+###Mugshot:TruckNavi
+You're looking more blue
+than usual!
+###--------
+###Mugshot:TruckNavi
+###--------
+###Mugshot:TruckNavi
+Hmm? You think your
+colleagues have too much
+time on their hands?
+###--------
+###Script:100
+###Mugshot:FighterNavi
+At AMAKEN, they are
+researching the most modern
+###--------
+###Mugshot:FighterNavi
+and advanced technologies
+every day!!
+###--------
+###Mugshot:FighterNavi
+There's always a new
+discovery being made.
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+I'm really happy to work in
+such an environment!
+###--------

@@ -1,0 +1,34 @@
+﻿###TextArchive:mess_0300
+###Script:0
+###Mugshot:0
+So what are you doing?
+###--------
+###Script:1
+###Mugshot:Jammer
+Hmm?
+###--------
+###Script:2
+###Mugshot:Jammer
+M-Mega Man!!
+###--------
+###Mugshot:Jammer
+The enemy of Lord Gemini!
+###--------
+###Script:3
+###Mugshot:OmegaXis
+I knew he had to be
+one of Gemini's.
+###--------
+###Script:4
+###Mugshot:Jammer
+Sorry, but your train
+stops here!!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Here he comes, Geo!
+###--------
+###Script:6
+###Mugshot:0
+Roger!
+###--------

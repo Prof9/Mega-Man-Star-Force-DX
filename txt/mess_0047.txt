@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_0047
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:LittleGirl
+Yo!
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I go to Echo Ridge
+Elementary!
+And I like to study!
+###--------
+###Script:4
+###Mugshot:LittleGirl
+I'm in a pickle! I got some
+homework about space
+that I don't understand!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I'm not really into space
+and stuff, you know.
+###--------
+###Mugshot:MegaMan
+Space huh...
+###--------
+###Mugshot:OmegaXis
+Space is your middle
+name, right?
+###--------
+###Mugshot:OmegaXis
+Do you wanna help her?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+OK, let's go see what
+we can do for the
+little pipsqueak!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+What? You're gonna leave
+her hanging like that?
+###--------
+###Mugshot:OmegaXis
+Oh, well... have it your way.
+###--------
+###Script:6
+###Mugshot:LittleGirl
+I'm in a pickle! I got some
+homework about space
+that I don't understand!
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+I'm not really into space
+and stuff, you know.
+###--------
+###Script:7
+###Mugshot:LittleGirl
+A big boy wearing red
+clothes helped me with
+my homework.
+###--------
+###Mugshot:LittleGirl
+###--------
+###Mugshot:LittleGirl
+He kind of made me
+interested in space!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

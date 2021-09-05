@@ -1,0 +1,59 @@
+﻿###TextArchive:mess_1232
+###Script:0
+###Mugshot:Man
+OK, now! Show me how
+much you've learned!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+There are three balls hidden
+in very high places,
+somewhere in this town!
+
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Use the RC Chopper, find
+them, and knock them down
+from their hiding places!
+###--------
+###Script:1
+###Mugshot:Geo
+"Propeller Card"
+Card In!
+###--------
+###Script:2
+###Mugshot:Man
+W-Wow...
+###--------
+###Script:3
+###Mugshot:Man
+###--------
+###Mugshot:Man
+You're really good!
+You're even better than me!
+###--------
+###Mugshot:Man
+This is thanks for showing
+me your skills!
+###--------
+###Script:4
+Geo got:
+"<printItem>"!!
+###Command:printItem item=64
+###--------
+###Script:5
+###Mugshot:Man
+Now I feel like I have to
+keep on practicing!
+###--------
+###Script:6
+###Mugshot:Geo
+Here we go, PropellerMan!!
+###--------
+###Mugshot:Geo
+Let's find the 3 balls and
+knock them down!
+###--------

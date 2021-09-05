@@ -1,0 +1,168 @@
+﻿###TextArchive:mess_0398
+###Script:0
+Temp message
+###--------
+###Script:26
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well c'mon, let's keep going!
+You aren't getting scared,
+are ya!?
+###--------
+###Script:27
+###Mugshot:OmegaXis
+Let's go home! Tomorrow's
+the final showdown!
+###--------
+###Script:32
+###Mugshot:OmegaXis
+Where's Boreal?
+###--------
+###Script:33
+###Mugshot:OmegaXis
+I'd love to just blast
+through till we get to
+the FM-ian King,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+but we have to proceed
+with caution here.
+###--------
+###Script:34
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+There should be a wavehole
+around here... Let's find it!
+###--------
+###Script:35
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The code for the electronic
+lock should be somewhere in
+this module!!
+###--------
+###Script:36
+###Mugshot:OmegaXis
+Geo, pulse in!
+We've got to keep going!
+###--------
+###Script:37
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If everything's all good to
+go, we'd better head back
+to the Station Comp.
+###--------
+###Script:38
+###Mugshot:OmegaXis
+Press on!!
+###--------
+###Script:39
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Find a wavehole!
+There's definitely one
+around here somewhere!
+###--------
+###Script:40
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+We've GOT to do something
+to get the air circulation
+system back up and running!!
+###--------
+###Script:41
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Let's hurry and get this
+trash heap outta the way!
+###--------
+###Script:42
+###Mugshot:OmegaXis
+Pulse in!
+We've gotta press on!
+###--------
+###Script:43
+###Mugshot:OmegaXis
+Geo, we've gotta press on!
+###--------
+###Script:44
+###Mugshot:OmegaXis
+Where's the wavehole?
+###--------
+###Script:45
+###Mugshot:OmegaXis
+What was it you said
+we had to fix?
+###--------
+###Mugshot:OmegaXis
+I know it's a pain,
+but it's not like we
+have much choice.
+###--------
+###Mugshot:OmegaXis
+Take a look at the
+control panel!
+###--------
+###Script:46
+###Mugshot:OmegaXis
+The door's open!
+Pulse in!
+###--------
+###Script:48
+###Mugshot:OmegaXis
+Where's the wavehole?
+Let's find it!
+###--------
+###Script:49
+###Mugshot:OmegaXis
+Pulse in! We're almost to
+the FM-ian King!
+###--------
+###Script:50
+###Mugshot:OmegaXis
+Keep going!!
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Finally, the last battle!!
+Stay alert!
+###--------
+###Script:52
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+C'mon, let's get outta here!!
+Or we won't be able to
+get back to Earth!
+###--------
+###Script:53
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+There's nothing else to
+do in this room!
+Gotta press on!!
+###--------
+###Script:54
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If everything's all good to
+go, we'd better head back
+to the space station!
+###--------
+###Script:55
+###Mugshot:OmegaXis
+There's no choice,
+we hafta go into space!
+###--------

@@ -1,0 +1,140 @@
+﻿###TextArchive:mess_0111
+###Script:0
+The next morning...
+###--------
+###Script:1
+###Mugshot:2
+...Geo, I'm leaving
+for my part-time job!
+###--------
+###Script:2
+###Mugshot:GeoNoVisualizer
+......
+###--------
+###Mugshot:GeoNoVisualizer
+OK.
+###--------
+###Script:3
+###Mugshot:2
+Um, I don't want to
+push you, Geo,
+###--------
+###Mugshot:2
+but... maybe you should
+try going to school again.
+###--------
+###Mugshot:2
+I think you need to
+make some friends...
+###--------
+###Script:4
+###Mugshot:GeoNoVisualizer
+.........
+###--------
+###Script:5
+###Mugshot:2
+Well, I'm off to work...
+###--------
+###Script:6
+###Mugshot:GeoNoVisualizer
+Friends, huh?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Why don't you go to school?
+###--------
+###Script:8
+###Mugshot:0
+.........
+###--------
+###Mugshot:0
+If I went, I might make
+some friends...
+###--------
+###Mugshot:OmegaXis
+So you're saying you
+don't go to school...
+###--------
+###Mugshot:OmegaXis
+cause you don't want
+to make any friends?
+###--------
+###Mugshot:OmegaXis
+I had heard that humans
+valued their friends and
+Brother Bands a lot,
+###--------
+###Mugshot:OmegaXis
+or is that just hearsay?
+###--------
+###Mugshot:0
+You don't know what it's
+like to lose someone
+close to you.
+###--------
+###Mugshot:0
+That's why you can
+say that.
+###--------
+###Script:9
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+.<wait>.<wait>.<wait>You really believe that?
+Heh, whatever.
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Mugshot:OmegaXis
+I guess even among
+humans, there are sad
+and bitter ones like you.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+All of a sudden,
+Earthlings are a much
+more interesting race...
+###--------
+###Mugshot:OmegaXis
+Hey, Geo!
+Let's go check out
+your town!
+###--------
+###Mugshot:OmegaXis
+I wanna see what other
+kinds of people are here!
+###--------
+###Script:10
+###Mugshot:0
+Aww, come on.
+Why would I want to
+do that?
+###--------
+###Mugshot:0
+Besides, I don't like
+talking to other people...
+###--------
+###Script:11
+###Mugshot:OmegaXis
+Quit dragging your feet
+and get out there!
+###--------
+###Script:12
+###Mugshot:0
+Ow-ow-oww...
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Move it!
+###--------
+###Script:14
+###Mugshot:0
+OK, OK!
+I'm going outside now, see!
+###--------
+###Mugshot:0
+Geez, what a bossy alien...
+###--------

@@ -1,0 +1,94 @@
+﻿###TextArchive:mess_0029
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:TomDubius
+This Transer is property
+of Tom Dubius.
+###--------
+###Mugshot:TomDubius
+Please do not look!
+###--------
+###Script:2
+###Mugshot:TomDubius
+I can't trust anyone
+any more.
+###--------
+###Mugshot:TomDubius
+###--------
+###Mugshot:TomDubius
+Someone could be peeking
+at this data even at
+this very moment...
+###--------
+###Script:3
+###Mugshot:TomDubius
+Mr. Boreal is the only person
+I can trust even a little.
+###--------
+###Mugshot:TomDubius
+He's an easy person to
+work for.
+###--------
+###Script:10
+###Mugshot:TomDubius
+Hah hah...
+###--------
+###Mugshot:TomDubius
+I'm going to upgrade
+my invention...
+###--------
+###Mugshot:TomDubius
+Hah hah...
+###--------
+###Mugshot:OmegaXis
+Does he mean that
+FlapPack thingy...?
+###--------
+###Mugshot:MegaMan
+I think so...
+Should I ask?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's check it out!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:TomDubius
+Hah hah...
+###--------
+###Mugshot:TomDubius
+I'm going to upgrade
+my invention...
+###--------
+###Mugshot:TomDubius
+Hah hah...
+###--------
+###Script:12
+###Mugshot:OmegaXis
+...
+###--------
+###Mugshot:OmegaXis
+Oh, well...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

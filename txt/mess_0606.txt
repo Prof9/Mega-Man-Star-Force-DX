@@ -1,0 +1,178 @@
+﻿###TextArchive:mess_0606
+###Script:0
+###Mugshot:OmegaXis
+Where ya goin'?
+It's dangerous over there!!
+###--------
+###Script:10
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+What the...?
+One of the SorterBots is
+acting strange.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+It starts to overheat really
+quickly. And I can't figure
+out what is causing it...
+###--------
+###Script:11
+###Mugshot:Worker
+One of the SorterBots is
+acting strange.
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+It starts to overheat really
+quickly. And I can't figure
+out what is causing it...
+###--------
+###Script:12
+###Mugshot:Worker
+The SorterBot is fixed?
+###--------
+###Mugshot:Worker
+There was a problem with
+the cooling fan?
+###--------
+###Mugshot:Worker
+I see...
+You know your stuff, kid.
+###--------
+###Mugshot:Worker
+This is for your trouble.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------
+###Mugshot:Worker
+Kids nowadays are pretty
+smart.
+###--------
+###Script:14
+There's a SorterBot.
+###--------
+###Script:15
+There's a SorterBot.
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Oww!!
+It's hot just like that
+guy said.
+###--------
+###Mugshot:Geo
+I gotta cool it down somehow.
+###--------
+###Script:16
+There's a SorterBot.
+###--------
+###Mugshot:Geo
+Oww!!
+That's really hot!
+###--------
+###Mugshot:ThermoMan
+W-W-Whooosh!
+###--------
+###Mugshot:ThermoMan
+Having a cooling problem?
+W-W-Whooosh!
+###--------
+###Mugshot:Geo
+ThermoMan!
+###--------
+###Mugshot:Geo
+Actually...
+###--------
+###Mugshot:ThermoMan
+I see, you need to cool off
+that SorterBot, right?
+###--------
+###Mugshot:ThermoMan
+Let me have a look.
+###--------
+###Mugshot:ThermoMan
+...Ah.
+###--------
+###Mugshot:ThermoMan
+The internal cooling fan
+is broken!
+###--------
+###Mugshot:ThermoMan
+Let me give it a whirl!
+###--------
+###Mugshot:ThermoMan
+That should do it!
+###--------
+...*whirrrr*
+###--------
+###Mugshot:ThermoMan
+She's good as new!
+###--------
+###Mugshot:Geo
+Thank you, ThermoMan!
+###--------
+###Script:17
+###Mugshot:Worker
+Kids nowadays are pretty
+smart.
+###--------
+###Script:20
+###Mugshot:Worker
+A ten-year old SorterBot?
+###--------
+###Mugshot:Worker
+It's probably scrap by now.
+###--------
+###Mugshot:Worker
+...Uh, hold on!
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I think there was one
+special one. It was always
+finding something unusual.
+###--------
+###Mugshot:Worker
+The strangest of all was
+when it found a person.
+###--------
+###Mugshot:Worker
+That got it some attention,
+and soon after,
+###--------
+###Mugshot:Worker
+I believe it was bought by
+a department store.
+###--------
+###Script:21
+###Mugshot:Worker
+It was always finding
+something unusual.
+###--------
+###Mugshot:Worker
+The strangest of all was
+when it found a person.
+###--------
+###Mugshot:Worker
+That got it some attention,
+and soon after,
+###--------
+###Mugshot:Worker
+I believe it was bought by
+a department store.
+###--------
+###Script:100
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Don't you have someplace to
+be besides the Wave World?
+###--------

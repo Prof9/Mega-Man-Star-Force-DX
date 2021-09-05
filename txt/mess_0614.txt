@@ -1,0 +1,321 @@
+﻿###TextArchive:mess_0614
+###Script:10
+###Mugshot:Sonia
+Oh, Geo.
+###--------
+###Mugshot:Sonia
+Uh?
+Why am I moping around?
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Well, actually, I'm trying
+to come up with lyrics
+for a new song,
+###--------
+###Mugshot:Sonia
+but I just seem to keep
+running into a brick wall.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+...I know! Why don't
+you help me write?
+###--------
+###Mugshot:Sonia
+You might be able to
+give me a little bit of
+inspiration...
+###--------
+###Mugshot:Sonia
+Please!!
+###--------
+<positionOptionFromCenter><optionText>  Help  <optionText>  Don't
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+###Mugshot:Sonia
+I'm trying to come up with
+lyrics for a new song,
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+but I just seem to keep
+running into a brick wall.
+###--------
+###Mugshot:Sonia
+Hey, Geo, why don't
+you help me write?
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+You might be able to
+give me a little bit of,
+you know, inspiration!
+###--------
+###Mugshot:Sonia
+Please!!
+###--------
+<positionOptionFromCenter><optionText>  Help  <optionText>  Don't
+###Command:positionOptionFromCenter width=70
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+###Mugshot:Sonia
+Really!?
+###--------
+###Mugshot:Sonia
+Great!
+Let's get started.
+###--------
+###Mugshot:Sonia
+The title is "Bonds"...
+###--------
+###Mugshot:Sonia
+...a 1, a 2,
+a 1 2 3 4!
+###--------
+###Mugshot:Sonia
+"I'm all alone in the
+still of the night...
+###--------
+###Mugshot:Sonia
+I open my window
+and I look outside...
+###--------
+###Mugshot:Sonia
+And there it is,
+that soft...
+###--------
+<positionOptionFromCenter><optionText>  moonlight!
+<positionOptionFromCenter><optionText>  blue sky!
+<positionOptionFromCenter><optionText>  sunshine!
+###Command:positionOptionFromCenter width=52
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=52
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=52
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+Twinkling in the
+night sky, I can see...
+###--------
+<positionOptionFromCenter><optionText>  the sun
+<positionOptionFromCenter><optionText>  Mars
+<positionOptionFromCenter><optionText>  the stars
+###Command:positionOptionFromCenter width=58
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=58
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=58
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+And I ask them
+if they are...
+###--------
+<positionOptionFromCenter><optionText>  cold?
+<positionOptionFromCenter><optionText>  lonely?
+<positionOptionFromCenter><optionText>  having fun?
+###Command:positionOptionFromCenter width=67
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=67
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=67
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+They answer back to me...
+They say they're...
+###--------
+<positionOptionFromCenter><optionText>  connected.
+<positionOptionFromCenter><optionText>  separate.
+<positionOptionFromCenter><optionText>  in a row.
+###Command:positionOptionFromCenter width=60
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=60
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=60
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Many stars shining strong
+all thanks to their...
+###--------
+<positionOptionFromCenter><optionText>  night sky
+<positionOptionFromCenter><optionText>  shadows
+<positionOptionFromCenter><optionText>  bonds
+###Command:positionOptionFromCenter width=54
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=54
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=54
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+Together they are
+never...
+###--------
+<positionOptionFromCenter><optionText>  hot
+<positionOptionFromCenter><optionText>  happy
+<positionOptionFromCenter><optionText>  alone
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+Tiny pieces of starlight,
+shine together...
+###--------
+###Mugshot:Sonia
+That's how you'll
+become even...
+###--------
+<positionOptionFromCenter><optionText>  brighter
+<positionOptionFromCenter><optionText>  smaller
+<positionOptionFromCenter><optionText>  sadder
+###Command:positionOptionFromCenter width=44
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=44
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=44
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+Human beings
+like me and you,
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+can combine our
+strength and get...
+###--------
+<positionOptionFromCenter><optionText>  sleepy too
+<positionOptionFromCenter><optionText>  stronger too
+<positionOptionFromCenter><optionText>  wavy too
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=78
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+The best way to
+strive for perfection,
+###--------
+###Mugshot:Sonia
+is to look around you
+and find your...
+###--------
+<positionOptionFromCenter><optionText>  bonds
+<positionOptionFromCenter><optionText>  song
+<positionOptionFromCenter><optionText>  sun
+###Command:positionOptionFromCenter width=32
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=32
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=32
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+No,
+I'm not alone!
+###--------
+###Mugshot:Sonia
+La-La-La!
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Yes! We did it!
+We finished the song
+together!
+###--------
+###Mugshot:Sonia
+Thank you! It's all
+because of you, Geo!
+###--------
+###Mugshot:Sonia
+This is a thank you
+from me.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=69
+###--------
+###Mugshot:Sonia
+A song I wrote
+with you, Geo...
+###--------
+###Mugshot:Sonia
+It's gonna be a truly
+unforgettable song!
+###--------
+###Script:13
+###Mugshot:Sonia
+Oh, I'm sorry to hear that...
+###--------
+###Mugshot:Sonia
+Let me know if you
+change your mind!
+###--------
+###Script:14
+###Mugshot:Sonia
+Umm... That doesn't really
+sound right...
+###--------
+###Script:15
+###Mugshot:Sonia
+A song I wrote with you,
+Geo...
+###--------
+###Mugshot:Sonia
+It's gonna be a truly
+unforgettable song!
+###--------
+###Script:51
+###Mugshot:Sonia
+I'll be waiting, so you'd
+better come back.
+###--------
+###Script:52
+###Mugshot:Sonia
+Do you want to be
+Brothers again?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:54
+###Mugshot:Sonia
+What!? How could you play
+with my feelings!?
+###--------
+###Script:55
+###Mugshot:Sonia
+It seems you already
+have 6 Brothers...
+###--------
+###Script:100
+###Mugshot:0
+I have to look for Pat!!
+###--------

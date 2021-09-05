@@ -1,0 +1,34 @@
+﻿###TextArchive:mess_0286
+###Script:0
+###Mugshot:1
+Phew, that was close!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Don't relax yet.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Those robots were after
+you. So someone's probably
+controlling them.
+###--------
+###Mugshot:1
+The person on the phone?
+###--------
+###Mugshot:OmegaXis
+I'd say there's at least a
+connection.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+He's probably still nearby.
+Let's find him and give
+him what's coming!!
+###--------
+###Script:2
+###Mugshot:1
+Yeah...
+###--------

@@ -1,0 +1,62 @@
+﻿###TextArchive:mess_0069
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:2
+Dummy
+###--------
+###Script:3
+###Mugshot:2
+###--------
+###Mugshot:2
+I learned about cards from
+Quiero, my big brother.
+###--------
+###Script:4
+###Mugshot:2
+There's this one card
+that I want.
+###--------
+###Mugshot:OmegaXis
+This guy looks like he
+needs help...
+###--------
+###Mugshot:OmegaXis
+Should we give him a hand?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK. Let's go get the scoop.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Alright, let's just not
+bother him.
+###--------
+###Script:6
+###Mugshot:2
+There's this one card
+that I want.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

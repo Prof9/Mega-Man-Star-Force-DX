@@ -1,0 +1,82 @@
+﻿###TextArchive:mess_0113
+###Script:0
+###Mugshot:1
+So how do I get into
+someone else's Transer?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Didn't I just tell you?
+###--------
+###Mugshot:OmegaXis
+Just do what you
+did yesterday.
+###--------
+###Mugshot:OmegaXis
+Get as close as you
+can in the Wave World,
+###--------
+###Mugshot:OmegaXis
+then hold the Y Button,
+move the cursor to the
+###++++++++
+###Mugshot:OmegaXis
+person or Transer you
+wanna jump into, and
+release the button.
+###++++++++
+###Mugshot:OmegaXis
+Or if you want, you can
+just touch the Transer
+instead.
+###--------
+###Script:2
+###Mugshot:1
+OK, got it.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Oh, by the way,
+EM viruses like to feed
+in the Wave World,
+###--------
+###Mugshot:OmegaXis
+so watch your step,
+alright?
+###--------
+###Mugshot:OmegaXis
+But if you fight the way
+you did yesterday,
+###--------
+###Mugshot:OmegaXis
+you shouldn't have a
+problem with most viruses.
+###--------
+###Mugshot:OmegaXis
+It's odd, but you have
+a knack for battling.
+###--------
+###Script:4
+###Mugshot:1
+I don't need or want to
+"have a knack" for that.
+###--------
+###Script:5
+###Mugshot:OmegaXis
+...You're gonna stop saying
+that sooner or later.
+###--------
+###Script:6
+###Mugshot:1
+Huh?
+Did you just say something?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+No, nothing.
+Anyway, the Transers await!
+###--------
+###Script:8
+###Mugshot:1
+Yeah...
+###--------

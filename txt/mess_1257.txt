@@ -1,0 +1,19 @@
+﻿###TextArchive:mess_1257
+###Script:0
+Mr. Famous Mark II
+###--------
+###Script:1
+###Mugshot:MrFamous
+Welcome!
+This is the Transer of
+Mr. Famous Mark II.
+###--------
+###Mugshot:MrFamous
+But my Brothers can
+just call me Mark II!
+###--------
+###Script:2
+###Mugshot:MrFamous
+My passion is to raise
+promising young battlers!
+###--------

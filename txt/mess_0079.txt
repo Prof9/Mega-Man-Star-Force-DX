@@ -1,0 +1,30 @@
+﻿###TextArchive:mess_0079
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:ClaudPincer
+###--------
+###Mugshot:ClaudPincer
+Snippidy-snap!
+Welcome to Claud Pincer's
+Transer!
+###--------
+###Script:2
+###Mugshot:ClaudPincer
+I'm Claud Pincer,
+in the 3rd grade!
+###--------
+###Mugshot:ClaudPincer
+If you try to look down on
+me and treat me like a kid
+just because I'm small,
+###--------
+###Mugshot:ClaudPincer
+###--------
+###Mugshot:ClaudPincer
+you'll regret it!
+Snippidy-snap!
+###--------

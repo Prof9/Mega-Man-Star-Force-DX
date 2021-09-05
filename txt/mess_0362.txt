@@ -1,0 +1,390 @@
+﻿###TextArchive:mess_0362
+###Script:0
+###Mugshot:0
+Where are we...?
+Are we...?
+###--------
+###Script:1
+###Mugshot:OmegaXis
+.........
+###--------
+###Script:2
+###Mugshot:0
+Ah! That's...!!
+###--------
+###Script:3
+###Mugshot:0
+It's... a picture... of me...
+###--------
+###Script:4
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Yeah, this is where your
+dad, Kelvin Stelar, was
+during the incident.
+###--------
+###Script:5
+###Mugshot:0
+This is where dad...
+###--------
+###Script:6
+###Mugshot:OmegaXis
+That day, 3 years ago...
+###--------
+###Mugshot:OmegaXis
+At the command of the
+FM King, we invaded this
+space station,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+took all of its passengers,
+and held a trial...
+###--------
+###Script:7
+###Mugshot:0
+.........
+###--------
+###Script:8
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+The FM King found them
+all guilty, and sentenced
+them to death...
+###--------
+###Script:9
+###Mugshot:0
+He sentenced them to...
+###--------
+###Mugshot:0
+No...
+###--------
+###Script:10
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Before the sentence was
+carried out, I was the jail
+keeper, as it were.
+###--------
+###Mugshot:OmegaXis
+And that's how I met
+your dad...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Kelvin kept poking into my
+business, and when I'd notice,
+he'd act like it was nothing.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Then, one day...
+Just as I'd gotten the
+Andromeda Key,
+###--------
+###Mugshot:OmegaXis
+and was about to escape
+from this station...
+###--------
+###Script:11
+###Mugshot:Kelvin
+Mega, what are you
+planning to do?
+###--------
+###Script:12
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+One way or another, I'm
+gonna take out the FM-ians.
+###--------
+###Mugshot:OmegaXis
+I've gotta get going before
+they catch me.
+###--------
+###Mugshot:OmegaXis
+Didn't know you for long,
+but it's been fun.
+###--------
+###Script:13
+###Mugshot:Kelvin
+Wait, Mega.
+###--------
+###Script:14
+###Mugshot:OmegaXis
+What?
+###--------
+###Script:15
+###Mugshot:Kelvin
+.........
+Can you take us with you?
+###--------
+###Script:16
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+What are you talking about?
+Is your head on straight?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You guys are humans.
+How am I supposed to
+bring you along?
+###--------
+###Script:17
+###Mugshot:Kelvin
+Turn our bodies into
+EM waves. Please.
+###--------
+###Mugshot:Kelvin
+If we humans are radiated
+in enough Z waves, which you
+aliens with EM bodies emit,
+###--------
+###Mugshot:Kelvin
+###--------
+###Mugshot:Kelvin
+then we should turn
+into waves as well.
+###--------
+###Script:18
+###Mugshot:OmegaXis
+I guess if you soak up
+enough Z waves
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+your bodies would lose
+mass and you'll turn into
+waves, but...
+###--------
+###Script:19
+###Mugshot:Kelvin
+Listen, if we stay here,
+we're goners anyway.
+###--------
+###Mugshot:Kelvin
+###--------
+###Mugshot:Kelvin
+No matter how small of a
+chance, as long as there is
+hope, then we can't give up.
+###--------
+###Mugshot:Kelvin
+Please, Mega...
+###--------
+###Script:20
+###Mugshot:OmegaXis
+You know what my
+situation is, right?
+###--------
+###Script:21
+###Mugshot:Kelvin
+###--------
+###Mugshot:Kelvin
+Mega, why don't you give
+up on revenge and come
+to Earth with us?
+###--------
+###Mugshot:Kelvin
+I'm sure you'd get along
+great with my son.
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Go to Earth?
+###--------
+###Mugshot:OmegaXis
+Even if I turned you
+guys into waves,
+###--------
+###Mugshot:OmegaXis
+how are you planning on
+finding your way back?
+###--------
+###Mugshot:OmegaXis
+You don't become all-knowing
+just because you're a
+bunch of waves.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You get lost in space,
+and you'll be wandering
+the stars forever.
+###--------
+###Script:23
+###Mugshot:Kelvin
+I'll send an access
+signal from my Transer
+to my son's.
+###--------
+###Mugshot:Kelvin
+###--------
+###Mugshot:Kelvin
+If the signal is picked
+up, then it should guide
+us to where he is.
+###--------
+###Mugshot:Kelvin
+It's not too late, Mega.
+###--------
+###Mugshot:Kelvin
+Throw away the Andromeda
+Key. Come with us.
+###--------
+###Script:24
+###Mugshot:OmegaXis
+Hah, stop. I'm not looking
+for a place to rest.
+###--------
+###Mugshot:OmegaXis
+I have only 1 goal:
+to defeat the FM King.
+###--------
+###Mugshot:OmegaXis
+Sorry, but I'm not taking
+you guys with me.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+But if you want to go
+home that badly... I can
+change you into wave form.
+###--------
+###Mugshot:OmegaXis
+But after that, you guys
+are on your own.
+###--------
+###Script:25
+###Mugshot:Kelvin
+Mega...
+###--------
+###Mugshot:Kelvin
+Thank you.
+I'll get the others.
+###--------
+###Script:26
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+After that, I changed all the
+passengers, starting with
+your dad, into EM waves.
+###--------
+###Mugshot:OmegaXis
+Then, as we were escaping
+from the station...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Taurus, who was looking
+for me, suddenly attacked.
+###--------
+###Mugshot:OmegaXis
+It was a violent attack,
+and when I had a chance
+to look around,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Kelvin and the others had
+vanished. All that was left
+was his Transer.
+###--------
+###Mugshot:OmegaXis
+I was hurt, but I flew
+towards the signal Kelvin's
+Transer was sending,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+and followed it. And that's
+how I ended up where
+you were, Geo.
+###--------
+###Script:27
+###Mugshot:0
+Dad...
+What happened to him...?
+###--------
+###Script:28
+###Mugshot:OmegaXis
+Taurus's attack was aimed at
+me, so I don't think Kelvin
+and the others were hit.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I think they're probably
+still out there in their
+wave forms, lost...
+###--------
+###Script:29
+###Mugshot:0
+But if they're in wave form...
+###--------
+###Mugshot:0
+then that means they
+might still be alive...
+###--------
+###Script:30
+###Mugshot:OmegaXis
+They might be, but the
+chances are slim...
+###--------
+###Script:31
+###Mugshot:0
+I know...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+But if there's even a
+sliver of a chance, then
+I'll keep the hope alive.
+###--------
+###Mugshot:0
+Come on, Mega.
+Let's go.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+We've gotta go protect
+the Earth so there'll be
+one when dad comes back!
+###--------
+###Script:32
+###Mugshot:OmegaXis
+Yeah. I don't want to
+think about how to
+explain it to your dad
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+if he comes back and
+finds the Earth a mess!
+###--------
+###Script:33
+###Mugshot:0
+Yeah!
+###--------

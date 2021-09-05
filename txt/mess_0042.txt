@@ -1,0 +1,104 @@
+﻿###TextArchive:mess_0042
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:OldWoman
+How sweet of you to
+come to my Transer!
+###--------
+###Script:3
+###Mugshot:OldWoman
+I moved here from
+the country.
+###--------
+###Mugshot:OldWoman
+The city sure has a lot
+of newfangled gizmos!
+###--------
+###Script:4
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I cannot understand these
+big-city ee'lekronik machines
+for the life of me.
+###--------
+###Mugshot:OldWoman
+How can I get on
+that Brother Band
+whatchamacallit?
+###--------
+###Mugshot:OldWoman
+Will I be able to make it
+all alone here?
+###--------
+###Mugshot:OldWoman
+I just want to go back
+to the country.
+###--------
+###Mugshot:MegaMan
+Maybe I'd better help
+that old lady...
+###--------
+###Mugshot:OmegaXis
+Oh? Do you want
+to help her?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK! Let's get over there
+and give her a hand.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+...Man, that's pretty
+heartless! Oh, well...
+###--------
+###Script:6
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+I cannot understand these
+big-city ee'lekronik machines
+for the life of me.
+###--------
+###Mugshot:OldWoman
+Will I be able to make it
+all alone here?
+###--------
+###Script:7
+###Mugshot:OldWoman
+There ARE nice people
+in the city too.
+###--------
+###Mugshot:OldWoman
+Thank you, young man
+with the green glasses.
+###--------
+###Mugshot:OldWoman
+I'll invite you to join my
+Brother Band some day.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

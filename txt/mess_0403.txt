@@ -1,0 +1,9 @@
+﻿###TextArchive:mess_0403
+###Script:0
+Temp message
+###--------
+###Script:67
+###Mugshot:MegaMan
+That FM-ian is in here
+somewhere...
+###--------

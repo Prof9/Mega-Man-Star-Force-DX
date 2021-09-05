@@ -1,0 +1,69 @@
+﻿###TextArchive:mess_1072
+###Script:0
+###Mugshot:TruckNavi
+I was assigned to be over
+there until recently.
+###--------
+###Mugshot:TruckNavi
+It's like looking back at
+where I've been.
+###--------
+###Mugshot:TruckNavi
+It's kind of embarrassing,
+actually...
+###--------
+###Mugshot:TruckNavi
+By the way...
+Do you feel a little strange?
+###--------
+###Mugshot:TruckNavi
+And does the Wave Road
+seem warped to you?
+###--------
+###Mugshot:TruckNavi
+I have a real bad feeling
+about this...
+###--------
+###Script:1
+###Mugshot:InfoNavi
+I detect an abnormal
+reading...
+###--------
+###Mugshot:InfoNavi
+I wonder what's causing it?
+###--------
+###Script:2
+###Mugshot:TruckNavi
+I got assigned to this
+area recently.
+###--------
+###Mugshot:TruckNavi
+I hope I can be as good
+as the last guy!
+###--------
+###Script:20
+###Mugshot:TruckNavi
+This is... bad.
+There's sumthin' real
+messed up comin', you hear?
+###--------
+###Mugshot:TruckNavi
+I can barely move right now.
+###--------
+###Script:21
+###Mugshot:InfoNavi
+Wh-What should we d-d-do?
+###--------
+###Mugshot:InfoNavi
+I-I wish I could do more,
+b-but I c-c-can't...
+###--------
+###Script:22
+###Mugshot:TruckNavi
+Dang it!
+It's really comin', isn't it?
+###--------
+###Mugshot:TruckNavi
+I can hardly move my
+body anymore.
+###--------

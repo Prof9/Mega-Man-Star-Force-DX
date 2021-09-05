@@ -1,0 +1,19 @@
+﻿###TextArchive:mess_0299
+###Script:0
+###Mugshot:0
+Hmm?
+###--------
+###Script:1
+###Mugshot:0
+What's that?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+I bet he's the one causing
+the wave disruption.
+###--------
+###Script:3
+###Mugshot:0
+OK, then let's put an end
+to his fun.
+###--------

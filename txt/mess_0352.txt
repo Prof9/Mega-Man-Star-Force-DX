@@ -1,0 +1,39 @@
+﻿###TextArchive:mess_0352
+###Script:0
+###Mugshot:Cygnus
+I congratulate you on
+making it this far.
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Sorry, but you think you
+can let us through?
+###--------
+###Script:2
+###Mugshot:Cygnus
+Ha ha ha.
+###--------
+###Mugshot:Cygnus
+You think I'll let you pass
+just because you asked!?
+I don't think so!
+###--------
+###Script:3
+###Mugshot:CygnusWing
+Now a deletion, that's a
+different story!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+Get in our way and we'll
+show you deletion!
+###--------
+###Script:5
+###Mugshot:0
+Wave Battle!
+Ride On!!
+###--------
+###Script:6
+###Mugshot:CygnusWing
+You'll bow before my grace!
+###--------

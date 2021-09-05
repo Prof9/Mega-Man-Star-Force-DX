@@ -1,0 +1,299 @@
+﻿###TextArchive:mess_0534
+###Script:10
+###Mugshot:Principal
+...Yes? Did you want to talk
+to me about something?
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Oh, you knew I was writing
+our new school song?
+###--------
+###Mugshot:Principal
+Well, your timing couldn't be
+better. Would you like to
+give me a hand?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+###Mugshot:Principal
+I am trying to write
+the words for our new
+school song now.
+###--------
+###Mugshot:Principal
+Do you want to help me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+###Mugshot:Principal
+OK, I'll sing it, and you can
+help me choose the right
+words...
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Ah... *ahem*
+Here I go...
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+In the town of Echo Ridge
+sits a school house that's...
+###--------
+<positionOptionFromCenter><optionText>  White
+<positionOptionFromCenter><optionText>  Yellow
+<positionOptionFromCenter><optionText>  Black
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Principal
+That's our school!
+###--------
+###Mugshot:Principal
+The students are all so...
+###--------
+<positionOptionFromCenter><optionText>  Grown up
+<positionOptionFromCenter><optionText>  Cheerful
+<positionOptionFromCenter><optionText>  Pitiful
+###Command:positionOptionFromCenter width=55
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=55
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=55
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Principal
+And the teachers are all so...
+###--------
+<positionOptionFromCenter><optionText>  Naive
+<positionOptionFromCenter><optionText>  Scary
+<positionOptionFromCenter><optionText>  Kind
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=33
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Principal
+That's our school!
+###--------
+###Mugshot:Principal
+Echo...
+Echo...
+Echo...
+###--------
+###Mugshot:Principal
+We love you, Echo...
+###--------
+<positionOptionFromCenter><optionText>  Elementary
+<positionOptionFromCenter><optionText>  Junior High
+<positionOptionFromCenter><optionText>  High School
+###Command:positionOptionFromCenter width=64
+###Command:optionText up=2 down=1 left=0 right=0
+###Command:positionOptionFromCenter width=64
+###Command:optionText up=0 down=2 left=1 right=1
+###Command:positionOptionFromCenter width=64
+###Command:optionText up=1 down=0 left=2 right=2
+###--------
+###Mugshot:Principal
+...Oh...
+###--------
+###Mugshot:Principal
+...Ohhhh!
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+I think I can work with that!
+That wasn't bad at all!
+###--------
+###Mugshot:Principal
+I really appreciate this.
+###--------
+###Mugshot:Principal
+Thanks to you, our
+new school song is going
+to be dynamite!
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+And we just may attract
+some more students!
+Ha ha ha.
+###--------
+###Mugshot:Principal
+But, let's keep that
+between me and you.
+*wink*
+###--------
+###Mugshot:Principal
+This is for you.
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=17
+###--------
+###Mugshot:Principal
+This will bring more
+students in for sure!
+###--------
+###Script:13
+###Mugshot:Principal
+I can't believe you would
+say no to me.
+###--------
+###Mugshot:Principal
+I'm the principal, after all!
+###--------
+###Script:14
+###Mugshot:Principal
+For some reason it just
+doesn't sound right...
+###--------
+###Script:15
+###Mugshot:Principal
+This will bring more
+students in for sure!
+###--------
+###Script:20
+###Mugshot:Boy
+I'm brand new on the
+student council.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+And... I was asked to
+change a light bulb that's
+out in the Gym.
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+But I can't do it right
+now 'cause I'm in the
+middle of something...
+###--------
+###Mugshot:Boy
+Could you take care of it
+for me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:21
+###Mugshot:Boy
+I was asked to change
+the light bulb that's out
+in the Gym,
+###--------
+###Mugshot:Boy
+but I can't do it right now.
+###--------
+###Mugshot:Boy
+Could you take care of it
+for me?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:22
+###Mugshot:Boy
+Really!? That'd be great!
+###--------
+###Mugshot:Boy
+OK. Here's a light bulb.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=46
+###--------
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+The light is in the Gym on
+the second floor balcony.
+###--------
+###Script:23
+###Mugshot:Boy
+Why do you gotta be that
+way?
+###--------
+###Script:24
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+The light bulb that needs
+changing is in the Gym on
+the second floor balcony.
+###--------
+###Mugshot:Boy
+Be careful.
+###--------
+###Script:25
+###Mugshot:Boy
+Were you able to change
+that light bulb?
+###--------
+###Mugshot:Boy
+Really? Thanks!!
+###--------
+###Mugshot:Boy
+Here, take this!
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=70
+###--------
+###Mugshot:Boy
+See? My job isn't very
+easy, is it?
+###--------
+###Script:26
+###Mugshot:Boy
+See? My job isn't very
+easy, is it?
+###--------
+###Script:100
+###Mugshot:0
+###--------
+###Mugshot:0
+I'd better get Luna to a
+safe place before I pulse in!
+###--------
+###Script:101
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Don't you have someplace to
+be besides the Wave World?
+###--------
+###Script:103
+###Mugshot:OmegaXis
+Time to go home for today,
+don't you think?
+###--------

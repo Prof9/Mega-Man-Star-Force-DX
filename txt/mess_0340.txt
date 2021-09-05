@@ -1,0 +1,293 @@
+﻿###TextArchive:mess_0340
+###Script:0
+###Mugshot:2
+What's up, Geo?
+###--------
+###Script:1
+###Mugshot:0
+###--------
+###Mugshot:0
+Um, is there any way we can
+transmit something from here
+up to the space station?
+###--------
+###Script:2
+###Mugshot:2
+Hmm... Honestly, I think it
+would be very hard...
+###--------
+###Mugshot:2
+It could be anywhere in space.
+Looking for it is like...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+trying to catch that one
+special fish in the endless
+sea of the void.
+###--------
+###Script:3
+###Mugshot:0
+Oh...
+###--------
+###Script:4
+###Mugshot:2
+But we should at least
+give it a try... Hmm...
+###--------
+###Script:5
+###Mugshot:0
+What is it?
+###--------
+###Script:6
+###Mugshot:2
+I think there might be a way.
+###--------
+###Script:7
+###Mugshot:0
+Really!?
+###--------
+###Script:8
+###Mugshot:2
+###--------
+###Mugshot:2
+I think you know, but after
+that incident, a section of
+Kelvin's station fell to Earth.
+###--------
+###Script:9
+###Mugshot:0
+...*gulp*
+###--------
+###Script:10
+###Mugshot:2
+If we could fix the
+transmitter in that section,
+###--------
+###Mugshot:2
+we might be able to contact
+the space station.
+###--------
+###Script:11
+###Mugshot:0
+Where is that section
+right now!?
+###--------
+###Script:12
+###Mugshot:2
+###--------
+###Mugshot:2
+I'm sorry, but... the person
+who would know no longer
+works at NAZA.
+###--------
+###Script:13
+###Mugshot:0
+What...?
+###--------
+###Script:14
+###Mugshot:2
+There was only one person
+who knew...
+###--------
+###Mugshot:2
+He was our boss at the
+time, and was the person
+ultimately responsible
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+for creating a Brother
+Band between Earth and
+Planet FM.
+###--------
+###Mugshot:2
+After the incident, he was
+in charge of the search,
+but one day,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+he suddenly left NAZA,
+taking everything he
+knew about it with him.
+###--------
+###Mugshot:2
+No one has heard
+from him again.
+###--------
+###Mugshot:2
+But I heard a rumor
+that he has been
+spotted in the vicinity.
+###--------
+###Mugshot:2
+But you don't need to go
+through so much trouble.
+###--------
+###Mugshot:2
+I'm sure NAZA knows
+something too.
+###--------
+###Mugshot:2
+They must have caught
+the signal from the space
+station as well,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+and they have some very
+powerful EM weapons...
+###--------
+###Mugshot:2
+Oops, don't tell anyone
+I told you that.
+###--------
+###Script:15
+###Mugshot:OmegaXis
+(E-EM weapons!?
+Andromeda would just
+eat them up!)
+###--------
+###Script:16
+###Mugshot:0
+###--------
+###Mugshot:0
+Mr. Boreal, please tell me
+about your old boss!
+###--------
+###Script:17
+###Mugshot:2
+What are you going to do?
+###--------
+###Script:18
+###Mugshot:0
+I... I want to do something
+to help...
+###--------
+###Script:19
+###Mugshot:2
+Ha ha ha, OK.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I haven't seen him in
+a while, but he was a
+refined old man.
+###--------
+###Script:20
+###Mugshot:0
+An old man, huh?
+###--------
+###Mugshot:0
+Thanks, Mr. Boreal!
+###--------
+###Script:21
+###Mugshot:2
+Geo, I told you a lot about
+the incident because of
+what's happening,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+but let's not worry your
+mom too much, OK?
+###--------
+###Script:22
+###Mugshot:0
+...I understand.
+###--------
+###Script:23
+###Mugshot:0
+So now we're looking for
+Mr. Boreal's old boss.
+###--------
+###Mugshot:OmegaXis
+All we know is that
+he's an old man.
+###++++++++
+###Mugshot:OmegaXis
+Sheesh. Not much of a
+description to go on, is it?
+###--------
+###Mugshot:0
+Hmmm...
+###--------
+###Mugshot:0
+<wait>
+###Command:wait frames=60
+###--------
+*beep, beep, beep*<wait>
+
+###Command:wait frames=46
+###--------
+*beep, beep, beep*<wait>
+###Command:wait frames=46
+###--------
+###Mugshot:0
+Mail?<wait>
+.<wait>.<wait>.<wait>It's from Leo Kingdom!
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###Command:wait frames=30
+###--------
+###Mugshot:LeoKingdomShadow
+Geo and Omega-Xis.
+A great calamity is
+upon this planet.
+###++++++++
+###Mugshot:LeoKingdomShadow
+As you have formed
+a Brother Band on
+the Leo Satellite,
+###++++++++
+###Mugshot:LeoKingdomShadow
+I can now grant you a
+fragment of my power.
+###++++++++
+###Mugshot:LeoKingdomShadow
+This will surely help you
+in the battles to come.
+###++++++++
+###Mugshot:LeoKingdomShadow
+Come to the AMAKEN
+rooftop Wave Road
+once you are prepared.
+###--------
+###Mugshot:0
+What do you think?
+Should we do that first?
+###--------
+###Mugshot:OmegaXis
+Right now, we have no
+clue where that old man is.
+###++++++++
+###Mugshot:OmegaXis
+And if we're going up against
+Andromeda, we're gonna
+need all the help we can get.
+###++++++++
+###Mugshot:OmegaXis
+I say we go check this
+out first.
+###--------
+###Mugshot:0
+Right... Let's go and
+pulse in, then.
+###--------
+###Mugshot:OmegaXis
+...Something tells me that
+this time, they won't go
+so easy on us...
+###++++++++
+###Mugshot:OmegaXis
+Better make sure
+we're ready.
+###--------

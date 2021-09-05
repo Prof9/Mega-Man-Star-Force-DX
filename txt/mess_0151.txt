@@ -1,0 +1,72 @@
+﻿###TextArchive:mess_0151
+###Script:0
+Meanwhile...
+###--------
+###Script:1
+###Mugshot:3
+###--------
+###Mugshot:3
+It's the same!
+The same!
+###--------
+###Mugshot:3
+It's just like that one time...
+###--------
+###Script:2
+###Mugshot:3
+Wh-Why!?
+###--------
+###Script:3
+###Mugshot:3
+Why is it happening again?
+###--------
+###Mugshot:3
+...*sob*
+###--------
+###Script:4
+###Mugshot:3
+...*sob*
+###--------
+###Script:5
+See, I told you.
+Heh heh heh...
+###--------
+###Script:6
+###Mugshot:Cygnus
+Betrayal is the essence
+of society.
+###--------
+###Script:7
+###Mugshot:3
+Wh-What should I do...?
+###--------
+###Script:8
+###Mugshot:Cygnus
+It's simple.
+###--------
+###Mugshot:Cygnus
+You should punish he who
+betrayed you.
+###--------
+###Mugshot:Cygnus
+You will feel much better
+once you do.
+###--------
+###Script:9
+###Mugshot:3
+###--------
+###Mugshot:3
+Punish... Mr. Boreal...?
+Me?
+###--------
+###Script:10
+###Mugshot:Cygnus
+###--------
+###Mugshot:Cygnus
+Eheh heh heh. Don't worry.
+I'll lend you my powers.
+###--------
+###Mugshot:Cygnus
+Come, release the darkness
+in your heart!!
+###--------

@@ -1,0 +1,60 @@
+﻿###TextArchive:mess_0583
+###Script:0
+###Mugshot:5
+My grandson loves to play
+crane games.
+###--------
+###Mugshot:5
+So much in fact that I've
+run out of coins!
+###--------
+###Script:1
+###Mugshot:6
+###--------
+###Mugshot:6
+I keep trying, but I can't
+get a thing with the claw!
+Isn't this game a cheater!?
+###--------
+###Script:2
+###Mugshot:7
+The jungle exhibit will be
+closing soon.
+###--------
+###Mugshot:7
+A lot happened, but it was
+a good exhibit.
+###--------
+###Script:5
+###Mugshot:7
+###--------
+###Mugshot:7
+Wasn't there a flash of
+light from the square down
+there a second ago?
+###--------
+###Script:10
+###Mugshot:7
+###--------
+###Mugshot:7
+Did something happen? The
+Satella police came by and
+asked us some questions.
+###--------
+###Script:15
+###Mugshot:5
+###--------
+###Mugshot:5
+I don't know about aliens,
+but standing here, I'm sure
+I'll spot them first!
+###--------
+###Script:16
+###Mugshot:6
+Aliens aren't really coming,
+are they!?
+###--------
+###Script:17
+###Mugshot:7
+I wonder if Luna is alright...
+###--------

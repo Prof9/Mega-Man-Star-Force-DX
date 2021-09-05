@@ -1,0 +1,119 @@
+﻿###TextArchive:mess_0989
+###Script:0
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+BOY, THAT LAST PERSON
+WAS A DOOZIE! TALK
+ABOUT A CLOSE ONE...
+###--------
+###Mugshot:MrHertz
+DIDN'T YOU KNOW A MIRROR
+CAN BREAK SPONTANEOUSLY,
+###--------
+###Mugshot:MrHertz
+GIVEN THE RIGHT
+CONDITIONS?
+###--------
+###Mugshot:MrHertz
+MAINLY WHEN A MIRROR'S
+MR. HERTZ SEES
+###--------
+###Mugshot:MrHertz
+SOMETHING TOO EXTREME
+FOR HIS HEART TO TAKE...
+###--------
+###Mugshot:MrHertz
+MAN, THAT LAST PERSON
+WAS RIGHT ON THE EDGE.
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Script:10
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+THEY SAY THERE'S A
+MAGIC MIRROR SOMEWHERE,
+###--------
+###Mugshot:MrHertz
+THAT GRANTS YOU
+YOUR DEEPEST WISHES
+###--------
+###Mugshot:MrHertz
+WHEN YOU PEER INTO
+IT AND LAY YOUR
+HEART BARE.
+###--------
+###Mugshot:MrHertz
+...WILL IT WORK FOR A
+MR. HERTZ LIKE ME, TOO?
+###--------
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Script:11
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+I NEVER COULD HAVE
+IMAGINED THE MAGIC MIRROR
+###--------
+###Mugshot:MrHertz
+WAS RIGHT IN FRONT OF
+ME THIS WHOLE TIME!
+###--------
+###Mugshot:MrHertz
+MAYBE I JUST WASN'T
+SAYING THE RIGHT WORDS.
+###--------
+###Mugshot:MrHertz
+MIRROR MIRROR
+ON THE WALL,
+###--------
+###Mugshot:MrHertz
+WHO IS THE BRAWNIEST
+HERTZ OF THEM ALL?
+###--------
+###Mugshot:MrHertz
+...*BEEP BEEP*
+###--------
+###Script:20
+It's a mirror. You can
+see your own reflection.
+###--------
+###Mugshot:MegaMan
+.<wait>.<wait>.<wait>Huh?
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+The "<printItem>" is
+responding to the mirror!
+###Command:printItem item=79
+###--------
+###Mugshot:MegaMan
+Some kind of data is being
+sent to my Transer!
+###--------
+###Mugshot:MegaMan
+Should I accept the
+transmission?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:22
+It's a mirror. You can
+see your own reflection.
+###--------
+###Mugshot:OmegaXis
+Lookin' good, kid!
+###--------

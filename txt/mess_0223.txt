@@ -1,0 +1,477 @@
+﻿###TextArchive:mess_0223
+###Script:0
+###Mugshot:2
+You're late, Geo.
+###--------
+###Mugshot:2
+Hurry up and sit down.
+###--------
+###Script:1
+###Mugshot:0
+Huh?
+###--------
+###Mugshot:0
+Oh, OK...
+###--------
+###Script:2
+###Mugshot:0
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:0
+(That's odd...
+It's not like the bell's
+rung yet...)
+###--------
+###Script:3
+###Mugshot:2
+Now, let's start Math class.
+###--------
+###Script:4
+###Mugshot:5
+Wha-?
+But the bell hasn't rung yet.
+###--------
+###Script:5
+###Mugshot:2
+There will be no talking
+in class.
+###--------
+###Script:6
+###Mugshot:5
+Huh?
+###--------
+###Mugshot:5
+.<waitSkip>.<waitSkip>.<waitSkip>Oh, sorry.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:7
+###Mugshot:2
+Much better.
+###--------
+###Mugshot:2
+Also, starting today, we will
+be using the Study Wave.
+###--------
+###Script:8
+*mumble mumble*
+###--------
+###Script:9
+###Mugshot:4
+Why all of a sudden...?
+###--------
+###Script:10
+###Mugshot:2
+Is there a problem?
+###--------
+###Script:11
+###Mugshot:4
+N-No...
+###--------
+###Script:12
+###Mugshot:0
+(Mr. Shepar is acting
+kinda funny today...)
+###--------
+###Script:13
+###Mugshot:2
+Are you ready?
+###--------
+###Script:14
+###Mugshot:2
+The Study Wave is
+now on the air!
+###--------
+###Script:15
+*whiiiiiiiiiiir*
+###--------
+###Script:16
+###Mugshot:4
+.<wait>.<wait>.<wait>Hey!
+###Command:wait frames=15
+###Command:wait frames=15
+###Command:wait frames=15
+###--------
+###Script:17
+###Mugshot:4
+Math tables are pouring
+into my head...
+###--------
+###Script:18
+###Mugshot:6
+Yes, it would seem so.
+###--------
+###Script:19
+###Mugshot:5
+1 X 1 = 1
+1 X 2 = 2
+1 X 3 = 3
+###--------
+###Script:20
+###Mugshot:0
+3 X 3 = 9
+3 X 4 = 12
+3 X 5 = 15
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Ugh, this doesn't feel good
+at all. More like it's forcing
+its way into my head.
+###--------
+###Script:21
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, Geo.
+Put on your Visualizer
+for a sec.
+###--------
+###Script:22
+###Mugshot:0
+Um, OK.
+###--------
+###Mugshot:0
+...Here we go.
+###--------
+###Script:23
+###Mugshot:0
+There's some weird thing
+floating above everyone's
+heads.
+###--------
+###Mugshot:0
+Is that the Study Wave?
+###--------
+###Script:24
+###Mugshot:OmegaXis
+It's not a very pleasant
+wave, is it?
+###--------
+###Script:25
+###Mugshot:0
+Huh? What do you mean?
+###--------
+###Script:26
+###Mugshot:OmegaXis
+I don't think they're good
+for the human body.
+###--------
+###Script:27
+A few minutes later...
+###--------
+###Script:28
+*mumble mumble*
+###--------
+###Script:29
+###Mugshot:0
+9 X 8 = 72
+9 X 9 = 81
+###--------
+###Mugshot:0
+(What a terrible and quiet
+class we had today,
+###--------
+###Mugshot:0
+(all because of that
+Study Wave.)
+###--------
+###Mugshot:0
+(It's totally different
+from yesterday.)
+###--------
+###Script:30
+*grumble*
+###--------
+This is boring.
+###--------
+###Script:31
+###Mugshot:2
+WHO WAS THAT!?
+###--------
+###Script:32
+###Mugshot:2
+You think it's boring!?
+###--------
+###Mugshot:2
+Listen! Classes do NOT
+need to be fun!!
+###--------
+###Mugshot:2
+Grades are what's
+important!
+###--------
+###Mugshot:2
+You must raise your test
+scores and grades!!
+###--------
+###Mugshot:2
+Higher,<wait> higher,<wait> higher!<wait>
+Higher,<wait> higher,<wait> higher!!!
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###Command:wait frames=5
+###--------
+###Script:33
+###Mugshot:4
+Aaaaaaaaaaaah!!
+###--------
+###Script:34
+###Mugshot:5
+Nnnnngh!!
+###--------
+###Script:35
+###Mugshot:6
+Mr. Shepar!!
+###--------
+###Script:36
+###Mugshot:0
+Who is that!?
+###--------
+###Script:37
+###Mugshot:OmegaXis
+He's here!!
+###--------
+###Script:38
+###Mugshot:13
+I have changed.
+###--------
+###Mugshot:13
+I have no need for ideals.
+###--------
+###Mugshot:13
+###--------
+###Mugshot:13
+It became crystal clear
+to me last night what
+is really important.
+###--------
+###Mugshot:13
+Study Wave,
+continue your broadcast!!
+###--------
+###Script:39
+*Woooooooooo*
+###--------
+###Script:40
+###Mugshot:0
+Aaaaaah!!
+###--------
+###Script:41
+###Mugshot:6
+###--------
+###Mugshot:6
+The questions keep coming!!
+They're flooding my brain...
+###--------
+###Script:42
+###Mugshot:5
+1 X 1 = 1
+1 X 2 = 2
+1 X 3 = 3
+###--------
+###Mugshot:5
+1 X 4 = 4
+1 X 5 = 5
+1 X 6 = 6
+###--------
+###Mugshot:5
+1 X 7 = 7
+1 X 8 = 8
+1 X 9 = 9
+###--------
+###Mugshot:5
+Ack, I'm going dizzy
+from all the numbers!!
+###--------
+###Script:43
+###Mugshot:4
+Watashi wa Luna.
+Watashi wa Luna.
+Watashi wa Luna.
+###--------
+###Mugshot:4
+I'm losing...
+###--------
+###Mugshot:4
+Domo arigato.
+Domo arigato.
+Domo arigato.
+###--------
+###Mugshot:4
+myself...
+###--------
+###Mugshot:4
+Help... Someone...
+###--------
+###Script:44
+###Mugshot:13
+......
+###--------
+###Script:45
+###Mugshot:Libra
+...Hey.
+###--------
+###Script:46
+###Mugshot:13
+I understand. I won't
+waver from my path.
+###--------
+###Script:47
+###Mugshot:0
+Listen, my children,
+and you shall hear...
+###--------
+###Script:48
+###Mugshot:OmegaXis
+Hey, Geo!!
+Snap out of it!!
+###--------
+###Script:49
+###Mugshot:0
+Of the midnight ride
+of Paul Revere...
+###--------
+###Script:50
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Tsk! He's lost himself
+completely. That weird
+wave's got him.
+###--------
+###Mugshot:OmegaXis
+Guess I've got no choice.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Geo! If you can hear me,
+clench your teeth!
+###--------
+###Script:51
+###Mugshot:OmegaXis
+Left Jab!!
+###--------
+###Script:52
+*bam!!*
+###--------
+###Script:53
+###Mugshot:0
+OWWWWWWWW!!
+###--------
+###Script:54
+###Mugshot:0
+Ow-owww...
+###--------
+###Mugshot:0
+Huh?
+What am I doing here?
+###--------
+###Mugshot:0
+And why does my
+cheek hurt?
+###--------
+###Script:55
+###Mugshot:OmegaXis
+You back to being you?
+###--------
+###Script:56
+###Mugshot:0
+Mega, do you have something
+to do with my face...?
+###--------
+###Script:57
+###Mugshot:OmegaXis
+No time for that!
+###--------
+###Mugshot:OmegaXis
+We've gotta go get that
+guy from before!
+###--------
+###Mugshot:OmegaXis
+That was Libra, the
+FM-ian of balance.
+###--------
+###Script:58
+###Mugshot:0
+Do I have to do this?
+###--------
+###Script:59
+###Mugshot:OmegaXis
+Is there anyone else?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Besides... you're a hero,
+aren't you?
+###--------
+###Script:60
+###Mugshot:0
+I can't believe even
+you're saying that...
+###--------
+###Script:61
+###Mugshot:3
+Why are you talking
+to yourself?
+###--------
+###Script:62
+###Mugshot:0
+Huh?
+###--------
+###Script:63
+###Mugshot:0
+P-Pat!
+###--------
+###Script:64
+###Mugshot:3
+What a mess.
+What happened to the teach?
+###--------
+###Script:65
+###Mugshot:0
+Are you OK?
+###--------
+###Script:66
+###Mugshot:3
+......Yeah.
+###--------
+###Mugshot:3
+Weird, huh?
+###--------
+###Script:67
+###Mugshot:0
+Yeah, but I'm glad you're OK.
+###--------
+###Script:68
+###Mugshot:3
+It looks like everyone's
+in danger.
+###--------
+###Mugshot:3
+You've gotta hurry and
+stop the Study Wave.
+###--------
+###Script:69
+###Mugshot:0
+But how?
+###--------
+###Script:70
+###Mugshot:3
+###--------
+###Mugshot:3
+The Study Wave's controls
+are in the studio. The teach
+probably went there too.
+###--------
+###Script:71
+###Mugshot:0
+The studio...
+OK, got it.
+###--------

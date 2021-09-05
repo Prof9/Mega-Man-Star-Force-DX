@@ -1,0 +1,21 @@
+﻿###TextArchive:mess_0353
+###Script:0
+###Mugshot:CygnusWing
+Aaaaaaaaah...
+I can't believe I was...
+###--------
+###Mugshot:CygnusWing
+At least... I'll be a star...
+in the skyyyyyy...
+###--------
+###Script:1
+###Mugshot:0
+We've gotta hurry!
+###--------
+###Script:2
+###Mugshot:0
+Alright, I unlocked the door!
+###--------
+###Mugshot:0
+Onward!
+###--------

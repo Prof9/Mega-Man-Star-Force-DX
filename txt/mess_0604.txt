@@ -1,0 +1,101 @@
+﻿###TextArchive:mess_0604
+###Script:0
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+That's odd... I was sure
+I must've dropped it
+around here.
+###--------
+###Script:1
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+That's odd... I was sure
+I must've dropped it
+around here.
+###--------
+###Mugshot:Geo
+Um...
+###--------
+###Mugshot:Worker
+Hmm? Yes?
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+...Come again?
+You want to borrow the
+ShovelMan card?
+###--------
+###Mugshot:Worker
+Well, actually...
+###--------
+###Mugshot:Worker
+I kinda lost the ShovelMan
+card, you see...
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I was knocked out by a
+trespasser last night and I
+think that's when I lost it.
+###--------
+###Mugshot:Worker
+Can you help me look for it?
+###--------
+###Script:2
+###Mugshot:Worker
+I kinda lost the ShovelMan
+card, you see...
+###--------
+###Mugshot:Worker
+###--------
+###Mugshot:Worker
+I was knocked out by a
+trespasser last night and I
+think that's when I lost it.
+###--------
+###Mugshot:Worker
+Can you help me look for it?
+###--------
+###Script:3
+###Mugshot:Worker
+Oh! You found it!?
+That's great!
+###--------
+###Mugshot:Worker
+Do you think you can move
+that backhoe for me?
+###--------
+###Mugshot:Worker
+I'm really busy, so please
+do it for me?
+###--------
+###Script:4
+###Mugshot:Worker
+Do you think you can move
+that backhoe for me?
+###--------
+###Mugshot:Worker
+I'm really busy, so please
+do it for me?
+###--------
+###Script:5
+###Mugshot:3
+###--------
+###Mugshot:3
+The place I want to show
+you is a bit further in.
+Let's go...
+###--------
+###Script:6
+###Mugshot:3
+Well, time to go home.
+###--------
+###Script:7
+###Mugshot:3
+This time, let's really
+go home.
+###--------

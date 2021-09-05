@@ -1,0 +1,81 @@
+﻿###TextArchive:mess_0257
+###Script:0
+###Mugshot:Geo
+Hey, are you in here,
+Mr. maintenance guy?
+###--------
+###Script:1
+.........
+###--------
+###Script:2
+###Mugshot:Geo
+I guess not.
+###--------
+###Mugshot:Geo
+He's probably hiding
+somewhere else.
+###--------
+###Script:3
+W-W-W-Wait a s-s-sec-c-c...
+###--------
+###Script:4
+###Mugshot:Worker
+*shiver*
+Wh-Wh-What h-h-happened??
+###--------
+###Mugshot:Worker
+A-All of a s-s-sudden,
+there's snakes all over.
+###--------
+###Mugshot:Worker
+I-I-I hid inside th-this igloo
+right away...
+###--------
+###Script:5
+###Mugshot:Geo
+Sorry, but you have the
+thermostat's card, right?
+I need it right now!
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+Please let me borrow it!!
+###--------
+###Script:6
+###Mugshot:Worker
+The thermostat's card...?
+###--------
+###Mugshot:Worker
+I-I have it, but what are
+y-you using it for...?
+###--------
+###Script:7
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I'll explain later!
+Right now, people's lives
+are at stake!!
+###--------
+###Script:8
+###Mugshot:Worker
+I-I-I see.
+Here, please take it.
+###--------
+###Script:9
+Geo got:
+"ThrmCard"!!
+###--------
+<waitOWVar>
+###Command:waitOWVar variable=0 value=10
+###--------
+###Script:10
+###Mugshot:Geo
+Thank you!
+###--------
+###Script:11
+###Mugshot:Worker
+I-I don't know what's
+going on, but take c-care.
+###--------

@@ -1,0 +1,79 @@
+﻿###TextArchive:mess_0110
+###Script:0
+###Mugshot:0
+W-We won...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+You did better than
+I expected, kid.
+###--------
+###Mugshot:OmegaXis
+You've caught my interest.
+###--------
+###Mugshot:OmegaXis
+Think I'll hang around for
+a little bit longer!
+How you like that?
+###--------
+###Script:2
+###Mugshot:0
+A little longer?
+No thanks!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I'm really sorry, but no way
+am I getting roped into
+something like that again!
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Oh?
+Then I guess...
+###--------
+###Mugshot:OmegaXis
+you don't want to hear
+about your old man...?
+###--------
+###Script:4
+###Mugshot:0
+B-But that's got nothing
+to do with this!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Well, if you don't want
+me hanging around,
+###--------
+###Mugshot:OmegaXis
+I can take a hint.
+See you, kid...
+###--------
+###Script:6
+###Mugshot:0
+W-Wait!!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+OK, you can stay in my
+Transer for a bit, just
+please tell me about my dad...
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Glad we agree, partner!!
+###--------
+###Script:8
+###--------
+After that, we moved the
+train back to its original
+spot, then returned home.
+###--------
+But this alien, Mega...
+###--------
+will he really tell me
+about my dad?
+###--------

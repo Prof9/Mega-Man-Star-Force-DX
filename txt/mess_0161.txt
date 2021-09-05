@@ -1,0 +1,53 @@
+﻿###TextArchive:mess_0161
+###Script:0
+###Mugshot:OmegaXis
+It's hopeless.
+This guy won't listen!
+###--------
+###Script:1
+###Mugshot:0
+So now what?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+We use brute force,
+what else!
+###--------
+###Mugshot:OmegaXis
+We have to.
+It's all up to us!
+###--------
+###Script:3
+###Mugshot:Cygnus
+Omega-Xis.
+The Andromeda Key is
+with you, yes?
+###--------
+###Mugshot:Cygnus
+In that case,
+I'll be taking it back.
+###--------
+###Mugshot:Cygnus
+Heh heh heh...
+Here I come!
+###--------
+###Script:4
+###Mugshot:2
+I won't be betrayed again.
+###--------
+###Mugshot:2
+If you want betrayal...
+###--------
+###Mugshot:2
+If you want to feel the
+pain of betrayal...
+###--------
+###Mugshot:2
+Then I will be the one
+to deal it in spades!
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Here he comes!
+Rock his world!
+###--------

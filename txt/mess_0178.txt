@@ -1,0 +1,142 @@
+﻿###TextArchive:mess_0178
+###Script:0
+###Mugshot:OmegaXis
+Hey, Geo!
+Look up there!
+###--------
+###Script:1
+###Mugshot:0
+Up where?
+###--------
+###Script:2
+###Mugshot:0
+There's something there...
+###--------
+###Script:3
+*quaaaaaaaack!!*
+###--------
+Who goes there!?
+###--------
+###Script:4
+###Mugshot:0
+It spoke!!
+###--------
+###Script:5
+*quaaaaaaaack!!*
+###--------
+We are the Quacky Lackies!
+###--------
+We are loyal servants of
+Lord Cygnus!
+###--------
+###Script:6
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I've heard of you guys.
+Something about a bunch
+of noisy ducks...
+###--------
+###Script:7
+###--------
+Ducks!?
+Did you just say DUCKS!?
+###--------
+*quaaaaaaaack!!*
+Insolent fool!!
+###--------
+We are beautiful
+purebred swans!!
+###--------
+###Script:8
+###Mugshot:0
+But you're not even
+remotely white!
+###--------
+###Script:9
+What do you know!?
+Mind your own business!!
+###--------
+Take this!
+Dance of the Stars!!
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Move, Geo!!
+###--------
+###Script:11
+###Mugshot:0
+That was close.
+###--------
+###Script:12
+*quaaaaaaaack!!*
+###--------
+How was that!?
+###--------
+###Script:13
+###Mugshot:OmegaXis
+Not bad, duckies.
+###--------
+###Script:14
+Y-You said it again!!
+###--------
+*quaaaaaaaack!!*
+Unforgivable!!
+###--------
+A duck's wrath is to
+be feared! You'll see!!
+###--------
+###Script:15
+###Mugshot:0
+Uh...
+###--------
+###Mugshot:0
+You just called yourself
+a duck there...
+###--------
+###Script:16
+###Mugshot:OmegaXis
+Just a bunch of quackers
+in denial, huh?
+###--------
+###Script:17
+......
+###--------
+###Script:18
+###Mugshot:0
+Aaah!!
+###--------
+###Script:19
+###Mugshot:0
+What the hey!?
+###--------
+###Script:20
+*quaaaack!*
+We will shower you in
+star shards!!
+###--------
+Everyone, man your
+positions!!
+###--------
+###Script:21
+###Mugshot:OmegaXis
+Hey, Geo.
+Look at that.
+###--------
+###Script:22
+###Mugshot:OmegaXis
+We can use those rockets
+to blast certain little
+birdies out of the sky.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If we take them all out,
+this area should go back
+to normal.
+###--------
+###Script:23
+###Mugshot:0
+Gotcha.
+###--------

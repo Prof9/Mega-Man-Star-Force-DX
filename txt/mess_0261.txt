@@ -1,0 +1,226 @@
+﻿###TextArchive:mess_0261
+###Script:0
+###Mugshot:QueenOphiuca
+Ungh...
+###--------
+###Script:1
+###Mugshot:OmegaXis
+Hmph, just give up already.
+You've lost.
+###--------
+###Script:2
+###Mugshot:MegaMan
+Ophiuca!
+Let Luna go!!
+###--------
+###Script:3
+###Mugshot:Ophiuca
+*huff huff*
+I don't think so!!
+###--------
+###Mugshot:Ophiuca
+I'm taking the girl with me!!
+###--------
+###Script:4
+###Mugshot:MegaMan
+Wait! You can't!
+###--------
+###Script:5
+###--------
+Someone who doesn't know
+when to give up, what a
+pitiful sight you are.
+###--------
+###Script:6
+###Mugshot:Ophiuca
+G-Gemini!?
+Is that you!?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+Gemini!?
+###--------
+###Mugshot:OmegaXis
+Argh, we can't take on
+the two of them together!
+###--------
+###Script:8
+###Mugshot:Ophiuca
+Good timing, Gemini!
+###--------
+###Mugshot:Ophiuca
+Come, help me finish off
+the traitor!
+###--------
+###Script:9
+Ha ha ha.
+###--------
+Yes, there is finishing
+off to do...
+###--------
+###Script:10
+###Mugshot:MegaMan
+Mega!
+Where is this Gemini!?
+###--------
+###Script:11
+###Mugshot:OmegaXis
+I don't know.
+###--------
+###Mugshot:OmegaXis
+But I do know we're
+within his firing range.
+###--------
+###Script:12
+###Mugshot:Ophiuca
+Gemini!
+###--------
+###Mugshot:Ophiuca
+Hurry!
+###--------
+###Script:13
+Ha ha, impatient aren't you?
+Alright then,
+###--------
+Gemini Thunder!!
+###--------
+###Script:14
+###Mugshot:Ophiuca
+Aaaaaaaah!!
+###--------
+###Mugshot:Ophiuca
+G-Gemini!! W-Why...!?
+###--------
+###Mugshot:Ophiuca
+Gaaaaaaaaah!!
+###--------
+###Script:15
+Omega-Xis...
+Or should I say Mega Man...
+###--------
+The time for our battle is
+drawing close.
+###--------
+###--------
+Until then, take good care
+of the Andromeda Key,
+won't you?
+
+###--------
+###Script:16
+###Mugshot:OmegaXis
+Why did you do that to
+Ophiuca?
+###--------
+###Script:17
+She was in my way...
+I suppose.
+###--------
+I have my own agenda.
+So remember this:
+###--------
+next time, my Gemini Thunder
+will be for you.
+###--------
+###Script:18
+###Mugshot:OmegaXis
+He's gone.
+###--------
+###Mugshot:OmegaXis
+That is one nasty FM-ian.
+###--------
+###Script:19
+###Mugshot:MegaMan
+Ah! Luna!!
+###--------
+###Script:20
+###Mugshot:MegaMan
+Luna! Hang in there!!
+###--------
+###Script:21
+###Mugshot:Luna
+Nngh...
+###--------
+###Mugshot:Luna
+......*gasp!*
+###--------
+###Mugshot:Luna
+M-Mega Man!?
+###--------
+###Script:22
+###Mugshot:Luna
+I-I did some really terrible
+things...
+###--------
+###Mugshot:Luna
+What should I do?
+###--------
+###Script:23
+###Mugshot:MegaMan
+It wasn't your fault.
+###--------
+###Mugshot:MegaMan
+You were just too weak
+and let the FM-ian in.
+###--------
+###Mugshot:MegaMan
+But it's OK now.
+###--------
+###Mugshot:MegaMan
+Your mom and dad fainted.
+That's all.
+###--------
+###Script:24
+###Mugshot:OmegaXis
+Hey!!
+###--------
+###Script:25
+###Mugshot:OmegaXis
+That blast from before's
+made this Comp Space
+really unstable.
+###--------
+###Mugshot:OmegaXis
+You'd better get out
+of here!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+If you don't, you'll return
+to the Real World with
+that girl in tow!
+
+###--------
+###Script:26
+###Mugshot:MegaMan
+Darn it!
+###--------
+###Script:27
+###Mugshot:MegaMan
+Luna, I'm afraid I have
+to go.
+###--------
+###Script:28
+###Mugshot:Luna
+Mega Man!!
+###--------
+###Script:29
+###Mugshot:Luna
+How can I make up for
+what I did? *sniffle*
+###--------
+###Script:30
+###Mugshot:MegaMan
+Ack!
+W-Wait a sec!!
+###--------
+###Script:31
+###Mugshot:OmegaXis
+The Comp Space is
+disappearing!
+###--------
+###Script:32
+###Mugshot:Luna
+Mega Maaaaan!!
+###--------

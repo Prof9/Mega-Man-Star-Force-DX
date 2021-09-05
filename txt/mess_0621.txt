@@ -1,0 +1,91 @@
+﻿###TextArchive:mess_0621
+###Script:0
+###--------
+On the monitor in blue
+letters is a message:
+"Frequency 8413kHz"
+###--------
+###Script:1
+###--------
+On the monitor in yellow
+letters is a message:
+"Frequency 9861kHz"
+###--------
+###Script:2
+In the locker are tools
+to do work outside.
+###--------
+###Script:3
+A space suit... Looks hard
+to put on alone.
+###--------
+###Script:5
+There's some space food
+on the shelf...
+###--------
+###--------
+It looks well-preserved,
+but it's probably a good
+idea not to eat it.
+###--------
+###Script:6
+###--------
+On the monitor in red
+letters is a message:
+"Frequency 2183kHz"
+###--------
+###Script:7
+A control panel to monitor
+this module's energy.
+###--------
+###Script:8
+Cable and steel wrapped
+in a special cloth.
+###--------
+###Script:13
+The door has an
+electronic lock...
+###--------
+###--------
+Look closer and there's
+a small monitor displaying
+"Red Frequency".
+###--------
+###Script:14
+The door has an
+electronic lock...
+###--------
+###Mugshot:0
+Hmm...
+Maybe if I used that card...
+###--------
+###Script:15
+Emergency oxygen tanks...
+###--------
+But, looks like they're empty.
+###--------
+###Script:16
+Emergency oxygen tanks...
+###--------
+But, looks like they're empty.
+###--------
+Oh...?
+What's this?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=113
+###--------
+###Script:17
+The door has an
+electronic lock...
+###--------
+###--------
+Look closer and there's
+a small monitor displaying
+"Red Frequency".
+###--------
+###Script:18
+The door has an
+electronic lock...
+###--------

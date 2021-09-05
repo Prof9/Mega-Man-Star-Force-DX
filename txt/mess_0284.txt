@@ -1,0 +1,138 @@
+﻿###TextArchive:mess_0284
+###Script:0
+###Mugshot:0
+What is this place?
+###--------
+###Script:1
+###Mugshot:Pat
+This... This is where I was
+thrown away.
+###--------
+###Script:2
+###Mugshot:0
+What!?
+###--------
+###Script:3
+###Mugshot:Pat
+Are you shocked?
+###--------
+###Mugshot:Pat
+I was abandoned.
+###--------
+###Script:4
+###Mugshot:0
+Abandoned...
+###--------
+###Script:5
+###Mugshot:Pat
+Ten years ago, when I
+was still just a baby,
+###--------
+###Mugshot:Pat
+I was left here,
+in this very spot.
+###--------
+###Mugshot:Pat
+I heard it was a SorterBot
+that found me, wrapped
+in a towel.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+The name "Patrick" was
+written on it, and that's
+how I got my name.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+After that, I was sent to
+an orphanage, and grew up
+to be what I am today...
+###--------
+###Script:6
+###Mugshot:0
+Pat...
+###--------
+###Script:7
+###Mugshot:Pat
+You must really be
+shocked by what I said...
+###--------
+###Script:8
+###Mugshot:0
+Yeah, I am...
+Hey, Pat...?
+###--------
+###Mugshot:0
+Do you hate your parents
+for what they did?
+###--------
+###Script:9
+###Mugshot:Pat
+No, not really.
+###--------
+###Mugshot:Pat
+I'm alive now, and I have
+to keep on living.
+###--------
+###Mugshot:Pat
+That's about all I think about.
+###--------
+###Script:10
+###Mugshot:0
+You're really strong...
+###--------
+###Script:11
+###Mugshot:Pat
+N-Not really...
+###--------
+###Mugshot:Pat
+I don't think so myself...
+###--------
+###Mugshot:Pat
+......
+###--------
+###Mugshot:Pat
+Well, thanks for listening.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+It really means a lot to me.
+This is the first time I've
+wanted to share my story.
+###--------
+###Script:12
+###Mugshot:0
+Really?
+###--------
+###Script:13
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+It's because I honestly
+thought that you were
+someone I could tell...
+###--------
+###Script:14
+###Mugshot:0
+Pat...
+###--------
+###Script:15
+###Mugshot:Pat
+*chuckle*
+###--------
+###Mugshot:Pat
+We talked about a lot
+today, didn't we?
+###--------
+###Mugshot:Pat
+There's still so much more
+I want to talk about,
+###--------
+###Mugshot:Pat
+but it's getting late, so
+we'd better go home.
+###--------

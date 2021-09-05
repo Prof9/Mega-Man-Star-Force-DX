@@ -1,0 +1,201 @@
+﻿###TextArchive:mess_0539
+###Script:0
+###Mugshot:0
+T-The elevator isn't working!
+###--------
+###Mugshot:OmegaXis
+The Study Wave probably
+caused a malfunction!
+###--------
+###Script:1
+It's locked.
+###--------
+###Script:2
+###Mugshot:0
+...The door won't budge!
+###--------
+###Script:10
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Did you know that there's
+an RC-lovers Club at this
+school?
+###--------
+###Mugshot:LittleBoy
+Oh, wait...
+...How could you know that?
+###--------
+###Mugshot:LittleBoy
+I'm the only member.
+###--------
+###Mugshot:LittleBoy
+...*sigh*
+###--------
+###Mugshot:LittleBoy
+Doesn't anyone besides me
+like RCs?
+###--------
+###Script:11
+###Mugshot:LittleBoy
+...*sigh*
+###--------
+###Mugshot:LittleBoy
+Doesn't anyone besides me
+like RCs?
+###--------
+###Script:12
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+...*sigh*
+At this rate, in the end,
+there'll be no RC Club.
+###--------
+###Mugshot:PropellerMan
+I'll join the RC Club!
+###--------
+###Mugshot:LittleBoy
+Ohh!
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+Was that PropellerMan's
+voice I heard coming
+from your Transer?
+###--------
+###Mugshot:LittleBoy
+So you're into RCs too!?
+You'd like to join?
+###--------
+###Mugshot:Geo
+Wait, I'm not...
+###--------
+###Mugshot:PropellerMan
+I'd love to!!
+###--------
+###Mugshot:LittleBoy
+T-Thank you.
+###--------
+###Mugshot:LittleBoy
+I'm so happy, I could cry...
+###--------
+###Mugshot:LittleBoy
+*sniffle*
+###--------
+###Mugshot:LittleBoy
+This is to welcome you
+as a new member.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=71
+###--------
+###Mugshot:LittleBoy
+*sniffle* There is hope
+for this club after all.
+###--------
+###Script:13
+###Mugshot:LittleBoy
+*sniffle* There is hope
+for this club after all.
+###--------
+###Script:15
+###Mugshot:Man
+Hmm, what should I do...?
+###--------
+###Mugshot:Man
+Huh?
+What am I doing?
+###--------
+###Mugshot:Man
+Well, being a teacher is new
+to me, and... to be honest,
+###--------
+###Mugshot:Man
+to be honest, I was
+wondering what I can do to
+be popular with the students.
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+You know? I just want them
+to like me.
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Maybe it'd be faster if I just
+asked a teacher who's already
+popular what I should do.
+###--------
+###Mugshot:Man
+Who's the most popular
+teacher at this school?
+###--------
+###Script:16
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Let me ask you, what do you
+think I could do to be popular
+with the students here?
+###--------
+###Mugshot:Man
+You know, I just want
+them to like me...
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Maybe it'd be faster if I just
+asked a teacher who's already
+popular what I should do.
+###--------
+###Mugshot:Man
+Who's the most popular
+teacher at this school?
+###--------
+###Script:17
+###Mugshot:Man
+...Hm?
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Really!? Mr. Shepar told you
+the secret to being a popular
+teacher? Tell me, please!
+###--------
+###Mugshot:Man
+...Uh-huh.
+...I see.
+...Yes, go on.
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Hmm, so I should try to
+see things from a student's
+perspective...
+###--------
+###Mugshot:Man
+That's great advice!
+###--------
+###Mugshot:Man
+Thanks a million!
+Please take this.
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=102
+###--------
+###Mugshot:Man
+Now I see the light!
+###--------
+###Script:18
+###Mugshot:Man
+Now I see the light!
+###--------

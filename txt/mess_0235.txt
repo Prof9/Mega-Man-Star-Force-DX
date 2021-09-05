@@ -1,0 +1,13 @@
+﻿###TextArchive:mess_0235
+###Script:0
+###Mugshot:OmegaXis
+Nice one, kid!
+###--------
+###Script:3
+A reward for exceptionally
+high marks:
+###--------
+Mega Man got:
+"<printBuffer> Zennys"!!
+###Command:printBuffer buffer=0 minLength=8 padMode=noPad
+###--------

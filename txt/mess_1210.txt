@@ -1,0 +1,28 @@
+﻿###TextArchive:mess_1210
+###Script:0
+Open this door by defeating
+the snippy crab.
+###--------
+###Script:1
+Open this door by defeating
+the fanged wolf.
+###--------
+###Script:2
+Open this door by defeating
+the dignified duke.
+###--------
+###Script:3
+###--------
+You who have defeated the
+snippy crab may proceed...
+###--------
+###Script:4
+###--------
+You who have defeated the
+fanged wolf may proceed...
+###--------
+###Script:5
+###--------
+You who have defeated the
+dignified duke may proceed...
+###--------

@@ -1,0 +1,196 @@
+﻿###TextArchive:mess_0497
+###Script:0
+###Mugshot:12
+###--------
+###Mugshot:12
+Wow!! This star looks
+just like a starfish!
+That's so cool!!
+###--------
+###Script:1
+###Mugshot:11
+What a splendid tower.
+It's quite a sight.
+###--------
+###Script:2
+###Mugshot:10
+###--------
+###Mugshot:10
+If we don't take good care
+of these antennas, we might
+miss some important data!
+###--------
+###Script:10
+###Mugshot:10
+###--------
+###Mugshot:10
+The museum is closed today,
+so there aren't very many
+people around.
+###--------
+###Script:15
+###Mugshot:10
+It got messy inside.
+Did something happen?
+###--------
+###Script:16
+###Mugshot:2
+I'm sorry I couldn't do
+anything...
+###--------
+###Script:20
+###Mugshot:10
+Oonnngh...
+Oh my head...
+###--------
+###Script:25
+###Mugshot:Girl
+Hey, hey...
+###--------
+###Mugshot:Girl
+Is it true? Did Sonia Strumm
+really retire?
+###--------
+###Mugshot:Girl
+No way! I can't believe it!
+###--------
+###Script:26
+###Mugshot:OldWoman
+What a splendid telescope.
+It's so large...
+###--------
+###Mugshot:OldWoman
+It's nothing like the one
+at home.
+###--------
+###Script:27
+###Mugshot:Worker
+Ahh, another day of
+maintenance work!
+###--------
+###Mugshot:Worker
+These machines are like my
+very own children!
+###--------
+###Script:30
+###Mugshot:Girl
+Hey, hey...
+###--------
+###Mugshot:Girl
+I wrote an email to my
+friend, but they haven't
+replied.
+###--------
+###Mugshot:Girl
+What am I supposed to do??
+###--------
+###Script:31
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+This lab is very large!
+I'm tired from just walking...
+###--------
+###Mugshot:OldWoman
+I'm going to take a break
+on these benches...
+###--------
+###Script:32
+###Mugshot:Worker
+So how are you feeling
+today?
+###--------
+###Mugshot:Worker
+I've got to take real good
+care of you!
+###--------
+###Mugshot:Worker
+Huh? Oh, no! I've started
+talking to the machines!
+###--------
+###Mugshot:Worker
+I've got to stop that before
+it's too late!
+###--------
+###Script:100
+###Mugshot:20
+*beep whoo*
+###--------
+###Mugshot:20
+I got one! I got one!
+###--------
+###Mugshot:20
+I got a signal from outer
+space!!
+###--------
+###Script:105
+###Mugshot:20
+*beep whoooo*
+###--------
+###Mugshot:20
+Aaaah!!
+The waves!! The waves!!
+###--------
+###Mugshot:20
+Aaaaaaaaaaaaah!!
+###--------
+###Script:110
+###Mugshot:20
+*beep whoo*
+###--------
+###Mugshot:20
+###--------
+###Mugshot:20
+Really powerful waves are
+being broadcasted from
+somewhere nearby!!
+###--------
+###Mugshot:20
+*beep whoo*
+###--------
+###Script:115
+###Mugshot:20
+Nngh...
+###--------
+###Mugshot:20
+###--------
+###Mugshot:20
+Those were some strong
+waves... I couldn't even
+move for a while...
+###--------
+###Script:120
+###Mugshot:20
+*beep whoo*
+###--------
+###Mugshot:20
+The Wave Road is
+A-OK today!
+###--------
+###Mugshot:20
+*beep whoo*
+###--------
+###Script:125
+###Mugshot:20
+*bee...p whoo*
+###--------
+###Mugshot:20
+The Wave Road is not
+A-OK today.
+###--------
+###Mugshot:20
+*bee...p whoo*
+###--------
+###Script:130
+###Mugshot:20
+*beep whoo*
+*beep whoo*
+###--------
+###Mugshot:20
+No matter how faint,
+I pick up on all signals!
+###--------
+###Mugshot:20
+*beep whoo*
+*beep whoo*
+###--------

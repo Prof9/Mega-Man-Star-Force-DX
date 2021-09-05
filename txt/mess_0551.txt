@@ -1,0 +1,230 @@
+﻿###TextArchive:mess_0551
+###Script:0
+###Mugshot:4
+Finally everyone is here!
+This is a great gift to
+the school!
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+From me, the President
+of this class!
+###--------
+Geo got:
+"LunaFldr"!!
+###--------
+###Mugshot:4
+Try to make friends with
+everyone soon!
+###--------
+###Script:1
+###Mugshot:5
+I always play dodgeball at
+recess.
+###--------
+###Mugshot:5
+How about it, Geo?
+Wanna be on my team?
+###--------
+###Script:2
+###Mugshot:6
+Do you know about the
+Study Wave?
+###--------
+###Mugshot:6
+They're going to introduce it
+at our school soon.
+###--------
+###Mugshot:6
+###--------
+###Mugshot:6
+It seems that by just
+switching it on, its waves
+can help people study better.
+###--------
+###Script:3
+###Mugshot:3
+###--------
+###Mugshot:3
+Hi, Geo. It looks like
+school is going to get
+more interesting...
+###--------
+###Script:4
+###Mugshot:11
+You know what?
+###--------
+###Mugshot:11
+Our school's curriculum is going
+through a transformation!
+A reformation!
+###--------
+###Mugshot:11
+We just have to follow
+the principal!
+###--------
+###Mugshot:11
+###--------
+###Mugshot:11
+Um...
+What's a "reformation"?
+###--------
+###Script:5
+###Mugshot:12
+###--------
+###Mugshot:12
+Hi, Geo!
+I hope we can be friends!
+###--------
+###Script:6
+###Mugshot:9
+So which Satellite are you
+registered with?
+###--------
+###Mugshot:9
+###--------
+###Mugshot:9
+I'm registered with Pegasus.
+What about you, Geo?
+###--------
+###Script:7
+###Mugshot:10
+###--------
+###Mugshot:10
+Mr. Shepar's classes are
+different and they're really
+popular among the students.
+###--------
+###Script:8
+###Mugshot:4
+I'm the epitome of how to
+be a Class President.
+###--------
+###Mugshot:4
+Now hurry up and be friends
+with everyone, OK?
+###--------
+###Script:9
+###Mugshot:5
+You wanna join my dodgeball
+team, Geo?
+###--------
+###Script:10
+###Mugshot:6
+Do you know about the
+Study Wave?
+###--------
+###Mugshot:6
+They're going to introduce it
+at our school soon.
+###--------
+###Script:11
+###Mugshot:3
+Let's be good friends,
+OK Geo?
+###--------
+###Script:12
+###Mugshot:11
+###--------
+###Mugshot:11
+Um...
+What's a "reformation"?
+###--------
+###Script:13
+###Mugshot:12
+Let's be friends!
+###--------
+###Script:14
+###Mugshot:9
+So which Satellite are you
+registered with?
+###--------
+###Mugshot:9
+###--------
+###Mugshot:9
+I'm registered with Pegasus.
+What about you, Geo?
+###--------
+###Script:15
+###Mugshot:10
+Mr. Shepar's classes are
+hip with the kids.
+###--------
+###Script:25
+###Mugshot:4
+Hablas espanol?
+......
+###--------
+###Mugshot:4
+Yo soy Luna.
+......
+###--------
+###Mugshot:4
+Someone help!!
+###--------
+###Script:26
+###Mugshot:5
+1 X 4 = 4
+1 X 5 = 5
+1 X 6 = 6
+###--------
+###Mugshot:5
+Aaaaaah!!
+###--------
+###Script:27
+###Mugshot:6
+Mercury, Venus,
+Earth, Mars......
+###--------
+###Mugshot:6
+My head is going to explode!!
+###--------
+###Script:28
+###Mugshot:11
+Uggh...
+###--------
+###Mugshot:11
+6 X 6 = 36
+6 X 7 = 48...
+###--------
+###Mugshot:11
+No, wait...
+It's 42...
+###--------
+###Mugshot:11
+Aaaahhh!!
+###--------
+###Script:29
+###Mugshot:12
+Colonies...
+Revolution...
+Constitution...
+###--------
+###Mugshot:12
+No mooooore!!
+###--------
+###Script:30
+###Mugshot:9
+Economics...
+###--------
+###Mugshot:9
+Price average,
+branch office,
+supply...!!
+###--------
+###Mugshot:9
+My head hurts so much!!
+###--------
+###Script:31
+###Mugshot:10
+Pi is equal to 3.14159...
+###--------
+###Mugshot:10
+N-Noooooo!!
+###--------
+###Script:32
+###Mugshot:3
+You've got to hurry and
+stop the Study Wave!
+###--------

@@ -1,0 +1,66 @@
+﻿###TextArchive:mess_0166
+###Script:0
+A few days later...
+###--------
+###Script:1
+###Mugshot:3
+I've done it!
+It's finished!
+###--------
+###Script:2
+###Mugshot:2
+That's awesome!
+###--------
+###Script:3
+###Mugshot:3
+It's just like you said,
+Aaron.
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Make the wings bigger and
+they will stay balanced
+much better in the air.
+###--------
+###Script:4
+###Mugshot:2
+Let's go out and celebrate
+tonight!
+###--------
+###Script:5
+###Mugshot:3
+S-Sure...
+###--------
+###Mugshot:3
+But if you eat too much,
+you'll get even bigger.
+###--------
+###Script:6
+###Mugshot:2
+Why you...! I can't believe
+you said that!
+###--------
+###Script:7
+###Mugshot:3
+You know why I said that?
+###--------
+###Mugshot:3
+###--------
+###Mugshot:3
+Because...
+I'm your Brother.
+###--------
+###Script:8
+###Mugshot:2
+Ha ha hah.
+You got me there.
+###--------
+###Mugshot:2
+OK, let's go!
+And for your information,
+###--------
+###Mugshot:2
+I'm going to eat and party
+to my heart's content!
+###--------

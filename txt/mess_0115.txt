@@ -1,0 +1,54 @@
+﻿###TextArchive:mess_0115
+###Script:0
+###Mugshot:OmegaXis
+Humans that have been
+infected by EM viruses...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Looks like Planet FM's
+got its hands all over
+this town too.
+###--------
+###Script:1
+###Mugshot:0
+That-That was a person!?
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Yeah, in wave form,
+just like you.
+But in his case,
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+he was infected with a
+low level virus and turned
+into a Jammer.
+###--------
+###Script:3
+###Mugshot:0
+What have I done?
+I attacked him full force!
+###--------
+###Script:4
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I'm sure he'll be fine.
+His injuries weren't life-
+threatening or anything.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well, standing around here
+is pointless, so for now,
+let's go back to your place.
+###--------
+###Script:5
+###Mugshot:0
+Yeah, OK...
+###--------

@@ -1,0 +1,125 @@
+﻿###TextArchive:mess_0376
+###Script:20
+You have done well to
+come this far.
+###--------
+###Mugshot:MegaMan
+It's that voice again!
+###--------
+Now, you shall face the
+greatest challenge yet.
+###--------
+###Script:21
+I have been expecting
+you.
+###--------
+###Mugshot:MegaMan
+That voice!
+It must be...
+###--------
+I, too, shall test
+your might.
+###--------
+###Script:22
+At last, the moment
+draws near...
+###--------
+###Mugshot:MegaMan
+You're...
+###--------
+This will be the final test.
+###--------
+###Script:30
+###Mugshot:MegaMan
+Leo Kingdom!?
+###--------
+###Mugshot:LeoKingdom
+We shall begin the final tests.
+###--------
+###Mugshot:LeoKingdom
+###--------
+###Mugshot:LeoKingdom
+Show me your true power
+and defeat me in battle.
+###--------
+###Mugshot:LeoKingdom
+Let us begin.
+###--------
+###Mugshot:OmegaXis
+He's serious!
+Don't let your guard down!
+###--------
+###Mugshot:OmegaXis
+Let's face him head on,
+Geo!
+###--------
+###Mugshot:MegaMan
+Gotcha!
+###--------
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------
+###Script:31
+###Mugshot:MegaMan
+Leo Kingdom!
+###--------
+###Mugshot:LeoKingdom
+Can you triumph over me
+as well?
+###--------
+###Mugshot:LeoKingdom
+###--------
+###Mugshot:LeoKingdom
+Show me your true power
+and defeat me in battle.
+###--------
+###Mugshot:LeoKingdom
+Let us begin.
+###--------
+###Mugshot:OmegaXis
+Keep your head in the
+game, Geo!
+###--------
+###Mugshot:OmegaXis
+We beat the last one,
+we can beat this guy too!
+###--------
+###Mugshot:MegaMan
+Here we go!
+###--------
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------
+###Script:32
+###Mugshot:MegaMan
+Leo Kingdom!
+###--------
+###Mugshot:LeoKingdom
+Let us see if the others
+were right about you.
+###--------
+###Mugshot:LeoKingdom
+###--------
+###Mugshot:LeoKingdom
+Show me your true power
+and defeat me in battle.
+###--------
+###Mugshot:LeoKingdom
+Let us begin.
+###--------
+###Mugshot:OmegaXis
+Here he comes!
+You know what to do, Geo!
+###--------
+###Mugshot:OmegaXis
+Let's finish this!
+###--------
+###Mugshot:MegaMan
+Roger!
+###--------
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------

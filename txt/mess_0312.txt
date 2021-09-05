@@ -1,0 +1,121 @@
+﻿###TextArchive:mess_0312
+###Script:0
+A few minutes later...
+###--------
+###Script:1
+###Mugshot:Pat
+Ooogh...
+###--------
+###Script:2
+###Mugshot:0
+......
+###--------
+###Script:3
+###Mugshot:Pat
+Nnngh...
+###--------
+###Mugshot:Pat
+*gasp*
+###--------
+###Script:4
+###Mugshot:Pat
+Wh-Where...?
+###--------
+###Mugshot:Pat
+Oh yeah... I lost.
+###--------
+###Script:5
+###Mugshot:0
+Pat...?
+###--------
+###Mugshot:0
+Or are you Rey?
+###--------
+###Script:6
+###Mugshot:Pat
+It's... Pat.
+###--------
+###Mugshot:Pat
+Rey is probably resting.
+###--------
+###Mugshot:Pat
+He used too much of
+his power, I think.
+###--------
+###Script:7
+###Mugshot:0
+......
+###--------
+###Script:8
+###Mugshot:Pat
+......
+###--------
+###Mugshot:Pat
+I...
+###--------
+###Mugshot:Pat
+I can't see you ever again.
+###--------
+###Mugshot:Pat
+Being around you would
+be too painful...
+###--------
+###Script:9
+###Mugshot:0
+Pat!
+###--------
+###Script:10
+###Mugshot:Pat
+Y-Yes?
+###--------
+###Script:11
+###Mugshot:0
+I want to ask you
+one thing.
+###--------
+###Mugshot:0
+When...
+###--------
+###Mugshot:0
+When I said I trusted you,
+I really meant it.
+###--------
+###Mugshot:0
+Did you?
+###--------
+###Script:12
+###Mugshot:Pat
+I... thought that you
+could understand me.
+###--------
+###Mugshot:Pat
+But...
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+In the long run, things
+probably would've turned
+out this way anyway.
+###--------
+###Mugshot:Pat
+Relationships and people...
+###--------
+###Mugshot:Pat
+I don't know how to be
+close to other people,
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+so it's easy for me to
+betray even those most
+important to me...
+###--------
+###Mugshot:Pat
+Even myself...
+###--------
+###Script:13
+###Mugshot:0
+......
+###--------

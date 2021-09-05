@@ -1,0 +1,21 @@
+﻿###TextArchive:mess_0605
+###Script:0
+###Mugshot:4
+###--------
+###Mugshot:4
+There seems to be something
+wrong with this incinerator...
+What could it be?
+###--------
+###Script:5
+###Mugshot:4
+I've got to turn off the
+incinerator...
+###--------
+###Mugshot:4
+###--------
+###Mugshot:4
+No telling what could happen
+if EM radiation caused a
+control loss...
+###--------

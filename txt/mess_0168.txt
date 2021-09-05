@@ -1,0 +1,33 @@
+﻿###TextArchive:mess_0168
+###Script:0
+###Mugshot:0
+I need a Force Card
+here, too...
+###--------
+###Script:1
+Geo used:
+"<printItem>"!!
+###Command:printItem item=12
+###--------
+###Script:2
+Checking "<printItem>".
+###Command:printItem item=12
+###--------
+Confirmed.
+You may enter.
+###--------
+*click!*
+###--------
+###Script:3
+###Mugshot:0
+Mr. Boreal's lab is up ahead...
+###--------
+###Script:4
+Checking "<printItem>".
+###Command:printItem item=12
+###--------
+Confirmed.
+You may enter.
+###--------
+*click!*
+###--------

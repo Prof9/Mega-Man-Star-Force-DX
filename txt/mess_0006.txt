@@ -1,0 +1,28 @@
+###TextArchive:mess_0006
+###Script:0
+  DOUBLE DELETE!  
+###--------
+###Script:1
+  TRIPLE DELETE!  
+###--------
+###Script:2
+QUADRUPLE DELETE! 
+###--------
+###Script:3
+   COUNTER HIT!   
+###--------
+###Script:4
+     TIME UP!     
+###--------
+###Script:5
+        VS.       
+###--------
+###Script:6
+GOT 
+###--------
+###Script:10
+CAMERAONOFF
+###--------
+###Script:15
+FINAL TURN
+###--------

@@ -1,0 +1,7 @@
+﻿###TextArchive:mess_0717
+###Script:0
+Launching Security Code
+Input Screen.
+###--------
+Please enter Security Code.
+###--------

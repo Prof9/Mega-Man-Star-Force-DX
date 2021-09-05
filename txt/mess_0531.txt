@@ -1,0 +1,19 @@
+﻿###TextArchive:mess_0531
+###Script:0
+###Mugshot:Boy
+Hmm, don't think I've seen
+you around.
+###--------
+###Mugshot:Boy
+Do you go to this school?
+###--------
+###Script:5
+###Mugshot:Boy
+###--------
+###Mugshot:Boy
+Oops! Looks like this kid
+painted outside the lines!
+###--------
+###Mugshot:Boy
+Ha ha ha!
+###--------

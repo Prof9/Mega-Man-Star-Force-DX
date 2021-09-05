@@ -1,0 +1,88 @@
+﻿###TextArchive:mess_0032
+###Script:0
+Patrick Sprigs
+###--------
+###Script:1
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I'm Pat Sprigs.
+Thank you for
+visiting my Transer.
+###--------
+###Script:2
+###Mugshot:Pat
+I met this kid named Geo.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I get the feeling
+that we're going to
+be good friends.
+###--------
+###Script:3
+###Mugshot:Pat
+I met this kid named Geo.
+###--------
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+I get the feeling
+that we're going to
+be good friends.
+###--------
+###Script:4
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Sometimes memories from
+the past come flooding
+back to me all at once.
+###--------
+###Mugshot:Pat
+......
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That kid looks troubled.
+Do you wanna help him?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+OK, let's get on it.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:Pat
+###--------
+###Mugshot:Pat
+Sometimes memories from
+the past come flooding
+back to me all at once.
+###--------
+###Mugshot:Pat
+......
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Well, maybe not.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

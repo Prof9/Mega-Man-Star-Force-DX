@@ -1,0 +1,193 @@
+﻿###TextArchive:mess_1224
+###Script:0
+###Mugshot:Geo
+<optionButtonWide><optionButtonWide><optionButtonWide>What are you gonna do
+with this Best Combo?
+###Command:optionButtonWide up=2 down=1 left=0 right=0 string="Equip"
+###Command:optionButtonWide up=0 down=2 left=1 right=1 string="Name"
+###Command:optionButtonWide up=1 down=0 left=2 right=2 string="Delete"
+###--------
+###Script:1
+###Mugshot:Geo
+Really delete "<printBestComboBuffer>"?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:printBestComboBuffer
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:Geo
+"<printBestComboBuffer>" has been
+deleted.
+###Command:printBestComboBuffer
+###--------
+###Script:5
+###Mugshot:Geo
+"<printBestComboBuffer>" has
+been equipped!
+###Command:printBestComboBuffer
+###--------
+###Script:7
+###Mugshot:Geo
+Really delete "<printBestComboBuffer>"?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:printBestComboBuffer
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:Geo
+"<printBestComboBuffer>" has been
+deleted.
+###Command:printBestComboBuffer
+###--------
+###Script:10
+###Mugshot:Geo
+That Best Combo did
+<printBuffer> points of damage!
+###Command:printBuffer buffer=0 minLength=4 padMode=noPad
+###--------
+###Mugshot:Geo
+We should save that one!
+###--------
+###Script:11
+###Mugshot:Geo
+That Best Combo did
+<printBuffer> points of damage!
+###Command:printBuffer buffer=0 minLength=4 padMode=noPad
+###--------
+###Mugshot:Geo
+The Best Combo list is full.
+We gotta erase one.
+###--------
+###Script:12
+###Mugshot:Geo
+Done editing the
+Best Combo list?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  Not yet
+###Command:positionOptionFromCenter width=96
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:13
+###Mugshot:Geo
+Don't save this
+Best Combo and quit?
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:14
+###Mugshot:Geo
+I'm saving the new
+Best Combo now!
+###--------
+###Script:20
+###Mugshot:Geo
+Give the new
+Best Combo a name!
+###--------
+###Script:21
+###Mugshot:Geo
+Write your pop-up
+message here!
+###--------
+###Script:22
+###Mugshot:Geo
+The new Best Combo
+has been saved!
+###--------
+###Mugshot:Geo
+Remember, if you don't
+equip a Best Combo and
+###--------
+###Mugshot:Geo
+make it a Personal
+Best Combo, it can't
+unleash its power!
+###--------
+###Script:23
+###Mugshot:Geo
+Write a pop-up message?
+
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:30
+<printBestComboBuffer>
+###Command:printBestComboBuffer
+###--------
+###Script:32
+NewCombo
+###--------
+###Script:33
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=4 padMode=leftPadSpaces
+###--------
+###Script:34
+Total Damage  <printBuffer>
+###Command:printBuffer buffer=0 minLength=4 padMode=leftPadSpaces
+###--------
+###Script:35
+<printCardBuffered>
+###Command:printCardBuffered buffer=0
+###--------
+###Script:40
+NoPnlChng
+###--------
+###Script:41
+PnlChngNorm
+###--------
+###Script:42
+PnlChngCraks
+###--------
+###Script:43
+PnlChngHoles
+###--------
+###Script:44
+PnlChngGrass
+###--------
+###Script:45
+PnlChngIce
+###--------
+###Script:46
+PnlChngPoisn
+###--------
+###Script:47
+PnlChngHoly
+###--------
+###Script:48
+PnlChngCNull
+###--------
+###Script:49
+PnlChngGravi
+###--------
+###Script:50
+PnlChngTrap
+###--------
+###Script:60
+Normal
+###--------
+###Script:61
+Paralyzed
+###--------
+###Script:62
+Blind
+###--------
+###Script:63
+Confused
+###--------
+###Script:64
+Frozen
+###--------
+###Script:65
+Bubble
+###--------
+###Script:66
+Can't Move
+###--------

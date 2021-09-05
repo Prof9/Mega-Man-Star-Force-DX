@@ -1,0 +1,82 @@
+﻿###TextArchive:mess_0690
+###Script:0
+###Mugshot:MrHertz
+I...I CAN'T HOLD ON MUCH
+LONGER...
+###--------
+###Mugshot:MegaMan
+Just a little more!!
+You can do it!
+###--------
+###Mugshot:MegaMan
+I'm bringing the Antidote
+to you right now!
+###--------
+###Script:1
+###Mugshot:MrHertz
+THE VENOM...
+###--------
+###Mugshot:MegaMan
+Hang on! I'll be back with
+the Antidote soon!
+###--------
+###Script:2
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+NNGH...
+IS THIS THE END?
+###--------
+###Mugshot:MegaMan
+Please hold on!
+I'll have the Antidote soon!
+###--------
+###Script:3
+###Mugshot:MrHertz
+M-MY SIGHT IS FAILING ME...
+###--------
+###Mugshot:MegaMan
+Stay with me!
+I'll go and get the Antidote!
+###--------
+###Script:5
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:6
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:7
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:8
+Mega Man got:
+"Antidote"!!
+###--------
+###Script:15
+###Mugshot:MrHertz
+AH, THAT WAS REALLY
+PAINFUL!!
+###--------
+###Script:16
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+YOU SAVED ME! I AM
+FOREVER IN YOUR DEBT!
+###--------
+###Script:17
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+THAT SNAKE WOMAN IS
+BACK THERE!
+GET HER FOR US!
+###--------
+###Script:18
+###Mugshot:MrHertz
+DON'T LOSE TO THAT
+SNAKE WOMAN!
+###--------

@@ -1,0 +1,67 @@
+﻿###TextArchive:mess_0525
+###Script:0
+This is the SpaceSim
+projector.
+###--------
+###Script:1
+This is Mercury.
+###--------
+###Script:2
+This is Venus.
+###--------
+###Script:4
+This is Mars.
+###--------
+###Script:6
+This is Saturn.
+###--------
+###Script:7
+This is Uranus.
+###--------
+###Script:8
+This is Neptune.
+###--------
+###Script:9
+This is Pluto.
+###--------
+###Script:10
+This is Earth.
+###--------
+###Script:11
+###Mugshot:0
+###--------
+###Mugshot:0
+Hmm... I was sure we came
+in this way...
+###--------
+###Mugshot:0
+Who was it that knew how
+to open this door?
+###--------
+###Script:12
+###Mugshot:0
+###--------
+###Mugshot:0
+Hmm... I was sure we came
+in this way...
+###--------
+###Mugshot:0
+Who was it that knew how
+to open this door?
+###--------
+###Script:14
+This is Earth.
+###--------
+###Script:15
+This is Jupiter.
+###--------
+###Script:16
+This is Jupiter.
+###--------
+Hmm?
+There's something here.
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------

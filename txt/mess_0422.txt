@@ -1,0 +1,200 @@
+﻿###TextArchive:mess_0422
+###Script:8
+###Mugshot:MegaMan
+I have to get inside that
+guy's Transer!!
+###--------
+###Script:9
+###Mugshot:MegaMan
+I can't get into that old
+guy's Transer if I don't
+knock him out first.
+###--------
+###Mugshot:MegaMan
+Hmm, what can I use?
+###--------
+###Script:10
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I've gotta find the owner of
+that pitcher. He would know
+how to make it work!
+###--------
+###Script:11
+###Mugshot:MegaMan
+Well, I know another way
+to make it work!
+###--------
+###Script:12
+###Mugshot:MegaMan
+I think it was under the
+bench at Vista Point.
+###--------
+###Script:13
+###Mugshot:MegaMan
+The pitcher should work
+with the card!!
+###--------
+###Script:14
+###Mugshot:MegaMan
+What!? It doesn't work?
+###--------
+###Mugshot:MegaMan
+Darn! Let's check out its
+Comp Space.
+###--------
+###Script:15
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+OK, while he's taking a nap,
+we'll just take a peek inside
+his Transer! Sorry, mister...
+###--------
+###Script:16
+###Mugshot:MegaMan
+Alright, let's go home...
+###--------
+###Script:21
+###Mugshot:MegaMan
+Where could that girl be...?
+###--------
+###Script:22
+###Mugshot:MegaMan
+I think she'll be safe at
+Mr. Boreal's lab.
+###--------
+###Script:23
+###Mugshot:OmegaXis
+There are 5 EM balls in all...
+Let's crush 'em!
+###--------
+###Script:24
+###Mugshot:MegaMan
+I have to go tell
+Mr. Boreal goodbye.
+###--------
+###Script:25
+###Mugshot:MegaMan
+.........
+###--------
+###Script:26
+###Mugshot:MegaMan
+I can't let Harp Note
+get away!!
+###--------
+###Script:37
+###Mugshot:MegaMan
+Let's go ask Mr. Boreal
+about this pendant.
+###--------
+###Script:38
+###Mugshot:MegaMan
+I'll go to school, but only
+to see the set.
+###--------
+###Script:39
+###Mugshot:MegaMan
+We're going to the Gym,
+right?
+###--------
+###Script:40
+###Mugshot:MegaMan
+Where could that thing
+have gone?
+###--------
+###Script:41
+###Mugshot:MegaMan
+We can't let that thing
+get away!
+###--------
+###Script:42
+###Mugshot:MegaMan
+We have to get back to
+the Gym.
+###--------
+###Script:43
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Let's finish what we
+started. We were going
+to AMAKEN, right?
+###--------
+###Script:44
+###Mugshot:MegaMan
+We should go up to
+the roof...
+###--------
+###Script:50
+###Mugshot:MegaMan
+Umm... Let's look for
+those Star Guardians.
+###--------
+###Script:51
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Guess I should bring the Star
+Lights to those weird shadow
+guys and see what happens.
+###--------
+###Script:52
+###Mugshot:MegaMan
+Let's go home and hit
+the hay.
+###--------
+###Script:53
+###Mugshot:MegaMan
+I think...I'm gonna go
+to school...
+###--------
+###Script:54
+###Mugshot:MegaMan
+Can't forget to say good
+morning to Mr. Shepar.
+###--------
+###Script:55
+###Mugshot:MegaMan
+...I'm a little nervous about
+going to class.
+###--------
+###Script:56
+###Mugshot:MegaMan
+I wonder what my
+classmates are like...
+###--------
+###Script:57
+###Mugshot:MegaMan
+Next, there's play rehearsal
+in the Gym...
+###--------
+###Script:58
+###Mugshot:MegaMan
+It's been a long day.
+Let's go home.
+###--------
+###Script:60
+###Mugshot:MegaMan
+I've gotta get to school...
+###--------
+###Script:61
+###Mugshot:MegaMan
+He went to the Studio...
+###--------
+###Script:62
+###Mugshot:MegaMan
+We've got to get into the
+Study Wave Comp.
+###--------
+###Script:63
+###Mugshot:MegaMan
+We've got to get into the
+Study Wave Comp.
+###--------
+###Script:64
+###Mugshot:MegaMan
+We've got to get into the
+Study Wave Comp.
+###--------

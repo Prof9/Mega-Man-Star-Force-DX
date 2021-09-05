@@ -1,0 +1,107 @@
+﻿###TextArchive:mess_0565
+###Script:0
+It's a scoreboard.
+###--------
+After a game, a teacher
+resets the numbers.
+###--------
+###Script:1
+It's a vaulting horse.
+###--------
+I wonder if I can make it
+over this.
+###--------
+###Script:2
+Basketballs in a crate.
+There's quite a few...
+###--------
+###Script:5
+It's atomic, so this clock
+never loses time.
+###--------
+###Script:6
+It's a tree.
+It's a part of the set.
+###--------
+###--------
+The corners are kinda
+sharp, so you've gotta
+be careful when moving it.
+###--------
+###Script:7
+It's a shop.
+It's a part of the set.
+###--------
+I wonder what this shop
+would sell?
+###--------
+###Script:8
+It's a mailbox.
+It's a part of the set.
+###--------
+No matter what, the design
+of it moves the heart.
+###--------
+###Script:9
+It's a truck.
+It's a part of the set.
+###--------
+Someone spent a lot of
+time and care on it.
+###--------
+###Script:10
+It's grass.
+It's a part of the set.
+###--------
+It may be grass, but
+this stuff hurts!
+###--------
+###Script:15
+Stage lights.
+###--------
+These are needed to light
+up the stage.
+###--------
+###Script:17
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+I guess this is the light
+the student council boy
+was talking about...
+###--------
+###Mugshot:Geo
+All I have to do is switch
+the bulbs.
+###--------
+Geo changed:
+"<printItem>"!!
+###Command:printItem item=46
+###--------
+###Mugshot:Geo
+Hmm?
+###--------
+###Mugshot:Geo
+Why is it still not working?
+###--------
+###Mugshot:OmegaXis
+I bet something else is
+making it not work.
+###--------
+###Mugshot:OmegaXis
+Hey, look here!
+You can pulse into this.
+###--------
+###Mugshot:OmegaXis
+Let's pulse in and see
+what we've got, kid.
+###--------
+###Script:20
+It's a really nice piano.
+###--------
+###Script:21
+It's a really nice piano.
+###--------
+If you look real hard,
+there's a wavehole here!
+###--------

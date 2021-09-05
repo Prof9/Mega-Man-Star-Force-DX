@@ -1,0 +1,13 @@
+﻿###TextArchive:mess_1112
+###Script:0
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Libra isn't over there!
+Go to the Studio!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+We don't have business
+over there now, do we?
+###--------

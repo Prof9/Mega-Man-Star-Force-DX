@@ -1,0 +1,114 @@
+﻿###TextArchive:mess_0065
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Man
+Oh, welcome!
+###--------
+###Script:3
+###Mugshot:Man
+I am such a worrywart.
+###--------
+###Mugshot:Man
+I know only Brothers are
+supposed to be able to
+view this Transer,
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+but I'm worried that
+someone else could
+be looking at it too.
+###--------
+###Mugshot:MegaMan
+...
+###--------
+###Script:4
+###Mugshot:Man
+I am such a worrywart.
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Lately I've been worried
+that my girlfriend is...
+you know, hiding something.
+###--------
+###Mugshot:Man
+I can't go on worrying
+like this.
+###--------
+###Mugshot:MegaMan
+That guy really seems
+troubled.
+###--------
+###Mugshot:OmegaXis
+Humans sure are delicate,
+aren't they?
+###--------
+###Mugshot:MegaMan
+I guess we could go and
+ask him what's wrong...
+###--------
+###Mugshot:OmegaXis
+If you really want to...
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+What a pain in the
+youknowhat!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Now you don't wanna
+help him? I give up...
+###--------
+###Script:6
+###Mugshot:Man
+I am such a worrywart.
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+Lately I've been worried
+that my girlfriend is...
+you know, hiding something.
+###--------
+###Mugshot:Man
+I can't go on worrying
+like this.
+###--------
+###Script:7
+###Mugshot:Man
+Ah, it's great to be alive!
+###--------
+###Mugshot:Man
+###--------
+###Mugshot:Man
+My girlfriend is taking
+cooking lessons
+just for me!
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

@@ -1,0 +1,70 @@
+﻿###TextArchive:mess_0230
+###Script:0
+###Mugshot:2
+Oooogh...
+###--------
+###Script:1
+###Mugshot:0
+Now's our chance to turn
+the wave off!!
+###--------
+###Script:2
+###Mugshot:0
+###--------
+###Mugshot:0
+Um...
+Is it this one?
+###--------
+###Script:3
+......*beep*
+###--------
+STUDY WAVE EMERGENCY.
+SHUTTING DOWN.
+###--------
+STUDY WAVE EMERGENCY.
+SHUTTING DOWN.
+###--------
+###Script:4
+###Mugshot:0
+###--------
+###Mugshot:0
+Phew...
+That should turn the
+Study Wave off.
+###--------
+###Script:5
+###Mugshot:2
+...N-No!
+###--------
+###Script:6
+###Mugshot:2
+Y-You think you can
+stop me?
+###--------
+###Script:7
+###Mugshot:0
+He still wants to fight!?
+###--------
+###Script:8
+###Mugshot:2
+Nngh...
+###--------
+###Script:9
+###Mugshot:0
+Please, stop...
+###--------
+###Script:10
+###Mugshot:2
+I can't lose...
+###--------
+###Mugshot:2
+I can't get fired...
+Not now...
+###--------
+###Script:11
+Mr. Shepar!!
+###--------
+###Script:12
+###Mugshot:2
+That voice...
+###--------

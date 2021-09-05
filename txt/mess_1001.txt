@@ -1,0 +1,108 @@
+﻿###TextArchive:mess_1001
+###Script:0
+###Mugshot:MrHertz
+RECYCLE, RECYCLE!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+I ALWAYS RECYCLE!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+HEY YOU!
+DO YOU CHERISH YOUR
+THINGS?
+###--------
+###Mugshot:MrHertz
+YOU KNOW THE USE-ONCE-
+AND-THROW-AWAY ERA
+###--------
+###Mugshot:MrHertz
+ENDED SEVERAL HUNDRED
+YEARS AGO!
+###--------
+###Mugshot:MrHertz
+RECYCLE, RECYCLE!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+YOU RECYCLE! I RECYCLE!
+WE ALL RECYCLE!
+###--------
+###Mugshot:MrHertz
+COME ON!
+###--------
+###Script:10
+###Mugshot:MrHertz
+OOOOH...
+###--------
+###Mugshot:MrHertz
+RECENTLY, I'VE BEEN LOW
+ON GET UP AND GO.
+###--------
+###Mugshot:MrHertz
+I'M SORRY, BUT COULD
+YOU SPARE A "<printCard>"?
+###Command:printCard card=130
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:11
+###Mugshot:MrHertz
+RECENTLY, I'VE BEEN LOW
+ON GET UP AND GO.
+###--------
+###Mugshot:MrHertz
+I'M SORRY, BUT COULD
+YOU SPARE A "<printCard>"?
+###Command:printCard card=130
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:12
+Mega Man gave:
+"<printCard>"
+to the Mr. Hertz!!
+###Command:printCard card=130
+###--------
+###Mugshot:MrHertz
+WELL, HERE GOES NOTHING.
+DOWN THE HATCH...
+###--------
+###Mugshot:MrHertz
+...OOH!
+###--------
+###Mugshot:MrHertz
+OH, YEAH!!
+###--------
+###Mugshot:MrHertz
+WOW, I FEEL LIKE I
+HAVE WINGS!!
+###--------
+###Mugshot:MrHertz
+THANKS A LOT!
+NOW I'VE GOT ENERGY
+TO BURN!
+###--------
+###Script:13
+###Mugshot:MrHertz
+OH... OK...
+###--------
+###Script:14
+###Mugshot:MrHertz
+UM, IT LOOKS LIKE
+YOU DON'T HAVE
+ANY IN YOUR BOX.
+###--------
+###Script:15
+###Mugshot:MrHertz
+THANKS A LOT!
+NOW I'VE GOT ENERGY
+TO BURN!
+###--------

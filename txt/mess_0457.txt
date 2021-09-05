@@ -1,0 +1,118 @@
+﻿###TextArchive:mess_0457
+###Script:10
+###Mugshot:2
+Huh? Why am I at home?
+###--------
+###Mugshot:2
+I thought I was just
+in Time Square...?
+###--------
+###Mugshot:2
+I don't remember a thing...
+###--------
+###Script:11
+###Mugshot:2
+Welcome back!
+###--------
+###Mugshot:2
+Hey, Geo... I went to
+Time Square, right?
+###--------
+###Mugshot:2
+It's so strange. I can't
+remember if I did or not.
+###--------
+###Script:12
+###Mugshot:2
+Maybe I should go to
+bed early today.
+###--------
+###Script:15
+###Mugshot:2
+Good morning.
+###--------
+###Mugshot:2
+Are you going out
+somewhere?
+###--------
+###Mugshot:0
+Yeah...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+But those strange quakes
+haven't stopped. Maybe
+it's best if you didn't...
+###--------
+###Mugshot:0
+I really have to go
+out there, mom.
+###--------
+###Mugshot:2
+*sniffle*
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+S-Sorry... It's just...
+On the day your dad left,
+I did the exact same thing.
+###--------
+###Mugshot:2
+I asked him over and over...
+###--------
+###Mugshot:2
+"Do you really have to go
+into outer space?"
+###--------
+###Mugshot:2
+And your dad said,
+###--------
+###Mugshot:2
+"I really have to go
+out there."
+###--------
+###Mugshot:2
+Like father, like son,
+I guess...
+###--------
+###Mugshot:2
+I saw your dad in my
+dreams last night...
+###--------
+###Mugshot:2
+He was smiling as he
+faded into the distance...
+###--------
+###Mugshot:2
+*sniffle*
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I was thinking, what if you
+went out one day, and
+never came back... *sniffle*
+###--------
+###Mugshot:0
+......It's OK.
+I'll come back, mom.
+I promise.
+###--------
+###Mugshot:2
+Geo...
+###--------
+###Mugshot:0
+I've really got to get going...
+See you later!
+###--------
+###Mugshot:2
+...
+*nod*
+###--------
+###Script:16
+###Mugshot:2
+Geo... Make sure you come
+back, OK?
+###--------

@@ -1,0 +1,118 @@
+﻿###TextArchive:mess_0077
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:OldMan
+I'm Mead Greene.
+And I love nature!
+###--------
+###Mugshot:OldMan
+Welcome to my Transer!
+###--------
+###Script:3
+###Mugshot:OldMan
+Nature's beauty sure is
+soothing to my soul...
+###--------
+###Script:4
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I love nature...
+But woe is me...
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+Cause someone who
+doesn't give a hoot
+left trash in the park...
+###--------
+###Mugshot:OldMan
+There's just too much for
+me to pick by myself.
+###--------
+###Mugshot:MegaMan
+Should I help that old guy?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+I love nature...
+###--------
+###Mugshot:MegaMan
+...Huh?
+###--------
+###Mugshot:OmegaXis
+...
+###--------
+###Mugshot:MegaMan
+...Uh?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+Oh, I get it!
+You were copying the
+old guy, right!?
+###--------
+###Mugshot:OmegaXis
+...C'mon, let's go!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+...Oh well.
+###--------
+###Script:6
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I love nature...
+But woe is me...
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+Cause someone who
+doesn't give a hoot
+left trash in the park...
+###--------
+###Mugshot:OldMan
+There's just too much for
+me to pick by myself.
+###--------
+###Script:7
+###Mugshot:OldMan
+I love nature...
+###--------
+###Mugshot:OldMan
+###--------
+###Mugshot:OldMan
+I also love people like that
+youngster who helped me clean
+up the park and gave a hoot.
+###--------
+###Mugshot:OldMan
+...Thank you.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

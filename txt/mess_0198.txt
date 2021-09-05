@@ -1,0 +1,155 @@
+﻿###TextArchive:mess_0198
+###Script:0
+###Mugshot:MegaMan
+Sonia...
+###--------
+###Script:1
+###Mugshot:HarpNote
+Why do you want to stop
+me so badly...?
+###--------
+###Script:2
+###Mugshot:MegaMan
+I understand... how you feel...
+###--------
+###Script:3
+###Mugshot:Lyra
+Sonia... I mean Harp Note.
+###--------
+###Mugshot:Lyra
+You can't let his nonsense
+lead you astray.
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+There is no one in the world
+who can truly know how
+another human being feels.
+###--------
+###Mugshot:Lyra
+That boy is a bad boy,
+trying to trick you.
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+If you don't get rid of
+him now, you will only
+regret it later.
+###--------
+###Script:4
+###Mugshot:HarpNote
+...Don't get... in my... way...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+(I see you're just as
+good a sweet talker
+as ever, Lyra...)
+###--------
+###Script:6
+###Mugshot:MegaMan
+What are you talking
+about, Mega!?
+###--------
+###Script:7
+###Mugshot:Lyra
+(It's been a while, Mega...)
+###--------
+###Mugshot:Lyra
+(Sorry, but would you mind
+staying out of my way?)
+###--------
+###Mugshot:Lyra
+(After all, the fun is just
+about to start.)
+###--------
+###Mugshot:Lyra
+(I'm going to use Sonia and
+the power of music to
+control Planet Earth.)
+###--------
+###Mugshot:Lyra
+###--------
+###Mugshot:Lyra
+(So what are you planning
+to do with that boy?)
+###--------
+###Script:8
+###Mugshot:OmegaXis
+(I only have one goal.)
+###--------
+###Mugshot:OmegaXis
+(To have my revenge
+on the FM King.)
+###--------
+###Script:9
+###Mugshot:Lyra
+(I see.)
+###--------
+###Mugshot:Lyra
+(The higher ups have their
+eyes on you and have been
+looking for you, you know.)
+###--------
+###Script:10
+###Mugshot:OmegaXis
+(I usually don't like to
+beat up ladies.)
+###--------
+###Mugshot:OmegaXis
+(And since you were
+nice enough to tell me
+about the higher ups,
+###--------
+###Mugshot:OmegaXis
+I won't hurt you too bad.)
+###--------
+###Script:11
+###Mugshot:Lyra
+(Hee hee hee.
+How kind of you.)
+###--------
+###Mugshot:Lyra
+(But we're going to do
+what I like this time.)
+###--------
+###Mugshot:Lyra
+(I'm not going to let
+you get in my way.)
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Tsk, then we don't
+have a choice.
+###--------
+###Mugshot:OmegaXis
+Sometimes you've gotta do
+what you've gotta do.
+###--------
+###Script:13
+###Mugshot:Lyra
+If you go easy on me
+because I'm a woman,
+you'll be sorry!
+###--------
+###Mugshot:Lyra
+Let's go, Harp Note!!
+###--------
+###Script:14
+###Mugshot:MegaMan
+What are you guys
+talking about!?
+###--------
+###Script:15
+###Mugshot:OmegaXis
+It's got nothing to do
+with you, so stop talking!
+###--------
+###Mugshot:OmegaXis
+Here they come.
+Give them all you've got!!
+###--------

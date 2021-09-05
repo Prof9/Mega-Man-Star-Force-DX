@@ -1,0 +1,176 @@
+﻿###TextArchive:mess_0117
+###Script:0
+###Mugshot:2
+Bud! What good are
+those muscles!?
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+That was so sloppy,
+letting him knock you
+out in one punch!!
+###--------
+###Script:1
+###Mugshot:3
+I-I'm so ashamed...
+###--------
+###Script:2
+###Mugshot:2
+If you didn't have a
+Brother Band with me,
+###--------
+###Mugshot:2
+you'd be just another
+useless meathead!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+If you ever disgrace
+me again, I'll cut our
+Brother Band!
+###--------
+###Script:3
+###Mugshot:3
+I... You...
+###--------
+###Script:4
+###Mugshot:2
+Now stay here and
+cool off, hothead!
+###--------
+###Mugshot:2
+Let's go, Zack!
+###--------
+###Script:5
+###Mugshot:4
+Y-Yes, madam!
+###--------
+###Script:6
+###Mugshot:3
+I can't believe I was
+beaten by that twerp.
+###--------
+###Mugshot:3
+I really am just a
+worthless meathead.
+###--------
+###Mugshot:3
+At this rate, the
+Prez won't need me
+around - nobody will.
+###--------
+###Mugshot:3
+I'll go back to being
+all alone.
+###--------
+###Mugshot:3
+I don't want that...
+Never again...
+###--------
+###Script:7
+Ha ha ha.
+###--------
+I can feel it.
+The frequency of loneliness...
+###--------
+###Script:8
+###Mugshot:3
+Who's there!?
+###--------
+###Script:9
+###Mugshot:3
+Ah!!
+A g-g-ghost!!
+###--------
+###Mugshot:3
+I'm sorry I had you last
+night, Mr. Pork Chops!
+###--------
+###Script:10
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+I am not a ghost!!
+And a "pork chop" is
+made from a pig!
+###--------
+###Mugshot:Taurus
+I am not a pig!
+I am a cow! A C-O-W!
+###--------
+###Mugshot:Taurus
+.<waitSkip>.<waitSkip>.<waitSkip>Ahem. Now listen up,
+Mr. Bud Bison...
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:3
+H-How do you know
+my name?
+###--------
+###Mugshot:Taurus
+Ha ha ha!!
+I am Taurus.
+###--------
+###Mugshot:Taurus
+I am an FM-ian from
+Planet FM.
+###--------
+###Mugshot:Taurus
+I was drawn here by
+your loneliness wave.
+###--------
+###Mugshot:3
+Loneliness wave?
+###--------
+###Mugshot:Taurus
+Bud, you're a smart boy...
+###--------
+###Mugshot:Taurus
+###--------
+###Mugshot:Taurus
+If you allow me to occupy
+the crevice in your heart,
+I could give you power, and...
+###--------
+###Mugshot:Taurus
+If you were to show
+that power to the Prez...
+###--------
+###Mugshot:Taurus
+Let's just say you
+wouldn't be alone again.
+###--------
+###Script:11
+###Mugshot:3
+###--------
+###Mugshot:3
+Show her the power?
+How do I do that..?
+###--------
+###Script:12
+###Mugshot:Taurus
+Ha ha ha!!
+###--------
+###Mugshot:Taurus
+Don't worry, leave
+everything to me.
+###--------
+###Mugshot:Taurus
+Now allow me to enter
+your heart!
+###--------
+###Mugshot:Taurus
+Unless you would rather
+return to loneliness?
+###--------
+###Script:13
+###Mugshot:3
+.<wait>.<wait>.<wait>I don't want to be alone.
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------

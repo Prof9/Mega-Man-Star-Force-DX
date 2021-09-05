@@ -1,0 +1,60 @@
+﻿###TextArchive:mess_1099
+###Script:50
+###Mugshot:FighterNavi
+I am Echo Elementary's
+security Navi.
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+I was placed here after
+that property damaging
+incident.
+###--------
+###Mugshot:FighterNavi
+If you see any suspicious
+people, be sure to
+contact me!
+###--------
+###Script:51
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+Huh!?
+The kids are what!?
+###--------
+###Mugshot:FighterNavi
+###--------
+###Mugshot:FighterNavi
+I swear on my honor as
+a security Navi to find
+the culprit!!
+###--------
+###Script:54
+###Mugshot:MrHertz
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+HI HI! THIS IS
+ECHO ELEMENTARY
+SCHOOL'S FOYER!
+###--------
+###Mugshot:MrHertz
+THE OLD LADY WHO RUNS
+THE SHOP IS REALLY NICE!
+###--------
+###Script:55
+###Mugshot:MrHertz
+AAAAAAAAH!
+WE HAVE A PROBLEM HERE!
+###--------
+###Mugshot:MrHertz
+THE KIDS ARE ALL
+ZOMBIE-ING OUT!
+###--------
+###Mugshot:MrHertz
+###--------
+###Mugshot:MrHertz
+AAAAAAAAAAAAAH!!
+*BEEP BEEP*
+###--------

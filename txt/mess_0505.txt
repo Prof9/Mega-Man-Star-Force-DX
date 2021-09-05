@@ -1,0 +1,59 @@
+﻿###TextArchive:mess_0505
+###Script:2
+###Mugshot:12
+###--------
+###Mugshot:12
+I saw Mr. Boreal just now,
+but he was in deep thought
+about something...
+###--------
+###Script:12
+###Mugshot:12
+###--------
+###Mugshot:12
+I've confirmed that waves
+100 times their usual strength
+are coming from inside here.
+###--------
+###Mugshot:12
+What's going on around here?
+###--------
+###Script:22
+###Mugshot:12
+If humans are exposed
+to more waves than
+they can handle,
+###--------
+###Mugshot:12
+it's very bad for their
+bodies.
+###--------
+###Mugshot:12
+I wonder if ours are alright...?
+###--------
+###Script:32
+###Mugshot:12
+Mr. Boreal is still not back.
+###--------
+###Mugshot:12
+I wonder where he could've
+gone off to...?
+###--------
+###Script:100
+###Mugshot:16
+What's wrong?
+What's with the frowny face?
+###--------
+###Script:101
+###Mugshot:16
+###--------
+###Mugshot:16
+AMAKEN is closed today,
+so there's not a whole lot
+to do today.
+###--------
+###Script:102
+###Mugshot:16
+Aah, something frightening is
+headed this way.
+###--------

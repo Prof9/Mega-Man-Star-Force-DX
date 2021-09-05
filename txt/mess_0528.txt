@@ -1,0 +1,18 @@
+﻿###TextArchive:mess_0528
+###Script:11
+###Mugshot:10
+###--------
+###Mugshot:10
+You should come to school.
+Everyone is worried about
+you.
+###--------
+###Script:16
+###Mugshot:10
+I came here because I'm
+scared...
+###--------
+###Mugshot:10
+It just seemed like the
+safest place to be...
+###--------

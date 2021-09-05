@@ -1,0 +1,28 @@
+﻿###TextArchive:mess_0623
+###Script:0
+###Mugshot:0
+###--------
+###Mugshot:0
+This won't budge either... I
+guess the only way to open
+it is from the Wave World.
+###--------
+###Mugshot:0
+I'll look for a wavehole.
+###--------
+###Script:10
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+It looks like this door can
+only be opened from the
+Wave World...
+###--------
+###Script:11
+###Mugshot:GeoHappy
+###--------
+###Mugshot:GeoHappy
+It looks like this door can
+only be opened from the
+Wave World...
+###--------

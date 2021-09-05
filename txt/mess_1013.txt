@@ -1,0 +1,28 @@
+###TextArchive:mess_1013
+###Script:0
+###Mugshot:MrHertz
+...*BEEEEP*
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+...
+###--------
+###Mugshot:MegaMan
+It's no good...
+He's broken.
+###--------
+###Mugshot:MrHertz
+...*BEEEEP*
+*BEEP BEEP*
+###--------
+###Mugshot:MegaMan
+...
+###--------
+###Script:1
+###Mugshot:MrHertz
+...*BEEEEP*
+*BEEP BEEP*
+###--------
+###Mugshot:MegaMan
+He's broken...
+###--------

@@ -1,0 +1,14 @@
+﻿###TextArchive:mess_0222
+###Script:0
+The next morning...
+###--------
+###Script:1
+###Mugshot:GeoNoVisualizer
+...*grumble*
+*yawn*
+###--------
+###Script:2
+###Mugshot:0
+OK, better get to
+school now.
+###--------

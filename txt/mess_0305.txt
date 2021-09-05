@@ -1,0 +1,27 @@
+﻿###TextArchive:mess_0305
+###Script:0
+###Mugshot:Jammer
+Aaaaaaah!!
+###--------
+###Mugshot:Jammer
+L-Lord Gemini!!
+###--------
+###Script:1
+###Mugshot:0
+OK!
+###--------
+###Script:2
+###Mugshot:0
+Just have to push this
+and... Alright!
+###--------
+###Script:3
+*whoooooon*
+###--------
+###Script:4
+###Mugshot:OmegaXis
+That should fix it.
+###--------
+###Mugshot:OmegaXis
+Pulse out, Geo!
+###--------

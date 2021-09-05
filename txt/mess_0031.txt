@@ -1,0 +1,112 @@
+﻿###TextArchive:mess_0031
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:KenSuther
+###--------
+###Mugshot:KenSuther
+This is the Transer of
+Ken Suther, owner of the
+BIG WAVE card shop!
+###--------
+###Script:2
+###Mugshot:KenSuther
+I totally like sell cards
+with a tropical like
+vibe, knowada mean?
+###--------
+###Mugshot:KenSuther
+Please c'mon by!
+###--------
+###Script:3
+###Mugshot:KenSuther
+I totally like sell cards
+with a tropical like
+vibe, knowada mean?
+###--------
+###Mugshot:KenSuther
+Please c'mon by!
+###--------
+###Script:10
+###Mugshot:KenSuther
+BIG WAVE is like a
+state of mind that
+splashes your feelings
+###--------
+###Mugshot:KenSuther
+to create like the
+total non-bummer!
+###--------
+###Mugshot:KenSuther
+###--------
+###Mugshot:KenSuther
+Feel free to par-lay with me
+anytime about the big wave!
+Cowabunga, dude!
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+I don't have a clue what
+in the heck this guy is
+talking about.
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+I think he wants to
+make a big splash or
+something like that...
+###--------
+###Mugshot:MegaMan
+Should I pay him a visit?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Aw, man! I know it's
+gonna be a drag...
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:11
+###Mugshot:KenSuther
+BIG WAVE is like a
+state of mind that
+splashes your feelings
+###--------
+###Mugshot:KenSuther
+to create like the
+total non-bummer!
+###--------
+###Mugshot:KenSuther
+###--------
+###Mugshot:KenSuther
+Feel free to par-lay with me
+anytime about the big wave!
+Cowabunga, dude!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Yeah, we should just
+let him do his thing.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

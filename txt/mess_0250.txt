@@ -1,0 +1,62 @@
+﻿###TextArchive:mess_0250
+###Script:0
+###Mugshot:Luna
+OK... Just have to ring
+his doorbell...
+###--------
+###Mugshot:Luna
+.........
+###--------
+###Script:1
+###Mugshot:Luna
+This is so stupid!
+###--------
+###Mugshot:Luna
+Wh-Why am I getting so
+nervous...?
+###--------
+###Mugshot:Luna
+It's not like I don't do
+this every morning!
+###--------
+###Script:2
+###Mugshot:Luna
+OK, I'm going to push it...
+###--------
+###Script:3
+###Mugshot:Geo
+Mom, I'm leaving!
+###--------
+###Script:4
+###Mugshot:Luna
+What!?
+###--------
+###Script:5
+###Mugshot:Hope
+Don't be late!
+###--------
+###Script:6
+###Mugshot:Geo
+I won't!
+###--------
+###Script:7
+###Mugshot:Luna
+Odd, he doesn't usually
+have plans...
+###--------
+###Mugshot:Luna
+Now I'm curious.
+I wonder where he's going?
+###--------
+###Script:8
+###Mugshot:Luna
+Hmm, that bus is headed
+for Time Square...
+###--------
+###Mugshot:Luna
+What's there in Time Square
+for a guy like him?
+###--------
+###Mugshot:Luna
+This should be interesting.
+###--------

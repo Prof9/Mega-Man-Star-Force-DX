@@ -1,0 +1,80 @@
+﻿###TextArchive:mess_0240
+###Script:0
+###Mugshot:Luna
+Ah! Don't stop so suddenly!!
+###--------
+###Script:1
+###Mugshot:Geo
+Shush! Quiet!
+###--------
+###Script:2
+###Mugshot:Luna
+What??
+###--------
+###Script:3
+###Mugshot:Geo
+We can't get outside with
+that guy there.
+###--------
+###Mugshot:Geo
+###TextBoxUnsplit:keyWait clearMsg mugshotAnimation
+###--------
+###Mugshot:Geo
+(If only I could find a
+safe place to stash Luna,
+I could pulse in...)
+###--------
+###Mugshot:Geo
+Well, we can't go forward,
+so we've gotta turn back.
+###--------
+###Script:4
+###Mugshot:Luna
+So what are we going to do?
+###--------
+###Script:5
+###Mugshot:Geo
+We can't get out from
+the front,
+###--------
+###Mugshot:Geo
+so we're gonna have to
+turn around and find
+another way out.
+###--------
+###Script:6
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Are you kidding!?
+There's more of those guys
+back where we came from!!
+###--------
+###Script:7
+###Mugshot:Geo
+I know that.
+But this is a dead end,
+###--------
+###Mugshot:Geo
+###--------
+###Mugshot:Geo
+and it's just as dangerous
+here, so let's get the heck
+outta here!
+###--------
+###Script:8
+###Mugshot:Luna
+Wh-What is with you?
+###--------
+###Mugshot:Luna
+Ever since a few minutes
+ago, you've done nothing
+but tell me what to do...
+###--------
+###Mugshot:Luna
+I guess I don't have much
+of a choice, though...
+###--------
+###Mugshot:Luna
+Hey, wait for me!
+###--------

@@ -1,0 +1,83 @@
+﻿###TextArchive:mess_0276
+###Script:0
+*mumble mumble*
+###--------
+###Script:1
+###Mugshot:0
+What's going on?
+###--------
+###Script:2
+###Mugshot:Man
+Bet you didn't know I've
+always hated you!
+###--------
+###Script:3
+###Mugshot:Worker
+Just hearing your NAME
+makes me mad.
+###--------
+###Script:4
+###Mugshot:0
+A fight?
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, Geo...
+put on your Visualizer.
+###--------
+###Script:5
+###Mugshot:0
+Oh, yeah.
+###--------
+###Script:6
+###Mugshot:0
+Hm? What's that?
+###--------
+###Script:7
+###Mugshot:OmegaXis
+There are some strange
+EM waves around them.
+###--------
+###Script:8
+###Mugshot:0
+"+"? Is that like "positive"?
+###--------
+###Script:9
+###Mugshot:OmegaXis
+That's probably what's
+making them fight.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+That person on the phone
+said they wanted to show you
+something interesting, right?
+###--------
+###Mugshot:OmegaXis
+Maybe they meant these
+things?
+###--------
+###Script:10
+###Mugshot:0
+You're probably right...
+###--------
+###Mugshot:OmegaXis
+So what are you gonna do?
+###--------
+###Mugshot:0
+I don't feel right about
+leaving it alone,
+###--------
+###Mugshot:0
+and I wanna know who
+that was on the phone...
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Alright, let's pulse in
+and find out what
+those waves are first.
+###--------

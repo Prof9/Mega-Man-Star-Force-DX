@@ -1,0 +1,174 @@
+﻿###TextArchive:mess_0024
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Sonia
+This is Sonia's Transer!
+###--------
+###Script:2
+###Mugshot:Sonia
+I don't want to sing
+anymore...
+###--------
+###Mugshot:Sonia
+...Mama, heeelp.
+###--------
+###Script:3
+###Mugshot:Sonia
+I'm writing a song!
+I hope people like it.
+###--------
+###Script:4
+###Mugshot:Sonia
+Ever since that day...
+I have nightmares about
+snakes.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Just thinking about it sends
+a chill down my spine.
+###--------
+###Script:5
+###Mugshot:Sonia
+I think life is just bearing
+a series of heavy burdens.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Brothers help your bear
+those burdens. So it's good
+to depend on your Brothers.
+###--------
+###Script:6
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I believe in you no
+matter what!
+So, come back safely...
+###--------
+###Script:10
+###Mugshot:Sonia
+I can merge with Lyra
+to become Harp Note!
+###--------
+###Script:11
+###Mugshot:Sonia
+I don't want to sing
+anymore...
+###--------
+###Mugshot:Sonia
+...Mama, heeelp.
+###--------
+###Script:12
+###Mugshot:Sonia
+I'm writing a song!
+I hope people like it.
+###--------
+###Script:13
+###Mugshot:Sonia
+Ever since that day...
+I have nightmares about
+snakes.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Just thinking about it sends
+a chill down my spine.
+###--------
+###Script:14
+###Mugshot:Sonia
+I think life is just bearing
+a series of heavy burdens.
+###--------
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+Brothers help your bear
+those burdens. So it's good
+to depend on your Brothers.
+###--------
+###Script:15
+###Mugshot:Sonia
+###--------
+###Mugshot:Sonia
+I believe in you no
+matter what!
+So, come back safely...
+###--------
+###Script:20
+###Mugshot:Sonia
+There's this song I've
+been trying to write...
+###--------
+###Mugshot:Sonia
+But I just can't seem to
+find the right words.
+###--------
+###Mugshot:Sonia
+I just feel so uninspired...
+###--------
+###Mugshot:MegaMan
+It looks like Sonia
+is in a bind.
+###--------
+###Mugshot:MegaMan
+But I don't know the
+slightest thing about
+songwriting...
+###--------
+###Mugshot:OmegaXis
+Just go talk to her. Isn't
+that what Brothers do?
+###--------
+###Mugshot:MegaMan
+Hmm... Should I go talk
+to Sonia?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:MegaMan
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:MegaMan
+Okay, I'll see what
+I can do.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:21
+###Mugshot:Sonia
+There's this song I've
+been trying to write...
+###--------
+###Mugshot:Sonia
+But I just can't seem to
+find the right words.
+###--------
+###Mugshot:Sonia
+I just feel so uninspired...
+###--------
+###Script:22
+###Mugshot:OmegaXis
+Didn't practice your
+singing voice, huh kid?
+###--------
+###Script:30
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

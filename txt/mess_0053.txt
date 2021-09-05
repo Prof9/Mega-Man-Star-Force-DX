@@ -1,0 +1,133 @@
+﻿###TextArchive:mess_0053
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:Principal
+A-hem!
+Welcome to my Transer!
+###--------
+###Mugshot:Principal
+Please stay and
+enjoy yourself.
+###--------
+###Script:3
+###Mugshot:Principal
+I am the Principal of
+Echo Ridge Elementary
+School.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+Feel free to talk to
+me about anything.
+###--------
+###Script:4
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+A-hem!
+I am the Principal
+of Echo Elementary.
+###--------
+###Mugshot:Principal
+I am finishing the new
+school song.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+But I am having just a
+little trouble with a few
+of the lyrics.
+###--------
+###Mugshot:OmegaXis
+...That guy irks me.
+###--------
+###Mugshot:MegaMan
+I had no idea he was
+like this at first.
+###--------
+###Mugshot:OmegaXis
+So, do you wanna help him?
+
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+I bet you're interested,
+aren't you?
+###--------
+###Mugshot:MegaMan
+Writing songs sounds
+kinda fun.
+###--------
+###Mugshot:OmegaXis
+Oh well, let's go and
+talk to him.
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Let's just get out of here!
+###--------
+###Script:6
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+A-hem!
+I am the Principal
+of Echo Elementary.
+###--------
+###Mugshot:Principal
+I am finishing the new
+school song.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+But I am having just a
+little trouble with a few
+of the lyrics.
+###--------
+###Script:7
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+A-hem! I am the
+Principal of Echo Ridge
+Elementary School.
+###--------
+###Mugshot:Principal
+###--------
+###Mugshot:Principal
+I finished our school song
+with the help of one of
+our brightest kids.
+###--------
+###Mugshot:Principal
+What was his name again?
+###--------
+###Mugshot:Principal
+Anyways, all of the
+students really love it.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

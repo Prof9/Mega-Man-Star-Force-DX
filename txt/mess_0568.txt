@@ -1,0 +1,41 @@
+﻿###TextArchive:mess_0568
+###Script:10
+###Mugshot:MitchShepar
+###--------
+###Mugshot:MitchShepar
+You look well! Everyone's
+been looking forward to
+you coming back!
+###--------
+###Script:11
+###Mugshot:10
+So, what should I play today...
+###--------
+###Script:20
+###Mugshot:MitchShepar
+Aliens planning to destroy
+the Earth? No way!
+###--------
+###Script:21
+###Mugshot:10
+Now, for some music to
+be annihilated to.
+###--------
+###Script:100
+###Mugshot:14
+Testing, testing...
+Mic check...
+Check 1, 2, 3.
+###--------
+###Mugshot:14
+Mi-mi-mi-miiii!
+###--------
+###Script:101
+###Mugshot:14
+Fire! Fire!
+###--------
+###Mugshot:14
+...I'm just practicing for when
+I have to yell for help!
+Fire! Fire!
+###--------

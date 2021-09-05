@@ -1,0 +1,98 @@
+﻿###TextArchive:mess_0590
+###Script:0
+Welcome to the
+Subtropical Zone!
+###--------
+A collection of snakes from
+all over the world!
+###--------
+###--------
+As it is very dangerous,
+please do not touch or
+feed the snakes.
+###--------
+###Script:1
+An Inky Python.
+###--------
+###--------
+With its all black body,
+it waits for its prey in
+the darkness.
+###--------
+Its venom is a powerful
+nerve agent.
+Were you able to spot it?
+###--------
+###Script:2
+###--------
+The temperature is kept at
+82 degrees Fahrenheit,
+and the humidity at 80%.
+###--------
+Caution:
+The floor is slippery.
+###--------
+###Script:3
+An Albino Tree Boa.
+###--------
+###--------
+These fierce and aggressive
+Boas can swallow a person
+whole.
+###--------
+###Script:4
+An Indra Snake.
+###--------
+###--------
+Due to its specialized
+neurotoxin, a person
+bitten by the Indra Snake
+###--------
+will feel like they have
+been struck by lightning.
+###--------
+###Script:5
+A Lothian Rhine Snake.
+###--------
+It prefers dense wooded
+areas and can grow up
+to 15 feet long.
+###--------
+###--------
+Its venom is so powerful
+that it can take down
+even an elephant.
+###--------
+###Script:6
+A Flood Snake.
+###--------
+It's believed by natives to
+cause great floods.
+###--------
+###--------
+It lives by the river's edge
+and uses its great strength
+to drag prey into the water.
+###--------
+###Script:8
+A Spotted Anaconda.
+###--------
+###--------
+Known for its world class
+size and fiery temperament,
+###--------
+this snake will make an
+easy meal out of a person.
+###--------
+The longest one on
+record was 65 feet.
+This is a scale replica.
+###--------
+###Script:20
+There isn't anything in
+the trees...
+###--------
+###Script:21
+Twisting eerily, it seems
+to be watching me...
+###--------

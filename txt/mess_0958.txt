@@ -1,0 +1,54 @@
+﻿###TextArchive:mess_0958
+###Script:20
+###Mugshot:MegaMan
+Hey, do you think this is
+the data the old man was
+talking about?
+###--------
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+The data about where that
+piece of the space station
+is hidden?
+###--------
+###Mugshot:OmegaXis
+Hmm, it's got a strong
+EM wave around it...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Looks like we've gotta get
+rid of the EM wave before
+we can read the data inside.
+###--------
+###Mugshot:OmegaXis
+It's probably a virus that's
+making it...
+###--------
+###Mugshot:MegaMan
+I know... but I have to
+deal with it or else!
+###--------
+###Mugshot:OmegaXis
+Yeah!
+###--------
+###Mugshot:MegaMan
+Wave Battle!
+Ride On!!
+###--------
+###Script:21
+###Mugshot:MegaMan
+Alright!
+The EM wave is gone!
+###--------
+Mega Man got:
+"<printItem>"!!
+###Command:printItem item=60
+###--------
+###Mugshot:MegaMan
+Let's take a good look
+at that "<printItem>".
+###Command:printItem item=60
+###--------

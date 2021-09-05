@@ -1,0 +1,128 @@
+﻿###TextArchive:mess_0465
+###Script:1
+A telescope...
+###--------
+###--------
+You can look at the starry
+night sky, but never use it
+to look at the sun.
+###--------
+###Script:2
+###--------
+A magnificent globe.
+The more you look at it,
+the better it looks.
+###--------
+###Script:4
+There are a lot of books
+on the shelf.
+###--------
+Most of them are about
+space.
+###--------
+###Script:5
+A baseball glove.
+It looks a bit neglected.
+###--------
+###Script:6
+A small TV...
+###--------
+Small compared to the
+other TV, but still nice.
+###--------
+###Script:7
+You can see the scenery
+outside from the window.
+###--------
+###Script:8
+This panel controls the
+room temp.
+###--------
+###Script:9
+A cool poster.
+###--------
+###Script:10
+###--------
+This is an enlarged photo
+of the beautiful starry sky.
+###--------
+###Script:11
+Dad gave Geo this chunk
+of meteorite.
+###--------
+He says it's not radioactive...
+###--------
+###Script:12
+It's too early to go to bed...
+###--------
+###Script:20
+This desk has a computer
+built in...
+###--------
+###Script:21
+This desk has a computer
+built in...
+###--------
+###--------
+...Hm?
+It's turned off.
+###--------
+Turn it on?
+###--------
+<positionOptionFromCenter><optionText>  Yes  <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+*whirr* *hum*
+###--------
+There's a wavehole here!
+###--------
+###Script:29
+###Mugshot:0
+Turn in for the night?
+<positionOptionFromCenter><optionText>  Sleep  <optionText>  No
+###Command:positionOptionFromCenter width=72
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:30
+Save progress this far?
+<positionOptionFromCenter><optionText>  Save  <optionText>  No
+###Command:positionOptionFromCenter width=71
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:31
+Is it OK to overwrite?
+<positionOptionFromCenter><optionText>  Overwrite  <optionText>  No
+###Command:positionOptionFromCenter width=99
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:32
+Saving...
+Don't turn off power!
+###--------
+###Script:33
+Save complete!
+###--------
+###Script:34
+Save failed...
+###--------
+###Script:35
+Save failed. Try again?
+<positionOptionFromCenter><optionText>  Yes <optionText>  No
+###Command:positionOptionFromCenter width=63
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Script:37
+Initializing backup data...
+###--------
+###Script:38
+###--------
+Could not access the data.
+Turn the power off and
+reinsert the Game Card.
+###--------

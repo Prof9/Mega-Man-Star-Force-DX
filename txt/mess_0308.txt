@@ -1,0 +1,26 @@
+﻿###TextArchive:mess_0308
+###Script:0
+###Mugshot:0
+Everyone's being taken
+over by + and - waves!
+###--------
+###Script:1
+###Mugshot:OmegaXis
+So what are you gonna do?
+###--------
+###Script:2
+###Mugshot:0
+I can't sit by and let
+people suffer!
+###--------
+###Mugshot:0
+And that includes Pat!
+###--------
+###Script:3
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Then pulse in!
+And head for that
+antenna's Comp Space!
+###--------

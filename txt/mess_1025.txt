@@ -1,0 +1,21 @@
+﻿###TextArchive:mess_1025
+###Script:10
+###Mugshot:OmegaXis
+I know you're not running,
+are you kid!?
+###--------
+###Script:200
+###Mugshot:CommonNavi
+<optionButtonSmall><optionButtonSmall>Hey, take a look at
+these goods.
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Look"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Don't"
+###--------
+###Script:201
+Please come back again
+sometime!
+###--------
+###Script:202
+###Mugshot:CommonNavi
+Sorry, I'm all sold out...
+###--------

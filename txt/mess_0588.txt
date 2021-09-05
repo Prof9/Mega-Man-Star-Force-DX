@@ -1,0 +1,61 @@
+﻿###TextArchive:mess_0588
+###Script:0
+###Mugshot:10
+The sssnakesss laid some
+eggsss in this exhibit.
+###--------
+###Mugshot:10
+I hope healthy baby
+sssnakesss will be born!
+###--------
+###Script:5
+###Mugshot:10
+The sssnake that laid the
+eggsss is the YumLand
+Rainbow SSSnake.
+###--------
+###Mugshot:10
+###--------
+###Mugshot:10
+I'm going to keep watch
+until they hatch.
+###--------
+###Script:10
+###Mugshot:10
+I don't care if aliensss
+are coming.
+###--------
+###Mugshot:10
+The eggsss are going to
+hatch sssoon!!
+###--------
+###Script:100
+###Mugshot:16
+###--------
+###Mugshot:16
+Welcome!
+Thank you for shopping
+at Nacys today!
+###--------
+###Script:101
+###Mugshot:16
+###--------
+###Mugshot:16
+Wow, I feel like there's a
+time warp in effect.
+My antennas are all tingly...
+###--------
+###Script:102
+###Mugshot:16
+Aaaaah...
+My head...
+The pain...
+###--------
+###Mugshot:16
+My antennas are more
+sensitive than most Navis,
+###--------
+###Mugshot:16
+so I end up getting affected
+by more waves.
+###--------

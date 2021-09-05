@@ -1,0 +1,52 @@
+﻿###TextArchive:mess_1222
+###Script:0
+###Mugshot:Geo
+Edit an existing premade face!
+###--------
+###Script:1
+###Mugshot:Geo
+Make a brand new face icon!
+###--------
+###Script:10
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Saving this icon will overwrite
+the old one. OK?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:20
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Revert back to your old
+icon and quit?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Are you sure you want
+to quit?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Script:21
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Save face icon?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Mugshot:Geo
+<optionButtonSmall><optionButtonSmall>Are you sure you want
+to save?
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Yes"
+###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="No"
+###--------
+###Mugshot:Geo
+Face icon saved!
+###--------
+###Mugshot:Geo
+###TextBoxUnsplit:keyWait clearMsg textSpeed
+###--------
+###Mugshot:Geo
+You'll lose the face icon
+you made if you don't save.
+Always remember to save!
+###--------

@@ -1,0 +1,87 @@
+﻿###TextArchive:mess_0545
+###Script:0
+The desks all have built-in
+computers.
+###--------
+Just about every school
+has these.
+###--------
+###Script:2
+A speaker control panel.
+###--------
+###Script:3
+A chalkboard.
+###--------
+They call it that, but no
+one uses chalk...
+###--------
+###Script:4
+A very large speaker.
+###--------
+###Script:5
+There's a ball.
+###--------
+###--------
+Few people know that
+there's a powerful sensor
+in there.
+###--------
+###Script:6
+The control panel for the
+display.
+###--------
+Right now the display is
+showing a graph.
+###--------
+###Script:7
+This is a book on
+"How to raise fish".
+###--------
+###Script:8
+A fish tank on
+Creature Vision:
+###--------
+The fish on the monitor look
+almost like the real thing.
+###--------
+###Script:9
+Creature Vision control panel.
+###--------
+###Script:10
+This links all the school
+computers together.
+###--------
+###Script:11
+There's a red tulip in a
+vase.
+###--------
+I wonder if they grew it
+from a seed...?
+###--------
+###Script:15
+The teacher's podium.
+It looks like an ordinary
+podium.
+###--------
+###--------
+But it has a secret that
+only the homeroom teacher
+knows.
+###--------
+###Script:16
+The teacher's podium.
+It looks like an ordinary
+podium.
+###--------
+###--------
+But it has a secret that
+only the homeroom teacher
+knows.
+###--------
+Oh...?
+What's this?
+###--------
+Geo got:
+"<printItem>"!!
+###Command:printItem item=112
+###--------

@@ -1,0 +1,159 @@
+﻿###TextArchive:mess_0121
+###Script:0
+A little while later...
+###--------
+###Script:1
+###Mugshot:0
+Mega...
+###--------
+###Mugshot:0
+Please, tell me about
+my dad...
+###--------
+###Script:2
+###Mugshot:OmegaXis
+Hmm, should I...?
+###--------
+###Script:3
+My, oh my.
+###--------
+I wonder what you're up
+to, being here all alone
+at this time of night?
+###--------
+###Script:4
+###Mugshot:0
+Ugh.
+###--------
+###Script:5
+###Mugshot:2
+What's with that face?
+Anyway...
+###--------
+###Mugshot:2
+Someone out all by
+himself this late at night...
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Don't tell me you're the
+one causing all the trouble
+around town recently?
+###--------
+###Script:6
+###Mugshot:0
+I-It's not me!
+###--------
+###Script:7
+###Mugshot:2
+What's with you?
+You don't have to get
+so worked up.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+It's not as if someone like
+you could even remotely
+be the culprit.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+I've decided that it was
+dumb luck that you
+beat Bud last time.
+###--------
+###Script:8
+###Mugshot:0
+Oh! Is he OK?
+###--------
+###Script:9
+###Mugshot:2
+Bud? He's perfectly fine.
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Right now, we're being
+super-citizens driving
+around in our scouring car!
+###--------
+###Script:10
+###Mugshot:0
+Oh, well that's good
+to hear...
+###--------
+###Mugshot:0
+Wait, what's a scouring car?
+###--------
+###Script:11
+###Mugshot:2
+Like I was just saying,
+there's been a lot of crimes
+going on around town,
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+so we're scouring every
+nook and cranny to find
+the criminal!
+###--------
+###Mugshot:2
+I'm going to protect
+my town!
+###--------
+###Script:12
+###Mugshot:4
+###--------
+###Mugshot:4
+Wow, Prez, you have such
+a great sense of justice!
+No one can top you!
+###--------
+###Mugshot:4
+You're a role-model for all!
+###--------
+###Script:13
+###Mugshot:2
+So how about it?
+Should I sign you up?
+###--------
+###Script:14
+###Mugshot:0
+Sorry, but I'm not
+interested.
+###--------
+###Script:15
+###Mugshot:2
+Well, then!
+Don't stay out too late.
+###--------
+###Mugshot:2
+Who knows what kind
+of dangers may find
+you if you do!
+###--------
+###Mugshot:2
+###--------
+###Mugshot:2
+Oh, and come to school,
+OK!?
+###--------
+###Mugshot:2
+Let's go.
+###--------
+###Script:16
+###Mugshot:4
+Yes, madam!
+###--------
+###Script:17
+###Mugshot:0
+Phew, I'm tired from
+just talking to her.
+###--------
+###Mugshot:0
+Let's go home...
+###--------

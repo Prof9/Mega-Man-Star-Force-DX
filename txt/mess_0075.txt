@@ -1,0 +1,93 @@
+﻿###TextArchive:mess_0075
+###Script:0
+<printBrotherBuffer1> <printBrotherBuffer2>
+###Command:printBrotherBuffer1
+###Command:printBrotherBuffer2
+###--------
+###Script:1
+###Mugshot:OldWoman
+Hello, and welcome to
+my Transer!
+###--------
+###Script:3
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+Everyone please bring all
+of your unwanted things
+to my second-hand shop!
+###--------
+###Script:4
+###Mugshot:OldWoman
+What a headache...
+###--------
+###Mugshot:OldWoman
+No matter what I try,
+I can't get this to work...
+###--------
+###Mugshot:OldWoman
+I wonder if it's got a
+virus or something.
+###--------
+###Mugshot:MegaMan
+Did she say a virus!?
+###--------
+###Mugshot:OmegaXis
+Shall we do some
+virus bustin'!?
+<positionOptionFromCenter>
+###Command:positionOptionFromCenter width=63
+###--------
+###Mugshot:OmegaXis
+<optionText>  Yes  <optionText>  No
+###Command:optionText up=0 down=0 left=1 right=1
+###Command:optionText up=1 down=1 left=0 right=0
+###--------
+###Mugshot:OmegaXis
+Now that's what I'm
+talkin' about!
+###--------
+###Mugshot:MegaMan
+I'd better write myself
+a memo mail...
+###--------
+###Script:5
+###Mugshot:OmegaXis
+Aw man! And I was jes
+startin' to feel frisky.
+###--------
+###Script:6
+###Mugshot:OldWoman
+What a headache...
+###--------
+###Mugshot:OldWoman
+No matter what I try,
+I can't get this to work...
+###--------
+###Mugshot:OldWoman
+I wonder if it's got a
+virus or something.
+###--------
+###Script:7
+###Mugshot:OldWoman
+Finally, it's fixed!
+###--------
+###Mugshot:OldWoman
+That just goes to show
+you that it's worth taking
+the time to repair
+###--------
+###Mugshot:OldWoman
+###--------
+###Mugshot:OldWoman
+something instead of just
+throwing it away.
+###--------
+###Script:20
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hey, hey! Why don't
+you take care of your
+unfinished business first!?
+###--------

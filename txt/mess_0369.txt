@@ -1,0 +1,208 @@
+﻿###TextArchive:mess_0369
+###Script:0
+###Mugshot:0
+Hmm?
+We're picking up a signal...
+###--------
+###Script:1
+*hiss hiss hiss*<wait>
+###Command:wait frames=60
+###--------
+...is...eal...
+Th... res...
+###--------
+This is Boreal!
+Please respond!
+###--------
+###Script:2
+###Mugshot:0
+Mr. Boreal!!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+The wavehole's gone,
+but we can still get
+transmissions, it seems!
+###--------
+###Mugshot:0
+This is Geo!
+###--------
+###Mugshot:0
+The Earth is OK!
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+We're returning to Earth
+in the emergency escape
+module. Over!
+###--------
+###Script:3
+###Mugshot:AaronBoreal
+This is Aaron.
+Thank you! You did great!
+###--------
+###Mugshot:AaronBoreal
+Aaah!
+Hold on, you!
+###--------
+###Script:4
+###Mugshot:Sonia
+Geo!!
+###--------
+###Mugshot:Sonia
+Thank goodness you're OK!
+Hurry home!
+###--------
+###Mugshot:Sonia
+Ack! *bump*
+###--------
+###Script:5
+###Mugshot:Luna
+Test, test!
+This is Luna!!
+###--------
+###Mugshot:Luna
+###--------
+###Mugshot:Luna
+Great job, Geo!!
+Now hurry straight back!
+###--------
+###Script:6
+###Mugshot:Bud
+Hey, Geo!
+###--------
+###Mugshot:Bud
+You really are my hero!!
+###--------
+###Mugshot:Bud
+After you get back, we're
+gonna go for burgers!!
+###--------
+###Script:7
+###Mugshot:Zack
+*sniffle* *sniffle*
+###--------
+###Mugshot:Zack
+Geo! Thank yoooooooou!
+###--------
+###Script:8
+###Mugshot:AaronBoreal
+Hold on, you guys!
+Give me some space!
+###--------
+###Mugshot:AaronBoreal
+Geo, are you OK with
+the controls?
+###--------
+###Script:9
+###Mugshot:0
+Yeah, I sort of know
+how to fly this.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+Right now, it's on auto-pilot.
+So we're moving at a
+good pace towards Earth.
+###--------
+###Script:10
+###Mugshot:AaronBoreal
+I see.
+Phew, that's a relief...
+###--------
+###Script:11
+###Mugshot:0
+Aaah!!
+###--------
+###Script:12
+SYSTEM ERROR!
+###--------
+SYSTEM ERROR!
+###--------
+DEVIATING FROM SET
+COURSE!
+###--------
+DEVIATING FROM SET
+COURSE!
+###--------
+###Script:13
+###Mugshot:AaronBoreal
+Geo!!
+###--------
+###Script:14
+###Mugshot:0
+Aaah!!
+###--------
+###Script:15
+###Mugshot:AaronBoreal
+Geo! Geo!!
+###--------
+###Script:16
+###Mugshot:0
+Oonngh...
+###--------
+###Script:17
+###Mugshot:OmegaXis
+You're finally awake...
+###--------
+###Script:18
+###Mugshot:0
+Nngh... What... happened...?
+###--------
+###Script:19
+###Mugshot:OmegaXis
+A system error occurred
+and the module's been
+thrown off-course.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You were knocked
+unconscious by the
+shock wave.
+###--------
+###Mugshot:OmegaXis
+We're in a bit of a
+serious problem now.
+###--------
+###Script:20
+###Mugshot:0
+Problem?
+###--------
+###Script:21
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Yeah, the auto-pilot system's
+busted, and we've deviated
+from a course for Earth...
+###--------
+###Mugshot:OmegaXis
+Right now, we're just
+floating through space.
+###--------
+###Mugshot:OmegaXis
+I don't think we can
+get back to Earth...
+###--------
+###Script:22
+###Mugshot:0
+WHAT!?
+###--------
+###Script:23
+###Mugshot:OmegaXis
+I don't think we have
+zero chance,
+###--------
+###Mugshot:OmegaXis
+but I'm not sure which way
+Earth is from here...
+###--------
+###Script:24
+###Mugshot:0
+N-No...
+###--------

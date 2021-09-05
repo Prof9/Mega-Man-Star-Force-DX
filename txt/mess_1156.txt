@@ -1,0 +1,35 @@
+﻿###TextArchive:mess_1156
+###Script:0
+###Mugshot:CommonNavi
+Thaaat's it.
+Are you feeling OK?
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+I'm going around and
+making sure the snakes
+are doing well.
+###--------
+###Script:10
+###Mugshot:CommonNavi
+Ohh, Lord of the waves...
+Saaave meee!
+###--------
+###Mugshot:CommonNavi
+###--------
+###Mugshot:CommonNavi
+Ah! I was just checking on
+the snakes, but...
+They won't listen to me...
+###--------
+###Mugshot:CommonNavi
+All I can do is pray...
+###--------
+###Script:50
+###Mugshot:12
+###--------
+###Mugshot:12
+Welcome! The snakes are
+doing well as always!
+###--------

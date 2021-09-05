@@ -1,0 +1,43 @@
+﻿###TextArchive:mess_0332
+###Script:0
+###Mugshot:OmegaXis
+Stop... Stop!
+Gnaaaaaaaah!!
+###--------
+###Script:1
+###Mugshot:0
+Mega!!
+###--------
+###Script:2
+###Mugshot:GeoNoVisualizer
+...A dream...
+###--------
+###Mugshot:GeoNoVisualizer
+Mega...
+###--------
+###Mugshot:GeoNoVisualizer
+No, I don't have anything
+to do with him now...
+###--------
+###Script:3
+###Mugshot:2
+Geo!
+###--------
+###Mugshot:2
+I'm going to Time Square
+with some friends.
+###--------
+###Mugshot:2
+You take care, OK?
+I'll be back later!
+###--------
+###Script:4
+###Mugshot:GeoNoVisualizer
+.........
+Guess I should get
+out of bed.
+###--------
+###Mugshot:GeoNoVisualizer
+Well, what should I
+do today...?
+###--------

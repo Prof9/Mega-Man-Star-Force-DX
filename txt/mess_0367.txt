@@ -1,0 +1,830 @@
+﻿###TextArchive:mess_0367
+###Script:0
+###Mugshot:Cepheus
+Andromeda...
+###--------
+###Mugshot:Cepheus
+I-Impossible!!
+###--------
+###Mugshot:Cepheus
+I refuse to accept that
+there is a power that
+can defeat Andromeda!
+###--------
+###Mugshot:Cepheus
+Andromeda!
+Arise and crush them!!
+###--------
+###Script:1
+*roooooooar!!*<wait>
+###Command:wait frames=30
+###--------
+###Script:2
+###Mugshot:1
+*huff huff*...
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Hmph. Just stay down
+already!!
+###--------
+###Script:4
+###Mugshot:Cepheus
+I will not lose to peasants
+like you!
+###--------
+###Mugshot:Cepheus
+Andromeda!
+###--------
+###Script:5
+*roooooooar!!*<wait>
+###Command:wait frames=30
+###--------
+###Script:6
+###Mugshot:OmegaXis
+Geo, it's coming in for
+another round!
+###--------
+###Mugshot:OmegaXis
+Can you still fight!?
+###--------
+###Script:7
+###Mugshot:1
+Uugh... *thud*
+###--------
+###Script:8
+###Mugshot:Cepheus
+Ha ha ha ha ha!
+###--------
+###Mugshot:Cepheus
+Looks like you have used
+up all your strength.
+###--------
+###Mugshot:Cepheus
+Finish them now, Andromeda!!
+###--------
+###Script:9
+*roooooooar!!*<wait>
+###Command:wait frames=30
+###--------
+###Script:10
+###Mugshot:OmegaXis
+Geo! Pull yourself together!
+###--------
+###Script:11
+###Mugshot:1
+Nngh...
+I can't...
+###--------
+###Mugshot:1
+My body doesn't have...
+any strength left!
+###--------
+###Script:12
+###Mugshot:OmegaXis
+Argh! Even though you're
+in wave form, you are
+still a human.
+###--------
+###Mugshot:OmegaXis
+You're not designed to
+take this much radiation.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Is there no way for you
+to withstand the FM King's
+EM waves?
+###--------
+###Mugshot:OmegaXis
+Curses!
+###--------
+###Script:13
+###Mugshot:Cepheus
+Concede, Mega Man!
+###--------
+###Script:14
+*roooooooar!!*<wait>
+###Command:wait frames=30
+###--------
+###Script:15
+###Mugshot:Cepheus
+Stop!!
+Andromeda!!
+###--------
+###Mugshot:Cepheus
+Aaaaaah!!
+Heeeeelp!!
+###--------
+###Script:16
+###Mugshot:1
+A-Andromeda's going nuts!
+###--------
+###Mugshot:OmegaXis
+We'd better do something
+or else!
+###--------
+###Mugshot:1
+Argh!! My body...
+It won't move...
+###--------
+###Mugshot:1
+I'm sorry...
+everyone...
+###--------
+###Script:17
+You're not alone, Geo!
+###--------
+So stand strong!
+###--------
+###Script:18
+###Mugshot:Sonia
+Hang in there, Geo!
+###--------
+###Script:19
+###Mugshot:Luna
+I won't forgive you if
+you lose, Geo!
+###--------
+###Script:20
+###Mugshot:Bud
+I'm cheering for you with
+some Beef Power!
+###--------
+###Script:21
+###Mugshot:Zack
+We're counting on you, Geo!!
+###--------
+###Script:22
+###Mugshot:Pat
+You can do it, Geo!!
+###--------
+###Script:23
+###Mugshot:Kelvin
+So stand up!
+###--------
+###Mugshot:Kelvin
+Everyone is behind you, Geo!
+###--------
+###Mugshot:Kelvin
+Believe in the power of
+your friendships!!
+###--------
+###Script:24
+###Mugshot:1
+Dad... Everyone...
+###--------
+###Mugshot:1
+I can... I can feel your
+strength!!
+###--------
+###Script:25
+###Mugshot:Cepheus
+Wh-What is this power...?
+###--------
+###Script:26
+###Mugshot:1
+Everyone!
+Lend me your strength!!
+###--------
+###Script:27
+###Mugshot:OmegaXis
+This is it!!
+###--------
+###Script:28
+###Mugshot:1
+Haaaaaaaaaah!
+###--------
+###Script:29
+###Mugshot:Cepheus
+A-Andromeda...
+###--------
+###Script:30
+###Mugshot:Cepheus
+Why are you not finishing
+me off...?
+###--------
+###Mugshot:Cepheus
+You came here to exact
+your revenge, correct?
+###--------
+###Script:31
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Yeah, it's the only thing I
+thought about that could
+take away my pain...
+###--------
+###Mugshot:OmegaXis
+But I've given that up.
+###--------
+###Mugshot:OmegaXis
+Heh. Being with Geo for so
+long's given me a new,
+optimistic look on life.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+'Sides, you don't have
+your underlings or
+Andromeda anymore,
+###--------
+###Mugshot:OmegaXis
+so you are pretty much
+powerless now.
+###--------
+###Mugshot:Cepheus
+It is as you say...
+I have lost.
+###--------
+###Mugshot:Cepheus
+But allow me to ask
+one thing.
+###--------
+###Mugshot:Cepheus
+Where did you get the
+power to destroy
+Andromeda from?
+###--------
+###Mugshot:OmegaXis
+Heh, listen real good and
+remember:
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+This is the power of
+relationships, which the
+Earthlings hold so dear.
+###--------
+###Script:32
+###Mugshot:Cepheus
+The power of relationships?
+###--------
+###Script:33
+###Mugshot:1
+That's right.
+It's the power we give
+to one another
+###--------
+###Mugshot:1
+when we really trust
+that person.
+###--------
+###Mugshot:1
+The ability for both people
+to become stronger;
+###--------
+###Mugshot:1
+that is the true power of
+our relationships.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+The more people you have
+who you can trust, the
+bigger that power becomes!
+###--------
+###Script:34
+###Mugshot:Cepheus
+I can't trust anyone...
+###--------
+###Mugshot:Cepheus
+Ever since I was born,
+people have tried to delete
+me to steal my throne.
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+My siblings, relatives,
+close associates...
+###--------
+###Mugshot:Cepheus
+They devised all sorts
+of plans to erase me.
+###--------
+###Mugshot:Cepheus
+Actually, I had a few
+close calls in my life...
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+I would think I had
+faithful followers,
+###--------
+###Mugshot:Cepheus
+but they would turn out
+to be the same as
+everyone else.
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+If I can't trust the ones
+most "loyal" to me, how can
+I trust complete strangers?
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+The only thing I trusted about
+strangers was that they
+were out to betray me.
+###--------
+###Mugshot:Cepheus
+I thought that I
+shouldn't bother trusting
+others to begin with
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+if they were going to
+betray me in the end.
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+Not trusting others...
+It's made my whole life
+nothing but loneliness.
+###--------
+###Script:35
+###Mugshot:1
+.........
+###--------
+###Mugshot:1
+I shouldn't bother trusting
+others to begin with
+###--------
+###Mugshot:1
+if they'll just betray me
+in the end...
+###--------
+###Mugshot:1
+I thought the exact
+same thing...
+###--------
+###Script:36
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+To me, someone approaching
+with even a smile on their
+face was suspicious.
+###--------
+###Script:37
+###Mugshot:OmegaXis
+.........
+Actually, Planet FM
+attacked Planet AM
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+the year right after
+we proposed to become
+good friends.
+###--------
+###Script:38
+###Mugshot:Cepheus
+That was when Gemini
+appeared. He looked upon
+Planet AM with distrust
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+and reported that Planet AM
+was planning to attack us.
+###--------
+###Script:39
+###Mugshot:OmegaXis
+Gemini, huh.
+The creep.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Hmph, it was easy for him
+to manipulate a king who
+was already paranoid.
+###--------
+###Script:40
+###Mugshot:1
+###--------
+###Mugshot:1
+And my dad contacted
+Planet FM, hoping to create
+a friendly bond too...
+###--------
+###Script:41
+###Mugshot:Cepheus
+Yes...
+###--------
+###Mugshot:Cepheus
+But enough of this...
+###--------
+###Mugshot:Cepheus
+Come, finish me.
+###--------
+###Script:42
+###Mugshot:1
+.<waitSkip>.<waitSkip>.<waitSkip>I can't.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:43
+###Mugshot:Cepheus
+Why not...?
+###--------
+###Script:44
+###Mugshot:1
+My dad truly wanted Earth
+to be friends with Planet FM.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+If I were to finish you off
+here, I'd be betraying my dad
+and what he stands for...
+###--------
+###Mugshot:1
+So I think I'll forgive
+you instead.
+###--------
+###Script:45
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+Y-You are forgiving me -
+the one who tried to
+destroy your planet...?
+###--------
+###Script:46
+###Mugshot:1
+But in return,
+I have a request.
+###--------
+###Script:47
+###Mugshot:Cepheus
+A request...?
+###--------
+###Script:48
+###Mugshot:1
+Actually, two.
+###--------
+###Mugshot:1
+First, I want you to
+trust me.
+###--------
+###Mugshot:1
+My dad always said
+that the reason
+people get into fights
+###--------
+###Mugshot:1
+is because they don't
+know each other.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+If they knew each other
+better, then they could
+trust each other.
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+I didn't know how you felt,
+but through this fight,
+I've learned a lot.
+###--------
+###Mugshot:1
+I realized that nothing
+good can come out of
+loneliness;
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+that only through
+relationships with others,
+can anything good be born.
+###--------
+###Script:49
+###Mugshot:Cepheus
+Nothing good can come
+out of loneliness...
+###--------
+###Mugshot:Cepheus
+Yes...
+I suppose that is true...
+###--------
+###Mugshot:Cepheus
+And what is your other
+request?
+###--------
+###Script:50
+###Mugshot:1
+I hope you will be my friend.
+###--------
+###Script:51
+###Mugshot:Cepheus
+You... and me?
+###--------
+###Mugshot:Cepheus
+Ha ha ha ha ha!!
+###--------
+###Mugshot:Cepheus
+You would be the first
+friend I've ever had.
+###--------
+###Script:52
+###Mugshot:1
+I think you need friends
+you can believe in.
+###--------
+###Mugshot:1
+I have a lot of friends,
+and they are the ones
+###--------
+###Mugshot:1
+who helped me get to
+where I am today.
+###--------
+###Mugshot:1
+I'll be your very first friend!
+###--------
+###Mugshot:1
+###--------
+###Mugshot:1
+If you have people you can
+trust, then your cold, lonely
+world suddenly grows warmer!
+###--------
+###Script:53
+###Mugshot:Cepheus
+.<waitSkip>.<waitSkip>.<waitSkip>My world will change...
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:Cepheus
+Earthling... I can trust your
+words, correct?
+###--------
+###Script:54
+###Mugshot:OmegaXis
+What are you doubting
+him for?
+###--------
+###Mugshot:OmegaXis
+He's got enough power
+to destroy Andromeda.
+###--------
+###Mugshot:OmegaXis
+He doesn't have any
+reason to trick you.
+###--------
+###Script:55
+###Mugshot:Cepheus
+Mega Man...
+No, I mean, Earthling...
+###--------
+###Mugshot:Cepheus
+Would you tell me your name?
+###--------
+###Script:56
+###Mugshot:1
+My name is Geo Stelar!
+###--------
+###Mugshot:1
+Just Geo is fine though,
+Your Majesty.
+###--------
+###Script:57
+###Mugshot:Cepheus
+My name is Cepheus, and
+you can call me that...
+###--------
+###Mugshot:Cepheus
+...Geo.
+###--------
+###Script:58
+###Mugshot:1
+Cepheus, we're friends
+from now on, you and me!
+###--------
+###Mugshot:1
+So here's to us!
+###--------
+###Script:59
+###Mugshot:Cepheus
+Yes...
+###--------
+###Mugshot:Cepheus
+Omega-Xis, are you alright
+with this?
+###--------
+###Script:60
+###Mugshot:OmegaXis
+Huh?
+###--------
+###Script:61
+###Mugshot:Cepheus
+Are you sure you don't
+want your revenge?
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+I was deceived by Gemini,
+and destroyed Planet AM
+with Andromeda...
+###--------
+###Script:62
+###Mugshot:OmegaXis
+Don't be an idiot.
+###--------
+###Mugshot:OmegaXis
+You're Geo's friend,
+aren't you?
+###--------
+###Mugshot:OmegaXis
+If I hurt you, I'd be a
+real bad guy.
+###--------
+###Script:63
+###Mugshot:Cepheus
+Geo, Omega-Xis...
+Thank you...
+###--------
+###Mugshot:Cepheus
+I will return to Planet FM
+and I promise to tell
+all of its citizens
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+to treasure the strength
+of a trusting heart,
+###--------
+###Mugshot:Cepheus
+###--------
+###Mugshot:Cepheus
+and to make amends for
+our sin of destroying
+Planet AM by rebuilding it.
+###--------
+###Script:64
+###Mugshot:1
+Cepheus...
+###--------
+###Script:65
+We will lend a hand in
+reviving Planet AM.
+###--------
+###Script:66
+###Mugshot:1
+It's the Satellite admins!
+###--------
+###Script:67
+###Mugshot:Cepheus
+The Three Sages of
+Planet AM...
+###--------
+###Script:68
+###Mugshot:PegasusMagic
+Mega Man,
+you have fought well.
+###--------
+###Mugshot:PegasusMagic
+###--------
+###Mugshot:PegasusMagic
+Omega-Xis, as we had
+guessed, you are indeed
+one of us.
+###--------
+###Script:69
+###Mugshot:DragonSky
+You, the FM King who
+has opened your heart...
+###--------
+###Mugshot:DragonSky
+If you continue to
+have a trusting heart
+as Mega Man does,
+###--------
+###Mugshot:DragonSky
+###--------
+###Mugshot:DragonSky
+the power to revive
+Planet AM will appear.
+###--------
+###Script:70
+###Mugshot:LeoKingdom
+Not all of the AM-ians
+are gone.
+###--------
+###Mugshot:LeoKingdom
+A few are living on other
+planets as we have.
+###--------
+###Mugshot:LeoKingdom
+If we were to call
+everyone back together,
+###--------
+###Mugshot:LeoKingdom
+Planet AM could be
+brimming with life again.
+###--------
+###Script:71
+###Mugshot:Cepheus
+Pegasus, Dragon, Leo...
+###--------
+###Mugshot:Cepheus
+I vow to never lose
+my trusting heart.
+###--------
+###Script:72
+###Mugshot:PegasusMagic
+.<waitSkip>.<waitSkip>.<waitSkip>Very well.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:73
+###Mugshot:Cepheus
+Geo, Omega-Xis, farewell.
+###--------
+###Mugshot:Cepheus
+Until we meet again...
+###--------
+###Script:74
+###Mugshot:DragonSky
+Omega-Xis, is this alright?
+###--------
+###Script:75
+###Mugshot:OmegaXis
+Yeah, I'll take a pass.
+###--------
+###Mugshot:OmegaXis
+If I don't stick around,
+Geo'll never get home.
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Plus, I finally got used
+to Earth. So I'm gonna
+stick around for a bit.
+###--------
+###Script:76
+###Mugshot:LeoKingdom
+Ha ha ha... We expected
+that much of you...
+###--------
+###Script:77
+###Mugshot:1
+Take care of yourself,
+Cepheus!
+###--------
+###Script:78
+###Mugshot:Cepheus
+You too, Geo.
+###--------
+###Script:79
+###Mugshot:PegasusMagic
+It is time...
+###--------
+###Script:80
+###Mugshot:1
+Did I do what's right...?
+###--------
+###Script:81
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You just saved Earth.
+I don't think anyone's got
+anything to complain about!
+###--------
+###Mugshot:OmegaXis
+Come on, let's get
+ourselves home to Earth!
+###--------
+###Script:82
+###Mugshot:1
+OK!
+###--------

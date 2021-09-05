@@ -1,0 +1,23 @@
+﻿###TextArchive:mess_0274
+###Script:0
+And then, after school
+the next day...
+###--------
+*ding dong
+      ding dong*<wait>
+###Command:wait frames=150
+###--------
+###Script:1
+###Mugshot:2
+OK, that's it for today,
+kids.
+###--------
+###Mugshot:2
+Make sure you all go
+straight home now.
+###--------
+###Script:2
+###Mugshot:0
+That should be everything...
+Let's go home.
+###--------

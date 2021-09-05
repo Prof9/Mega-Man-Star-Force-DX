@@ -1,0 +1,57 @@
+﻿###TextArchive:mess_0839
+###Script:0
+###Mugshot:MegaMan
+Viruses!!
+###--------
+###Mugshot:MegaMan
+They must be causing all
+of this trouble...
+###--------
+###Mugshot:OmegaXis
+OK, let's go!!
+###--------
+###Mugshot:MegaMan
+Right!
+###--------
+###Script:1
+###Mugshot:MegaMan
+I guess it's back to normal.
+###--------
+###Mugshot:MegaMan
+I'd better let that guy know.
+###--------
+###Script:50
+###Mugshot:MrHertz
+HEEEEEY!!
+CAN YOU HEAR MEEEE!?
+###--------
+YES, I CAN HEAR YOU!
+*BEEP BEEP*
+###--------
+###Mugshot:MrHertz
+THE ANSWER TO THAT
+LAST ONE IS "A"!
+###--------
+ROGER THAT!
+WHAT ABOUT THE
+NEXT QUESTION?
+###--------
+###Mugshot:MrHertz
+...HUH?
+WHAT AM I DOING?
+###--------
+###Mugshot:MrHertz
+I'M SENDING MY FRIEND
+THE ANSWERS TO A
+TV QUIZ SHOW
+###--------
+###Mugshot:MrHertz
+VIA THIS TWO WAY LINK.
+###--------
+OK, NOW HERE'S THE
+QUESTION!
+###--------
+###Mugshot:MrHertz
+OK, I'M LISTENING!
+*BEEP BEEP*
+###--------

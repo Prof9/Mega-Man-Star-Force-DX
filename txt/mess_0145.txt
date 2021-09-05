@@ -1,0 +1,67 @@
+﻿###TextArchive:mess_0145
+###Script:0
+The next morning...
+###--------
+###Script:1
+###Mugshot:GeoNoVisualizer
+Unngh... I can't believe it's
+morning already.
+###--------
+###Script:2
+###Mugshot:0
+I guess I should get going.
+###--------
+###Mugshot:0
+###--------
+###Mugshot:0
+I have to take a bus to
+get to Mr. Boreal's lab.
+###--------
+###Mugshot:0
+*sigh*
+I totally don't want to go.
+###--------
+###Script:3
+###Mugshot:OmegaXis
+Hey, Geo!
+###--------
+###Script:4
+###Mugshot:0
+What?
+###--------
+###Script:5
+###Mugshot:OmegaXis
+If you feel that way
+about it, why not cancel?
+###--------
+###Script:6
+###Mugshot:0
+But...
+###--------
+###Script:7
+###Mugshot:OmegaXis
+You gonna say you can't
+cancel on the guy?
+###--------
+###Mugshot:OmegaXis
+You're so pitiful.
+###--------
+###Mugshot:0
+But he took the effort
+to invite me, and...
+###--------
+###Mugshot:0
+it'd be mean of me if I
+didn't go...
+###--------
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Well, as long as I get
+to see something cool,
+I'm all about going.
+###--------
+###Script:8
+###Mugshot:0
+.........
+###--------

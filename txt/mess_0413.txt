@@ -1,0 +1,12 @@
+﻿###TextArchive:mess_0413
+###Script:0
+Temp message
+###--------
+###Script:5
+###Mugshot:MegaMan
+###--------
+###Mugshot:MegaMan
+It looks like Gemini Spark's
+attack didn't do any
+lasting damage.
+###--------

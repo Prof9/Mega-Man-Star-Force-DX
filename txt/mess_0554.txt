@@ -1,0 +1,104 @@
+﻿###TextArchive:mess_0554
+###Script:0
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+You're gonna talk to your
+classmates, aren't you?
+###--------
+###Script:10
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+...Uh?
+What am I doing sleeping
+in class?
+###--------
+###Mugshot:LittleBoy
+W-Why do you ask that...?
+###--------
+###Mugshot:LittleBoy
+C'mon, give me a break.
+I can't help it.
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+There's some kind of lullaby
+music coming from the roof...
+It's making me drowsy...
+###--------
+###Mugshot:LittleBoy
+It's true!
+You've got to believe me!
+###--------
+###Script:11
+###Mugshot:LittleBoy
+There's some kind of lullaby
+music coming from the roof...
+It's making me drowsy...
+###--------
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+It's true!
+You've got to believe me!
+###--------
+###Script:12
+###Mugshot:LittleBoy
+###--------
+###Mugshot:LittleBoy
+What?
+I should feel at ease now
+that the lullaby has stopped?
+###--------
+###Mugshot:LittleBoy
+Really?
+###--------
+###Mugshot:LittleBoy
+OK, OK, I believe you.
+###--------
+###Mugshot:LittleBoy
+Here's a small thank-you gift.
+###--------
+Geo got:
+"<printCard>"!!
+###Command:printCard card=100
+###--------
+###Mugshot:LittleBoy
+Now I can concentrate on
+my studies!!
+###--------
+###Mugshot:LittleBoy
+......Maybe?
+###--------
+###Script:13
+###Mugshot:LittleBoy
+Now I can concentrate on
+my studies!!
+###--------
+###Mugshot:LittleBoy
+......Maybe?
+###--------
+###Script:101
+###Mugshot:OmegaXis
+###--------
+###Mugshot:OmegaXis
+Don't you have someplace to
+be besides the Wave World?
+###--------
+###Script:102
+###Mugshot:OmegaXis
+Aren't you going to the
+Studio!?
+###--------
+###Script:103
+###Mugshot:OmegaXis
+Isn't it about time to
+go home?
+###--------
+###Script:104
+###Mugshot:OmegaXis
+Aren't you gonna talk to
+your classmates?
+###--------

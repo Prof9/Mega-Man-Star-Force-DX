@@ -1,0 +1,100 @@
+﻿###TextArchive:mess_1105
+###Script:0
+###Mugshot:SpeedNavi
+King George and Henry VIII...
+###--------
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+I'm sending class 5-A's
+homework to Mr. Shepar
+right now.
+###--------
+###Mugshot:SpeedNavi
+2 x 2 = 4
+2 x 3 = 6
+2 x 4 = 8
+###--------
+###Mugshot:SpeedNavi
+2 x 5 = 10
+......
+...
+###--------
+###Script:10
+###Mugshot:SpeedNavi
+7 x 7 = 49!
+7 x 8 = 56!
+###--------
+###Mugshot:SpeedNavi
+7 x 9.........
+Um... 7 x 9...
+###--------
+###Mugshot:SpeedNavi
+Nooooooooooooo!!
+###--------
+###Script:20
+###Mugshot:SpeedNavi
+8 x 6 = 48
+8 x 7 = 56
+......
+###--------
+###Mugshot:SpeedNavi
+Ah! I lost track of
+where I was!
+###--------
+###Script:100
+###Mugshot:SpeedNavi
+A Brother Band?
+###--------
+###Mugshot:SpeedNavi
+Yes, a Brother Band!
+###--------
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+I'd like to try forming a
+Brother Band. But I don't
+have a Transer...
+###--------
+###Script:101
+###Mugshot:SpeedNavi
+###--------
+###Mugshot:SpeedNavi
+What's wrong?
+Your Brothers cut their
+Brother Bands with you?
+###--------
+###Mugshot:SpeedNavi
+But isn't your Brother Band
+supposed to be proof of
+your friendship!?
+###--------
+###Script:102
+###Mugshot:FighterNavi
+Hmm, hmm...
+###--------
+###Mugshot:FighterNavi
+Hmmmmmm...
+###--------
+###Mugshot:FighterNavi
+I wonder if the Principal
+wears a wig...
+###--------
+###Script:103
+###Mugshot:FighterNavi
+Hmm, hmm...
+###--------
+###Mugshot:FighterNavi
+Hmmmmmm...
+###--------
+###Mugshot:FighterNavi
+Do humans ever break down?
+###--------
+###Mugshot:FighterNavi
+Do they stay the way
+they are forever?
+###--------
+###Mugshot:FighterNavi
+Now I'm curious about the
+Principal's wig.
+###--------
