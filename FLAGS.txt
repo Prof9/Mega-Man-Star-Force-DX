@@ -1,0 +1,509 @@
+// FLAGS
+0048	Beat Taurus Fire SP
+0049	Beat Cygnus Wing SP
+004A	Beat Harp Note SP
+004B	Beat Libra Scales SP
+004C	Beat Queen Ophiuca SP
+004D	Beat Gemini Spark SP
+004F	Beat Cancer Bubble SP
+0050	Beat Wolf Woods SP
+0051	Beat Crown Thunder SP
+0052	Beat Pegasus Magic SP
+0053	Beat Leo Kingdom SP
+0054	Beat Dragon Sky SP
+0061	Dragon Shadow defeated, Dragon Star Force gained, Dream Island available
+0062	Beat Taurus Fire
+0063	Beat Cygnus Wing
+0064	Beat Harp Note
+0065	Beat Libra Scales
+0066	Beat Queen Ophiuca
+0067	Beat Gemini Spark
+0069	Beat Satellite Admin
+00B0	Beat Taurus Fire EX
+00B2	Beat Cygnus Wing EX
+00B4	Beat Harp Note EX
+00B6	Beat Libra Scales EX
+00B8	Beat Queen Ophiuca EX
+00BA	Beat Gemini Spark EX
+00BB	Admin EX fight active
+00BC	Beat Admin EX
+0713	Dragon Shadow pre-battle cutscene active
+081A	Leo Shadow pre-battle cutscene active
+081B	Leo Shadow defeated, Leo Star Force gained
+0D08	Wave World visible
+0D26	Wave World visible in cutscene
+0D27	Play receive e-mail script on regaining control
+0D2E	Disable NPCs resetting animation after talking to them
+0EF7	Andromeda card registered in library
+1A8C	Beat Cancer Bubble
+1A8E	Beat Cancer Bubble EX
+1A97	Beat Wolf Woods
+1A99	Beat Wolf Woods EX
+1AA2	Beat Crown Thunder
+1AA4	Beat Crown Thunder EX
+E000	Base flag for Star Cards obtained
+F001	Talked to Satellite change guy
+F002	Checked the Star Trader
+F003	Got a Star Card from the Star Trader
+F004	Registering a Boktai brother
+F005	Checked a Boktai wavehole
+F006	Registering a Copy Brother
+F007	Registered a Copy Brother
+F008	Fighting a Time Trial
+F009	Set a new record in time trial
+F00A	Beat Time Trial - Taurus Fire
+F00B	Beat Time Trial - Cygnus Wing
+F00C	Beat Time Trial - Harp Note
+F00D	Beat Time Trial - Libra Scales
+F00E	Beat Time Trial - Queen Ophiuca
+F00F	Beat Time Trial - Gemini Spark
+F010	Beat Time Trial - Cancer Bubble
+F011	Beat Time Trial - Wolf Woods
+F012	Beat Time Trial - Crown Thunder
+F013	Beat Time Trial - Pegasus Magic
+F014	Beat Time Trial - Leo Kingdom
+F015	Beat Time Trial - Dragon Sky
+F016	Beat Time Trial - Andromeda
+F017	Beat Time Trial - Placeholder
+F018	Beat Time Trial - Placeholder
+F019	Talked to Real World virus
+F01A	Beat Real World virus - Echo Ridge (vending machine)
+F01B	Beat Real World virus - Echo Ridge (school)
+F01C	Beat Real World virus - Geo's Living Room
+F01D	Beat Real World virus - Geo's Room
+F01E	Beat Real World virus - Luna's Room
+F01F	Beat Real World virus - Bud's Room
+F020	Beat Real World virus - Zack's Room
+F021	Beat Real World virus - Vista Point
+F022	Beat Real World virus - AMAKEN Grounds (staircase)
+F023	Beat Real World virus - AMAKEN Grounds (roof)
+F024	Beat Real World virus - AMAKEN Foyer
+F025	Beat Real World virus - Science Museum
+F026	Beat Real World virus - Lab
+F027	Beat Real World virus - Foyer
+F028	Beat Real World virus - Class 1-A
+F029	Beat Real World virus - Gym
+F02A	Beat Real World virus - Studio
+F02B	Beat Real World virus - Time Square
+F02C	Beat Real World virus - Nacys 1F
+F02D	Beat Real World virus - Nacys Roof (Mowa Mowa)
+F02E	Beat Real World virus - Nacys Roof (cat ride)
+F02F	Beat Real World virus - Dream Island (bus stop)
+F030	Beat Real World virus - Dream Island (logs)
+F031	Beat Real World virus - Dream Park
+F032	Beat Real World virus - Scrapyard 1
+F033	NPC is jumping
+F034	Skip tutorial
+F035	Force Star Card drop
+F036	Dragon Sky pre-battle cutscene done
+F037	Simulated touch active
+F038	Skip touch screen object init (used for Wave Beam)
+F039	Leo Kingdom pre-battle cutscene done
+F03A	Humor Buster 1 active
+F03B	Humor Buster 2 active
+F03C	Humor Buster 3 active
+F03D	Legend Mode active
+F03E	Legend Mode turned off at some point
+F03F	Got Giga Card from Hollow
+F040	Beat Mettenna
+F041	Beat Mettenna2
+F042	Beat Mettenna3
+F043	Beat CannonBase
+F044	Beat MegaBase
+F045	Beat GigaBase
+F046	Beat Melamander
+F047	Beat Melalizard
+F048	Beat Melaleon
+F049	Beat HotRoader
+F04A	Beat HotMotor
+F04B	Beat HotBiker
+F04C	Beat Peekaboo
+F04D	Beat Wavyboo
+F04E	Beat Shakyboo
+F04F	Beat ZapAce
+F050	Beat ZapKing
+F051	Beat ZapJoker
+F052	Beat Wibbledee
+F053	Beat Wibbledoo
+F054	Beat Wibbledum
+F055	Beat Crowcar
+F056	Beat Crowket
+F057	Beat Crowbus
+F058	Beat MonoSword
+F059	Beat MonoSwordin
+F05A	Beat MonoSwordil
+F05B	Beat LuPelvis
+F05C	Beat LupiNatra
+F05D	Beat LupaDonna
+F05E	Beat LuPavarot
+F05F	Beat LupBach
+F060	Beat DoomCount
+F061	Beat DoomBomber
+F062	Beat DoomPlosion
+F063	Beat BellGong
+F064	Beat BellRef
+F065	Beat BellBoxer
+F066	Beat OctoNinja
+F067	Beat OctoIcer
+F068	Beat OctoPoison
+F069	Beat BoomBolt
+F06A	Beat BoomSpark
+F06B	Beat BoomThunder
+F06C	Beat Rocky
+F06D	Beat Craggy
+F06E	Beat Cliffy
+F06F	Beat StreamCancro
+F070	Beat RiverCancro
+F071	Beat SeaCancro
+F072	Beat Moaian
+F073	Beat Stonehead
+F074	Beat GiantFace
+F075	Beat Gooey
+F076	Beat Goopy
+F077	Beat Gloppy
+F078	Beat Lampis
+F079	Beat Lucis
+F07A	Beat Lumis
+F07B	Beat PrivateMop
+F07C	Beat ColonelMop
+F07D	Beat GeneralMop
+F07E	Beat RhinoHorn
+F07F	Beat RhinoHammer
+F080	Beat RhinoDrill
+F081	Beat TropiConga
+F082	Beat TropiCoppa
+F083	Beat TropiCoola
+F084	Beat Junk-O
+F085	Beat Junk-O2
+F086	Beat Junk-O3
+F087	Beat Fokx
+F088	Beat CopyFokx
+F089	Beat GuiseFokx
+F08A	Beat GreatAx
+F08B	Beat MagnaAx
+F08C	Beat KaiserAx
+F08D	Beat Eyez
+F08E	Beat GuardEyez
+F08F	Beat ProtectEyez
+F090	Beat Magera
+F091	Beat Mageri
+F092	Beat Magero
+F093	Beat McCleaver
+F094	Beat McDicer
+F095	Beat McLopper
+F096	Beat Grabity
+F097	Beat Grabotron
+F098	Beat Grabaklone
+F099	Beat Jammer
+F09A	Counter Hit Mettenna
+F09B	Counter Hit Mettenna2
+F09C	Counter Hit Mettenna3
+F09D	Counter Hit CannonBase
+F09E	Counter Hit MegaBase
+F09F	Counter Hit GigaBase
+F0A0	Counter Hit Melamander
+F0A1	Counter Hit Melalizard
+F0A2	Counter Hit Melaleon
+F0A3	Counter Hit HotRoader
+F0A4	Counter Hit HotMotor
+F0A5	Counter Hit HotBiker
+F0A6	Counter Hit Peekaboo
+F0A7	Counter Hit Wavyboo
+F0A8	Counter Hit Shakyboo
+F0A9	Counter Hit ZapAce
+F0AA	Counter Hit ZapKing
+F0AB	Counter Hit ZapJoker
+F0AC	Counter Hit Wibbledee
+F0AD	Counter Hit Wibbledoo
+F0AE	Counter Hit Wibbledum
+F0AF	Counter Hit Crowcar
+F0B0	Counter Hit Crowket
+F0B1	Counter Hit Crowbus
+F0B2	Counter Hit MonoSword
+F0B3	Counter Hit MonoSwordin
+F0B4	Counter Hit MonoSwordil
+F0B5	Counter Hit LuPelvis
+F0B6	Counter Hit LupiNatra
+F0B7	Counter Hit LupaDonna
+F0B8	Counter Hit LuPavarot
+F0B9	Counter Hit LupBach
+F0BA	Counter Hit DoomCount
+F0BB	Counter Hit DoomBomber
+F0BC	Counter Hit DoomPlosion
+F0BD	Counter Hit BellGong
+F0BE	Counter Hit BellRef
+F0BF	Counter Hit BellBoxer
+F0C0	Counter Hit OctoNinja
+F0C1	Counter Hit OctoIcer
+F0C2	Counter Hit OctoPoison
+F0C3	Counter Hit BoomBolt
+F0C4	Counter Hit BoomSpark
+F0C5	Counter Hit BoomThunder
+F0C6	Counter Hit Rocky
+F0C7	Counter Hit Craggy
+F0C8	Counter Hit Cliffy
+F0C9	Counter Hit StreamCancro
+F0CA	Counter Hit RiverCancro
+F0CB	Counter Hit SeaCancro
+F0CC	Counter Hit Moaian
+F0CD	Counter Hit Stonehead
+F0CE	Counter Hit GiantFace
+F0CF	Counter Hit Gooey
+F0D0	Counter Hit Goopy
+F0D1	Counter Hit Gloppy
+F0D2	Counter Hit Lampis
+F0D3	Counter Hit Lucis
+F0D4	Counter Hit Lumis
+F0D5	Counter Hit PrivateMop
+F0D6	Counter Hit ColonelMop
+F0D7	Counter Hit GeneralMop
+F0D8	Counter Hit RhinoHorn
+F0D9	Counter Hit RhinoHammer
+F0DA	Counter Hit RhinoDrill
+F0DB	Counter Hit TropiConga
+F0DC	Counter Hit TropiCoppa
+F0DD	Counter Hit TropiCoola
+F0DE	Counter Hit Junk-O
+F0DF	Counter Hit Junk-O2
+F0E0	Counter Hit Junk-O3
+F0E1	Counter Hit Fokx
+F0E2	Counter Hit CopyFokx
+F0E3	Counter Hit GuiseFokx
+F0E4	Counter Hit GreatAx
+F0E5	Counter Hit MagnaAx
+F0E6	Counter Hit KaiserAx
+F0E7	Counter Hit Eyez
+F0E8	Counter Hit GuardEyez
+F0E9	Counter Hit ProtectEyez
+F0EA	Counter Hit Magera
+F0EB	Counter Hit Mageri
+F0EC	Counter Hit Magero
+F0ED	Counter Hit McCleaver
+F0EE	Counter Hit McDicer
+F0EF	Counter Hit McLopper
+F0F0	Counter Hit Grabity
+F0F1	Counter Hit Grabotron
+F0F2	Counter Hit Grabaklone
+F0F3	Counter Hit Jammer
+F0F4	Counter Hit Taurus Fire
+F0F5	Counter Hit Cygnus Wing
+F0F6	Counter Hit Harp Note
+F0F7	Counter Hit Libra Scales
+F0F8	Counter Hit Queen Ophiuca
+F0F9	Counter Hit Gemini Spark
+F0FA	Counter Hit Cancer Bubble
+F0FB	Counter Hit Wolf Woods
+F0FC	Counter Hit Crown Thunder
+F0FD	Counter Hit Andromeda
+F0FE	Counter Hit Pegasus Magic
+F0FF	Counter Hit Leo Kingdom
+F100	Counter Hit Dragon Sky
+F101	Counter Hit Hollow
+F102	Beat Jammer
+F103	Beat Jammer2
+F104	Beat Jammer3
+F105	Beat JammerG
+F106	Beat Jammer2G
+F107	Beat Jammer3G
+F108	Beat Pegasus Magic
+F109	Beat Pegasus Magic EX
+F10A	Beat Leo Kingdom
+F10B	Beat Leo Kingdom EX
+F10C	Beat Dragon Sky
+F10D	Beat Dragon Sky EX
+F10E	Opening virus database
+F10F	Beat Andromeda Infinity
+F110	Have PegaFldr
+F111	Have LeoFldr
+F112	Have DrgnFldr
+F113	Have SunFldr
+F114	Have DarkFldr
+F115	Have LgndFldr
+F116	New Cipher mail 1
+F117	New Cipher mail 2
+F118	New Cipher mail 3
+F119	New Cipher mail 4
+F11A	New Cipher mail 5
+F11B	Start on Normal Mode
+F11C	Start on Legend Mode
+F11D	Learned CENCARLEBBUB Cipher Mail
+F11E	Legend Mode Cipher Mail: Need to find hint
+F11F	Legend Mode Cipher Mail: Need to reach credits
+F120	Famous quest: Started quest
+F121	Famous quest: Talked to deliveryman
+F122	Famous quest: Talked to deliveryman after finding Navi Chip
+F123	Famous quest: Gave Navi Chip to Ken
+F124	Famous quest: Fought Jammer
+F125	Famous quest: Watched Jammer post-battle cutscene
+F126	Famous quest: Talked to Ken at start of quest
+F127	Famous quest: Start bootup cutscene
+F128	Famous quest: Finished bootup cutscene
+F129	Hide Omega-Xis in Mega screen
+F12A	Got Power Up data from Famous
+F12B	Learned NGAMEMA RESCAFROT Cipher Mail
+F12C	1000 Note Challenge active
+F12D	Got a new high score in 1000 Note Challenge
+F12E	Got Star Frags in 1000 Note Challenge
+F12F	Got score of 1000 in 1000 Note Challenge
+F130	Got plural Star Frags from 1000 Note Challenge
+F131	Got plural score in 1000 Note Challenge
+F132	1000 Note challenge - big sprite crowd NPC is bull
+F133	Played 1000 Note challenge once
+F134	Watched Hollow pre-battle cutscene
+F135	Watched Hollow post-battle cutscene
+F136	Beat Hollow in story
+F137	Hollow freefight active
+F138	Got Giga Card from Shin's e-mail
+F139	Hollow pre-battle cutscene available
+F13A	Saved right before final boss
+F13B	Hollow refight spawns
+F13C	Already got Extra Folder from text command in Admin post-battle
+F13D	Time Trials spawn
+F13E	Dragon Sky EX spawns
+F13F	Got postgame Vista Point warning from Omega-Xis
+F140	Gauntlet refight active
+F141	Beat gauntlet fight 1
+F142	Beat gauntlet fight 2
+F143	Beat gauntlet fight 3
+F144	Beat gauntlet fight 4
+F145	Beat gauntlet fight 5
+F146	Beat gauntlet fight 6
+F147	Beat gauntlet fight 7
+F148	Beat gauntlet fight 8
+F149	Beat gauntlet fight 9
+F14A	Beat gauntlet fight 10
+F14B	Bought Giga Class card in Star Frag shop
+F14C	Got Giga Class card from Time Trials
+F14D	Disable Power Up for next fight
+F14E	Overworld keyboard hack for BG3
+F14F	Beat Real World virus - Final
+F150	Final Boss Rush enabled
+F151	Final Boss Rush active
+F152	Beat Final Boss Rush 1
+F153	Beat Final Boss Rush 2
+F154	Beat Final Boss Rush 3
+F155	Beat Final Boss Rush 4
+F156	Beat Final Boss Rush 5
+F157	Beat Final Boss Rush 6
+F158	Beat Final Boss Rush 7
+F159	Beat Final Boss Rush 8
+F15A	Beat Final Boss Rush 9
+F15B	Beat Final Boss Rush 10
+F15C	Beat Final Boss Rush 11
+F15D	Beat Final Boss Rush 12
+F15E	Beat Final Boss Rush 13
+F15F	Beat Final Boss Rush 14
+F160	Giga trade available today
+F161	Got or skipped Legend Mode completion Cipher Mail
+F162	Got Giga Card from Famous
+F163	Activate message about getting Andromeda
+F164	Activate Legendary Master Shin post-completion message
+F168	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F169	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F16A	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F16B	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F16C	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F16D	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F16E	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F16F	If this flag is set, the game freezes (safeguard for bad all cards cheat)
+F170	Start script A from map scene
+F171	Start script B from map scene
+F172	Start script C from map scene
+F173	Beat Andromeda
+F174	Show empty virus entries in Database
+F175	Activate Star Frag Trader
+F176	Finish Star Frag Trader
+F177	Met Legendary Master Shin
+F178	Failed Card Trader * once
+F179	Failed Card Trader * twice
+F17A	Geo Color Mega Man active
+F17B	Got Color Change from Cipher Mail
+F17C	Start Auto-Favorite selection
+F17D	DX bosses active
+F17E	Got DX Card
+F17F	Beat Taurus Fire DX
+F180	Beat Cygnus Wing DX
+F181	Beat Harp Note DX
+F182	Beat Libra Scales DX
+F183	Beat Queen Ophiuca DX
+F184	Beat Gemini Spark DX
+F185	Beat Andromeda DX
+F186	Beat Cancer Bubble DX
+F187	Beat Wolf Woods DX
+F188	Beat Crown Thunder DX
+F189	Beat Pegasus Magic DX
+F18A	Beat Leo Kingdom DX
+F18B	Beat Dragon Sky DX
+F18C	Beat Hollow DX
+F18D	Suppress gate open SFX
+F18E	Suppress Rescue Sonar function call in Scrap Comp cutscene
+F18F	Beat a new DX Boss
+F190	Beat a new DX Boss and got a Best Combo
+F191	Andromeda DX active
+F192	Beat all DX bosses
+F193	Neutral Satellite for Power Up data
+F194	Receive neutral Satellite for Power Up data from Famous (OLD)
+F195	Did post credits DX unlock
+F196	Need to update top screen
+F197	DX Color Mega Man active
+F198	Got DX Color change
+F199	Fighting DX Boss
+F19A	Deleted LuPelvis in battle (temporary)
+F19B	Revert back to Geo on battle start
+
+// VARIABLES
+F238	Temporary step counter 1
+F240	Temporary step counter 2
+F248	Temporary step counter 3
+F250	Temporary step counter 4
+F258	Boktai Brother and item ID for mail
+F260	Giga trade card
+F268	Giga trade year
+F270	Giga trade month
+F278	Giga trade day
+F280	Star Frags 1 (lowest bits)
+F288	Star Frags 2
+F290	Star Frags 3
+F298	Star Frags 4 (highest bits)
+F2A0	1000 Note Challenge high score LO
+F2A8	1000 Note Challenge high score HI
+F2B0	Boktai difficulty
+F2B8	Boktai flags 1
+F2C0	Boktai flags 2
+F2C8	Boktai flags 3
+F2D0	Boktai flags 4
+F2D8	Current Extra Folder
+F2E0	Simulated touch - X coordinate (could just use text buffer...)
+F2E8	Simulated touch - Y coordinate (could just use text buffer...)
+F2F0	Current Real World virus
+F2F8	Current Time Trial (0 = Taurus Fire...)
+F300	Time Trial - Taurus Fire 1
+F308	Time Trial - Taurus Fire 2
+F310	Time Trial - Cygnus Wing 1
+F318	Time Trial - Cygnus Wing 2
+F320	Time Trial - Harp Note 1
+F328	Time Trial - Harp Note 2
+F330	Time Trial - Libra Scales 1
+F338	Time Trial - Libra Scales 2
+F340	Time Trial - Queen Ophiuca 1
+F348	Time Trial - Queen Ophiuca 2
+F350	Time Trial - Gemini Spark 1
+F358	Time Trial - Gemini Spark 2
+F360	Time Trial - Cancer Bubble 1
+F368	Time Trial - Cancer Bubble 2
+F370	Time Trial - Wolf Woods 1
+F378	Time Trial - Wolf Woods 2
+F380	Time Trial - Crown Thunder 1
+F388	Time Trial - Crown Thunder 2
+F390	Time Trial - Pegasus Magic 1
+F398	Time Trial - Pegasus Magic 2
+F3A0	Time Trial - Leo Kingdom 1
+F3A8	Time Trial - Leo Kingdom 2
+F3B0	Time Trial - Dragon Sky 1
+F3B8	Time Trial - Dragon Sky 2
+F3C0	Time Trial - Andromeda 1
+F3C8	Time Trial - Andromeda 2
+F3D0	Time Trial - Placeholder 1
+F3D8	Time Trial - Placeholder 2
+F3E0	Time Trial - Placeholder 1
+F3E8	Time Trial - Placeholder 2
