@@ -400,34 +400,49 @@ you will possess
 devastating firepower.
 ###--------
 ###Mugshot:LeoKingdomShadow
-While you are in this
-form, the Mega Buster's
-Attack Power is doubled!
-###--------
-###Mugshot:LeoKingdomShadow
 The Charged Shot will change
 to Flame Burner, a Fire
 attack with immense power.
 ###--------
 ###Mugshot:LeoKingdomShadow
+While you are in this
+form, the Mega Buster's
+Attack rating is doubled,
+###--------
+###Mugshot:LeoKingdomShadow
+and you will be able
+to charge it beyond
+its normal limit!
+###--------
+###Mugshot:LeoKingdomShadow
+When you unleash
+the Flame Burner at
+maximum strength,
+###--------
+###Mugshot:LeoKingdomShadow
+it will absorb your next
+card, and increase
+Flame Burner's damage
+###--------
+###Mugshot:LeoKingdomShadow
+by an amount equal to
+the base Attack Power
+of that card.
+###--------
+###Mugshot:LeoKingdomShadow
+However, this can only be
+done with Standard Cards
+that deal damage.
+###--------
+###Mugshot:LeoKingdomShadow
 Moreover, both the Mega
-Buster and Charged Shot
+Buster and Flame Burner
 will break through shields!
 ###--------
 ###Mugshot:LeoKingdomShadow
-However, if you are hit
+Be careful. If you are hit
 by an Aqua attack, you will
 revert back into Mega Man.
-###--------
-###Mugshot:LeoKingdomShadow
-###--------
-###Mugshot:LeoKingdomShadow
-###--------
-###Mugshot:LeoKingdomShadow
-###--------
-###Mugshot:LeoKingdomShadow
-###--------
-###Mugshot:LeoKingdomShadow
 ###--------
 ###Mugshot:LeoKingdomShadow
 ###--------

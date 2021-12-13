@@ -5,12 +5,53 @@
 .open TEMP+"/arm9.dec",0x02000000
 
 
-.definelabel	VERSION, (1 << 0x10) | (1 << 0x8) | (5 << 0x0)
+.definelabel	VERSION, (1 << 0x10) | (2 << 0x8) | (0 << 0x0)
 
 .include "asm/arm9_battlecard.asm"
 .if OPT_RESUME_MUSIC
 .include "asm/arm9_bgm.asm"
 .endif
+
+
+.org 0x203AF24	// "Cancelled" message when canceling on "waiting for response from friend"
+.area 0xE,0x00
+	// Send cancel to other player
+	mov	r0,r4
+	bl	common_connectSendCancel
+	b	0x203B0AE
+.endarea
+
+.org 0x203A9BC	// Turn selection menu
+	bl	common_connectTurnsMenu
+
+.org 0x203AD66	// Open turn selection menu
+.area 0x16,0x00
+	mov	r0,r4		// passed to function
+
+	// Check if we are the host
+	ldr	r1,[0x203B074]	// 0x20E4
+	ldrb	r1,[r4,r1]	// 0 = host, 1 = client
+	cmp	r1,0x0
+	bne	@@client
+@@host:
+	bl	common_connectOpenTurnsMenu
+	b	0x203B0AE	// end
+@@client:
+	bl	common_connectConfirmResponse
+	b	0x203B0AE	// end
+.endarea
+
+.org 0x203AB6E	// Skip text for confirm multiplayer battle mode
+.area 0xC
+	b	0x203AB7A
+.endarea
+.org 0x203AD52	// Auto-confirm multiplayer battle mode
+.area 0x14,0x00
+	b	0x203AD66
+.endarea
+.org 0x203AD7C
+.area 0x8,0x00
+.endarea
 
 
 .org 0x202BCAE
@@ -2178,6 +2219,189 @@ arm9_font2:
 
 
 .align 2
+common_connectTurnsMenu:
+	// r0 = state
+	// r4 = this
+	cmp	r0,0x13
+	beq	@@stateTurnsMenu
+	bhi	@@end
+	bx	r14
+
+@@stateTurnsMenu:
+	// If either player exits
+	ldr	r0,=0x2117790
+	ldr	r1,=0x21177B0
+	ldrb	r0,[r0,0x5]
+	ldrb	r1,[r1,0x1]
+	cmp	r0,0x82
+	beq	@@exit
+	cmp	r1,0x82
+//	beq	@@exit
+	bne	@@checkCancel
+
+@@exit:
+	// Exit menu
+	mov	r0,r4
+	ldr	r1,=0x203A2C8|1
+	mov	r2,0x0
+	bl	0x2039810
+	b	@@end
+
+@@checkCancel:
+	ldr	r3,=0x20E4
+	add	r3,r4,r3
+	cmp	r0,0x81
+	beq	@@cancel
+	cmp	r1,0x81
+	beq	@@cancel
+	ldr	r0,[r3,(0x20FC-0x20E4)]	// host ready
+	ldr	r1,[r3,(0x2100-0x20E4)]	// client ready
+	cmp	r0,0x0
+	beq	@@cancel
+	cmp	r1,0x0
+//	beq	@@cancel
+	bne	@@checkOption
+
+@@cancel:
+	ldr	r3,=0x20E4
+	add	r3,r4,r3
+	mov	r0,0x0
+	str	r0,[r3,(0x20F4-0x20E4)]	// disable selection
+
+	// Change state to cancelled
+	mov	r0,0x7
+	str	r0,[r3,(0x20E8-0x20E4)]	// state
+
+	// Start cancelled text script
+	mov	r0,r4
+	mov	r1,(107)	// mess_1213, script 107
+	bl	0x2039BE0
+
+	// Process action
+	mov	r0,r4
+	bl	0x203B990
+	ldr	r1,=0x2117770
+	strb	r0,[r1,0x2]
+	b	@@end
+
+@@checkOption:
+	// Check cancel
+	mov	r0,0x1
+	lsl	r0,r0,0x12
+	bl	0x2008DAC
+	cmp	r0,0x1
+	beq	@@sendCancel
+
+	// Check script finished
+	bl	0x2008D9C
+	cmp	r0,0x0
+	bne	@@end
+
+	// Get last choice
+	bl	0x2008DC0
+	// Store number of turns
+	add	r1,=common_connectNumberOfTurns
+	str	r0,[r1]
+
+	// This also reloads Humor Buster and Geo/DX name
+	bl	0x20080FC	// reload stats
+
+	mov	r0,r4
+	bl	common_connectConfirmResponse
+
+	b	@@end
+
+@@sendCancel:
+	mov	r0,r4
+	bl	common_connectSendCancel
+
+//	b	@@end
+
+@@end:
+	// jump to end of function
+	ldr	r0,=0x203B0AE|1
+	bx	r0
+
+.align 2
+common_connectSendCancel:
+	push	r4,r14
+	mov	r4,r0		// this
+
+	// Play cancel SFX
+	ldr	r0,=0x21206CC
+	ldr	r0,[r0]
+	mov	r1,0x8B
+	bl	0x2025574
+
+	// Start cancelled text script
+	mov	r0,r4
+	mov	r1,(107)
+	bl	0x2039BE0
+
+	// Set state to cancelled
+	ldr	r0,=0x20E8
+	mov	r1,0x7
+	str	r1,[r4,r0]
+
+	// Send cancel to other player
+	mov	r0,0x81
+	ldr	r1,=0x2117770
+	strb	r0,[r1,0x2]
+
+	pop	r4,r15
+
+.align 2
+common_connectOpenTurnsMenu:
+	push	r4,r14
+	mov	r4,r0		// this
+
+	// Start turns menu text script
+	mov	r0,r4
+	mov	r1,(116)	// mess_1213, script 116
+	bl	0x2039BE0
+
+	// Change state to choosing turns
+	ldr	r0,=0x20E8
+	mov	r1,0x13
+	str	r1,[r4,r0]
+
+	// Clear number of turns
+	add	r1,=common_connectNumberOfTurns
+	str	r0,[r1]
+
+	// This also reloads Humor Buster and Geo/DX name
+	bl	0x20080FC	// reload stats
+
+	pop	r4,r15
+
+.align 4
+common_connectNumberOfTurns:
+	.dw	0x0
+
+.align 2
+common_connectConfirmResponse:
+	push	r4,r14
+	mov	r4,r0		// this
+
+	// Send confirm response to other player
+	ldr	r0,=0x2117770
+	mov	r1,0x80
+	strb	r1,[r0,0x2]
+
+	// Start waiting for response text script
+	mov	r0,r4
+	mov	r1,(106)	// mess_1213, script 106
+	bl	0x2039BE0
+
+	// Change state to waiting for response
+	ldr	r0,=0x20E8
+	mov	r1,0xB
+	str	r1,[r4,r0]
+
+	pop	r4,r15
+
+
+.align 2
 common_connectFadeIn:
 	mov	r0,(0x718 >> 0x3)
 	lsl	r0,r0,0x3
@@ -2444,8 +2668,9 @@ common_reloadBusterStats:
 
 .align 2
 common_reloadColorChangeHumorBuster:
-	push	r4,r14
-	mov	r4,0x1		// is MMSF DX
+	push	r4-r5,r14
+	mov	r4,0x1		// 0x01 = MMSF DX
+	mov	r5,0x0
 
 @@checkColorChange:
 	// Check Geo Color Mega Man
@@ -2488,18 +2713,26 @@ common_reloadColorChangeHumorBuster:
 	ldr	r1,=0xF197
 	bl	0x202409C	// check flag
 	cmp	r0,0x0
-	beq	@@setExtraStats
+	beq	@@checkNumberOfTurns
 
 	mov	r0,0x20
 	orr	r4,r0
 
 	// 0x40 reserved for AutoLock off
 
+@@checkNumberOfTurns:
+	ldr	r0,=common_connectNumberOfTurns
+	ldr	r0,[r0]
+	lsl	r0,r0,0x1E
+	lsr	r0,r0,0x1E
+	orr	r5,r0
+
 @@setExtraStats:
 	ldr	r0,=0x213BB58
-	strb	r4,[r0,0x3]	// extra data
+	strb	r4,[r0,0x3]	// extra data 1
+	strb	r5,[r0,0x7]	// extra data 2
 
-	pop	r4,r15
+	pop	r4-r5,r15
 
 
 .align 2
@@ -4636,6 +4869,9 @@ common_saveLoadExData:
 	// Upgrade from previous version: set Star Card flags
 	bl	common_upgradeSetStarCardFlags
 
+	// Upgrade from previous version: remove Copy Brother SP records
+	bl	common_upgradeRemoveCopyBrotherSPRecords
+
 	// Upgrade from previous version: version check
 	bl	common_upgradeVersionCheck
 
@@ -4659,6 +4895,56 @@ common_saveIsLoaded:
 	.dw	0x0
 @naviScreenFlags:
 	.dh	0x40, 0x42, 0x41, 0x43, 0x44
+
+
+.align 2
+common_upgradeRemoveCopyBrotherSPRecords:
+	push	r4-r7,r14
+
+	// Get own Brother data
+	mov	r1,0x0
+	bl	0x200C93C
+	mov	r4,r0
+
+	mov	r5,0x1
+@@brotherLoop:
+	// Get Brother data
+	mov	r1,r5
+	bl	0x200C93C
+
+	// Compare Brother IDs
+	mov	r2,(0x578 >> 0x3)
+	lsl	r2,r2,0x3
+	add	r1,r4,r2	// own Brother ID
+	add	r2,r0,r2	// other Brother ID
+	mov	r3,0x0
+@@compareLoop:
+	ldrb	r6,[r1,r3]
+	ldrb	r7,[r2,r3]
+	cmp	r6,r7
+	bne	@@nextBrother
+	add	r3,0x1
+	cmp	r3,0xC
+	blt	@@compareLoop
+
+	// Same Brother ID, remove records
+	mov	r1,(0x6A8 >> 0x3)
+	lsl	r1,r1,0x3
+	add	r1,r0,r1
+	mov	r2,0x0
+	mvn	r2,r2
+	mov	r3,(14)
+@@deleteRecordsLoop:
+	stmia	[r1]!,r2
+	sub	r3,0x1
+	bne	@@deleteRecordsLoop
+
+@@nextBrother:
+	add	r5,0x1
+	cmp	r5,0x7
+	blt	@@brotherLoop
+
+	pop	r4-r7,r15
 
 
 .align 2
@@ -8115,6 +8401,18 @@ common_setSpecialBrother:
 	lsl	r3,r3,0x4
 	bl	0x202E010
 
+	// Remove SP boss records
+	mov	r0,(0x6A8 >> 0x3)
+	lsl	r0,r0,0x3
+	add	r0,r4,r0
+	mov	r1,0x0
+	mvn	r1,r1
+	mov	r2,(14)
+@@deleteRecordsLoop:
+	stmia	[r0]!,r1
+	sub	r2,0x1
+	bne	@@deleteRecordsLoop
+
 	// Check if player is LV 100
 	mov	r1,0x0
 	bl	0x200CF9C
@@ -8958,11 +9256,22 @@ common_fakeItemCounts:
 
 @@checkStarFrag:
 	cmp	r0,0x56
-	bne	@@checkCount
+	bne	@@checkPowerUpData
 	push	r1-r3
 	bl	common_getStarFrags
 	pop	r1-r3
 	cmp	r0,0x0
+	beq	@@return0
+	b	@@return1
+
+@@checkPowerUpData:
+	cmp	r0,(90)		// Power Up Data
+	bne	@@checkCount
+	push	r0-r3
+	ldr	r1,=0xF12A	// got Power Up Data from Famous
+	bl	0x202409C	// check flag
+	cmp	r0,0x0
+	pop	r0-r3
 	beq	@@return0
 	b	@@return1
 

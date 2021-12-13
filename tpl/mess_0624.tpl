@@ -3,8 +3,7 @@
 
 script 13 mmsf1 {
 	msgOpen
-	mugshotShow
-		mugshot = Geo
+	callMugshotShowGeoOrMegaManSad
 	"""
 	*gasp* *gasp*
 	It's getting
@@ -22,8 +21,7 @@ script 13 mmsf1 {
 }
 script 14 mmsf1 {
 	msgOpen
-	mugshotShow
-		mugshot = GeoHappy
+	callMugshotShowGeoOrMegaManHappy
 	"""
 	OK,gotta move
 	this trash out

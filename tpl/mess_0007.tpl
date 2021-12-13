@@ -177,7 +177,7 @@ script 33 mmsf1 {
 		down = 0
 		left = 1
 		right = 1
-		string = "Activate"
+		string = "Star Power"
 	optionButtonSmall
 		up = 1
 		down = 1

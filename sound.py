@@ -489,6 +489,21 @@ fallThunderSseq.bankID = bankBcmnID
 ssar.sequences[fallThunderSseqIdx] = (fallThunderSseqName, fallThunderSseq)
 
 
+chrgDone2EvntIdx = len(ssar.eventsData)
+chrgDone2Evnt = bytearray()
+chrgDone2Evnt.extend(initInstrument(202).save())
+chrgDone2Evnt.extend(ndspy.soundSequence.NoteSequenceEvent(62, 127, 0).save())
+chrgDone2Evnt.extend(ndspy.soundSequence.EndTrackSequenceEvent().save())
+ssar.eventsData += chrgDone2Evnt
+
+chrgDone2SseqIdx = len(ssar.sequences)
+chrgDone2SseqName = 'SE' + str(chrgDone2SseqIdx) + 'CHARGEDONE2'
+chrgDone2Sseq = ndspy.soundSequenceArchive.SSARSequence(chrgDone2EvntIdx, bankBcmnID, 100, 96, 64, 1, parsed=False)
+ssar.sequences.append((chrgDone2SseqName, chrgDone2Sseq))
+
+vars.write('.definelabel SE_CHARGEDONE2,%d\n' % chrgDone2SseqIdx)
+print('Added', chrgDone2SseqName)
+
 
 # Add Hollow sound effects to SSAR
 magicCircleEvntIdx = len(ssar.eventsData)

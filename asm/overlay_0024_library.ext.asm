@@ -86,7 +86,8 @@ library_toggleStarCard:
 
 .align 2
 library_drawStarOnCard:
-	push	r0-r1,r14
+	lsl	r3,r3,0x1B
+	push	r0-r1,r3,r14
 
 	// Check if this is a Star Card
 	mov	r0,r1
@@ -101,8 +102,7 @@ library_drawStarOnCard:
 @@normal:
 	mov	r2,0x1
 @@end:
-	lsr	r3,r3,0x1D
-	pop	r0-r1,r15
+	pop	r0-r1,r3,r15
 
 
 .align 2

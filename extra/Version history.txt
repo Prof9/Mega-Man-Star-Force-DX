@@ -1,3 +1,51 @@
+Ver. 1.2.0 - 14 December 2021
+ *  Fire Leo Mega Man now has a new ability: Blaze Charge. If your next card is
+    a Standard Card, the Mega Buster can charge up to 2 levels. When you fire
+    the Lv. 2 Charged Shot, the card will be used up and its base Attack Power
+    (not counting Power Up effects) is added to Flame Burner's Attack Power.
+ *  In multiplayer Wave Battles, you can now choose between 15 Turns, 10 Turns,
+    5 Turns or 3 Turns, just like in MMSF2/MMSF3.
+ *  Added a turn counter in multiplayer Wave Battles which is shown while the
+    Custom Screen is open, similar to MMSF2/MMSF3.
+ *  The WolfWoods Mega Cards now have a command input. When Wolf Woods appears,
+    quickly spin the +Control Pad in a circle. If successful, Wolf Woods will
+    change into his berserk mode and the attack will inflict Blind.
+ *  Fixed a glitch where Poison Pharaoh would drain the HP of enemies while they
+    were invulnerable due to Power Song. (This also caused them to become
+    immortal if their HP rolled over to 0 while invulnerable.)
+ *  Fixed the subject and sender being swapped for "DX Complete!" e-mail.
+ *  Fixed a glitch where the wrong element icon was shown on the card image for
+    Standard Cards in the Library.
+ *  Fixed a glitch in the base game where Pegasus Magic's texture doesn't
+    animate during Pegasus Magic GX and Pegasus Freeze attacks.
+ *  Fixed a minor issue where in a few conversations, Geo's mugshot would
+    alternate between Visualizer on and off if you started the conversation with
+    the Visualizer on.
+ *  Fixed a glitch where on Legend Mode, Counter Hits would not bypass Crown
+    Thunder's No Paralyze ability if the card used has a Lv. 2 or higher
+    paralysis effect.
+ *  Fixed a glitch where on Legend Mode, Counter Hits would not cause Cancer
+    Bubble to become paralyzed if the card used has a bubble effect.
+ *  Fixed Color Change and Humor Buster changes not being applied in multiplayer
+    battles if you went straight into the Connect menu without closing the
+    Transer.
+ *  Renamed the "Activate" menu option when selecting a Star Card in battle to
+    "Star Power".
+ *  Copy Brothers no longer copy your SP Boss Records. (When you upgrade to this
+    version, any SP Boss Records for existing Copy Brothers are automatically
+    deleted.)
+ *  When you try to use a Lunar Knights Sub Card from the Item menu, it will now
+    show an additional message telling you you can mail it to a Lunar Knights
+    Brother.
+ *  Once you've obtained Power Up Data, it will now also appear in the Item menu
+    with a message telling you to go to the third page of the Mega Screen.
+ *  When choosing a multiplayer battle mode, it will now skip the Start/Cancel
+    option automatically, just like in MMSF2/MMSF3.
+ *  When choosing a multiplayer battle mode, if you press B on the "Waiting for
+    response" message while the other player is still selecting Start/Cancel, it
+    now shows the "Cancelled!" message on both players' ends rather than only
+    for the other player.
+
 Ver. 1.1.5 - 4 July 2021
  *  On Legend Mode, fixed Andromeda's Meteors sometimes not being Fire Elemental
     when you're in Green Dragon form.

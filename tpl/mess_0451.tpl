@@ -173,8 +173,7 @@ script 31 mmsf1 {
 	"""
 	keyWait
 	clearMsg
-	mugshotShow
-		mugshot = Geo
+	callMugshotShowGeoOrMegaManSad
 	"...Yes."
 	keyWait
 	clearMsg
@@ -237,8 +236,7 @@ script 31 mmsf1 {
 	"""
 	keyWait
 	clearMsg
-	mugshotShow
-		mugshot = Geo
+	callMugshotShowGeoOrMegaManSad
 	"What!?"
 	keyWait
 	clearMsg
@@ -285,8 +283,7 @@ script 31 mmsf1 {
 	"""
 	keyWait
 	clearMsg
-	mugshotShow
-		mugshot = Geo
+	callMugshotShowGeoOrMegaManSad
 	"""
 	Th-Then,you have
 	no idea where it

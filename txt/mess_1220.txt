@@ -406,6 +406,11 @@ powers up bosses.
 Equip for a look that is
 sure to dazzle everyone.
 ###--------
+###Script:90
+Data that improves
+Mega Man's stats and
+abilities.
+###--------
 ###Script:92
 ###Mugshot:Geo
 Increases chance of

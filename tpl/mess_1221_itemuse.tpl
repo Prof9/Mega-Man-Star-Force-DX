@@ -1,5 +1,5 @@
 @archive mess_1221
-@size 100
+@size 110
 
 script 0 mmsf1 {
 	msgOpenQuick
@@ -111,6 +111,15 @@ script 6 mmsf1 {
 	This enhancement
 	item is for use
 	w/Lunar Knights.
+	"""
+	keyWait
+	clearMsg
+	textSpeed
+		delay = 0
+	"""
+	Try sending it
+	to a Lunar
+	Knights Brother.
 	"""
 	keyWait
 	waitHold
@@ -1663,6 +1672,18 @@ script 98 mmsf1 {
 	...OK! DX Bosses will
 	no longer appear.
 	Bye!
+	"""
+	keyWait
+	waitHold
+	end
+}
+script 100 mmsf1 {
+	msgOpenQuick
+	callMugshotShowGeoMenu
+	"""
+	Power Up Data can be
+	edited on the third page
+	of the Mega Screen.
 	"""
 	keyWait
 	waitHold

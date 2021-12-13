@@ -1,6 +1,6 @@
 MEGA MAN STAR FORCE DX
-Version 1.1.5
-4 July 2021
+Version 1.2.0
+14 December 2021
 
 Official discussion topic:
 https://forums.therockmanexezone.com/mega-man-star-force-dx-t16546.html
@@ -95,7 +95,7 @@ Once you have dumped the ROM file for the game, apply the following patch.
 NOTE: If you're upgrading from a previous version, you need to apply the patch
 again to an unmodified ROM!
 
-    MegaManStarForceDX-Ver1.1.5.bps
+    MegaManStarForceDX-Ver1.2.0.bps
 
 This is a BPS type patch. Here are some tools you can use to apply it:
 
@@ -115,9 +115,8 @@ Alternatively, you can play Mega Man Star Force DX on a real Nintendo DS, DSi or
 3DS using a flash cart. Any flash cart which is capable of running backups
 should also be able to run Mega Man Star Force DX.
 
-If you have a modded Nintendo DSi or Nintendo 3DS, you may also be able to play
-Mega Man Star Force DX using nds-bootstrap. However, this has not been
-extensively tested.
+If you have a modded Nintendo DSi or Nintendo 3DS, you can also play Mega Man
+Star Force DX using nds-bootstrap.
 
 
 
@@ -161,6 +160,8 @@ unpatched US version of Mega Man Star Force. This can be done in two ways:
     Button to fire the Mega Buster. Avoid moving left or right (if there is a
     Rock Cube in the way, just power through it). Eventually, the other player
     should be deleted, ending the battle on both sides.
+    Alternatively, you can simply wait out 15 turns, and the battle will
+    automatically end in a draw.
 
  *  Via Nintendo Wi-Fi Connection: Brother Bands can be formed between Mega Man
     Star Force DX and the unpatched version without any problems. Note that,
@@ -181,7 +182,7 @@ These are the newly added cards:
  *  QuickGauge
  *  SlowGauge
 
-The Lunar Knights Battle Cards CAN be traded to and used in the unpatched
+The Lunar Knights Battle Cards CAN be traded to and work fine in the unpatched
 version of the game. However, they won't have names or descriptions.
 
 Also, if you trade Star Cards to the unpatched version, they will appear as blue
@@ -238,9 +239,10 @@ A:  To use a Star Force transformation, you must either be on that Satellite
     yourself or have a Brother who is on that Satellite.
 
 Q:  Is the source code available?
-A:  I plan to share the source code for this eventually, but currently it + the
-    build scripts are kind of a mess, and I don't feel comfortable publishing
-    them just yet.
+A:  Yes: https://github.com/Prof9/Mega-Man-Star-Force-DX
+
+Q:  Will there be an MMSF2 DX or MMSF3 DX?
+A:  There are currently no plans to produce MMSF2 DX or MMSF3 DX.
 
 
 

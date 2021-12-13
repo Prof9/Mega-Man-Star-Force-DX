@@ -37,6 +37,47 @@
 .endif
 
 
+.org 0x217F52C	// Buster overcharge enable
+.area 0xE,0x00
+	ldr	r0,[0x217F5D4]	// 0x21AF018
+	bl	battle_overChargeEnable
+	bhi	0x217F53A
+	ldrh	r1,[r0,r3]
+	add	r1,0x1
+	strh	r1,[r0,r3]
+.endarea
+
+.org 0x2157374	// Buster overcharge model update
+.area 0x74,0x00
+	push	r14
+	bl	battle_overChargeModel
+	pop	r15
+.endarea
+
+
+.org 0x2180080	// Clip charge when card used
+	bl	battle_overChargeUseCard
+
+
+.org 0x215CD12	// Wolf Woods command code init
+	str	r0,[r4,0x1C]	// clear all 4 bytes
+.org 0x215CD80
+	bl	battle_wolfWoodsCommandCheck
+.org 0x215CD8C
+	bl	battle_wolfWoodsCommandTransform
+.org 0x215CDD2
+	bl	battle_wolfWoodsCommandTransformEnd
+
+.org 0x215D25A	// Wolf Woods card spawn first slash
+	push	r0
+	add	r1,sp,0x8
+	mov	r2,0x1
+	bl	0x2183564
+	bl	battle_wolfWoodsCommandSlash1
+.org 0x215D2DC	// Wolf Woods card spawn second slash
+	bl	battle_wolfWoodsCommandSlash2
+
+
 .org 0x219FED0	// Fix JunkCube random position
 	.db	(2), (3)	// left
 	.db	(1), (3)	// middle
@@ -91,6 +132,19 @@
 // All dimming card text at top of screen (MMSF3)
 .org 0x21A3928+0x1
 	.db	(32)	// from 90
+
+// Match turn counter
+.org 0x215036C
+	bl	battle_matchTurnCounter
+.org 0x2196A30	// Dummy out the original FINAL TURN
+.area 0x60,0x00
+	bx	r14
+.endarea
+
+.org 0x219051C
+	bl	battle_checkFinalTurnSub1
+.org 0x21539F4
+	bl	battle_checkFinalTurn
 
 // Battle message scroll
 .org 0x2195566
@@ -689,6 +743,14 @@
 .area 0x8,0x00
 	b	0x217DEC4
 .endarea
+
+
+.org 0x217F760	// Apply Counter Hit paralysis to status immune bosses
+	mov	r2,0x94
+	bl	battle_counterParalyzeNoParalyze
+.org 0x217F774
+	mov	r2,0x98
+	bl	battle_counterParalyzeNoBubble
 
 
 .org 0x21504D0	// Prevent RNG reseed at start of turn
@@ -1363,6 +1425,14 @@
 	bl	battle_doubleBuster
 .org 0x217E522
 	bl	battle_doubleFlameBurner
+.org 0x217E528
+	bl	battle_flameBurnerOverChargedPower
+.org 0x2178DBE
+	bl	battle_flameBurnerOverChargedSize1
+.org 0x2188AD8
+	bl	battle_flameBurnerOverChargedSize2
+.org 0x2178CA6
+	bl	battle_flameBurnerOverChargedSFX
 .org 0x2176B0E
 	bl	battle_breakBuster
 .org 0x2188982	// Make Flame Burner breaking
@@ -1431,7 +1501,7 @@
 .org 0x217F882
 	bl	battle_getGreenInvisMask2
 .org 0x217F920
-	mov	r1,0x0
+	ldr	r1,[r2,0x2C]
 	bl	battle_getGreenInvisMask
 .org 0x217EBD2	// Add timer for green invis
 	bl	battle_greenInvisTimer
@@ -1465,9 +1535,17 @@
 .org 0x217F4E4	// Fix SFX overlap
 	ldrh	r1,[r0,r2]		// keep r0
 	cmp	r4,r1
-	bne	0x217F4F4
+	bne	0x217F4F6 // 0x217F4F4
 	ldr	r3,[0x217F5D8]		// keep r0
 	bl	battle_keepChargeAvoidSFXOverlap
+
+.org 0x217F4F4	// Buster overcharge SFX
+	b	@@next
+//0x217F4F6
+	ldr	r3,[0x217F5D8]	// 0x21206CC
+	bl	battle_overChargeSFX
+@@next:
+	bl	battle_overChargeSFXPost
 
 
 // Always have Side Select

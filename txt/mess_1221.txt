@@ -35,6 +35,10 @@ for now.
 This enhancement item is
 for use with Lunar Knights.
 ###--------
+###Mugshot:Geo
+Try mailing it to a
+Lunar Knights Brother.
+###--------
 ###Script:10
 Mega Man recovered
 50 HP!

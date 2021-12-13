@@ -1387,6 +1387,50 @@ script 115 mmsf1 {
 	keyWait
 	end
 }
+script 116 mmsf1 {
+	msgOpenQuick
+	textSpeed
+		delay = 0
+	callMugshotShowGeoMenu
+	optionButtonSmall
+		up = 2
+		down = 2
+		left = 1
+		right = 1
+		string = "15 Turns"
+	optionButtonSmall
+		up = 3
+		down = 3
+		left = 0
+		right = 0
+		string = "10 Turns"
+	optionButtonSmall
+		up = 0
+		down = 0
+		left = 3
+		right = 3
+		string = "5 Turns"
+	optionButtonSmall
+		up = 1
+		down = 1
+		left = 2
+		right = 2
+		string = "3 Turns"
+	"""
+	Choose the number
+	of turns per round.
+	"""
+	selectButtonSquare4
+		default = 0
+		BContinue = true
+		disableB = false
+		jump1 = continue
+		jump2 = continue
+		jump3 = continue
+		jump4 = continue
+		jump5 = continue
+	end
+}
 script 120 mmsf1 {
 	msgOpenQuick
 	textSpeed

@@ -1,7 +1,7 @@
 .erroronwarning on
 
 // Enables music resuming on the overworld. Also need to adjust sound.py.
-.definelabel OPT_RESUME_MUSIC, 1
+.definelabel	OPT_RESUME_MUSIC, 1
 // If enabled, allocates save buffers when the game starts and never deallocates them.
 // This eats up 0x18318 bytes of RAM but guarantees the save buffer won't fragment the heap.
 .definelabel	OPT_SAVE_PERSIST_BUFFERS, 1

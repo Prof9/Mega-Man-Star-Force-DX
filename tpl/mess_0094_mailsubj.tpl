@@ -42,10 +42,10 @@ script 67 mmsf1 {
 	end
 }
 script 68 mmsf1 {
-	"Famous Mk.II"
+	"DX Complete!"
 	end
 }
 script 69 mmsf1 {
-	"DX Complete!"
+	"Famous Mk.II"
 	end
 }

@@ -7,8 +7,7 @@ script 10 mmsf1 {
 		jumpIfTrue = 11
 		jumpIfFalse = continue
 	msgOpen
-	mugshotShow
-		mugshot = Geo
+	callMugshotShowGeoOrMegaManSad
 	"""
 	It looks like
 	this door can
@@ -26,8 +25,7 @@ script 10 mmsf1 {
 }
 script 11 mmsf1 {
 	msgOpen
-	mugshotShow
-		mugshot = GeoHappy
+	callMugshotShowGeoOrMegaManHappy
 	"""
 	It looks like
 	this door can

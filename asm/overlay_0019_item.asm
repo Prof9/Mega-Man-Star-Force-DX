@@ -396,6 +396,7 @@ item_itemList:
 
 	.db	0x53	// Legend Proof
 	.db	0x58	// DX Card
+	.db	0x5A	// Power Up Data
 	.db	0x51	// Humor Buster
 	.db	0x57	// Color Change R
 	.db	0x59	// Color Change G
@@ -517,8 +518,14 @@ item_useItemMenu:
 
 @@checkColorChangeG:
 	cmp	r0,0x59		// Color Change G
-	bne	@@normal
+	bne	@@checkPowerUpData
 	mov	r3,(65)		// script 65
+	b	@@startScript
+
+@@checkPowerUpData:
+	cmp	r0,(90)		// Power Up Data
+	bne	@@normal
+	mov	r3,(100)	// script 100
 //	b	@@startScript
 
 @@startScript:

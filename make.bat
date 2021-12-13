@@ -73,8 +73,6 @@ tools\ndstool.exe -x "%_ROM_IN%" ^
 	-y9 "%_TEMP%\y9.bin" ^
 	-y7 "%_TEMP%\y7.bin" ^
 	-t  "%_TEMP%\banner.bin" || goto :error
-
-echo Extracting ROMs...
 tools\ndstool.exe -x "%_ROM_PEGASUS%" ^
 	-d "%_TEMP%\pegasus\data" || goto :error
 tools\ndstool.exe -x "%_ROM_LEO%" ^
@@ -1048,6 +1046,11 @@ copy /Y "%_TEMP%\leo\capcomlogo\capcomlogo_05.bin" "%_TEMP%\capcomlogo\capcomlog
 copy /Y "%_TEMP%\dragon\capcomlogo\capcomlogo_05.bin" "%_TEMP%\capcomlogo\capcomlogo_110.bin"
 rem Geo special sprites
 copy /Y imports\fieldobj_geospecial_visualizer.spr.bin "%_TEMP%\fieldobj\fieldobj_382.bin"
+rem Blaze Charge
+copy /Y "%_TEMP%\models_overcharge1.nsbmd" "%_TEMP%\models\models_525.bin"
+copy /Y "%_TEMP%\models_overcharge2.nsbmd" "%_TEMP%\models\models_526.bin"
+copy /Y "%_TEMP%\models_overcharge1_cyan.nsbmd" "%_TEMP%\models\models_527.bin"
+copy /Y "%_TEMP%\models_overcharge1_gold.nsbmd" "%_TEMP%\models\models_528.bin"
 
 echo Patching files...
 tools\armips.exe "src_patch.asm" ^
@@ -1575,6 +1578,15 @@ tools\ndstool.exe -c "%_ROM_OUT%" ^
 	-y9 "%_TEMP%\y9.bin" ^
 	-y7 "%_TEMP%\y7.bin" ^
 	-t "%_TEMP%\banner.bin" || goto :error
+tools\armips.exe "fixheader.asm" ^
+	-strequ ROM_IN "%_ROM_IN%" ^
+	-strequ ROM_OUT "%_ROM_OUT%" ^
+	-definelabel PASS 1 || goto :error
+tools\ndstool.exe -f "%_ROM_OUT%" || goto :error
+tools\armips.exe "fixheader.asm" ^
+	-strequ ROM_IN "%_ROM_IN%" ^
+	-strequ ROM_OUT "%_ROM_OUT%" ^
+	-definelabel PASS 2 || goto :error
 
 echo.
 :done

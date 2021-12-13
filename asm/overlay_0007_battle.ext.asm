@@ -1,4 +1,746 @@
 .align 2
+battle_flameBurnerOverChargedSFX:
+	push	r14
+
+	ldrb	r2,[r4,0x1F]	// was overcharged
+	cmp	r2,0x0
+	bne	@@swapSFX
+
+	push	r0-r1
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]	// alignment
+	bl	battle_isOverCharged
+	cmp	r0,0x0
+	pop	r0-r1
+	beq	@@end
+
+@@swapSFX:
+	// Large fire SFX
+	ldr	r1,=0x175
+
+	// Set marker for next time
+	mov	r2,0x1
+	strb	r2,[r4,0x1F]
+
+@@end:
+	bl	0x2025574
+	pop	r0-r1,r15
+
+
+.align 2
+battle_flameBurnerOverChargedSize1:
+	bl	0x2188918
+
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]	// alignment
+	bl	battle_isOverCharged
+	cmp	r0,0x0
+	beq	@@end
+
+	// Increase size
+	add	r1,=@@flameSize
+	mov	r0,r5
+	add	r0,0x90
+	bl	0x200DC28
+
+	// Move up
+	ldr	r1,[r5,0x70]
+	ldr	r2,[@@flameOffsetY]
+	add	r1,r1,r2
+	str	r1,[r5,0x70]
+
+	// Increase duration
+	mov	r0,(0x160 >> 0x4)
+	lsl	r0,r0,0x4
+	add	r0,r5,r0
+	mov	r1,(30)
+	str	r1,[r0]
+	str	r1,[r0,0x8]
+
+	// Clear charge value
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]
+	mov	r1,(0x1D4 >> 0x2)
+	lsl	r1,r1,0x2
+	mul	r0,r1
+	ldr	r1,=0x21AF018
+	mov	r2,0x0
+	str	r2,[r1,r0]
+
+	// Remove card
+	ldr	r1,=0x21AF1A4
+	add	r0,r1,r0
+	ldrb	r1,[r0]		// current card idx
+	ldrb	r2,[r0,0x1]	// max card idx
+	add	r1,0x1
+	cmp	r1,r2
+	bhi	@@spawnPoof
+	strb	r1,[r0]
+
+@@spawnPoof:
+	// Spawn big poof
+	sub	sp,0x28
+	add	r0,sp,0x4
+	add	r1,=@@poofSize
+	bl	0x200DC28
+
+	add	r0,sp,0x1C
+	ldr	r1,[sp,0x28]
+	bl	0x2153458	// maybe not needed?
+
+	add	r0,sp,0x10
+	mov	r1,r4
+	add	r1,0x6C
+	bl	0x200DC28
+
+	mov	r0,0x94
+	ldr	r0,[r4,r0]
+	mov	r1,(88)
+	mul	r0,r1
+	ldr	r1,[sp,0x14]
+	add	r1,r1,r0
+	str	r1,[sp,0x14]
+
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]	// alignment
+	bl	0x2153484	// direction
+	mvn	r0,r0
+	ldr	r1,[@@poofOffsetZ]
+	mul	r1,r0
+	ldr	r0,[sp,0x18]
+	add	r0,r0,r1
+	str	r0,[sp,0x18]
+
+	mov	r0,0x0
+	str	r0,[sp]
+	mov	r0,0xB
+	add	r1,sp,0x10
+	mov	r2,r4
+	add	r2,0x78
+	add	r3,sp,0x4
+	bl	0x21537F8	// spawn VFX
+
+	add	sp,0x28
+
+@@end:
+	// Jump back
+	bl	0x2178DC2
+
+.align 4
+@@poofSize:
+	.dw	0x3000, 0x3000, 0x3000
+@@poofOffsetZ:
+	.dw	0x8000
+@@flameSize:
+	.dw	0x1800, 0x1800, 0x1800
+@@flameOffsetY:
+	.dw	0x8000
+
+
+.align 2
+battle_flameBurnerOverChargedSize2:
+	bl	0x2188918
+
+	// Copy scaling
+	mov	r0,r4
+	mov	r1,r5
+	add	r0,0x90
+	add	r1,0x90
+	bl	0x200DC28
+
+	// Copy y-position
+	mov	r0,0x70
+	ldr	r1,[r5,r0]
+	str	r1,[r4,r0]
+
+	// Jump back
+	bl	0x2188ADC
+
+
+.align 2
+battle_flameBurnerOverChargedPower:
+	add	r1,(50)
+	push	r0-r1,r14
+
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]	// alignment
+	bl	battle_isOverCharged
+	cmp	r0,0x0
+	beq	@@end
+
+	// Add attack power
+	ldr	r1,[sp,0x4]	// reloaded into r1 at end
+	add	r1,r1,r0
+	str	r1,[sp,0x4]
+
+@@end:
+	pop	r0-r1
+	str	r1,[r4,r0]
+	pop	r15
+
+
+.align 2
+battle_isOverCharged:
+	// r0 = alignment
+	// returns base attack power or 0 if card isn't overcharged
+	push	r4-r6,r14
+	mov	r4,r0		// alignment
+
+//	mov	r0,r4
+	bl	battle_canOverCharge
+	mov	r6,r0
+	beq	@@end
+
+	// Get player data address
+	mov	r0,(0x1D4 >> 0x2)
+	lsl	r0,r0,0x2
+	mul	r0,r4
+	ldr	r1,=0x21AF018
+	add	r5,r1,r0	// 0x21AF018 + align*0x1D4
+
+	// Get max charge value
+	ldrb	r0,[r5,(0x21AF022 - 0x21AF018)]	// buster type
+	ldrb	r1,[r5,(0x21AF01C - 0x21AF018)]	// charge stat
+	bl	0x20077F4
+	lsl	r0,r0,0x1
+	add	r0,0x1		// threshold = 2*(time)+1
+
+	// Get current charge value
+	ldrh	r1,[r5,(0x21AF018 - 0x21AF018)]	// charge value
+	cmp	r1,r0
+	bcc	@@returnFalse
+
+	// Return card's attack power
+	mov	r0,r6
+	b	@@end
+
+@@returnFalse:
+	mov	r0,0x0
+@@end:
+	pop	r4-r6,r15
+
+.align 2
+battle_canOverCharge:
+	// r0 = alignment
+	// returns base attack power or 0 if card can't be charged
+	push	r4,r14
+	mov	r4,r0		// alignment
+
+	// Get Star Force
+	mov	r0,(0x1D4 >> 0x2)
+	lsl	r0,r0,0x2
+	mul	r0,r4
+	ldr	r1,=0x21AF023
+	ldrb	r2,[r1,r0]
+	cmp	r2,0x2		// Fire Leo
+	bne	@@clipCharge
+
+	// Get next card
+	ldr	r1,=0x21AF1A4
+	ldrb	r2,[r1,r0]	// card index
+	add	r1,0x1		// 0x21AF1A5
+	ldrb	r3,[r1,r0]	// max card index
+	cmp	r2,r3
+	bge	@@clipCharge
+
+	lsl	r2,r2,0x1
+	sub	r1,(0x21AF1A5 - 0x21AF144)
+	add	r1,r1,r2
+	ldrh	r0,[r1,r0]	// next card
+	bl	0x2006D1C	// get card data ptr
+
+	// Check if card is Standard
+	ldrb	r1,[r0]
+	lsr	r1,r1,0x5
+//	cmp	r1,0x0
+	bne	@@clipCharge
+
+	// Check if card has Attack Power
+	ldr	r1,[r0,0x20]
+	lsr	r2,r1,0x1	// test 0x1
+	bcc	@@clipCharge
+
+//	// Check if card is screen-dimming
+//	lsr	r2,r1,0x3	// test 0x8
+//	bcs	@@clipCharge
+
+	// Get base Attack Power
+	ldrh	r0,[r0,0x6]
+
+//	// Get special Attack Power
+//	lsl	r1,r0,0x11	// test 0x8000
+//	bcc	@@end
+//	lsr	r0,r1,0x11
+//
+//	// Get lowest power
+//	mov	r1,0x16
+//	mul	r0,r1
+//	add	r0,0x14
+//	ldr	r1,=0x20B8D5C
+//	ldrh	r0,[r1,r0]
+
+	// Return true
+	b	@@end
+
+@@clipCharge:
+	// Reset charge to Lv. 1 if higher
+	mov	r0,r4
+	bl	battle_clipCharge
+
+	// Return false
+	mov	r0,0x0
+@@end:
+	pop	r4,r15
+
+.align 2
+battle_overChargeModel:
+	// r0 = this
+	push	r4-r7,r14
+	mov	r4,r0		// this
+	mov	r7,0x0		// charge level 0 (charging)
+
+	// Get player data address
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]
+	mov	r1,(0x1D4 >> 0x2)
+	lsl	r1,r1,0x2
+	mul	r0,r1
+	ldr	r1,=0x21AF018
+	add	r5,r1,r0	// 0x21AF018 + align*0x1D4
+
+	// Get max charge value
+	ldrb	r0,[r5,(0x21AF022 - 0x21AF018)]	// buster type
+	ldrb	r1,[r5,(0x21AF01C - 0x21AF018)]	// charge stat
+	bl	0x20077F4
+	mov	r6,r0		// max charge level
+
+	// Get current charge value
+	ldrh	r0,[r5,(0x21AF018 - 0x21AF018)]	// charge value
+
+	// Check if below Lv. 1 threshold
+	cmp	r0,r6
+	bcc	@@reloadChargeModel
+
+	mov	r7,0x1		// charge level 1 (charged)
+
+	// Check if opponent (then hide higher levels of charge)
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]	// alignment
+	ldr	r1,=0x21ACC6C
+	ldrb	r1,[r1,0x10]	// player ID
+	eor	r1,r0
+	cmp	r1,0x0
+	bne	@@reloadChargeModel
+
+	// Check if buster can overcharge
+//	mov	r0,0x30
+//	ldrb	r0,[r4,r0]	// alignment
+	bl	battle_canOverCharge
+	cmp	r0,0x0
+	beq	@@reloadChargeModel
+
+	mov	r7,0x2		// charge level 1 (overcharging)
+
+	// Get current charge value
+	ldrh	r0,[r5,(0x21AF018 - 0x21AF018)]	// charge value
+	lsl	r1,r6,0x1
+	add	r1,0x1		// threshold = 2*(time)+1
+
+	// Check if below Lv. 2 threshold
+	cmp	r0,r1
+	bcc	@@reloadChargeModel
+
+	mov	r7,0x3		// charge level 2 (overcharged)
+
+	b	@@reloadChargeModel
+
+@@reloadChargeModel:
+	// Check current model
+	mov	r0,(0x16C >> 0x2)
+	lsl	r0,r0,0x2
+	ldrb	r1,[r4,r0]
+	cmp	r1,r7
+	beq	@@end
+	strb	r7,[r4,r0]
+
+	// Unload model
+	ldr	r0,=0x2117C44
+	mov	r1,0xA8
+	ldr	r1,[r4,r1]
+	cmp	r1,0x0
+	beq	@@loadChargeModel
+	bl	0x2010A9C	// unload current model
+
+@@loadChargeModel:
+	add	r0,=@@modelData
+	lsl	r1,r7,0x3
+	add	r0,r0,r1
+	ldmia	[r0]!,r1-r2
+	mov	r0,r4
+	bl	0x2174634
+
+@@end:
+	pop	r4-r7,r15
+
+	.pool
+
+@@modelData:
+	// Charge level 0 (charging)
+	.dw	((1 << 16) | (290))	// models_290
+	.dw	((2 << 16) | (688))	// motions_688
+	// Charge level 1 (charged)
+	.dw	((1 << 16) | (291))	// models_291
+	.dw	((2 << 16) | (689))	// motions_689
+	// Charge level 1 (overcharging)
+	.dw	((1 << 16) | (525))	// models_525
+	.dw	((2 << 16) | (688))	// motions_688
+	// Charge level 2 (overcharged)
+	.dw	((1 << 16) | (526))	// models_526
+	.dw	((2 << 16) | (689))	// motions_689
+
+
+.align 2
+battle_overChargeUseCard:
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]
+	push	r0-r1,r14
+
+//	ldr	r0,[sp]
+	bl	battle_clipCharge
+
+	pop	r0-r1,r15
+
+
+.align 2
+battle_overChargeEnable:
+	// r3 = alignment*0x1D4
+	// r4 = max charge value
+	// r7 = current charge value
+	push	r0,r3,r14
+
+	add	r0,(0x21AF023 - 0x21AF018)
+	ldrb	r0,[r0,r3]	// Star Force form
+	cmp	r0,0x2		// Fire Leo
+	bne	@@normal
+
+	// Check if buster can overcharge
+	mov	r0,0x30
+	ldrb	r0,[r5,r0]	// alignment
+	bl	battle_canOverCharge
+	cmp	r0,0x0
+	beq	@@normal
+
+	lsl	r0,r4,0x1
+	add	r0,0x1		// threshold = 2*(time)+1
+	b	@@end
+
+@@normal:
+	mov	r0,0x30
+	ldrb	r0,[r5,r0]	// alignment
+	bl	battle_clipCharge
+
+	mov	r0,r4		// max charge value
+@@end:
+	cmp	r7,r0
+	pop	r0,r3,r15
+
+.align 2
+battle_overChargeSFX:
+	push	r7,r14
+
+	lsl	r7,r4,0x1
+	add	r7,0x1		// threshold = 2*(time)+1
+	cmp	r1,r7
+	bne	@@end
+
+	add	r1,0x1
+	strh	r1,[r0,r2]	// avoid SFX overlap
+
+	// Check if opponent (then skip SFX)
+	mov	r0,0x30
+	ldrb	r0,[r5,r0]
+	ldr	r1,=0x21ACC6C
+	ldrb	r1,[r1,0x10]	// player ID
+	eor	r0,r1
+	cmp	r0,0x0
+	bne	@@end
+
+	// Play fully charged SFX
+	ldr	r0,[r3]
+	ldr	r1,=SE_CHARGEDONE2
+	bl	0x2025574	// play SFX
+
+@@end:
+	pop	r7,r15
+
+.align 2
+battle_overChargeSFXPost:
+	mov	r3,0x30
+	ldrb	r3,[r5,r3]
+	mov	r0,(0x1D4 >> 0x2)
+	lsl	r0,r0,0x2
+	bx	r14
+
+
+.align 2
+battle_wolfWoodsCommandSlash1:
+	pop	r0
+
+	// Check command code active
+	ldrb	r1,[r4,0x1F]	// command code active
+	cmp	r1,0x0
+	beq	@@end
+
+	mov	r1,0xAC
+	ldr	r0,[r0,r1]	// collision
+	mov	r1,0x2		// blind lv. 2 = 60i
+	strb	r1,[r0,0x1B]
+
+@@end:
+	add	sp,0x30
+	pop	r4,r15
+
+.align 2
+battle_wolfWoodsCommandSlash2:
+	push	r0,r14
+	bl	0x2183564
+	pop	r7
+
+	// Check if in multiplayer battle
+	bl	0x2153958
+	cmp	r0,0x0
+	bne	@@checkCommandCode
+
+	// If single player, alignment must be 0
+	cmp	r4,0x0
+	bne	@@end
+
+@@checkCommandCode:
+	ldrb	r1,[r5,0x1F]	// command code active
+	cmp	r1,0x0
+	beq	@@end
+
+	mov	r0,0xAC
+	ldr	r0,[r7,r0]	// collision
+	mov	r1,0x2		// blind lv. 2 = 60i
+	strb	r1,[r0,0x1B]
+
+@@end:
+	pop	r15
+
+.align 2
+battle_wolfWoodsCommandCheck:
+	push	r14
+
+	// Check command code already active
+	ldrb	r0,[r4,0x1F]	// command code active
+	cmp	r0,0x0
+	bne	@@end
+
+	// Get direction held
+	mov	r0,0x30
+	ldrb	r0,[r4,r0]	// alignment
+	mov	r1,(0x1D4 >> 0x1)
+	lsl	r1,r1,0x1
+	mul	r0,r1
+	ldr	r1,=0x21AF02E
+	ldrh	r2,[r1,r0]	// buttons held
+	lsl	r2,r2,0x18
+	lsr	r2,r2,0x1C	// & 0xF0
+	beq	@@reset		// no buttons held, reset
+	add	r1,0x4
+	ldrh	r0,[r1,r0]	// buttons going down
+	lsl	r0,r0,0x18
+	lsr	r0,r0,0x1C	// & 0xF0
+	add	r1,=@@circleDirToIdx
+	ldrb	r0,[r1,r0]
+
+@@checkIgnore:
+	cmp	r0,0xFF
+	beq	@@end
+
+@@checkDirection:
+	ldrb	r1,[r4,0x1D]	// number of inputs
+	cmp	r1,0x0
+	beq	@@firstInput
+
+	// Check different input
+	ldrb	r2,[r4,0x1E]	// previous index + direction
+	lsl	r3,r2,0x18
+	asr	r3,r3,0x1C	// & 0xF0 signed
+	lsl	r2,r2,0x1E
+	lsr	r2,r2,0x1E	// & 0x3
+	cmp	r0,r2
+	beq	@@end
+
+	cmp	r1,0x1
+	beq	@@secondInput
+	b	@@nextInput
+
+@@firstInput:
+	mov	r1,0x1
+	strb	r1,[r4,0x1D]	// number of inputs
+	strb	r0,[r4,0x1E]	// previous index + direction
+	b	@@end
+
+@@secondInput:
+	sub	r2,r0,r2	// difference
+	add	r2,(3)		// -3..3 -> 0..6
+	cmp	r2,(-3+3)
+	beq	@@startCW
+	cmp	r2,(1+3)
+	beq	@@startCW
+	cmp	r2,(-1+3)
+	beq	@@startCCW
+	cmp	r2,(3+3)
+//	beq	@@startCCW
+	bne	@@reset
+
+@@startCCW:
+	add	r0,0xF0		// -1 << 4
+	b	@@inputOK
+@@startCW:
+	add	r0,0x10		// 1 >> 4
+	b	@@inputOK
+
+@@nextInput:
+	sub	r0,r0,r3	// input + direction
+	lsl	r0,r0,0x1E
+	lsr	r0,r0,0x1E	// & 0x3
+	cmp	r0,r2
+	bne	@@reset		// wrong direction
+	add	r0,r0,r3
+	lsl	r3,r3,0x4
+	orr	r0,r3
+
+@@inputOK:
+	ldrb	r1,[r4,0x1D]	// number of inputs
+	add	r1,0x1
+	strb	r1,[r4,0x1D]	// number of inputs
+	strb	r0,[r4,0x1E]	// previous index + direction
+
+	cmp	r1,(5)		// full circle
+	blt	@@end
+	mov	r0,0x1
+	strb	r0,[r4,0x1F]	// command code active
+
+	// Play SFX
+	ldr	r0,=0x21206CC
+	ldr	r0,[r0]
+	ldr	r1,=0x1BA
+	bl	0x2025574
+
+	b	@@end
+
+@@reset:
+	// Invalid input
+	mov	r0,0x0
+	strb	r0,[r4,0x1D]	// number of inputs
+	strb	r0,[r4,0x1E]	// previous index
+	strb	r0,[r4,0x1F]	// command code active
+//	b	@@end
+
+@@end:
+	ldrh	r0,[r4,0x28]	// timer
+	sub	r0,0x1
+	pop	r15
+
+.align 4
+@@circleDirToIdx:
+	.db	0xFF	// 0x0 = none: ignore
+	.db	0x1	// 0x1 = right: 1
+	.db	0x3	// 0x2 = left: 3
+	.db	0xFF	// 0x3 = left+right: ignore
+	.db	0x0	// 0x4 = up: 0
+	.db	0xFF	// 0x5 = up+right: ignore
+	.db	0xFF	// 0x6 = up+left: ignore
+	.db	0xFF	// 0x7 = up+left+right: ignore
+	.db	0x2	// 0x8 = down: 2
+	.db	0xFF	// 0x9 = down+right: ignore
+	.db	0xFF	// 0xA = down+left: ignore
+	.db	0xFF	// 0xB = down+left+right: ignore
+	.db	0xFF	// 0xC = up+down: ignore
+	.db	0xFF	// 0xD = up+down+right: ignore
+	.db	0xFF	// 0xE = up+down+left: ignore
+	.db	0xFF	// 0xF = up+down+left+right: ignore
+
+.align 2
+battle_wolfWoodsCommandTransform:
+	// r4 = this
+	push	r14
+	sub	sp,0x4
+	mov	r0,0x2
+	strb	r0,[r4,0x1C]
+
+	// Check command code active
+	ldrb	r0,[r4,0x1F]
+	cmp	r0,0x0
+	beq	@@end
+
+	// Destroy normal claws and spawn berserk claws
+	mov	r0,r4
+	bl	0x215D2F0
+
+	// Set berserk claws active during dim
+	mov	r2,0xB4
+	ldr	r2,[r4,r2]
+	ldr	r1,[r2,0x20]
+	mov	r0,0x1
+	lsl	r0,r0,0xC	// 0x1000
+	orr	r1,r0
+	str	r1,[r2,0x20]
+
+	// Load texture animation
+	mov	r0,0x2
+	str	r0,[sp]
+	ldr	r0,=0x2117C44
+	mov	r1,0xA8
+	ldr	r1,[r4,r1]
+	ldr	r2,=((2 << 16) | (350))
+	mov	r3,0x0
+	bl	0x2010AF4
+
+	// Set texture
+	mov	r0,0xA8
+	ldr	r0,[r4,r0]
+	ldr	r0,[r0,0x5C]
+	mov	r1,0x1
+	lsl	r1,r1,0xC
+	str	r1,[r0]
+
+	// Set invulnerable effect
+	mov	r0,r4
+	mov	r1,0x1
+	bl	battle_applyModelEffect
+
+@@end:
+	add	sp,0x4
+	pop	r15
+
+.align 2
+battle_wolfWoodsCommandTransformEnd:
+	// r4 = this
+	push	r14
+	mov	r0,0x4
+	strb	r0,[r4,0x1C]
+
+	// Check command code active
+	ldrb	r0,[r4,0x1F]
+	cmp	r0,0x0
+	beq	@@end
+
+	// Remove invulnerable effect
+	mov	r0,r4
+	mov	r1,0x1
+	bl	battle_clearModelEffect
+
+@@end:
+	pop	r15
+
+	.pool
+
+
+.align 2
 battle_counterScrollHideVS:
 	bl	0x200B900	// tilemap fill
 
@@ -152,6 +894,325 @@ battle_counterScrollWait:
 	// 0x24 = width
 	// 0x28 = height
 	.fill	(1+10)*0x4
+
+
+.align 2
+battle_matchTurnCounter:
+	push	r4-r5,r14
+	mov	r4,r0
+	add	r5,=battle_turnCounterData
+
+	// Check if in multiplayer battle
+	bl	0x2153958
+	cmp	r0,0x0
+	beq	@@end
+
+	ldr	r0,=0x6DD
+	ldrb	r0,[r4,r0]	// Custom Screen state
+	cmp	r0,0x0
+	beq	@@opening
+	cmp	r0,0x1
+	beq	@@closing
+	b	@@update
+
+@@opening:
+	ldrb	r0,[r5]
+	cmp	r0,0x0
+	bne	@@update
+
+	// hidden -> show
+	bl	@renderTurnCounter
+
+	mov	r0,0x1		// state = show
+	strb	r0,[r5]		// state
+	mov	r0,0x0
+	strb	r0,[r5,0x1]	// counter
+	b	@@update
+
+@@closing:
+	mov	r0,0x0		// state hidden
+	strb	r0,[r5]
+//	b	@@update
+
+@@update:
+	ldrb	r0,[r5]
+	cmp	r0,0x0
+	beq	@@hide
+
+@@show:
+	ldrb	r0,[r5,0x1]
+	add	r1,r0,0x1
+	strb	r1,[r5,0x1]
+
+	lsr	r0,r0,0x5	// test 0x16
+	bcc	@@hide
+
+	bl	@showTurnCounter
+	b	@@end
+
+@@hide:
+	bl	@hideTurnCounter
+//	b	@@end
+
+@@end:
+	// Process Custom Screen state normally
+	mov	r0,r4
+	bl	0x2190178
+
+	pop	r4-r5,r15
+
+.align 4
+battle_turnCounterData:
+	.db	0x0		// state: 0 = hidden, 1 = show
+	.db	0x0		// counter
+
+.align 2
+@showTurnCounter:
+	push	r4,r14
+
+	// Build tilemap
+	ldr	r4,=(0x21B01D0 + 0x114)
+	mov	r0,0x0		// i
+@@loop:
+	lsl	r1,r0,0x1	// i*2
+	add	r2,r1,0x1	// i*2 + 1
+	mov	r3,(18*2)	// len*2
+	add	r3,r1,r3	// i*2 + len*2
+	strh	r1,[r4,r1]
+	strh	r2,[r4,r3]
+@@next:
+	add	r0,0x1
+	cmp	r0,(18)
+	blt	@@loop
+
+	bl	@drawTurnCounter
+	pop	r4,r15
+
+.align 2
+@hideTurnCounter:
+	push	r4,r14
+
+	// Build tilemap
+	ldr	r4,=(0x21B01D0 + 0x114)
+	mov	r0,0x0		// i
+@@loop:
+	lsl	r1,r0,0x1	// i*2
+	mov	r2,(18*2)	// len*2
+	add	r2,r1,r2	// i*2 + len*2
+	mov	r3,0x0
+	strh	r3,[r4,r1]
+	strh	r3,[r4,r2]
+@@next:
+	add	r0,0x1
+	cmp	r0,(18)
+	blt	@@loop
+
+	bl	@drawTurnCounter
+	pop	r4,r15
+
+.align 2
+@drawTurnCounter:
+	push	r4,r14
+	sub	sp,0x18
+
+	// Draw tilemap
+	ldr	r4,=(0x21B01D0 + 0x114)
+	mov	r0,0x3A
+	str	r0,[sp]		// starting tile
+	mov	r0,0x3
+	str	r0,[sp,0x4]	// palette
+	add	r0,(0x100 - 0x3)
+	mov	r1,(18)		// center width
+	lsl	r1,r1,0x3
+	sub	r0,r0,r1
+	asr	r0,r0,0x4
+	str	r0,[sp,0x8]	// x
+	mov	r0,(0)
+	str	r0,[sp,0xC]	// y
+	mov	r0,(18)
+	str	r0,[sp,0x10]	// width
+	mov	r0,0x2
+	str	r0,[sp,0x14]	// height
+	ldr	r0,=0x210F350	// this
+	mov	r1,0x0		// engine
+	mov	r2,0x3		// BG layer
+	mov	r3,r4		// source
+	bl	0x200B748	// copy tilemap
+
+	add	sp,0x18
+	pop	r4,r15
+
+.align 2
+@renderTurnCounter:
+	push	r4-r6,r14
+	sub	sp,0x18
+
+	// Copy palette to VRAM
+	mov	r0,0x20
+	str	r0,[sp]
+	ldr	r0,=0x21239A4
+	mov	r1,0x0
+	mov	r2,0x3
+	ldr	r3,=0x20CB364
+	bl	0x202F170	// VRAM_CopyPaletteBG
+
+	// Alloc tile buffer
+	ldr	r0,=0x211CCFC
+	ldr	r0,[r0]
+	mov	r1,0x0
+	ldr	r2,=0x480
+	bl	0x20155DC	// heap alloc
+	mov	r6,r0		// buffer
+	beq	@@end
+
+	// Get turns left
+	mov	r4,0x1
+	bl	@getMaxTurnCount
+	ldr	r1,=0x21ACC6C
+	ldrh	r1,[r1,0x26]	// turns passed
+	cmp	r1,r0
+	bge	@@render
+	sub	r4,r0,r1	// number of turns left
+
+@@render:
+	// Render "MORE TURNS" or "FINAL TURN"
+	ldr	r0,=0x480
+	str	r0,[sp]
+	mov	r0,0x0
+	str	r0,[sp,0x4]
+	ldr	r0,=((29 << 0x10) | (6))	// mess_0006
+	mov	r1,(16)		// script 16
+	cmp	r4,0x1
+	bgt	@@renderText
+	mov	r1,(17)		// script 17
+@@renderText:
+	mov	r2,0x2
+	mov	r3,r6
+	bl	0x20088EC	// render text, returns length
+
+	cmp	r4,0x1
+	ble	@@copyToVRAM
+
+	// Build script for turn count
+	add	r5,=@@turnCountScript
+@@firstDigit:
+	cmp	r4,(10)
+	blt	@@firstDigitEmpty
+
+	mov	r0,r4
+	mov	r1,(10)
+	blx	0x2089820	// div s32
+	add	r0,0x10		// '0'
+	strb	r0,[r5]
+	b	@@secondDigit
+
+@@firstDigitEmpty:
+	mov	r0,0x0
+	strb	r0,[r5]
+//	b	@@secondDigit
+
+@@secondDigit:
+	mov	r0,r4
+	mov	r1,(10)
+	blx	0x208985C	// mod s32
+	add	r0,0x10		// '0'
+	strb	r0,[r5,0x1]
+
+	// Render turn count
+	mov	r0,0x0
+	str	r0,[sp]
+	mov	r0,r5
+	mov	r1,0x2
+	mov	r2,(2*0x40)	// index
+	add	r2,r6,r2
+	mov	r3,(2*0x40)	// length
+	bl	0x20089AC	// render text, returns length
+
+@@copyToVRAM:
+	// Copy to VRAM
+	mov	r0,(18)		// length
+	lsl	r0,r0,0x6
+	str	r0,[sp]
+	ldr	r0,=0x21239A4
+	mov	r1,0x0
+	ldr	r2,=0x740
+	mov	r3,r6
+	bl	0x202EF0C	// VRAM_CopyTileBG3
+
+	// Free tile buffer
+	ldr	r0,=0x211CCFC
+	ldr	r0,[r0]
+	mov	r1,0x0
+	mov	r2,r6
+	bl	0x2015620	// heap free
+
+@@end:
+	add	sp,0x18
+	pop	r4-r6,r15
+
+.align 4
+@@turnCountScript:
+	.db	0x00,0x00,0xE6,0x00
+
+.align 2
+@getMaxTurnCount:
+	push	r4,r14
+
+	// Check if in multiplayer battle
+	bl	0x2153958
+	cmp	r0,0x0
+	beq	@@turns15
+
+	// Check if either player is vanilla MMSF
+	mov	r0,0x0
+	bl	battle_isMMSFDX
+	beq	@@turns15
+	mov	r0,0x1
+	bl	battle_isMMSFDX
+	beq	@@turns15
+
+	// Get turn count types for both players
+	mov	r0,0x0
+	bl	battle_getTurnCountType
+	mov	r4,r0
+	mov	r0,0x1
+	bl	battle_getTurnCountType
+
+	// One of the players has the turns count
+	orr	r0,r4
+	b	@@getTurns
+
+@@turns15:
+	mov	r0,0x0
+@@getTurns:
+	add	r1,=@@data
+	ldrb	r0,[r1,r0]
+	pop	r4,r15
+
+.align 4
+@@data:
+	.db	(15), (10), (5), (3)
+
+
+.align 2
+battle_checkFinalTurnSub1:
+	push	r4,r14
+	ldrh	r4,[r0,0x26]	// number of turns passed
+
+	bl	@getMaxTurnCount
+	sub	r0,0x1
+
+	cmp	r4,r0
+	pop	r4,r15
+
+.align 2
+battle_checkFinalTurn:
+	push	r4,r14
+	ldrh	r4,[r0,0x26]	// number of turns passed
+
+	bl	@getMaxTurnCount
+	cmp	r4,r0
+	pop	r4,r15
 
 
 .align 2
@@ -1043,6 +2104,7 @@ battle_loadModelSwap2:
 	.dw	((1 << 0x10) | (291)),	((1 << 0x10) | (490)),	((1 << 0x10) | (522))	// buster charge VFX 2
 	.dw	((1 << 0x10) | (287)),	((1 << 0x10) | (491)),	((1 << 0x10) | (523))	// buster fire VFX
 	.dw	((1 << 0x10) | (311)),	((1 << 0x10) | (492)),	((1 << 0x10) | (524))	// buster shot VFX
+	.dw	((1 << 0x10) | (525)),	((1 << 0x10) | (527)),	((1 << 0x10) | (528))	// overcharge VFX 1
 	.dw	0x0
 
 
@@ -1053,8 +2115,12 @@ battle_getExtraStats:
 	mov	r1,(0x1D4 >> 0x2)
 	lsl	r1,r1,0x2
 	mul	r0,r1
-	ldr	r1,=0x21AF1B4+0x3	// buster stats
-	ldrb	r0,[r1,r0]
+	ldr	r1,=0x21AF1B4		// buster stats
+	add	r1,r1,r0
+	ldrb	r0,[r1,0x3]		// extra stats 1
+	ldrb	r1,[r1,0x7]		// extra stats 2
+	lsl	r1,r1,0x8
+	orr	r0,r1
 	pop	r15
 
 .align 2
@@ -1104,6 +2170,15 @@ battle_toggleAutoLockOff:
 	pop	r15
 
 .align 2
+battle_isMMSFDX:
+	// r0 = alignment
+	push	r14
+	bl	battle_getExtraStats
+	mov	r1,0x1
+	tst	r0,r1
+	pop	r15
+
+.align 2
 battle_isGeoColor:
 	// r0 = alignment
 	push	r14
@@ -1136,6 +2211,15 @@ battle_getHumorBusterType:
 	push	r14
 	bl	battle_getExtraStats
 	lsl	r0,r0,0x1C
+	lsr	r0,r0,0x1E
+	pop	r15
+
+.align 2
+battle_getTurnCountType:
+	// r0 = alignment
+	push	r14
+	bl	battle_getExtraStats
+	lsl	r0,r0,0x16	// mask 0x300
 	lsr	r0,r0,0x1E
 	pop	r15
 
@@ -2039,6 +3123,9 @@ battle_onEnter:
 	ldr	r1,=@greenInvisTimers
 	str	r0,[r1]
 	str	r0,[r1,0x4]
+	ldr	r1,=battle_turnCounterData
+	strb	r0,[r1]
+	strb	r0,[r1,0x1]
 
 	ldr	r1,=@scrollData
 	str	r0,[r1]
@@ -2727,6 +3814,53 @@ battle_legendModeStatusChain:
 
 @@normal:
 	lsl	r3,r5,0x2
+	pop	r15
+
+
+.align 2
+battle_counterParalyzeNoParalyze:
+	push	r14
+	ldrb	r2,[r3,r2]
+	bl	battle_isLegendMode
+	beq	@@end
+
+	// Get ID of entity being statused
+	ldrh	r4,[r0,0x36]
+
+@@crownThunder:
+	sub	r4,0xFF
+	sub	r4,(0x137 - 0xFF)
+	bmi	@@end
+	cmp	r4,0x6
+	bge	@@end
+
+	// Entity is Crown Thunder
+	mov	r2,0x0		// set paralysis level to 0
+
+@@end:
+	pop	r15
+
+.align 2
+battle_counterParalyzeNoBubble:
+	push	r14
+	ldrb	r2,[r3,r2]
+	bl	battle_isLegendMode
+	beq	@@end
+
+	// Get ID of entity being statused
+	ldrh	r4,[r0,0x36]
+
+@@cancerBubble:
+	sub	r4,0xFF
+	sub	r4,(0x12B - 0xFF)
+	bmi	@@end
+	cmp	r4,0x6
+	bge	@@end
+
+	// Entity is Cancer Bubble
+	mov	r2,0x0		// set bubble level to 0
+
+@@end:
 	pop	r15
 
 
@@ -6456,6 +7590,33 @@ battle_removeChargeOnLockOn:
 
 
 .align 2
+battle_clipCharge:
+	// r0 = alignment
+	push	r4,r14
+
+	mov	r4,(0x1D4 >> 0x2)
+	lsl	r4,r4,0x2
+	mul	r4,r0
+
+	// Get max charge level
+	ldr	r0,=0x21AF022
+	ldr	r1,=0x21AF01C
+	ldrb	r0,[r0,r4]
+	ldrb	r1,[r1,r4]
+	bl	0x20077F4
+	add	r0,0x1		// add 1 to account for SFX
+
+	ldr	r1,=0x21AF018
+	ldrh	r2,[r1,r4]
+	cmp	r2,r0
+	ble	@@end
+	strh	r0,[r1,r4]
+
+@@end:
+	pop	r4,r15
+
+
+.align 2
 battle_removeCharge:
 	push	r3,r14
 
@@ -6929,7 +8090,7 @@ battle_autoLock1:
 	bge	@@end
 
 	lsl	r0,r0,0x1
-	sub	r2,0x61		// 0x21AF146
+	sub	r2,0x61		// 0x21AF144
 	add	r2,r2,r0
 	ldrh	r0,[r2,r1]	// get current card
 	bl	0x2006D1C	// get current data ptr
@@ -7443,9 +8604,20 @@ battle_fixMoveChargeShot:
 	str	r0,[sp]		// address of charge level
 	ldrh	r0,[r1,r3]	// charge level
 	str	r0,[sp,0x4]	// actual charge level
+
+	// If overcharged, skip removing charge level
+	push	r1-r3,r14
+	mov	r0,r2		// alignment
+	bl	battle_isOverCharged
+	cmp	r0,0x0
+	pop	r1-r3
+	bne	@@end
+
 	mov	r0,0x0
 	strh	r0,[r1,r3]	// charge level
-	bx	r14
+
+@@end:
+	pop	r15
 
 .align 2
 battle_fixMoveChargeShot2:

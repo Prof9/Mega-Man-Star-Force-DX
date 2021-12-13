@@ -41,6 +41,10 @@ script 89 mmsf1 {
 	"ColrChgG"
 	end
 }
+script 90 mmsf1 {
+	"PwrUpDat"
+	end
+}
 script 92 mmsf1 {
 	"FireSrch"
 	end

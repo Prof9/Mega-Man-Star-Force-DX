@@ -269,6 +269,9 @@ DX Card
 ###Script:89
 ColorChnge G
 ###--------
+###Script:90
+PowerUp Data
+###--------
 ###Script:96
 SmEnrgy
 ###--------

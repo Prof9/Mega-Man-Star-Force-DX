@@ -115,7 +115,7 @@ Star Power per turn!
 ###Mugshot:OmegaXis
 <optionButtonSmall><optionButtonSmall><optionButtonSmall>Activate this card's
 Star Power?
-###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Activate"
+###Command:optionButtonSmall up=0 down=0 left=1 right=1 string="Star Power"
 ###Command:optionButtonSmall up=1 down=1 left=0 right=0 string="Use normally"
 ###Command:optionButtonSmall up=2 down=2 left=2 right=2 string="Cancel"
 ###--------

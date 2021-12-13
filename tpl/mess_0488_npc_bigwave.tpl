@@ -683,8 +683,7 @@ script 75 mmsf1 {
 		frames = 30
 	keyWait
 	clearMsg
-	mugshotShow
-		mugshot = Geo
+	callMugshotShowGeoOrMegaManSad
 	"""
 	Well...
 	Not much is
@@ -1054,8 +1053,7 @@ script 91 mmsf1 {
 	"""
 	keyWait
 	clearMsg
-	mugshotShow
-		mugshot = Geo
+	callMugshotShowGeoOrMegaManSad
 	"""
 	...!?
 	"""

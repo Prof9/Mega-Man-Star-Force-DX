@@ -433,6 +433,19 @@ BATTLE:
     and the panel is occupied, it would always only try to summon it on the left
     rather than trying left and right in a random order as intended.
  *  DX bosses can be fought after fulfilling certain requirements.
+ *  In multiplayer Wave Battles, you can now choose between 15 Turns, 10 Turns,
+    5 Turns or 3 Turns, just like in MMSF2/MMSF3.
+ *  In multiplayer Wave Battles, a turn counter is now shown at the top of the
+    screen while the Custom Screen is open, similar to MMSF2/MMSF3.
+ *  When choosing a multiplayer battle mode, if you press B on the "Waiting for
+    response" message while the other player is still selecting Start/Cancel, it
+    now shows the "Cancelled!" message on both players' ends rather than only
+    for the other player.
+ *  The WolfWoods Mega Cards now have a command input. When Wolf Woods appears,
+    quickly spin the +Control Pad in a circle. If successful, Wolf Woods will
+    change into his berserk mode and the attack will inflict Blind.
+ *  Fixed a glitch in the base game where Pegasus Magic's texture doesn't
+    animate during Pegasus Magic GX and Pegasus Freeze attacks.
 
 
 LEGEND MODE:
@@ -497,8 +510,12 @@ STAR FORCE:
     rating of the Mega Buster and Charged Shot and raises the maximum to 10.
  *  Fire Leo Mega Man now has a new ability: Break Buster, which causes the Mega
     Buster to break through shields.
- *  Fire Leo Mega Man's Charged Shot, Flame Burner, now breaks through shields.
- *  Reduced the lag of Fire Leo Mega Man's Flame Burner Charged Shot.
+ *  Fire Leo Mega Man's Charged Shot, Flame Burner, also breaks through shields.
+ *  Fire Leo Mega Man now has a new ability: Blaze Charge. If your next card is
+    a Standard Card, the Mega Buster can charge up to 2 levels. When you fire
+    the Lv. 2 Charged Shot, the card will be absorbed and its base Attack Power
+    (not counting Power Up effects) is added to Flame Burner's Attack Power.
+ *  Increased the speed of Fire Leo Mega Man's Flame Burner Charged Shot.
  *  Green Dragon Mega Man now has a new ability: Shield Heal. Upon blocking an
     attack with your shield, this recovers HP equal to 25% of the Attack Power
     of the blocked attack.

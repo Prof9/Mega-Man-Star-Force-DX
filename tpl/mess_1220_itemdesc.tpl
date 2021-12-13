@@ -188,6 +188,19 @@ script 89 mmsf1 {
 	waitHold
 	end
 }
+script 90 mmsf1 {
+	msgOpenQuick
+	textSpeed
+		delay = 0
+	"""
+	Data that improves
+	MegaMan's stats
+	and abilities.
+	"""
+	keyWait
+	waitHold
+	end
+}
 script 92 mmsf1 {
 	msgOpenQuick
 	callMugshotShowGeoMenu
