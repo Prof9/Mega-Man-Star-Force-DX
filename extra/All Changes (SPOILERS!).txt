@@ -432,6 +432,12 @@ BATTLE:
  *  Fixed a glitch where if you try to summon a JunkCube in the middle column
     and the panel is occupied, it would always only try to summon it on the left
     rather than trying left and right in a random order as intended.
+ *  Fixed a visual glitch where if you used a screen-dimming card on the same
+    frame that Cygnus Wing summoned his Migratory Birds, the birds would appear
+    in the wrong location.
+ *  Fixed a visual glitch where if you used a screen-dimming card on the same
+    frame that Crown Thunder summoned his ghosts, the ghosts would appear in the
+    wrong location.
  *  DX bosses can be fought after fulfilling certain requirements.
  *  In multiplayer Wave Battles, you can now choose between 15 Turns, 10 Turns,
     5 Turns or 3 Turns, just like in MMSF2/MMSF3.
@@ -444,8 +450,8 @@ BATTLE:
  *  The WolfWoods Mega Cards now have a command input. When Wolf Woods appears,
     quickly spin the +Control Pad in a circle. If successful, Wolf Woods will
     change into his berserk mode and the attack will inflict Blind.
- *  Fixed a glitch in the base game where Pegasus Magic's texture doesn't
-    animate during Pegasus Magic GX and Pegasus Freeze attacks.
+ *  Fixed a glitch where Pegasus Magic's texture doesn't animate during Pegasus
+    Magic GX and Pegasus Freeze attacks.
 
 
 LEGEND MODE:

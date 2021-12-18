@@ -1839,6 +1839,14 @@ field_keyboardStartFolder:
 	mov	r1,0x89
 	push	r0-r1,r14
 
+	// Set index of folder that was selected
+	mov	r0,(0x200 >> 0x8)
+	lsl	r0,r0,0x8
+	ldrb	r0,[r4,r0]
+	ldr	r1,=field_selectedFolder
+	add	r0,0x1
+	str	r0,[r1]
+
 	// Partially fade out top screen
 	mov	r0,0x20
 	push	r0

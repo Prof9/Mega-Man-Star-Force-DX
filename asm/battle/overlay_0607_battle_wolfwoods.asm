@@ -341,7 +341,20 @@
 	cmp	r6,0xC
 	bne	@@checkExit
 	cmp	r7,0x1
-	bge	@@addInvulnerable
+	blt	@@checkExit
+	cmp	r7,0x4		// post lag
+	blt	@@addInvulnerable
+
+	// Check if invulnerability already removed
+	tst	r3,r2
+	beq	@@checkExit
+
+	// Check if confused/blinded
+	mov	r7,0x18		// reuse r7
+	tst	r3,r7
+	bne	@@removeInvulnerable
+
+	b	@@addInvulnerable
 
 @@checkExit:
 	// Changed action state?

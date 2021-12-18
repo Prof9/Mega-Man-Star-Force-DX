@@ -1,4 +1,20 @@
 .align 2
+crown_ghostSummonPosition:
+	push	r14
+
+	// Copy 3D position to snapback position
+	mov	r0,r4
+	mov	r1,r4
+	add	r0,0x5C
+	add	r1,0x6C
+	bl	0x200DC28
+
+	mov	r0,(0x168 >> 0x2)
+	lsl	r0,r0,0x2
+	pop	r15
+
+
+.align 2
 crown_dxModel:
 	push	r14
 	bl	battle_isDXBoss_r5obj

@@ -45,6 +45,10 @@
 	ldr	r0,[0x21C0004]
 
 
+.org 0x21C0962
+	bl	crown_ghostSummonPosition
+
+
 .org 0x21BEDE2
 	bl	crown_advanceAnimation
 .org 0x21BF430

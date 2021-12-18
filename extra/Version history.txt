@@ -1,3 +1,16 @@
+Ver. 1.2.1 - 18 December 2021
+ *  Fixed a glitch introduced in Ver. 1.2.0 where after using Fire Leo's Blaze
+    Charge ability, your Buster Attack and Rapid stats would be stuck at LV. 0
+    for the rest of the battle.
+ *  If you finish renaming a Folder that is not the Folder you have equipped, it
+    will now keep the cursor on the Folder you were renaming rather than moving
+    it to the Folder that you have equipped.
+ *  On Legend Mode, if Wolf Woods is blinded or confused, he will now have fewer
+    invulnerability frames at the end of Upper Claw.
+ *  Fixed a glitch in the base game where Crown Thunder's ghosts would appear in
+    the wrong location if you used a screen-dimming card on the same frame that
+    they're summoned.
+
 Ver. 1.2.0 - 14 December 2021
  *  Fire Leo Mega Man now has a new ability: Blaze Charge. If your next card is
     a Standard Card, the Mega Buster can charge up to 2 levels. When you fire

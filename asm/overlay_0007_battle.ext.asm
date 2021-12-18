@@ -65,7 +65,7 @@ battle_flameBurnerOverChargedSize1:
 	mul	r0,r1
 	ldr	r1,=0x21AF018
 	mov	r2,0x0
-	str	r2,[r1,r0]
+	strh	r2,[r1,r0]
 
 	// Remove card
 	ldr	r1,=0x21AF1A4
