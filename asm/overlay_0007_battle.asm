@@ -329,6 +329,11 @@
 	bl	battle_printBossNameDX
 .org 0x21A26F0	// Migratory Birds speed
 	.dh	9, 16, 17, 20, 17, 17
+.org 0x21A2708	// Migratory Birds damage
+	// Old: 20, 60, 100
+	.dh	20, 80, 140, 500, 140, 140
+.org 0x2184162
+	bl	battle_dxMigratoryBirdsDamage
 .org 0x21841D0
 	bl	battle_dxTextureCygnusBird
 .org 0x2184B04
@@ -399,6 +404,13 @@
 	mov	r1,0x2
 	bl	battle_applyModelEffect
 	b	0x2181224
+.endarea
+.org 0x21812FE
+.area 0xE,0x00
+	mov	r0,r4
+	mov	r1,0x2
+	bl	battle_clearModelEffect
+	b	0x218130C
 .endarea
 
 
@@ -987,9 +999,13 @@
 .org 0x218EE50
 	bl	battle_lmMcCleaverHitFlags
 
-// Craggy
+// Rocky
+.org 0x215FD4A
+	ldrb	r4,[r0]	// save alignment
+.org 0x215FD4E
+	strb	r4,[r1]
 .org 0x215FD6C
-	bl	battle_lmCraggyAttack
+	bl	battle_lmRockyAttack
 
 // OctoNinja
 .org 0x216EE90

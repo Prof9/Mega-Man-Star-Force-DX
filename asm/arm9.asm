@@ -5,7 +5,7 @@
 .open TEMP+"/arm9.dec",0x02000000
 
 
-.definelabel	VERSION, (1 << 0x10) | (2 << 0x8) | (1 << 0x0)
+.definelabel	VERSION, (1 << 0x10) | (2 << 0x8) | (2 << 0x0)
 
 .include "asm/arm9_battlecard.asm"
 .if OPT_RESUME_MUSIC

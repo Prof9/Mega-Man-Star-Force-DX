@@ -1,6 +1,6 @@
 MEGA MAN STAR FORCE DX
-Version 1.2.1
-18 December 2021
+Version 1.2.2
+26 February 2022
 
 Official discussion topic:
 https://forums.therockmanexezone.com/mega-man-star-force-dx-t16546.html
@@ -95,7 +95,7 @@ Once you have dumped the ROM file for the game, apply the following patch.
 NOTE: If you're upgrading from a previous version, you need to apply the patch
 again to an unmodified ROM!
 
-    MegaManStarForceDX-Ver1.2.1.bps
+    MegaManStarForceDX-Ver1.2.2.bps
 
 This is a BPS type patch. Here are some tools you can use to apply it:
 

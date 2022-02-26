@@ -1,3 +1,21 @@
+Ver. 1.2.2 - 26 February 2022
+ *  Fixed a freeze that occurs when you try to send an e-mail during the Gemini
+    Spark chapter while Mega is not in the Transer.
+ *  Fixed Dragon Sky and Andromeda's models being darkened when QuakeSong is
+    active, despite having Status Guard.
+ *  Fixed the FireBzook cards unintentionally dealing breaking damage when used
+    by the player on Legend Mode.
+ *  Fixed a glitch where if you were afflicted with both paralysis and gravity
+    at the same time while transformed as Ice Pegasus Mega Man, if the paralysis
+    wore off first, your wings would continue flashing yellow until the gravity
+    also wore off.
+ *  Fixed a glitch where the clouds in the background of Wolf Woods's battle
+    would becoming misaligned when fighting his DX version on Normal Mode.
+ *  Fixed the Attack Power for Cygnus Wing's Migratory Birds attack not being
+    scaled correctly for higher levels.
+ *  When highlighting an empty entry in the Best Combo list, the "Total Damage"
+    counter is now hidden instead of displaying 0 damage.
+
 Ver. 1.2.1 - 18 December 2021
  *  Fixed a glitch introduced in Ver. 1.2.0 where after using Fire Leo's Blaze
     Charge ability, your Buster Attack and Rapid stats would be stuck at LV. 0

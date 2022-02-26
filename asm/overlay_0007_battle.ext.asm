@@ -1849,6 +1849,20 @@ battle_printBossNameDX:
 
 
 .align 2
+battle_dxMigratoryBirdsDamage:
+	push	r4,r14
+	mov	r4,0xB0
+	ldr	r4,[r5,r4]
+	bl	battle_isDXBoss_r4obj
+	beq	@@end
+	add	r1,0x2
+@@end:
+	ldsh	r1,[r0,r1]
+	mov	r0,r5
+	pop	r4,r15
+
+
+.align 2
 battle_dxTextureCygnusBird:
 	push	r4,r14
 	mov	r4,0xB0
@@ -5036,10 +5050,12 @@ battle_lmMcCleaverHitFlags:
 	str	r0,[sp,0x4]
 	pop	r15
 
-battle_lmCraggyAttack:
+battle_lmRockyAttack:
 	push	r14
 	mov	r1,0x2		// normal
 	bl	battle_isLegendMode
+	beq	@@end
+	cmp	r4,0x0		// alignment
 	beq	@@end
 	mov	r1,0x4		// breaking
 @@end:

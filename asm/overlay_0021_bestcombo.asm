@@ -39,5 +39,10 @@
 .org 0x21B1A26
 	bl	field_keyboardBestComboClose
 
+.org 0x21B2088	// Hide damage counter for empty spots
+	ldrh	r1,[r0]	// number of cards
+	cmp	r1,0x0
+	beq	0x21B20FC
+	bl	bestCombo_drawTotalDamage
 
 .close

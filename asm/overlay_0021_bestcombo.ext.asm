@@ -1,4 +1,12 @@
 .align 2
+bestCombo_drawTotalDamage:
+	ldr	r1,[r0,0x4]
+	mov	r0,r5
+	mov	r2,r4
+	ldr	r3,[r5,0x40]
+	bx	r14
+
+.align 2
 bestCombo_keepPopUpCursor:
 	push	r14
 

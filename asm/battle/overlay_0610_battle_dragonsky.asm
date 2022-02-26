@@ -61,6 +61,10 @@
 	bl	@dxContactDamage
 
 
+.org 0x21BF014
+	bl	@statusGuard
+
+
 .org 0x21BEE34
 	bl	@init
 .org 0x21BF062
@@ -126,6 +130,14 @@
 .orga readu32(TEMP+"/y9.bin", 610 * 0x20 + 0x8)
 .area 0x29C0-orga()
 @free:
+
+
+.align 2
+@statusGuard:
+	// Remove gravity
+	mov	r0,r4
+	bl	0x217F384
+	pop	r4,r15
 
 
 .align 2

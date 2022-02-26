@@ -113,6 +113,8 @@ TEXT:
     except in Deep Space EM-Road.
  *  When you receive an item from Cipher Mail as Mega Man, the text now prints
     "Mega Man got:" instead of "Geo got:".
+ *  When highlighting an empty entry in the Best Combo list, the "Total Damage"
+    counter is now hidden instead of displaying 0 damage.
 
 
 FIELD:

@@ -283,13 +283,13 @@
 
 .align 2
 @fullMoonOpenLag:
-	// Old: 90
+	// Old: 90 (45 for DX)
 	// New: 30
 	push	r14
 	mov	r1,(90)
 	bl	battle_isDXBoss
 	beq	@@checkLegend
-	mov	r1,(60)
+	mov	r1,(45)
 @@checkLegend:
 	bl	battle_isLegendMode
 	beq	@@end
@@ -299,14 +299,19 @@
 	pop	r15
 .align 2
 @fullMoonOpenSpeed:
-	// Old: 1x
+	// Old: 1x (2x for DX)
 	// New: 3x
 	push	r14
+	mov	r2,0x1
+	bl	battle_isDXBoss
+	beq	@@checkLegend
+	mov	r2,0x2
+@@checkLegend:
 	bl	battle_isLegendMode
 	beq	@@end
 	mov	r2,0x3
-	mul	r0,r2
 @@end:
+	mul	r0,r2
 	add	r0,r1,r0
 	mov	r1,0x57
 	pop	r15

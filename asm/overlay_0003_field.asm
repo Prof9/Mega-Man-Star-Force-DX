@@ -953,8 +953,6 @@
 // Hide Omega-Xis from Mega screen
 .org 0x2188292
 	bl	field_hideOmegaXisFromMegaScreen
-.org 0x21830E0
-	bl	field_hideOmegaXisFromMegaScreen
 .org 0x21857C2
 	bl	field_hideOmegaXisFromMegaScreen
 

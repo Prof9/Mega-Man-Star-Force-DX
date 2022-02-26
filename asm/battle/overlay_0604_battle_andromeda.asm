@@ -53,6 +53,10 @@
 	bl	@dxNebulaBreaker
 
 
+.org 0x21BF068
+	bl	@statusGuard
+
+
 .org 0x21C116C+0x34
 	.dw	andromeda_dxUpdate|1
 .org 0x21C116C+0x54
@@ -101,6 +105,14 @@
 .orga readu32(TEMP+"/y9.bin", 604 * 0x20 + 0x8)
 .area 0x29C0-orga()
 @free:
+
+
+.align 2
+@statusGuard:
+	// Remove gravity
+	mov	r0,r4
+	bl	0x217F384
+	pop	r4,r15
 
 
 .align 2
