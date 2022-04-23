@@ -286,7 +286,8 @@ folder_waitExtraFolderHandler:
 	cmp	r0,0x0
 	bne	@@end
 
-	ldr	r0,[folder_varChangedExtraFolder]
+	add	r0,=folder_varChangedExtraFolder
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@refresh
 
@@ -319,7 +320,8 @@ folder_waitExtraFolderHandler:
 	mov	r0,r4
 	bl	0x21B21A0
 
-	ldr	r0,[folder_varChangedExtraFolder]
+	add	r0,=folder_varChangedExtraFolder
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	bne	@@end
 

@@ -146,7 +146,8 @@ note_runGame:
 	strb	r0,[r7,0x4]	// notes shot
 
 	// Update crowd
-	ldr	r0,[@currentCrowdSize]
+	add	r0,=@currentCrowdSize
+	ldr	r0,[r0]
 	cmp	r0,@CROWD_SIZE
 	bge	@@check1000
 
@@ -174,7 +175,8 @@ note_runGame:
 	// Check 1000
 	mov	r0,(1000 >> 0x2)
 	lsl	r0,r0,0x2
-	ldr	r1,[@score]
+	add	r1,=@score
+	ldr	r1,[r1]
 	cmp	r1,r0
 	blt	@@checkWave
 
@@ -215,7 +217,8 @@ note_runGame:
 	strb	r0,[r7,0xC]	// time between waves
 
 	// Increase note speed every other wave
-	ldr	r0,[@score]
+	add	r0,=@score
+	ldr	r0,[r0]
 	mov	r1,(2 * 10)
 	blx	0x208985C	// mod s32
 	cmp	r0,0x0
@@ -260,7 +263,8 @@ note_drawScore:
 	bl	0x1FF8F40
 
 	// Draw score
-	ldr	r4,[@score]
+	add	r4,=@score
+	ldr	r4,[r4]
 	mov	r5,0x90		// x-coordinate
 @@loop:
 	// Get digit
@@ -338,12 +342,14 @@ note_saveResults:
 	bl	0x202407C	// clear flag range
 
 	// Buffer score
-	ldr	r1,[@score]
+	add	r1,=@score
+	ldr	r1,[r1]
 	mov	r0,0x0		// buffer 0
 	bl	0x2008DF0	// store in text buffer
 
 	// Check got max score
-	ldr	r0,[@score]
+	add	r0,=@score
+	ldr	r0,[r0]
 	ldr	r1,=(1000)
 	cmp	r0,r1
 	bne	@@calcReward
@@ -398,7 +404,8 @@ note_saveResults:
 	bl	0x20070F0	// high score LO
 	add	r4,r4,r0
 
-	ldr	r1,[@score]
+	add	r1,=@score
+	ldr	r1,[r1]
 	cmp	r1,r4
 	ble	@@checkPluralScore
 	mov	r4,r1
@@ -420,7 +427,8 @@ note_saveResults:
 	bl	0x2024018	// set flag
 
 @@checkPluralScore:
-	ldr	r0,[@score]
+	add	r0,=@score
+	ldr	r0,[r0]
 	cmp	r0,0x1
 	beq	@@end
 

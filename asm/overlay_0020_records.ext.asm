@@ -205,7 +205,8 @@ records_drawStars:
 
 	// Animation frame
 	mov	r7,0x0
-	ldr	r0,[records_starsTimer]
+	add	r0,=records_starsTimer
+	ldr	r0,[r0]
 	cmp	r0,0x20
 	blt	@@checkStars
 	cmp	r0,0x26
@@ -215,7 +216,8 @@ records_drawStars:
 	lsl	r7,r7,0x1
 
 @@checkStars:
-	ldr	r0,[records_stars]
+	add	r0,=records_stars
+	ldr	r0,[r0]
 	cmp	r0,0x1
 	blt	@@end
 	bgt	@@twoStars

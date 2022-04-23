@@ -399,7 +399,8 @@ leo_magmaBallCounter:
 	strb	r3,[r4,r2]
 
 	// Only counterable for the first one
-	ldr	r2,[@magmaBallCount]
+	add	r2,=@magmaBallCount
+	ldr	r2,[r2]
 	cmp	r2,0x0
 	bne	@@end
 @@normal:
@@ -414,11 +415,13 @@ leo_magmaBallTarget:
 	beq	@@normal
 
 	// First one goes straight
-	ldr	r0,[@magmaBallCount]
+	add	r0,=@magmaBallCount
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@normal
 
-	ldr	r0,[@magmaBallRow]
+	add	r0,=@magmaBallRow
+	ldr	r0,[r0]
 	b	@@end
 
 //	// Get player object
@@ -452,7 +455,8 @@ leo_magmaBallTriple:
 	bl	battle_isLegendMode
 	beq	@@normal
 
-	ldr	r2,[@magmaBallCount]
+	add	r2,=@magmaBallCount
+	ldr	r2,[r2]
 	cmp	r2,r3
 	bge	@@normal
 
@@ -501,7 +505,8 @@ leo_magmaBallTriple:
 	bl	battle_isLegendMode
 	beq	@@end
 
-	ldr	r2,[@magmaBallCount]
+	add	r2,=@magmaBallCount
+	ldr	r2,[r2]
 	cmp	r2,r3
 	bge	@@end
 
@@ -542,7 +547,8 @@ leo_magmaBallTriple:
 	lsl	r0,r0,0x2
 	mov	r1,0x5
 	sub	r1,r1,r0	// y
-	ldr	r0,[@magmaBallRow]
+	add	r0,=@magmaBallRow
+	ldr	r0,[r0]
 	mov	r2,0x1
 	bl	0x2153894
 

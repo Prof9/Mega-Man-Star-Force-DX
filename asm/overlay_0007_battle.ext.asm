@@ -45,7 +45,8 @@ battle_flameBurnerOverChargedSize1:
 
 	// Move up
 	ldr	r1,[r5,0x70]
-	ldr	r2,[@@flameOffsetY]
+	add	r2,=@@flameOffsetY
+	ldr	r2,[r2]
 	add	r1,r1,r2
 	str	r1,[r5,0x70]
 
@@ -105,7 +106,8 @@ battle_flameBurnerOverChargedSize1:
 	ldrb	r0,[r4,r0]	// alignment
 	bl	0x2153484	// direction
 	mvn	r0,r0
-	ldr	r1,[@@poofOffsetZ]
+	add	r1,=@@poofOffsetZ
+	ldr	r1,[r1]
 	mul	r1,r0
 	ldr	r0,[sp,0x18]
 	add	r0,r0,r1
@@ -2432,7 +2434,8 @@ battle_preserveLastStateOnInterrupt2:
 	lsl	r0,r0,0x18
 	beq	@@end			// skip for 0x0 (none) and 0x100 (Mega Man)
 
-	ldr	r0,[@lastState]		// old state
+	add	r0,=@lastState		// old state
+	ldr	r0,[r0]
 	ldrb	r1,[r4,0x1C]		// new state
 
 	cmp	r0,r1
@@ -6307,7 +6310,8 @@ battle_startCollision:
 battle_reloadOriginalBaseDamage:
 	add	r6,r6,r0
 
-	ldr	r0,[@originalBaseDamage]
+	add	r0,=@originalBaseDamage
+	ldr	r0,[r0]
 	str	r0,[r5,0x30]
 
 	ldr	r1,[r4,0x2C]

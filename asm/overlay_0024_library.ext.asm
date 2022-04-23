@@ -95,7 +95,8 @@ library_drawStarOnCard:
 	beq	@@normal
 
 	// Check if Star Card shown
-	ldr	r2,[@isStarCardShown]
+	add	r2,=@isStarCardShown
+	ldr	r2,[r2]
 	add	r2,0x1
 	b	@@end
 
@@ -128,7 +129,8 @@ library_getStandardDescription:
 	push	r14
 
 	ldrh	r6,[r5]		// card ID
-	ldr	r0,[@isStarCardShown]
+	add	r0,=@isStarCardShown
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@end
 

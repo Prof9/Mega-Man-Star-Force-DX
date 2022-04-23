@@ -234,19 +234,22 @@ cutscene30_start:
 
 	// Copy tiles to buffer
 	ldr	r1,=0x6000800
-	ldr	r2,[@overworldTileBuffer]
+	add	r2,=@overworldTileBuffer
+	ldr	r2,[r2]
 	ldr	r3,=0x2000
 	bl	0x202E010
 
 	ldr	r1,=0x6004000
-	ldr	r2,[@overworldTileBuffer]
+	add	r2,=@overworldTileBuffer
+	ldr	r2,[r2]
 	ldr	r3,=0x2000
 	add	r2,r2,r3
 	ldr	r3,=0x1FE0
 	bl	0x202E010
 
 	ldr	r1,=0x6038800
-	ldr	r2,[@overworldTileBuffer]
+	add	r2,=@overworldTileBuffer
+	ldr	r2,[r2]
 	ldr	r3,=(0x2000 + 0x1FE0)
 	add	r2,r2,r3
 	ldr	r3,=0x14C0
@@ -268,19 +271,22 @@ cutscene30_start:
 	stmia	[r1]!,r2
 
 	// Copy tiles back to VRAM
-	ldr	r1,[@overworldTileBuffer]
+	add	r1,=@overworldTileBuffer
+	ldr	r1,[r1]
 	ldr	r2,=0x6000800
 	ldr	r3,=0x2000
 	bl	0x202E010
 
-	ldr	r1,[@overworldTileBuffer]
+	add	r1,=@overworldTileBuffer
+	ldr	r1,[r1]
 	ldr	r2,=0x2000
 	add	r1,r1,r2
 	ldr	r2,=0x6004000
 	ldr	r3,=0x1FE0
 	bl	0x202E010
 
-	ldr	r1,[@overworldTileBuffer]
+	add	r1,=@overworldTileBuffer
+	ldr	r1,[r1]
 	ldr	r2,=(0x2000 + 0x1FE0)
 	add	r1,r1,r2
 	ldr	r2,=0x6038800
@@ -291,7 +297,8 @@ cutscene30_start:
 	ldr	r0,=0x211CCFC
 	ldr	r0,[r0]
 	mov	r1,0x1
-	ldr	r2,[@overworldTileBuffer]
+	add	r2,=@overworldTileBuffer
+	ldr	r2,[r2]
 	mov	r3,0x0
 	str	r3,[r2]
 	bl	0x2015620

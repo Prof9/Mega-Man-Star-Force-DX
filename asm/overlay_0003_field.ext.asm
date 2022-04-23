@@ -468,7 +468,8 @@ field_emailSortMenuBackgroundCursor:
 	beq	@@end
 
 	// Inactive cursor while in sort menu
-	ldr	r0,[@emailSortMenuState]
+	add	r0,=@emailSortMenuState
+	ldr	r0,[r0]
 	cmp	r0,0x1
 @@end:
 	bx	r14
@@ -477,7 +478,8 @@ field_emailSortMenuBackgroundCursor:
 field_emailSortMenuInit:
 	push	r0,r14
 
-	ldr	r0,[@emailSortMenuButtonSprite]
+	add	r0,=@emailSortMenuButtonSprite
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	bne	@@end
 
@@ -495,7 +497,8 @@ field_emailSortMenuAllocSprite:
 	sub	sp,0xC
 	mov	r4,r0
 
-	ldr	r0,[@emailSortMenuButtonSprite]
+	add	r0,=@emailSortMenuButtonSprite
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	bne	@@end
 
@@ -569,7 +572,8 @@ field_emailSortMenuClose:
 	ldr	r0,=0x211CCFC
 	ldr	r0,[r0]
 	mov	r1,0x1
-	ldr	r2,[@emailSortMenuButtonSprite]
+	add	r2,=@emailSortMenuButtonSprite
+	ldr	r2,[r2]
 	cmp	r2,0x0
 	beq	@@end
 	bl	0x2015620	// free from heap
@@ -593,7 +597,8 @@ field_emailSortMenuCompose:
 	ldr	r0,=0x211CCFC
 	ldr	r0,[r0]
 	mov	r1,0x1
-	ldr	r2,[@emailSortMenuButtonSprite]
+	add	r2,=@emailSortMenuButtonSprite
+	ldr	r2,[r2]
 	cmp	r2,0x0
 	beq	@@end
 	bl	0x2015620	// free from heap
@@ -609,7 +614,8 @@ field_emailSortMenuDrawSprites:
 	add	sp,0x18
 
 	// Set position
-	ldr	r0,[@emailSortMenuButtonSprite]
+	add	r0,=@emailSortMenuButtonSprite
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@end
 	ldr	r1,=0x6AE
@@ -620,13 +626,17 @@ field_emailSortMenuDrawSprites:
 	bl	0x2020780	// set position
 
 	// Update sprites
-	ldr	r0,[@emailSortMenuButtonSprite]
+	add	r0,=@emailSortMenuButtonSprite
+	ldr	r0,[r0]
 	bl	0x20205F8	// advance animation
-	ldr	r0,[@emailSortMenuButtonSprite]
+	add	r0,=@emailSortMenuButtonSprite
+	ldr	r0,[r0]
 	bl	0x2020654
-	ldr	r0,[@emailSortMenuButtonSprite]
+	add	r0,=@emailSortMenuButtonSprite
+	ldr	r0,[r0]
 	bl	0x1FF930C
-	ldr	r0,[@emailSortMenuButtonSprite]
+	add	r0,=@emailSortMenuButtonSprite
+	ldr	r0,[r0]
 	bl	0x1FF978C
 
 @@end:
@@ -639,7 +649,8 @@ field_emailSortMenuHandler:
 	ldrh	r2,[r4,r2]	// button down
 	push	r0-r2,r14
 
-	ldr	r1,[@emailSortMenuState]
+	add	r1,=@emailSortMenuState
+	ldr	r1,[r1]
 	cmp	r1,0x0
 	bne	@@state1
 
@@ -670,7 +681,8 @@ field_emailSortMenuHandler:
 	lsr	r1,r2,0x1	// test 0x1
 	bcc	@@checkDpad
 
-	ldr	r0,[@emailSortMenuCursorPosition]
+	add	r0,=@emailSortMenuCursorPosition
+	ldr	r0,[r0]
 	cmp	r0,0x4
 	beq	@@doUnload
 
@@ -763,25 +775,32 @@ field_emailSortMenuHandler:
 	bl	0x2025574	// play SFX
 
 @@sprites:
-	ldr	r0,[@emailSortMenuCursorSprite]
+	add	r0,=@emailSortMenuCursorSprite
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@exit
 
-//	ldr	r0,[@emailSortMenuCursorSprite]
+//	add	r0,=@emailSortMenuCursorSprite
+//	ldr	r0,[r0]
 	mov	r1,0x83
-	ldr	r2,[@emailSortMenuCursorPosition]
+	add	r2,=@emailSortMenuCursorPosition
+	ldr	r2,[r2]
 	lsl	r2,r2,0x4
 	add	r2,(44)
 	bl	0x2020780	// set position
 
 	// Update sprites
-	ldr	r0,[@emailSortMenuCursorSprite]
+	add	r0,=@emailSortMenuCursorSprite
+	ldr	r0,[r0]
 	bl	0x20205F8	// advance animation
-	ldr	r0,[@emailSortMenuCursorSprite]
+	add	r0,=@emailSortMenuCursorSprite
+	ldr	r0,[r0]
 	bl	0x2020654
-	ldr	r0,[@emailSortMenuCursorSprite]
+	add	r0,=@emailSortMenuCursorSprite
+	ldr	r0,[r0]
 	bl	0x1FF930C
-	ldr	r0,[@emailSortMenuCursorSprite]
+	add	r0,=@emailSortMenuCursorSprite
+	ldr	r0,[r0]
 	bl	0x1FF978C
 
 	b	@@exit
@@ -904,7 +923,8 @@ field_emailSortMenuHandler:
 	mov	r0,r7
 	mov	r1,0x1		// screen
 	mov	r2,0x5		// color mode = 4BPP
-	ldr	r3,[@emailSortMenuCursorSpriteFile]
+	add	r3,=@emailSortMenuCursorSpriteFile
+	ldr	r3,[r3]
 	bl	0x202042C	// init sprite
 
 	// Set sprite animation
@@ -948,14 +968,16 @@ field_emailSortMenuHandler:
 	ldr	r0,=0x211CCFC
 	ldr	r0,[r0]
 	mov	r1,0x1
-	ldr	r2,[@emailSortMenuCursorSprite]
+	add	r2,=@emailSortMenuCursorSprite
+	ldr	r2,[r2]
 	bl	0x2015620	// free from heap
 
 	// Unload sprite file
 	ldr	r0,=0x211CCFC
 	ldr	r0,[r0]
 	mov	r1,0x1
-	ldr	r2,[@emailSortMenuCursorSpriteFile]
+	add	r2,=@emailSortMenuCursorSpriteFile
+	ldr	r2,[r2]
 	bl	0x2015620	// free from heap
 
 	// Clear pointers
@@ -2717,7 +2739,8 @@ field_keyboardTutorialClose:
 	push	r14
 
 	// Draw sprites
-	ldr	r0,[@keyboardTutorialBuffers]
+	add	r0,=@keyboardTutorialBuffers
+	ldr	r0,[r0]
 	bl	0x217D074
 
 	// Unset palette hack
@@ -2753,7 +2776,8 @@ field_keyboardTutorialClose:
 	bl	0x2011BA4
 	add	sp,0x4
 
-	ldr	r0,[@keyboardTutorialBuffers]
+	add	r0,=@keyboardTutorialBuffers
+	ldr	r0,[r0]
 	pop	r15
 
 .align 2
@@ -2764,7 +2788,8 @@ field_keyboardTutorialState20:
 	strb	r0,[r4,r1]
 
 	// Draw sprites
-	ldr	r0,[@keyboardTutorialBuffers]
+	add	r0,=@keyboardTutorialBuffers
+	ldr	r0,[r0]
 	bl	0x217D074
 
 	pop	r15
@@ -2776,7 +2801,8 @@ field_keyboardRunTutorial:
 	push	r0
 
 	// Draw sprites
-	ldr	r0,[@keyboardTutorialBuffers]
+	add	r0,=@keyboardTutorialBuffers
+	ldr	r0,[r0]
 	bl	0x217D074
 
 	pop	r0,r15
@@ -2926,21 +2952,29 @@ field_keyboardRunFolder:
 	push	r0
 
 	// Update top screen graphics
-//	ldr	r0,[@keyboardFolderBuffers]
+//	add	r0,=@keyboardFolderBuffers
+//	ldr	r0,[r0]
 //	bl	0x21B1F40	// Edit/Equip/Chg Name arrow
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B1EEC	// folder selection
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B1A08	// card icons
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B2074	// EQUIP label
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B20B4	// controls
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B20E4	// menu header
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B1F68	// Edit/Equip/Chg Name text
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B2114	// scroll bar
 
 	pop	r0,r15
@@ -2983,7 +3017,8 @@ field_keyboardConnectFadeOutDisable:
 
 .align 2
 field_keyboardStartConnect:
-	ldr	r0,[@keyboardFadeOutEnable]
+	add	r0,=@keyboardFadeOutEnable
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@normal
 
@@ -3160,31 +3195,42 @@ field_keyboardClosedReloadFolder2:
 	mov	r4,r0
 
 	// Unload sprites (to be reloaded)
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@end
 
 	// Update top screen graphics
-//	ldr	r0,[@keyboardFolderBuffers]
+//	add	r0,=@keyboardFolderBuffers
+//	ldr	r0,[r0]
 //	bl	0x21B1F40	// Edit/Equip/Chg Name arrow
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B1EEC	// folder selection
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B1A08	// card icons
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B2074	// EQUIP label
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B20B4	// controls
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B20E4	// menu header
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B1F68	// Edit/Equip/Chg Name text
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B2114	// scroll bar
 
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B0E5C
-	ldr	r0,[@keyboardFolderBuffers]
+	add	r0,=@keyboardFolderBuffers
+	ldr	r0,[r0]
 	bl	0x21B0DD8
 
 	mov	r0,0x0
@@ -3295,6 +3341,20 @@ field_keyboardBestComboClose:
 
 	pop	r15
 
+	.pool
+
+.align 4
+@keyboardFadeOutEnable:
+	.dw	0x0
+@keyboardFolderScroll:
+	.dw	0x0
+@keyboardFolderBuffers:
+	.dw	0x0
+@keyboardTutorialBuffers:
+	.dw	0x0
+@keyboardBestComboBuffers:
+	.dw	0x0
+
 
 .align 2
 field_keyboardClosedReloadOnAir:
@@ -3353,18 +3413,6 @@ field_keyboardClosedReloadTranser:
 	bl	0x2011BA4
 
 	pop	r0,r15
-
-.align 4
-@keyboardFadeOutEnable:
-	.dw	0x0
-@keyboardFolderScroll:
-	.dw	0x0
-@keyboardFolderBuffers:
-	.dw	0x0
-@keyboardTutorialBuffers:
-	.dw	0x0
-@keyboardBestComboBuffers:
-	.dw	0x0
 
 	.pool
 

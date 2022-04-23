@@ -1604,8 +1604,11 @@
 .endarea
 .org 0x2187726
 .area 0x8,0x00
+	mov	r0,r7		// needed for division later
 	b	0x218772E
 .endarea
+.org 0x218772E	// Fix printing for level = 10
+	cmp	r7,(9)	// from 10
 
 .org 0x2187796	// Print Wave Scanner Mega bonus as bonus level
 .area 0x5C,0x00
@@ -1614,8 +1617,11 @@
 .endarea
 .org 0x2187808
 .area 0x8,0x00
+	mov	r0,r6		// needed for division later
 	b	0x2187810
 .endarea
+.org 0x2187810	// Fix printing for level = 10
+	cmp	r6,(9)	// from 10
 
 .org 0x21878B4	// Print Wave Scanner Giga bonus as bonus level
 .area 0x5C,0x00
@@ -1624,8 +1630,11 @@
 .endarea
 .org 0x2187926
 .area 0x8,0x00
+	mov	r0,r4		// needed for division later
 	b	0x218792E
 .endarea
+.org 0x218792E	// Fix printing for level = 10
+	cmp	r4,(9)	// from 10
 
 
 // Proper widths on names in Brother screen

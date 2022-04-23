@@ -215,7 +215,8 @@ crown_targetMenacingBowgun:
 	push	r14
 	mov	r0,0x2
 	ldsb	r4,[r1,r0]
-	ldr	r0,[crown_isSecondAttack]
+	add	r0,=crown_isSecondAttack
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@end
 	ldr	r0,=0x211F6A8
@@ -235,7 +236,8 @@ crown_targetAssaultLance:
 	push	r14
 	mov	r0,0x2
 	ldsb	r2,[r1,r0]
-	ldr	r0,[crown_isSecondAttack]
+	add	r0,=crown_isSecondAttack
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@end
 	push	r2
@@ -257,7 +259,8 @@ crown_targetWavyHammer:
 	push	r14
 	mov	r0,0x2
 	ldsb	r0,[r1,r0]
-	ldr	r1,[crown_isSecondAttack]
+	add	r1,=crown_isSecondAttack
+	ldr	r1,[r1]
 	cmp	r1,0x0
 	beq	@@end
 	push	r0

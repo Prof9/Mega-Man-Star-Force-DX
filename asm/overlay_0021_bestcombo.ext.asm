@@ -32,7 +32,8 @@ bestCombo_reloadPopUpCursor:
 	// r0 = r4
 	bl	0x21B2720
 
-	ldr	r0,[@selectedCombo]
+	add	r0,=@selectedCombo
+	ldr	r0,[r0]
 	strh	r0,[r4,0x16]
 
 	pop	r15

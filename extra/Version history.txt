@@ -1,3 +1,11 @@
+Ver. 1.2.3 - 23 April 2022
+ *  Improved overall stability on Wii U Virtual Console, melonDS and other
+    emulators with JIT emulation features enabled.
+ *  Fixed sound effects in the bonus boss fight being cut off if the battle
+    goes on for a while.
+ *  Fixed a minor display error on the Mega screen when you have 6 Real Brothers
+    of the same Satellite plus maxed out Power Up Data active.
+
 Ver. 1.2.2 - 26 February 2022
  *  Fixed a freeze that occurs when you try to send an e-mail during the Gemini
     Spark chapter while Mega is not in the Transer.

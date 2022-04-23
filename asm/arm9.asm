@@ -5,7 +5,7 @@
 .open TEMP+"/arm9.dec",0x02000000
 
 
-.definelabel	VERSION, (1 << 0x10) | (2 << 0x8) | (2 << 0x0)
+.definelabel	VERSION, (1 << 0x10) | (2 << 0x8) | (3 << 0x0)
 
 .include "asm/arm9_battlecard.asm"
 .if OPT_RESUME_MUSIC
@@ -3340,7 +3340,8 @@ common_openGbaAccess:
 	str	r0,[r1]
 
 	// Try lock cartridge
-//	ldr	r0,[@common_gbaLockId]
+//	add	r0,=@common_gbaLockId
+//	ldr	r0,[r0]
 	blx	0x208D120	// try lock cartridge
 
 /*	// Get current RAM cycle
@@ -3378,16 +3379,19 @@ common_closeGbaAccess:
 	ldrh	r1,[r0]
 	lsr	r1,r1,0x2
 	lsl	r1,r1,0x2
-	ldr	r2,[@common_gbaRamCycle]
+	add	r2,=@common_gbaRamCycle
+	ldr	r2,[r2]
 	add	r1,r1,r2
 	strh	r1,[r0]*/
 
 	// Unlock cartridge
-	ldr	r0,[@common_gbaLockId]
+	add	r0,=@common_gbaLockId
+	ldr	r0,[r0]
 	blx	0x208D0F4
 
 	// Release lock ID
-	ldr	r0,[@common_gbaLockId]
+	add	r0,=@common_gbaLockId
+	ldr	r0,[r0]
 	blx	0x208D238
 
 @@end:
@@ -3487,8 +3491,9 @@ common_checkAllCardsCheat:
 	str	r1,[r2,0x28]
 
 	// Set period
-	ldr	r0,[@watchdog_period]
-	ldr	r1,[@watchdog_period+0x4]
+	add	r1,=@watchdog_period
+	ldr	r0,[r1]
+	ldr	r1,[r1,0x4]
 	str	r0,[r2,0x1C]
 	str	r1,[r2,0x20]
 
@@ -3600,7 +3605,8 @@ common_watchdog:
 	push	r4,r14
 
 	// Check watchdog fired
-	ldr	r0,[@watchdog_fired]
+	add	r0,=@watchdog_fired
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	bne	@@end
 
@@ -4419,7 +4425,8 @@ common_softResetToTitleScreen:
 	bne	@@end
 
 	// Check soft reset already started
-	ldr	r1,[@isSoftResetStarted]
+	add	r1,=@isSoftResetStarted
+	ldr	r1,[r1]
 	cmp	r1,0x0
 	bne	@@end
 
@@ -4534,7 +4541,8 @@ common_saveEnterMenu:
 
 .align 2
 common_saveLoadDisablePlayTimer:
-	ldr	r0,[@isSaveLoadingAsync]
+	add	r0,=@isSaveLoadingAsync
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	bne	@@end
 
@@ -4662,7 +4670,8 @@ common_saveRead:
 	push	r4,r14
 
 	// Adjust r0 for save slot
-	ldr	r4,[common_currentSaveFile]
+	add	r4,=common_currentSaveFile
+	ldr	r4,[r4]
 	lsl	r4,r4,0x11
 	add	r0,r0,r4
 
@@ -4673,7 +4682,8 @@ common_saveWrite:
 	push	r4,r14
 
 	// Adjust r1 for save slot
-	ldr	r4,[common_currentSaveFile]
+	add	r4,=common_currentSaveFile
+	ldr	r4,[r4]
 	lsl	r4,r4,0x11
 	add	r1,r1,r4
 
@@ -5897,7 +5907,8 @@ common_textCallRestoreStarForceCardEquipped:
 	ldr	r0,=0x2120588
 	ldr	r0,[r0]
 	ldr	r0,[r0,0x10]
-	ldr	r1,[@backupStarForceEquipState]
+	add	r1,=@backupStarForceEquipState
+	ldr	r1,[r1]
 	strb	r1,[r0,0x1A]
 
 	bx	r14
@@ -6330,7 +6341,8 @@ common_textCallHideBattleCard:
 	ldr	r0,=0x211CCFC
 	ldr	r0,[r0]
 	mov	r1,0x1
-	ldr	r2,[@showBattleCardBuffer]
+	add	r2,=@showBattleCardBuffer
+	ldr	r2,[r2]
 	bl	0x2015620	// free on heap
 
 @@clearVars:
@@ -7473,8 +7485,10 @@ common_textCallSaveCompress:
 	bne	@@setBuffers
 
 @@customBuffers:
-	ldr	r0,[var_textSaveCompressBuffer]
-	ldr	r3,[var_textSaveUncompressBuffer]
+	add	r0,=var_textSaveCompressBuffer
+	ldr	r0,[r0]
+	add	r3,=var_textSaveUncompressBuffer
+	ldr	r3,[r3]
 
 	cmp	r4,0x0
 	beq	@@setBuffers
@@ -7526,7 +7540,8 @@ common_textCallAbortSaveCompress:
 	ldr	r0,=0x211CCFC
 	ldr	r0,[r0]
 	mov	r1,0x1
-	ldr	r2,[var_textSaveCompressWorkBuffer]
+	add	r2,=var_textSaveCompressWorkBuffer
+	ldr	r2,[r2]
 	cmp	r2,0x0
 	beq	@@end
 	bl	0x2015620	// free on heap
@@ -7627,7 +7642,8 @@ common_textCallAllocSaveBufferMenu:
 	push	r14
 
 	// Check if already allocated
-	ldr	r0,[var_textSaveUncompressBuffer]
+	add	r0,=var_textSaveUncompressBuffer
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	bne	@@end
 
@@ -7675,7 +7691,8 @@ common_textCallFreeSaveBufferMenu:
 	mov	r1,0x1
 //	mov	r2,0xFC
 //	ldr	r2,[r4,r2]
-	ldr	r2,[var_textSaveCompressBuffer]
+	add	r2,=var_textSaveCompressBuffer
+	ldr	r2,[r2]
 	bl	0x2015620	// free on heap
 
 	// Free uncompressed buffer
@@ -7684,7 +7701,8 @@ common_textCallFreeSaveBufferMenu:
 	mov	r1,0x1
 //	mov	r2,0xF8
 //	ldr	r2,[r4,r2]
-	ldr	r2,[var_textSaveUncompressBuffer]
+	add	r2,=var_textSaveUncompressBuffer
+	ldr	r2,[r2]
 	bl	0x2015620	// free on heap
 
 	mov	r0,0x0
@@ -7872,9 +7890,11 @@ common_textCallCommonText:
 .align 2
 common_textCallReturn:
 	// Reload previous text pointer
-	ldr	r0,[var_textReturnMsg]
+	add	r0,=var_textReturnMsg
+	ldr	r0,[r0]
 	str	r0,[r4,0xC]
-	ldr	r0,[var_textReturnPtr]
+	add	r0,=var_textReturnPtr
+	ldr	r0,[r0]
 	str	r0,[r4,0x10]
 
 	// "Advance" message pointer
@@ -8224,7 +8244,8 @@ common_changeExtraFolder:
 .align 2
 common_moveCardToTopOfCardBox:
 	push	r14
-	ldr	r2,[@preventCardBoxReordering]
+	add	r2,=@preventCardBoxReordering
+	ldr	r2,[r2]
 	cmp	r2,0x0
 	bne	@@end
 
@@ -11282,7 +11303,8 @@ common_propeller:
 	str	r0,[r1]
 
 @@doDirection:
-	ldr	r0,[@propeller_button]
+	add	r0,=@propeller_button
+	ldr	r0,[r0]
 	lsr	r0,r0,0x4
 	ldr	r1,=@propeller_directions
 	ldrb	r1,[r1,r0]
@@ -11316,7 +11338,8 @@ common_waveBeamSkipObjectInit:
 	pop	r0-r1
 	bne	@@end
 
-	ldr	r2,[common_skipObjectInitForOneFrame]
+	add	r2,=common_skipObjectInitForOneFrame
+	ldr	r2,[r2]
 	cmp	r2,0x0
 	bne	@@end
 

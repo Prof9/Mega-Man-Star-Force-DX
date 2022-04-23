@@ -248,7 +248,8 @@
 	beq	@@end
 	cmp	r0,0x0
 	beq	@@end
-	ldr	r1,[@leafTornadoCurrentHP]
+	add	r1,=@leafTornadoCurrentHP
+	ldr	r1,[r1]
 	mov	r2,0x4C
 	strh	r1,[r0,r2]
 	mov	r2,0x4E

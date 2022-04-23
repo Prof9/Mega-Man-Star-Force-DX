@@ -48,7 +48,8 @@ postcredits_postLoadSave:
 	push	r1,r14	// uses r0,r4-r5
 
 	// Restore play time
-	ldr	r1,[postcredits_vars]
+	add	r1,=postcredits_vars
+	ldr	r1,[r1]
 	str	r1,[r0,0x14]
 	str	r1,[r5,0x8]
 
@@ -57,7 +58,8 @@ postcredits_postLoadSave:
 	bl	0x2024018	// set flag
 
 	// Restore Andromeda counter flag
-	ldr	r0,[postcredits_vars+0x4]
+	add	r0,=postcredits_vars+0x4
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@andromedaDX
 
@@ -66,7 +68,8 @@ postcredits_postLoadSave:
 
 @@andromedaDX:
 	// Restore Andromeda DX flag
-	ldr	r0,[postcredits_vars+0x8]
+	add	r0,=postcredits_vars+0x8
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@sendDXCompleteMail
 
@@ -139,7 +142,8 @@ postcredits_postLoadSave:
 
 @@legendModeOff:
 	// Restore Legend Mode turned off flag
-	ldr	r0,[postcredits_vars+0xC]
+	add	r0,=postcredits_vars+0xC
+	ldr	r0,[r0]
 	cmp	r0,0x0
 	beq	@@end
 

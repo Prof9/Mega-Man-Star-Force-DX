@@ -369,7 +369,8 @@
 @iceEdgeChoosePanel:
 	bl	battle_isLegendMode
 	beq	@@normal
-	ldr	r1,[@iceEdgeCount]
+	add	r1,=@iceEdgeCount
+	ldr	r1,[r1]
 	cmp	r1,0x0
 	beq	@@normal
 
@@ -383,7 +384,8 @@
 @iceEdgeMove:
 	bl	battle_isLegendMode
 	beq	@@normal
-	ldr	r1,[@iceEdgeCount]
+	add	r1,=@iceEdgeCount
+	ldr	r1,[r1]
 	cmp	r1,0x0
 	beq	@@normal
 

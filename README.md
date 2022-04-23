@@ -35,12 +35,12 @@ Place the required third-party tools in the `_tools` folder. See
 `_tools\tools_go_here.txt` for details.
 
  *  **[armips](https://github.com/Kingcom/armips/)** by Kingcom. 
-    [v0.11.0-g4616b00](https://github.com/Kingcom/armips/tree/4616b009959a8675eb2c9af66470b30c4083dffb)
+    [v0.11.0-140-g87d44e4](https://github.com/Kingcom/armips/tree/87d44e4db7cbdfc99b8808f2c345ffcc3bfd1ecd)
     is used, but any newer version should also work. (v0.11.0 stable does NOT
     work.)
  *  **[Nintendo DS/GBA Compressors](https://www.romhacking.net/utilities/826/)**
     by CUE. Version 1.4 is used, but any newer version should also work.
- *  **ndstool** from devkitPro. Version 2.0.1 is used, but any newer version
+ *  **ndstool** from devkitPro. Version 2.1.2 is used, but any newer version
     should also work.
 
 Compatible versions of [PixelPet](https://github.com/Prof9/PixelPet), [TextPet](https://github.com/Prof9/TextPet)
